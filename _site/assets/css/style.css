@@ -29,6 +29,21 @@ h2 {
 }
 
 /* line 24, ../../_sass/style.sass */
+.footnote a {
+  color: #111111;
+  text-decoration: none;
+  font-size: 80%;
+  font-weight: 400;
+}
+
+/* line 29, ../../_sass/style.sass */
+p.footnote {
+  font-size: 80%;
+  line-height: 1.5;
+  padding: 0 10px;
+}
+
+/* line 34, ../../_sass/style.sass */
 .wrap {
   max-width: 100%;
   box-sizing: border-box;
@@ -38,19 +53,19 @@ h2 {
   position: relative;
 }
 
-/* line 32, ../../_sass/style.sass */
+/* line 42, ../../_sass/style.sass */
 blockquote {
   margin: 5px 0;
   padding: 15px;
   background: #eeeeee;
   border-left: 2px solid #cccccc;
 }
-/* line 37, ../../_sass/style.sass */
+/* line 47, ../../_sass/style.sass */
 blockquote p {
   margin: 0 0 5px;
   padding: 0;
 }
-/* line 40, ../../_sass/style.sass */
+/* line 50, ../../_sass/style.sass */
 blockquote p:last-child {
   margin-bottom: 0;
 }
