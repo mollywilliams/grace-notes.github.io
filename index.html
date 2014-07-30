@@ -1,10 +1,19 @@
+---
+---
 <html>
   <head>
     <title>Grace Notes</title>
-
   </head>
   <body>
     <h1>Grace Notes</h1>
-    <p>This is a test</p>
+    <h2>Book Studies</h2>
+    {% for page in site.pages %}
+      {% for cat in page.categories %}
+        {% if cat == "books" %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </h2>
   </body>
 </html>
