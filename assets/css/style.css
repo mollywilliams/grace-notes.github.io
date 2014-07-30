@@ -1,0 +1,56 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic);
+/* line 3, ../../_sass/style.sass */
+body {
+  font-size: 18px;
+  font-family: Lato, sans-serif;
+  font-weight: 300;
+  line-height: 1.7;
+  color: #35323e;
+}
+
+/* line 10, ../../_sass/style.sass */
+h1 {
+  font-weight: 200;
+  font-size: 350%;
+  margin-bottom: 10px;
+}
+
+/* line 15, ../../_sass/style.sass */
+h2, h3, h4 {
+  font-weight: 500;
+}
+
+/* line 18, ../../_sass/style.sass */
+h2 {
+  border: 2px solid #aaaaaa;
+  border-width: 1px 0;
+  padding: 5px 0;
+  margin-top: 1em;
+}
+
+/* line 24, ../../_sass/style.sass */
+.wrap {
+  max-width: 100%;
+  box-sizing: border-box;
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px 30px;
+  position: relative;
+}
+
+/* line 32, ../../_sass/style.sass */
+blockquote {
+  margin: 5px 0;
+  padding: 15px;
+  background: #eeeeee;
+  border-left: 2px solid #cccccc;
+}
+/* line 37, ../../_sass/style.sass */
+blockquote p {
+  margin: 0 0 5px;
+  padding: 0;
+}
+/* line 40, ../../_sass/style.sass */
+blockquote p:last-child {
+  margin-bottom: 0;
+}

@@ -1,11 +1,7 @@
 ---
+layout: default
 ---
-<html>
-  <head>
-    <title>Grace Notes</title>
-  </head>
-  <body>
-    <h1>Grace Notes</h1>
+
     <h2>Book Studies</h2>
     {% for page in site.pages %}
       {% for cat in page.categories %}
@@ -14,6 +10,3 @@
         {% endif %}
       {% endfor %}
     {% endfor %}
-    </h2>
-  </body>
-</html>
