@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic);
-/* line 3, ../../_sass/style.sass */
+/* line 4, ../../_sass/style.sass */
 body {
   font-size: 18px;
   font-family: Lato, sans-serif;
@@ -8,19 +8,19 @@ body {
   color: #35323e;
 }
 
-/* line 10, ../../_sass/style.sass */
+/* line 11, ../../_sass/style.sass */
 h1 {
   font-weight: 200;
   font-size: 350%;
   margin-bottom: 10px;
 }
 
-/* line 15, ../../_sass/style.sass */
+/* line 16, ../../_sass/style.sass */
 h2, h3, h4 {
   font-weight: 500;
 }
 
-/* line 18, ../../_sass/style.sass */
+/* line 19, ../../_sass/style.sass */
 h2 {
   border: 2px solid #aaaaaa;
   border-width: 1px 0;
@@ -28,7 +28,7 @@ h2 {
   margin-top: 1em;
 }
 
-/* line 24, ../../_sass/style.sass */
+/* line 25, ../../_sass/style.sass */
 .footnote a {
   color: #111111;
   text-decoration: none;
@@ -36,14 +36,14 @@ h2 {
   font-weight: 400;
 }
 
-/* line 29, ../../_sass/style.sass */
+/* line 31, ../../_sass/style.sass */
 p.footnote {
   font-size: 80%;
   line-height: 1.5;
   padding: 0 10px;
 }
 
-/* line 34, ../../_sass/style.sass */
+/* line 36, ../../_sass/style.sass */
 .wrap {
   max-width: 100%;
   box-sizing: border-box;
@@ -53,19 +53,42 @@ p.footnote {
   position: relative;
 }
 
-/* line 42, ../../_sass/style.sass */
+/* line 44, ../../_sass/style.sass */
 blockquote {
+  position: relative;
   margin: 5px 0;
-  padding: 15px;
+  padding: 15px 30px;
   background: #eeeeee;
-  border-left: 2px solid #cccccc;
+  background: -webkit-gradient(linear, 0% 0%, 100% 100%, color-stop(0%, #ececec), color-stop(100%, #f7f7f7));
+  background: -webkit-linear-gradient(top left, #ececec, #f7f7f7);
+  background: -moz-linear-gradient(top left, #ececec, #f7f7f7);
+  background: -o-linear-gradient(top left, #ececec, #f7f7f7);
+  background: linear-gradient(top left, #ececec, #f7f7f7);
 }
-/* line 47, ../../_sass/style.sass */
+/* line 50, ../../_sass/style.sass */
+blockquote:before, blockquote:after {
+  position: absolute;
+  display: block;
+  content: "";
+  top: 50%;
+  left: 0;
+  margin-top: -15px;
+  border: 15px solid transparent;
+  border-left-color: white;
+}
+/* line 59, ../../_sass/style.sass */
+blockquote:after {
+  border-left-color: transparent;
+  border-right-color: white;
+  left: auto;
+  right: 0;
+}
+/* line 65, ../../_sass/style.sass */
 blockquote p {
   margin: 0 0 5px;
   padding: 0;
 }
-/* line 50, ../../_sass/style.sass */
+/* line 68, ../../_sass/style.sass */
 blockquote p:last-child {
   margin-bottom: 0;
 }

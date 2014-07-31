@@ -1,4 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic)
+@import "compass/css3/images"
 
 body
   font-size: 18px
@@ -26,6 +27,7 @@ h2
   text-decoration: none
   font-size: 80%
   font-weight: 400
+
 p.footnote
   font-size: 80%
   line-height: 1.5
@@ -40,10 +42,26 @@ p.footnote
   position: relative
 
 blockquote
+  position: relative
   margin: 5px 0
-  padding: 15px
+  padding: 15px 30px
   background: #eee
-  border-left: 2px solid #ccc
+  @include background(linear-gradient(top left, #ececec, #f7f7f7))
+  &:before, &:after
+    position: absolute
+    display: block
+    content: ''
+    top: 50%
+    left: 0
+    margin-top: -15px
+    border: 15px solid transparent
+    border-left-color: #fff
+  &:after
+    border-left-color: transparent
+    border-right-color: #fff
+    left: auto
+    right: 0
+
   p
     margin: 0 0 5px
     padding: 0
