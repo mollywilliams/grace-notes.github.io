@@ -13,22 +13,30 @@ h1 {
   font-weight: 200;
   font-size: 350%;
   margin: 1em 0;
+  line-height: 1.2;
+}
+/* line 16, ../../_sass/style.sass */
+h1 small {
+  font-size: 40%;
+  line-height: 1;
+  color: #888888;
+  display: block;
 }
 
-/* line 16, ../../_sass/style.sass */
+/* line 22, ../../_sass/style.sass */
 h3, h4 {
   font-weight: 500;
   margin: 2em 0 1em;
 }
 
-/* line 20, ../../_sass/style.sass */
+/* line 26, ../../_sass/style.sass */
 h2 {
   border-bottom: 1px solid #cccccc;
   margin: 2.5em 0 1em;
   font-weight: 900;
 }
 
-/* line 25, ../../_sass/style.sass */
+/* line 31, ../../_sass/style.sass */
 .footnote a {
   color: #111111;
   text-decoration: none;
@@ -36,14 +44,14 @@ h2 {
   font-weight: 400;
 }
 
-/* line 31, ../../_sass/style.sass */
+/* line 37, ../../_sass/style.sass */
 p.footnote {
   font-size: 80%;
   line-height: 1.5;
   padding: 0 10px;
 }
 
-/* line 36, ../../_sass/style.sass */
+/* line 42, ../../_sass/style.sass */
 .wrap {
   max-width: 100%;
   box-sizing: border-box;
@@ -53,7 +61,7 @@ p.footnote {
   position: relative;
 }
 
-/* line 44, ../../_sass/style.sass */
+/* line 50, ../../_sass/style.sass */
 blockquote {
   position: relative;
   margin: 5px 0;
@@ -67,7 +75,7 @@ blockquote {
   background: -o-linear-gradient(top left, #eaeced, #eaedec);
   background: linear-gradient(top left, #eaeced, #eaedec);
 }
-/* line 52, ../../_sass/style.sass */
+/* line 58, ../../_sass/style.sass */
 blockquote:before, blockquote:after {
   position: absolute;
   display: block;
@@ -78,19 +86,19 @@ blockquote:before, blockquote:after {
   border: 8px solid transparent;
   border-left-color: white;
 }
-/* line 61, ../../_sass/style.sass */
+/* line 67, ../../_sass/style.sass */
 blockquote:after {
   border-left-color: transparent;
   border-right-color: white;
   left: auto;
   right: 0;
 }
-/* line 67, ../../_sass/style.sass */
+/* line 73, ../../_sass/style.sass */
 blockquote p {
   margin: 0 0 5px;
   padding: 0;
 }
-/* line 70, ../../_sass/style.sass */
+/* line 76, ../../_sass/style.sass */
 blockquote p:last-child {
   margin-bottom: 0;
 }
