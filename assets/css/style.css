@@ -37,7 +37,7 @@ h2 {
 }
 
 /* line 31, ../../_sass/style.sass */
-a[rel=footnote] {
+a.footnote, a[rel=footnote] {
   color: #111111;
   text-decoration: none;
   font-size: 80%;
