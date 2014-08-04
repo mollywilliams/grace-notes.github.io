@@ -1,1 +1,4 @@
 encoding: 'utf-8'
+gems: [jekyll-sass]
+sass:
+  style: :compressed
