@@ -5,13 +5,12 @@ layout: lesson
 <html>
   <head>
   <title>{{ page.title }}</title>
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <link rel="stylesheet" href="/assets/css/style.css" type="text/css" />
-  <link href="/assets/css/print.css" media="print" rel="stylesheet" type="text/css" />
+  {% include head.html %}
   </head>
   <body>
     <div class="wrap">
       {{ content }}
+      {% include footer.html %}
     </div>
   </body>
 </html>
