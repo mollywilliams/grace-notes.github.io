@@ -11,15 +11,16 @@
         word.data("alternate", $(e.target).text());
         word.text(alt);
       } else {
-        var url = 'http://pdr.bbaw.de/pdrws/g2l?ruleset=en19&method=greekToLatin&token=' + word.text() + '&output=json';
-        $.jsonp({
-          url: url,
-          corsSupport: false,
-          jsonpSupport: false,
+        var url = escape('http://transliterate.com/Home/Transliterate?input=' + word.text());
+        $.ajax({
+          url: 'https://jsonp.nodejitsu.com/?url='+url,
+          dataType: 'json',
+          cache: true,
           success: function(data) {
-            if (data.result) {
+            console.log(data);
+            if (data.sbl) {
               word.data('alternate', word.text());
-              word.text(data.result);
+              word.text(data.sbl);
             } else {
               word.toggleClass('greek');
             }
