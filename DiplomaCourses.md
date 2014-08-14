@@ -1,7 +1,8 @@
 ---
 layout: default
-categories: pages
 title: Diploma Courses
+menu: primary
+weight: 1
 ---
 
 ## Diplomas in Bible Teaching
@@ -15,7 +16,7 @@ Grace Notes offers a broad selection of Bible courses for Pastors, Evangelists, 
 
 There are twelve (12) course Units. A Unit has five or six courses, and compares in quantity and quality with a semester of Bible College or graduate school.
 
-To register, or for information, write to: <a href="mailto:bizopp06@gmail.com" target="_blank">Louis Roth</a>
+To register, or for information, write to: [Louis Roth](mailto:bizopp06@gmail.com){:target="_blank"}
 
 You will receive a certificate for each Unit that you complete. Diplomas are given, as follows:
 

@@ -1,5 +1,10 @@
 ---
 layout: default
+title: Grace Notes Home Page
+menu: primary
+menu_title: Home
+weight: 0
+permalink: /
 ---
 
 > "The Christian who does not understand what God has done in the past,

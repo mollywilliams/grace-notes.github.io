@@ -10,21 +10,13 @@ title: Grace Notes
   </head>
   <body>
     <div class="wrap">
-      <h1>
-				{{ page.title }} <small>Training in Bible Teaching</small>
-				<table>
-					<tr>
-						<th><a href="/">Home</a></th>
-					{% for page in site.pages %}
-						{% for cat in page.categories %}
-						    {% if cat == "pages" %}
-						      <th> | <a href="{{ page.url }}">{{ page.title }}</a></th>
-						    {% endif %}
-						{% endfor %}
-					{% endfor %}
-					</tr>
-				</table>
-			</h1>
+      <h1>{{ page.title }} <small>Training in Bible Teaching</small></h1>
+      <ul id="primary-navigation" class="menu">
+        {% assign menu = site.pages | where: 'menu','primary' | sort: 'weight' %}
+        {% for item in menu %}
+        <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{% if item.menu_title %}{{ item.menu_title }}{% else %}{{ item.title }}{% endif %}</a></li>
+        {% endfor %}
+      </ul>
       {{ content }}
       {% include footer.html %}
     </div>
