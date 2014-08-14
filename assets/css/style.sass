@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6
 h1
   font-weight: 200
   font-size: 350%
-  margin: 1em 0
+  margin: 1em 0 0.3em
   line-height: 1.2
   small
     font-size: 40%
@@ -36,6 +36,41 @@ h2
   border-bottom: 1px solid #ccc
   margin: 2.5em 0 1em
   font-weight: 900
+
+ul.menu
+  padding: 0
+  margin: 0
+  font-family: Lato, sans-serif
+  font-size: 15px
+  margin: 1.5em 0
+  > li
+    list-style-type: none
+    display: inline-block
+    float: left
+    position: relative
+    margin-right: -1px
+    &:before
+      content: ''
+      display: block
+      border-right: 1px solid #999
+      position: absolute
+      top: 20%
+      right: 0
+      bottom: 20%
+    &:last-child:before
+      display: none
+    > a
+      display: block
+      padding: 3px 10px
+      color: #444
+      text-decoration: none
+    &.active > a
+      background: #999
+      color: white
+  &:after
+    content: ''
+    display: block
+    clear: both
 
 .greek
   font-family: Cardo, serif

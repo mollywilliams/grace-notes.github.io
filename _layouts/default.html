@@ -11,6 +11,12 @@ title: Grace Notes
   <body>
     <div class="wrap">
       <h1>{{ page.title }} <small>Training in Bible Teaching</small></h1>
+      <ul id="primary-navigation" class="menu">
+        {% assign menu = site.pages | where: 'menu','primary' | sort: 'weight' %}
+        {% for item in menu %}
+        <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{% if item.menu_title %}{{ item.menu_title }}{% else %}{{ item.title }}{% endif %}</a></li>
+        {% endfor %}
+      </ul>
       {{ content }}
       {% include footer.html %}
     </div>
