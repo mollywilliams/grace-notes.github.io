@@ -7,7 +7,7 @@ weight: 1
 
 ## Diplomas in Bible Teaching
 
-<img style="float: right" src="http://www.gracenotes.info/eagle.gif" />
+<img style="float: right; max-width: 40%; margin: 0 0 1em 1em;" src="/assets/img/logo.png" />
 Grace Notes offers a broad selection of Bible courses for Pastors, Evangelists, and Bible teachers at all levels. Courses include:
 
 * Exposition of 50 books of the Bible (verse by verse studies)
