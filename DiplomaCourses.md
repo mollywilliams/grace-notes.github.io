@@ -22,52 +22,21 @@ You will receive a certificate for each Unit that you complete. Diplomas are giv
 
 ### Associate in Bible Teaching - [Units I to IV]
 
-<table>
-	<tbody>
-		<tr>
-		  <th>UNIT I</th>
-		  <th>UNIT II</th>
-		  <th>UNIT III</th>
-		  <th>UNIT IV</th>
-		</tr>
-		<tr>
-		  <td><a href="http://www.gracenotes.info/DOCTRINE/Doctrine.shtml">Doctrine 100</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/DOCTRINE/Doctrine.shtml">Doctrine 200</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/DOCTRINE/Doctrine.shtml">Doctrine 300</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/DOCTRINE/Doctrine.shtml">Doctrine 400</a>&nbsp;</td>
-		</tr>
-		<tr>
-		  <td><a href="http://www.gracenotes.info/FOUNDATIONS/FOUNDATIONS.shtml">Foundations 100</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/FOUNDATIONS/FOUNDATIONS.shtml">Foundations 200</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/ROMANS/ROMANS.shtml">Romans</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/ACTS/ACTS100.shtml">Acts 100 (chap 1 to 7)</a>&nbsp;</td>
-		</tr>
-		<tr>
-		  <td><a href="http://www.gracenotes.info/HISTORY/HISTORY100.shtml">History 100</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/HOSEA/Hosea.shtml">Hosea</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/LUKE/LUKE.shtml">Luke</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/HISTORY/HISTORY300.shtml">History 300</a> - Sketches of Jewish Social Life&nbsp;</td>
-		</tr>
-		<tr>
-		  <td><a href="http://www.gracenotes.info/RUTH/Ruth.shtml">Ruth</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/EPHESIANS/Ephesians.shtml">Ephesians</a>&nbsp;</td>
-		  <td>
-		  <a href="http://www.gracenotes.info/123JOHN/123John.shtml">123 John</a>&nbsp;<br> 
-		  <a href="http://www.gracenotes.info/JUDE/Jude.shtml">Jude</a>&nbsp;<br> 
-		  <a href="http://www.gracenotes.info/PHILEMON/Philemon.shtml">Philemon</a>&nbsp;
-		  </td>
-		  <td><a href="http://www.gracenotes.info/LOC/LifeOfChrist.shtml">Life of Christ 100</a>&nbsp;</td>
-		</tr>
-		<tr>
-		  <td><a href="http://www.gracenotes.info/TITUS/TITUS.shtml">Titus</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/MARK/MARK.shtml">Mark</a>&nbsp;</td>
-		  <td><a href="http://www.gracenotes.info/HISTORY/HISTORY200.shtml">History 200</a> - The Temple&nbsp;</td>
-		  <td>
-		  <a href="http://www.gracenotes.info/JOEL/JOEL.shtml">Joel</a>&nbsp;<br> 
-		  <a href="http://www.gracenotes.info/JONAH/JONAH.shtml">Jonah</a>&nbsp;<br> 
-		  <a href="http://www.gracenotes.info/MALACHI/MALACHI.shtml">Malachi</a>&nbsp;
-		  </td>
-		</tr>
-	</tbody>
-</table>
-<br />
+<div class="row unit-menus">
+
+<div class="col-sm-3">
+<h3>Unit I</h3>
+{% include unit-menu.html unit="i" %}
+</div>
+<div class="col-sm-3">
+<h3>Unit I</h3>
+{% include unit-menu.html unit="ii" %}
+</div>
+<div class="col-sm-3">
+<h3>Unit I</h3>
+{% include unit-menu.html unit="iii" %}
+</div>
+<div class="col-sm-3">
+<h3>Unit I</h3>
+{% include unit-menu.html unit="iv" %}
+</div>
