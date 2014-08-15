@@ -1,6 +1,6 @@
 (function($){
   $(document).ready(function() {
-    $("p,li").html(function(index, html) {
+    $("p,li,dd,dt,td").html(function(index, html) {
       return html.replace(XRegExp('([\\p{InGreek_and_Coptic}\\p{InGreek_Extended}]+)', 'g'), '<span class="greek">$1</span>');
     });
 

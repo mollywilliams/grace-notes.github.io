@@ -29,14 +29,14 @@ You will receive a certificate for each Unit that you complete. Diplomas are giv
 {% include unit-menu.html unit="i" %}
 </div>
 <div class="col-sm-3">
-<h3>Unit I</h3>
+<h3>Unit II</h3>
 {% include unit-menu.html unit="ii" %}
 </div>
 <div class="col-sm-3">
-<h3>Unit I</h3>
+<h3>Unit III</h3>
 {% include unit-menu.html unit="iii" %}
 </div>
 <div class="col-sm-3">
-<h3>Unit I</h3>
+<h3>Unit IV</h3>
 {% include unit-menu.html unit="iv" %}
 </div>
