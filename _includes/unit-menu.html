@@ -1,6 +1,6 @@
-{% assign menu = site.pages | where: 'unit',include.unit | sort: 'weight' %}
+{% assign menu = site.lessons | where: 'unit',include.unit | sort: 'weight' %}
 <ul>
-{% for item in menu %}
-<li><a href="{{ item.url }}">{% if item.menu_title %}{{ item.menu_title }}{% else %}{{ item.title }}{% endif %}</a></li>
+{% for lesson in menu %}
+<li><a href="{{ lesson.url }}">{% if lesson.menu_title %}{{ lesson.menu_title }}{% else %}{{ lesson.title }}{% endif %}</a></li>
 {% endfor %}
 </ul>

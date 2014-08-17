@@ -35,10 +35,10 @@ here: [Diplomas in Bible Teaching](diploma-courses.html)
 
 ## Book Studies
 <ul>
-{% for page in site.pages %}
-  {% for cat in page.categories %}
+{% for lesson in site.lessons %}
+  {% for cat in lesson.categories %}
     {% if cat == "books" %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      <li><a href="{{ lesson.url }}">{{ lesson.title }}</a></li>
     {% endif %}
   {% endfor %}
 {% endfor %}

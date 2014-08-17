@@ -2,3 +2,7 @@ encoding: 'utf-8'
 gems: [jekyll-sass]
 sass:
   style: :compressed
+
+collections:
+  lessons:
+    output: true
