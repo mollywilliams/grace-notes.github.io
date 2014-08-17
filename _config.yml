@@ -6,3 +6,5 @@ sass:
 collections:
   lessons:
     output: true
+  topics:
+    output: true
