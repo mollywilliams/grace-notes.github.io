@@ -5,23 +5,19 @@ published: true
 description: an introduction to the study of the Acts of the Apostles.
 ---
 
-<style type="text/css">
-    ol > ol { list-style-type: lower-alpha; }
-</style>
 By David Malick, Biblical Studies Foundation
 
 ## I. Authorship of Acts
 
 Luke is the author of the book Acts. He was also the author of its companion work, the Gospel of Luke. Luke-Acts makes up 28% of the New Testament–more than that written by either Paul or John.
 
-### A. External Evidence: Luke is uniformly identified as the author of Acts
-by the second century AD, in the writings of the Apostolic Fathers:
+### A. External Evidence
 
-The Anti-Marcionite Prologue to Luke; The Murtorian Fragment; Irenaeus;
-Clement of Alexandria; See also: Tertullian, Origen, Eusebius, and
-Jerome.
+Luke is uniformly identified as the author of Acts by the second century AD, in the writings of the Apostolic Fathers:
 
-### B. Internal Evidence:
+The Anti-Marcionite Prologue to Luke; The Murtorian Fragment; Irenaeus; Clement of Alexandria; See also: Tertullian, Origen, Eusebius, and Jerome.
+
+### B. Internal Evidence
 
 #### 1. The Author was the Third Evangelist:
 
