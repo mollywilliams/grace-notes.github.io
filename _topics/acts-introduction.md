@@ -25,7 +25,7 @@ The Anti-Marcionite Prologue to Luke; The Murtorian Fragment; Irenaeus; Clement 
 
 - “Theophilus” is probably the same person as in Luke 1:1-4, “most excellent Theophilus.”
 
-- There close similarity in style and language between Luke and Acts\
+- There close similarity in style and language between Luke and Acts
 
 - The tone of Luke and Acts is similar: world: worldwide outlook, interest in Gentiles, interest in woman, apologetic tendency
 
@@ -35,7 +35,7 @@ The Anti-Marcionite Prologue to Luke; The Murtorian Fragment; Irenaeus; Clement 
 
 - Themes left out of Luke as a synoptic are incorporated into Acts by design (e.g., destruction of the temple [Acts 6])
 
-- Luke is the only Gospel which refers to Jesus’ appearance before Herod Antipas in his trial (Luke 23:7-12), and this theme is alluded to in Acts 4:27)
+- Luke is the only Gospel which refers to Jesus’ appearance before Herod Antipas in his trial (Luke 23:7-12), and this theme is alluded to in Acts 4:27.
 
 #### 2. The Author Was a Companion of Paul. This is a debated position, but there is good evidence for its support:
 
