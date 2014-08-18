@@ -1,10 +1,9 @@
 ---
 title: Abomination
 layout: lesson
+published: true
+description: "In Matthew 24:15-20, our Lord Himself spoke of the \"abomination of desolation\"."
 ---
-
-
-**Abomination of Desolation**
 
 In Matthew 24:15-20, our Lord Himself spoke of the “abomination of
 desolation.” However, first let us note the different references to this
@@ -94,11 +93,10 @@ Second Advent will come rapidly, Rev. 22:7,12. Thus, as lightning can
 alarm the uneducated, so Christ’s return alarms unbelievers, Rev.
 6:15-16. And the lightning that precedes a storm warns of what is to
 come; so also will lightning warn of coming judgment and death at our
-Lord’s return. [1]
+Lord’s return. [^1]
 
 The title ‘Son of Man,’ of course, is the title of our Lord in His
 hypostatic union, which is the essence of true God and the essence of
 true man united in one Being.
 
-[1] An extrapolation from the scholarship of Robert Thieme.
-
+[^1] An extrapolation from the scholarship of Robert Thieme.
