@@ -6,7 +6,7 @@ published: true
 
 <style type="text/css">
     ol > ol { list-style-type: lower-alpha; }
-</style>`
+</style>
 By David Malick, Biblical Studies Foundation
 
 ## I. Authorship of Acts
