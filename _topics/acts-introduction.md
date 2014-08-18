@@ -25,26 +25,35 @@ Jerome.
 
 1. The Author was the Third Evangelist:
 
-  a. This is implied in Acts 1:1, “In the first book ….”
-  b. “Theophilus” is probably the same person as in Luke 1:1-4, “most excellent Theophilus.”
-  c. There close similarity in style and language between Luke and Acts
-  d. The tone of Luke and Acts is similar: world: worldwide outlook, interest in Gentiles, interest in woman, apologetic tendency
-  e. The end of Luke dovetails into the beginning of Acts
-  f. Jesus only appears to his disciples in Jerusalem in Luke and Acts
-  g. Themes left out of Luke as a synoptic are incorporated into Acts by design (e.g., destruction of the temple [Acts 6])
-  h. Luke is the only Gospel which refers to Jesus’ appearance before Herod Antipas in his trial (Luke 23:7-12), and this theme is alluded to in Acts 4:27)
+   a. This is implied in Acts 1:1, “In the first book ….”
+   
+   b. “Theophilus” is probably the same person as in Luke 1:1-4, “most excellent Theophilus.”
+   
+   c. There close similarity in style and language between Luke and Acts\
+   
+   d. The tone of Luke and Acts is similar: world: worldwide outlook, interest in Gentiles, interest in woman, apologetic tendency
+   
+   e. The end of Luke dovetails into the beginning of Acts
+   
+   f. Jesus only appears to his disciples in Jerusalem in Luke and Acts
+   
+   g. Themes left out of Luke as a synoptic are incorporated into Acts by design (e.g., destruction of the temple [Acts 6])
+   
+   h. Luke is the only Gospel which refers to Jesus’ appearance before Herod Antipas in his trial (Luke 23:7-12), and this theme is alluded to in Acts 4:27)
     
 2. The Author Was a Companion of Paul. This is a debated position, but there is good evidence for its support:
 
-  a. There are movement in the narrative from the 3rd person to the first person plural–the “We” sections (16:10-17; 20:5-21:18; 27:1– 28:16). It is most natural to understand these to refer to the personal memoirs of one of Paul’s companions. There is no change in style which demonstrate these to be an external source.
-  b. The prologue to the double work of Luke-Acts allows for Luke to have participated in some of the events of Acts (“having followed all things closely for some time past …” Luke 1:3)    
-  c. Luke’s Paul is not necessarily different from Paul’s Paul. The differences can be accounted for in style, and context.
+   a. There are movement in the narrative from the 3rd person to the first person plural–the “We” sections (16:10-17; 20:5-21:18; 27:1– 28:16). It is most natural to understand these to refer to the personal memoirs of one of Paul’s companions. There is no change in style which demonstrate these to be an external source.
+  
+   b. The prologue to the double work of Luke-Acts allows for Luke to have participated in some of the events of Acts (“having followed all things closely for some time past …” Luke 1:3)    
+  
+   c. Luke’s Paul is not necessarily different from Paul’s Paul. The differences can be accounted for in style, and context.
 
 3. The Author was Luke the Physician
 
-  a. The earliest traditions identify the author with the expression of Colossians 4:14, “Luke, the beloved physician” and this epistle probably aligns with Paul’s Roman imprisonment which Luke would have been present during according to the “We” sections (see also Philemon 24; 2 Timothy 4:11)
+   a. The earliest traditions identify the author with the expression of Colossians 4:14, “Luke, the beloved physician” and this epistle probably aligns with Paul’s Roman imprisonment which Luke would have been present during according to the “We” sections (see also Philemon 24; 2 Timothy 4:11)
   
-  b. He is distinct from those named in the “We” sections: Silas/Silvanus, Timothy, Sopater, Aristarchus, Secundus, Gaius (of Derbe) Tychicus, or Trophimus
+   b. He is distinct from those named in the “We” sections: Silas/Silvanus, Timothy, Sopater, Aristarchus, Secundus, Gaius (of Derbe) Tychicus, or Trophimus
 
 ## II. The Date of Acts: Before A.D. 64/65
 
