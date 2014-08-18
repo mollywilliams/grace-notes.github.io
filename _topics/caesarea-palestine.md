@@ -1,5 +1,5 @@
 ---
-title: CaesareaPalestine
+title: Caesarea Palestine
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: TabernacleFurniture
+title: Tabernacle Furniture
 layout: lesson
 ---
 

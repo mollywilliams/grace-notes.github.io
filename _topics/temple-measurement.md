@@ -1,5 +1,5 @@
 ---
-title: TempleMeasurement
+title: Temple Measurement
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: DivineDecree
+title: Divine Decree
 layout: lesson
 ---
 

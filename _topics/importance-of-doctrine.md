@@ -1,5 +1,5 @@
 ---
-title: ImportanceOfDoctrine
+title: Importance Of Doctrine
 layout: lesson
 ---
 

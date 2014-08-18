@@ -1,5 +1,5 @@
 ---
-title: JewishTeaching_Sabbath
+title: Jewish Teaching Sabbath
 layout: lesson
 ---
 

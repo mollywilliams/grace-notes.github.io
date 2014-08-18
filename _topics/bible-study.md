@@ -1,5 +1,5 @@
 ---
-title: BibleStudy
+title: Bible Study
 layout: lesson
 ---
 

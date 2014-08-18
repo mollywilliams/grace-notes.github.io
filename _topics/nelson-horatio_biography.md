@@ -1,5 +1,5 @@
 ---
-title: Nelson_Horatio_Biography
+title: Nelson Horatio Biography
 layout: lesson
 ---
 

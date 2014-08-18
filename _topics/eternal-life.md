@@ -1,5 +1,5 @@
 ---
-title: EternalLife
+title: Eternal Life
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: DeborahAndBarak
+title: Deborah And Barak
 layout: lesson
 ---
 

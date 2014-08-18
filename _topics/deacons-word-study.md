@@ -1,5 +1,5 @@
 ---
-title: Deacons_WordStudy
+title: Deacons Word Study
 layout: lesson
 ---
 

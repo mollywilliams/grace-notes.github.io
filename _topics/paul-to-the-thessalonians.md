@@ -1,5 +1,5 @@
 ---
-title: Paul_totheThessalonians
+title: Paul tothe Thessalonians
 layout: lesson
 ---
 

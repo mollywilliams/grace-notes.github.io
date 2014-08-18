@@ -1,5 +1,5 @@
 ---
-title: Rome_PaulsJourney
+title: Rome Pauls Journey
 layout: lesson
 ---
 

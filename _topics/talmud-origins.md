@@ -1,5 +1,5 @@
 ---
-title: Talmud_Origins
+title: Talmud Origins
 layout: lesson
 ---
 

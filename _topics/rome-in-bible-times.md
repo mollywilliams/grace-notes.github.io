@@ -1,5 +1,5 @@
 ---
-title: RomeInBibleTimes
+title: Rome In Bible Times
 layout: lesson
 ---
 

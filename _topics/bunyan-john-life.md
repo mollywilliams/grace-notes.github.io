@@ -1,5 +1,5 @@
 ---
-title: BunyanJohnLife
+title: Bunyan John Life
 layout: lesson
 ---
 

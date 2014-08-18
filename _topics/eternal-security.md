@@ -1,5 +1,5 @@
 ---
-title: EternalSecurity
+title: Eternal Security
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: MentalAttitude
+title: Mental Attitude
 layout: lesson
 ---
 

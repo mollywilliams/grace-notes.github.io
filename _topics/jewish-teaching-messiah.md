@@ -1,5 +1,5 @@
 ---
-title: JewishTeaching_Messiah
+title: Jewish Teaching Messiah
 layout: lesson
 ---
 

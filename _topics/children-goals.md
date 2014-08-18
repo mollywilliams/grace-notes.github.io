@@ -1,5 +1,5 @@
 ---
-title: ChildrenGoals
+title: Children Goals
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: HolySpirit_Indwelling
+title: Holy Spirit Indwelling
 layout: lesson
 ---
 

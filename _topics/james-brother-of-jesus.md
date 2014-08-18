@@ -1,5 +1,5 @@
 ---
-title: JamesBrotherOfJesus
+title: James Brother Of Jesus
 layout: lesson
 ---
 

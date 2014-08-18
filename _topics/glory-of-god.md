@@ -1,5 +1,5 @@
 ---
-title: GloryOfGod
+title: Glory Of God
 layout: lesson
 ---
 

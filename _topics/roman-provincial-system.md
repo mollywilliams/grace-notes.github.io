@@ -1,5 +1,5 @@
 ---
-title: RomanProvincialSystem
+title: Roman Provincial System
 layout: lesson
 ---
 

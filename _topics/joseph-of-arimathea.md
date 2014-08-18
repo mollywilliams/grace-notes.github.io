@@ -1,5 +1,5 @@
 ---
-title: JosephOfArimathea
+title: Joseph Of Arimathea
 layout: lesson
 ---
 

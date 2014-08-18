@@ -1,5 +1,5 @@
 ---
-title: DeathOfChrist
+title: Death Of Christ
 layout: lesson
 ---
 

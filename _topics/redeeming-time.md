@@ -1,5 +1,5 @@
 ---
-title: RedeemingTime
+title: Redeeming Time
 layout: lesson
 ---
 

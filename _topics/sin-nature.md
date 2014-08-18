@@ -1,5 +1,5 @@
 ---
-title: SinNature
+title: Sin Nature
 layout: lesson
 ---
 

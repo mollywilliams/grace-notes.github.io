@@ -1,5 +1,5 @@
 ---
-title: OccupationWithChrist
+title: Occupation With Christ
 layout: lesson
 ---
 

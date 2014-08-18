@@ -1,5 +1,5 @@
 ---
-title: SexualHealth
+title: Sexual Health
 layout: lesson
 ---
 

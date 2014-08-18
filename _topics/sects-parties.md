@@ -1,5 +1,5 @@
 ---
-title: SectsParties
+title: Sects Parties
 layout: lesson
 ---
 

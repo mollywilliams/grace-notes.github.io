@@ -1,5 +1,5 @@
 ---
-title: Paul_LetterToRomans
+title: Paul Letter To Romans
 layout: lesson
 ---
 

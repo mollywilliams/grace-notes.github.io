@@ -1,5 +1,5 @@
 ---
-title: JewishSocialLife
+title: Jewish Social Life
 layout: lesson
 ---
 

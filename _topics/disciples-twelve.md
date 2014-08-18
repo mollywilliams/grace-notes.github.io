@@ -1,5 +1,5 @@
 ---
-title: DisciplesTwelve
+title: Disciples Twelve
 layout: lesson
 ---
 

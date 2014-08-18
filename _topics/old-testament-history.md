@@ -1,5 +1,5 @@
 ---
-title: OldTestamentHistory
+title: Old Testament History
 layout: lesson
 ---
 

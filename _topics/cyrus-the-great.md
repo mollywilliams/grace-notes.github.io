@@ -1,5 +1,5 @@
 ---
-title: CyrusTheGreat
+title: Cyrus The Great
 layout: lesson
 ---
 

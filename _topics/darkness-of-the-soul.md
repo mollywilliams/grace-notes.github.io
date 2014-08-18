@@ -1,5 +1,5 @@
 ---
-title: DarknessOfTheSoul
+title: Darkness Of The Soul
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: CaesareaPhilippi
+title: Caesarea Philippi
 layout: lesson
 ---
 

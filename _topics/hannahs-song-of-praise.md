@@ -1,5 +1,5 @@
 ---
-title: HannahsSongOfPraise
+title: Hannahs Song Of Praise
 layout: lesson
 ---
 

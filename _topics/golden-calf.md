@@ -1,5 +1,5 @@
 ---
-title: GoldenCalf
+title: Golden Calf
 layout: lesson
 ---
 

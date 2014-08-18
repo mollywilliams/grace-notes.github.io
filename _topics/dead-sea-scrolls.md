@@ -1,5 +1,5 @@
 ---
-title: DeadSeaScrolls
+title: Dead Sea Scrolls
 layout: lesson
 ---
 

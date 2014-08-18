@@ -1,5 +1,5 @@
 ---
-title: PaulInEphesus
+title: Paul In Ephesus
 layout: lesson
 ---
 

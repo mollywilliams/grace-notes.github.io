@@ -1,5 +1,5 @@
 ---
-title: PaulMissionaryLabors
+title: Paul Missionary Labors
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: AgapeFeast
+title: Agape Feast
 layout: lesson
 ---
 

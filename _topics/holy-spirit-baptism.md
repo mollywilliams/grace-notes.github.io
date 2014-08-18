@@ -1,5 +1,5 @@
 ---
-title: HolySpirit_Baptism
+title: Holy Spirit Baptism
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: EarlyChurch
+title: Early Church
 layout: lesson
 ---
 

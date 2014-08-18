@@ -1,5 +1,5 @@
 ---
-title: PrayerPrinciples
+title: Prayer Principles
 layout: lesson
 ---
 

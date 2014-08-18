@@ -1,5 +1,5 @@
 ---
-title: Godliness(1col)
+title: Godliness 1col 
 layout: lesson
 ---
 

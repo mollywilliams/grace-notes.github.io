@@ -1,5 +1,5 @@
 ---
-title: HighPriests
+title: High Priests
 layout: lesson
 ---
 

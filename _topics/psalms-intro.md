@@ -1,5 +1,5 @@
 ---
-title: PsalmsIntro
+title: Psalms Intro
 layout: lesson
 ---
 

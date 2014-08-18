@@ -1,5 +1,5 @@
 ---
-title: JewishTeaching_Torah
+title: Jewish Teaching Torah
 layout: lesson
 ---
 

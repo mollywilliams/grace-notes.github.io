@@ -1,5 +1,5 @@
 ---
-title: FaithfulnessOfGod
+title: Faithfulness Of God
 layout: lesson
 ---
 

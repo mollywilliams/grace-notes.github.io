@@ -1,5 +1,5 @@
 ---
-title: EndTimeEvents
+title: End Time Events
 layout: lesson
 ---
 

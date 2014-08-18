@@ -1,5 +1,5 @@
 ---
-title: Paul_LetterToGalatians
+title: Paul Letter To Galatians
 layout: lesson
 ---
 

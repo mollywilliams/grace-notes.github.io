@@ -1,5 +1,5 @@
 ---
-title: UnionWithChrist
+title: Union With Christ
 layout: lesson
 ---
 

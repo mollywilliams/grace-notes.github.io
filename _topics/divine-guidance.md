@@ -1,5 +1,5 @@
 ---
-title: DivineGuidance
+title: Divine Guidance
 layout: lesson
 ---
 

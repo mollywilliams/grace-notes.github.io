@@ -1,5 +1,5 @@
 ---
-title: HolySpirit_SpiritualGifts
+title: Holy Spirit Spiritual Gifts
 layout: lesson
 ---
 

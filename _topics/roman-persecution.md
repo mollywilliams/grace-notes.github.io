@@ -1,5 +1,5 @@
 ---
-title: RomanPersecution
+title: Roman Persecution
 layout: lesson
 ---
 

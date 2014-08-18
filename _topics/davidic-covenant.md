@@ -1,5 +1,5 @@
 ---
-title: DavidicCovenant
+title: Davidic Covenant
 layout: lesson
 ---
 

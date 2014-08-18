@@ -1,5 +1,5 @@
 ---
-title: Talmud_39CategoriesOfWork
+title: Talmud 39Categories Of Work
 layout: lesson
 ---
 

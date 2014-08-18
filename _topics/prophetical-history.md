@@ -1,5 +1,5 @@
 ---
-title: PropheticalHistory
+title: Prophetical History
 layout: lesson
 ---
 

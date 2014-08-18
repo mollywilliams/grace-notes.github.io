@@ -1,5 +1,5 @@
 ---
-title: PilgrimsProgress
+title: Pilgrims Progress
 layout: lesson
 ---
 

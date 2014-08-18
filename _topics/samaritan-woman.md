@@ -1,5 +1,5 @@
 ---
-title: SamaritanWoman
+title: Samaritan Woman
 layout: lesson
 ---
 

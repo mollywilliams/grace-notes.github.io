@@ -1,5 +1,5 @@
 ---
-title: AgriculturePalestine
+title: Agriculture Palestine
 layout: lesson
 ---
 

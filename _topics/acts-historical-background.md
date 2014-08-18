@@ -1,5 +1,5 @@
 ---
-title: ActsHistoricalBackground
+title: Acts Historical Background
 layout: lesson
 ---
 

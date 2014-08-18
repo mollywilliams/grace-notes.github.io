@@ -1,5 +1,5 @@
 ---
-title: NoviceChristian
+title: Novice Christian
 layout: lesson
 ---
 

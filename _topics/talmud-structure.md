@@ -1,5 +1,5 @@
 ---
-title: Talmud_Structure
+title: Talmud Structure
 layout: lesson
 ---
 

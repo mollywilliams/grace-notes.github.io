@@ -1,5 +1,5 @@
 ---
-title: AbrahamicCovenant
+title: Abrahamic Covenant
 layout: lesson
 ---
 

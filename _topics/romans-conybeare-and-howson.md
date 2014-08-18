@@ -1,5 +1,5 @@
 ---
-title: Romans_Conybeare&Howson
+title: Romans Conybeare&Howson
 layout: lesson
 ---
 

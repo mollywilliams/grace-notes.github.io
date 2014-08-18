@@ -1,5 +1,5 @@
 ---
-title: PaulChildhood
+title: Paul Childhood
 layout: lesson
 ---
 

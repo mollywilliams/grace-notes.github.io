@@ -1,5 +1,5 @@
 ---
-title: Gaul_Christianity_In(Guizot)
+title: Gaul Christianity In Guizot 
 layout: lesson
 ---
 

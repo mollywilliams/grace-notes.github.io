@@ -1,5 +1,5 @@
 ---
-title: PersecutionEarlyChurch
+title: Persecution Early Church
 layout: lesson
 ---
 

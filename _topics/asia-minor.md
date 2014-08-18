@@ -1,5 +1,5 @@
 ---
-title: AsiaMinor
+title: Asia Minor
 layout: lesson
 ---
 

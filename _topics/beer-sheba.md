@@ -1,5 +1,5 @@
 ---
-title: BeerSheba
+title: Beer Sheba
 layout: lesson
 ---
 

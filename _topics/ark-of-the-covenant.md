@@ -1,5 +1,5 @@
 ---
-title: ArkOfTheCovenant
+title: Ark Of The Covenant
 layout: lesson
 ---
 

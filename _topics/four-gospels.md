@@ -1,5 +1,5 @@
 ---
-title: FourGospels
+title: Four Gospels
 layout: lesson
 ---
 

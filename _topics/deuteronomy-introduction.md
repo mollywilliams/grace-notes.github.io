@@ -1,5 +1,5 @@
 ---
-title: Deuteronomy_Introduction
+title: Deuteronomy Introduction
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: JewishTheologicalWritings
+title: Jewish Theological Writings
 layout: lesson
 ---
 

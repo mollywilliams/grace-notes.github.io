@@ -1,5 +1,5 @@
 ---
-title: LawOfMoses
+title: Law Of Moses
 layout: lesson
 ---
 

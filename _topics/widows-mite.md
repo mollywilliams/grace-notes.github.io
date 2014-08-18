@@ -1,5 +1,5 @@
 ---
-title: WidowsMite
+title: Widows Mite
 layout: lesson
 ---
 

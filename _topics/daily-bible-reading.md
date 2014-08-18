@@ -1,5 +1,5 @@
 ---
-title: DailyBibleReading
+title: Daily Bible Reading
 layout: lesson
 ---
 

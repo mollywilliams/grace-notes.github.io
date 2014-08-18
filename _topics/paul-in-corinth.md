@@ -1,5 +1,5 @@
 ---
-title: PaulInCorinth
+title: Paul In Corinth
 layout: lesson
 ---
 

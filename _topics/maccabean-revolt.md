@@ -1,5 +1,5 @@
 ---
-title: MaccabeanRevolt
+title: Maccabean Revolt
 layout: lesson
 ---
 

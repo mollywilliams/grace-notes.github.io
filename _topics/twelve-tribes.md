@@ -1,5 +1,5 @@
 ---
-title: TwelveTribes
+title: Twelve Tribes
 layout: lesson
 ---
 

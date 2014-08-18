@@ -1,5 +1,5 @@
 ---
-title: NegativeVolition
+title: Negative Volition
 layout: lesson
 ---
 

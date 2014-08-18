@@ -1,5 +1,5 @@
 ---
-title: FalseProphet
+title: False Prophet
 layout: lesson
 ---
 

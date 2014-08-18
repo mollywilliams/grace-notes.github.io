@@ -1,5 +1,5 @@
 ---
-title: BloodOfChrist
+title: Blood Of Christ
 layout: lesson
 ---
 

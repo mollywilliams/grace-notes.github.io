@@ -1,5 +1,5 @@
 ---
-title: PastorTeachers
+title: Pastor Teachers
 layout: lesson
 ---
 

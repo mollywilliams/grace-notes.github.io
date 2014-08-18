@@ -1,5 +1,5 @@
 ---
-title: Samuel_Introduction
+title: Samuel Introduction
 layout: lesson
 ---
 

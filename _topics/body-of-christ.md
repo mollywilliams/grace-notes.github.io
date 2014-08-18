@@ -1,5 +1,5 @@
 ---
-title: BodyOfChrist
+title: Body Of Christ
 layout: lesson
 ---
 

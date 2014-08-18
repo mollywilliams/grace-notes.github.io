@@ -1,5 +1,5 @@
 ---
-title: MosesEgypt
+title: Moses Egypt
 layout: lesson
 ---
 

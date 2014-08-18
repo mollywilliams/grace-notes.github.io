@@ -1,5 +1,5 @@
 ---
-title: ApostolicFathers
+title: Apostolic Fathers
 layout: lesson
 ---
 

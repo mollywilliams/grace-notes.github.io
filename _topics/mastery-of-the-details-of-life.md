@@ -1,5 +1,5 @@
 ---
-title: MasteryOfTheDetailsOfLife
+title: MasteryOf The Details Of Life
 layout: lesson
 ---
 

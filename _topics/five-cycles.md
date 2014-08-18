@@ -1,5 +1,5 @@
 ---
-title: FiveCycles
+title: Five Cycles
 layout: lesson
 ---
 

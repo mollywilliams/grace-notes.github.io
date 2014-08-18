@@ -1,5 +1,5 @@
 ---
-title: KoineGreek
+title: Koine Greek
 layout: lesson
 ---
 

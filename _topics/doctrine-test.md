@@ -1,5 +1,5 @@
 ---
-title: DoctrineTest
+title: Doctrine Test
 layout: lesson
 ---
 

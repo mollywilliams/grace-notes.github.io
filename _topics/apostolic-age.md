@@ -1,5 +1,5 @@
 ---
-title: ApostolicAge
+title: Apostolic Age
 layout: lesson
 ---
 

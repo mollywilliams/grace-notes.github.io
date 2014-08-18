@@ -1,5 +1,5 @@
 ---
-title: PaulInAthens
+title: Paul In Athens
 layout: lesson
 ---
 

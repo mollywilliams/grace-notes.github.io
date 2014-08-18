@@ -1,5 +1,5 @@
 ---
-title: Gnosticism(ColossianHeresy)
+title: Gnosticism Colossian Heresy 
 layout: lesson
 ---
 

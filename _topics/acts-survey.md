@@ -1,5 +1,5 @@
 ---
-title: ActsSurvey
+title: Acts Survey
 layout: lesson
 ---
 

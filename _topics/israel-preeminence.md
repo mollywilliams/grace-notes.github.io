@@ -1,5 +1,5 @@
 ---
-title: IsraelPreeminence
+title: Israel Preeminence
 layout: lesson
 ---
 

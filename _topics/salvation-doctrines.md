@@ -1,5 +1,5 @@
 ---
-title: SalvationDoctrines
+title: Salvation Doctrines
 layout: lesson
 ---
 

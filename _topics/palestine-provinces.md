@@ -1,5 +1,5 @@
 ---
-title: PalestineProvinces
+title: Palestine Provinces
 layout: lesson
 ---
 

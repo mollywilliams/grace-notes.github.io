@@ -1,5 +1,5 @@
 ---
-title: RomanKings
+title: Roman Kings
 layout: lesson
 ---
 

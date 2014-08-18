@@ -1,5 +1,5 @@
 ---
-title: HolySpirit_Filling
+title: Holy Spirit Filling
 layout: lesson
 ---
 

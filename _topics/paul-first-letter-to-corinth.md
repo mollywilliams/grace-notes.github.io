@@ -1,5 +1,5 @@
 ---
-title: Paul_FirstLetterToCorinth
+title: Paul First Letter To Corinth
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Paul&Silas_Prison
+title: Paul&Silas Prison
 layout: lesson
 ---
 

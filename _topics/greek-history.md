@@ -1,5 +1,5 @@
 ---
-title: GreekHistory
+title: Greek History
 layout: lesson
 ---
 

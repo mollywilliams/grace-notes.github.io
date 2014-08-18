@@ -1,5 +1,5 @@
 ---
-title: NamesOfGod
+title: Names Of God
 layout: lesson
 ---
 

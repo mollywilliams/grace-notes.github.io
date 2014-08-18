@@ -1,5 +1,5 @@
 ---
-title: ApostolicChurch
+title: Apostolic Church
 layout: lesson
 ---
 

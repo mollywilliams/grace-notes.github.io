@@ -1,5 +1,5 @@
 ---
-title: ActsOutline
+title: Acts Outline
 layout: lesson
 ---
 

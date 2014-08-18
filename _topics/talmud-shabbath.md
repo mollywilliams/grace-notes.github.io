@@ -1,5 +1,5 @@
 ---
-title: Talmud_Shabbath
+title: Talmud Shabbath
 layout: lesson
 ---
 

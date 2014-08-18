@@ -1,5 +1,5 @@
 ---
-title: Coos(Cos)
+title: Coos Cos 
 layout: lesson
 ---
 

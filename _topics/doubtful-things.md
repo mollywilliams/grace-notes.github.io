@@ -1,5 +1,5 @@
 ---
-title: DoubtfulThings
+title: Doubtful Things
 layout: lesson
 ---
 

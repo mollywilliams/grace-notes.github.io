@@ -1,5 +1,5 @@
 ---
-title: SpeakingInTongues
+title: Speaking In Tongues
 layout: lesson
 ---
 

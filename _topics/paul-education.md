@@ -1,5 +1,5 @@
 ---
-title: PaulEducation
+title: Paul Education
 layout: lesson
 ---
 

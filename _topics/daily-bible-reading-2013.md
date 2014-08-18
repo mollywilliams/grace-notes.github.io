@@ -1,5 +1,5 @@
 ---
-title: DailyBibleReading_2013
+title: Daily Bible Reading 2013
 layout: lesson
 ---
 

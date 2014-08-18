@@ -1,5 +1,5 @@
 ---
-title: RabbinicalExegesis
+title: Rabbinical Exegesis
 layout: lesson
 ---
 

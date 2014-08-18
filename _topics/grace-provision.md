@@ -1,5 +1,5 @@
 ---
-title: GraceProvision
+title: Grace Provision
 layout: lesson
 ---
 

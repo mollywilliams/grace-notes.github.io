@@ -1,5 +1,5 @@
 ---
-title: MuchMore
+title: Much More
 layout: lesson
 ---
 

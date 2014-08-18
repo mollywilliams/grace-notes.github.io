@@ -1,5 +1,5 @@
 ---
-title: HolySpirit
+title: Holy Spirit
 layout: lesson
 ---
 

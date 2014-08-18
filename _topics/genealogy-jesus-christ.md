@@ -1,5 +1,5 @@
 ---
-title: GenealogyJesusChrist
+title: Genealogy Jesus Christ
 layout: lesson
 ---
 

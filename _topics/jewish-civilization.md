@@ -1,5 +1,5 @@
 ---
-title: JewishCivilization
+title: Jewish Civilization
 layout: lesson
 ---
 

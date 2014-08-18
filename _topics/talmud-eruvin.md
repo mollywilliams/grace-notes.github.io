@@ -1,5 +1,5 @@
 ---
-title: Talmud_Eruvin
+title: Talmud Eruvin
 layout: lesson
 ---
 

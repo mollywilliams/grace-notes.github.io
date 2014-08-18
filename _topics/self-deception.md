@@ -1,5 +1,5 @@
 ---
-title: SelfDeception
+title: Self Deception
 layout: lesson
 ---
 

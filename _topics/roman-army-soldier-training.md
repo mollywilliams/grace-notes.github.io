@@ -1,5 +1,5 @@
 ---
-title: RomanArmy_SoldierTraining
+title: Roman Army Soldier Training
 layout: lesson
 ---
 

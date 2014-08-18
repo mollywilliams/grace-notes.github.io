@@ -1,5 +1,5 @@
 ---
-title: RabbinicalSchools
+title: Rabbinical Schools
 layout: lesson
 ---
 

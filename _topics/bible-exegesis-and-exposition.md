@@ -1,5 +1,5 @@
 ---
-title: BibleExegesisAndExposition
+title: Bible Exegesis And Exposition
 layout: lesson
 ---
 

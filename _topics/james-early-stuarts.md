@@ -1,5 +1,5 @@
 ---
-title: James_EarlyStuarts
+title: James Early Stuarts
 layout: lesson
 ---
 

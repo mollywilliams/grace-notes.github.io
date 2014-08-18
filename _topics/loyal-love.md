@@ -1,5 +1,5 @@
 ---
-title: LoyalLove
+title: Loyal Love
 layout: lesson
 ---
 

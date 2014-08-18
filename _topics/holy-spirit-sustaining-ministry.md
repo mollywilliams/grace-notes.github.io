@@ -1,5 +1,5 @@
 ---
-title: HolySpirit_SustainingMinistry
+title: Holy Spirit Sustaining Ministry
 layout: lesson
 ---
 

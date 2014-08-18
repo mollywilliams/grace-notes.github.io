@@ -1,5 +1,5 @@
 ---
-title: HolySpirit_SalvationMinistry
+title: Holy Spirit Salvation Ministry
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: MosesEarlyLife
+title: Moses Early Life
 layout: lesson
 ---
 

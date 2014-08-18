@@ -1,5 +1,5 @@
 ---
-title: DeityOfChrist
+title: Deity Of Christ
 layout: lesson
 ---
 

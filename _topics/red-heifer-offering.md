@@ -1,5 +1,5 @@
 ---
-title: RedHeiferOffering
+title: Red Heifer Offering
 layout: lesson
 ---
 

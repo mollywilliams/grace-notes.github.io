@@ -1,5 +1,5 @@
 ---
-title: HellenistsArameans
+title: Hellenists Arameans
 layout: lesson
 ---
 

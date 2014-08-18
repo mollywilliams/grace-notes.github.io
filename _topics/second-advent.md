@@ -1,5 +1,5 @@
 ---
-title: SecondAdvent
+title: Second Advent
 layout: lesson
 ---
 

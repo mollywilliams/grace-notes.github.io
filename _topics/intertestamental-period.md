@@ -1,5 +1,5 @@
 ---
-title: IntertestamentalPeriod
+title: Intertestamental Period
 layout: lesson
 ---
 

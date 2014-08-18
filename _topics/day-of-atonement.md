@@ -1,5 +1,5 @@
 ---
-title: DayOfAtonement
+title: Day Of Atonement
 layout: lesson
 ---
 

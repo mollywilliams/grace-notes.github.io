@@ -1,5 +1,5 @@
 ---
-title: ChapterTitles_Bible
+title: Chapter Titles Bible
 layout: lesson
 ---
 

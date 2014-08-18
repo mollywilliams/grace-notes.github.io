@@ -1,5 +1,5 @@
 ---
-title: PaulChronology
+title: Paul Chronology
 layout: lesson
 ---
 

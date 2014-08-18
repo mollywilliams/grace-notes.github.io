@@ -1,5 +1,5 @@
 ---
-title: LeviticalPriesthood
+title: Levitical Priesthood
 layout: lesson
 ---
 

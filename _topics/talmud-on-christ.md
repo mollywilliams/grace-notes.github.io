@@ -1,5 +1,5 @@
 ---
-title: Talmud_OnChrist
+title: Talmud On Christ
 layout: lesson
 ---
 

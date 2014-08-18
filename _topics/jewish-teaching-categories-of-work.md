@@ -1,5 +1,5 @@
 ---
-title: JewishTeaching_CategoriesOfWork
+title: Jewish Teaching Categories Of Work
 layout: lesson
 ---
 

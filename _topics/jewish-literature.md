@@ -1,5 +1,5 @@
 ---
-title: JewishLiterature
+title: Jewish Literature
 layout: lesson
 ---
 

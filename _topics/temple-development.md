@@ -1,5 +1,5 @@
 ---
-title: TempleDevelopment
+title: Temple Development
 layout: lesson
 ---
 

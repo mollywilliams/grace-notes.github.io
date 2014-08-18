@@ -1,5 +1,5 @@
 ---
-title: JewishLaw
+title: Jewish Law
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: RomanLaw
+title: Roman Law
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Essence_SingleColumn
+title: Essence Single Column
 layout: lesson
 ---
 

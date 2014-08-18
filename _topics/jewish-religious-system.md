@@ -1,5 +1,5 @@
 ---
-title: JewishReligiousSystem
+title: Jewish Religious System
 layout: lesson
 ---
 

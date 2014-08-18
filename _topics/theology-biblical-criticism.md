@@ -1,5 +1,5 @@
 ---
-title: TheologyBiblicalCriticism
+title: Theology Biblical Criticism
 layout: lesson
 ---
 

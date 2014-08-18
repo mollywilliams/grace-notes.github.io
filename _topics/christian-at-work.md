@@ -1,5 +1,5 @@
 ---
-title: ChristianAtWork
+title: Christian At Work
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: JohnTheBaptist_Outline
+title: John The Baptist Outline
 layout: lesson
 ---
 

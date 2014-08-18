@@ -1,5 +1,5 @@
 ---
-title: ArmorOfGod
+title: Armor Of God
 layout: lesson
 ---
 

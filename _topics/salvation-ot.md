@@ -1,5 +1,5 @@
 ---
-title: SalvationOT
+title: Salvation OT
 layout: lesson
 ---
 

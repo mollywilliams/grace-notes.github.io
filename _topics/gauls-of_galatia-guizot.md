@@ -1,5 +1,5 @@
 ---
-title: Gauls_of_Galatia(Guizot)
+title: Gauls of Galatia Guizot 
 layout: lesson
 ---
 

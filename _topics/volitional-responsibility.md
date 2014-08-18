@@ -1,5 +1,5 @@
 ---
-title: VolitionalResponsibility
+title: Volitional Responsibility
 layout: lesson
 ---
 

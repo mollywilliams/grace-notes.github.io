@@ -1,5 +1,5 @@
 ---
-title: CosmicSystem
+title: Cosmic System
 layout: lesson
 ---
 

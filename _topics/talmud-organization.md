@@ -1,5 +1,5 @@
 ---
-title: Talmud_Organization
+title: Talmud Organization
 layout: lesson
 ---
 

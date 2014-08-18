@@ -1,5 +1,5 @@
 ---
-title: AramaicLanguage
+title: Aramaic Language
 layout: lesson
 ---
 

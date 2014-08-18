@@ -1,5 +1,5 @@
 ---
-title: JohnTheBaptist
+title: John The Baptist
 layout: lesson
 ---
 

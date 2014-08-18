@@ -1,5 +1,5 @@
 ---
-title: TeachingInLocalChurch
+title: Teaching In Local Church
 layout: lesson
 ---
 

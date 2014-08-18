@@ -1,5 +1,5 @@
 ---
-title: QualificationsForMinisters
+title: Qualifications For Ministers
 layout: lesson
 ---
 

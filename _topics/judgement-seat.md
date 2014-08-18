@@ -1,5 +1,5 @@
 ---
-title: JudgementSeat
+title: Judgement Seat
 layout: lesson
 ---
 

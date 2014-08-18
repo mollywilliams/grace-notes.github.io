@@ -1,5 +1,5 @@
 ---
-title: JewsGentiles
+title: Jews Gentiles
 layout: lesson
 ---
 

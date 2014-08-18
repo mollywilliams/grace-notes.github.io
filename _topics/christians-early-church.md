@@ -1,5 +1,5 @@
 ---
-title: ChristiansEarlyChurch
+title: Christians Early Church
 layout: lesson
 ---
 

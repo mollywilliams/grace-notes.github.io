@@ -1,5 +1,5 @@
 ---
-title: ServantsSlaves
+title: Servants Slaves
 layout: lesson
 ---
 

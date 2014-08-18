@@ -1,5 +1,5 @@
 ---
-title: TempleDestruction
+title: Temple Destruction
 layout: lesson
 ---
 

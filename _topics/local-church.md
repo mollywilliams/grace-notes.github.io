@@ -1,5 +1,5 @@
 ---
-title: LocalChurch
+title: Local Church
 layout: lesson
 ---
 

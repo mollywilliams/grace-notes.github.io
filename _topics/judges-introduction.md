@@ -1,5 +1,5 @@
 ---
-title: Judges_Introduction
+title: Judges Introduction
 layout: lesson
 ---
 

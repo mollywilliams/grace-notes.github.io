@@ -1,5 +1,5 @@
 ---
-title: DivisionsintheEarlyChurch
+title: Divisionsinthe Early Church
 layout: lesson
 ---
 

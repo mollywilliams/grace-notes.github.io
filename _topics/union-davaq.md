@@ -1,5 +1,5 @@
 ---
-title: UnionDAVAQ
+title: Union DAVAQ
 layout: lesson
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: ChristTheRock
+title: Christ The Rock
 layout: lesson
 ---
 

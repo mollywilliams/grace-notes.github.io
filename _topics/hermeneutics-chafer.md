@@ -1,5 +1,5 @@
 ---
-title: Hermeneutics_Chafer
+title: Hermeneutics Chafer
 layout: lesson
 ---
 

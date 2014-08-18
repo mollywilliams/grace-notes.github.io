@@ -1,5 +1,5 @@
 ---
-title: FaithRest
+title: Faith Rest
 layout: lesson
 ---
 

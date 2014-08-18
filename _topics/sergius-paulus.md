@@ -1,5 +1,5 @@
 ---
-title: SergiusPaulus
+title: Sergius Paulus
 layout: lesson
 ---
 

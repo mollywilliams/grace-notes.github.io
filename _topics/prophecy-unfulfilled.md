@@ -1,5 +1,5 @@
 ---
-title: ProphecyUnfulfilled
+title: Prophecy Unfulfilled
 layout: lesson
 ---
 

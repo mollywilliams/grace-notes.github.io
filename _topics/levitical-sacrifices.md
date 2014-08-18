@@ -1,5 +1,5 @@
 ---
-title: LeviticalSacrifices
+title: Levitical Sacrifices
 layout: lesson
 ---
 

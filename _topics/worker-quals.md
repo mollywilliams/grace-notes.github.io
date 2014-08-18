@@ -1,5 +1,5 @@
 ---
-title: WorkerQuals
+title: Worker Quals
 layout: lesson
 ---
 
