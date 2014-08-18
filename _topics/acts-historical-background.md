@@ -127,32 +127,32 @@ receiving a divine intimation that “God is no respecter of persons, but that i
 every nation he that fears Him and works righteousness, is accepted with Him.”
 (Acts 9:34,35)
 
-[1] Acts 8 and 9, with Gal. 1
+[^1]: Acts 8 and 9, with Gal. 1
 
-[2] Where St. Paul afterwards landed, Acts 28:13.
+[^2]: Where St. Paul afterwards landed, Acts 28:13.
 
-[3] Herod was with Caligula in this progress. The emperor’s triumph had no more
+[^3]: Herod was with Caligula in this progress. The emperor’s triumph had no more
 meaning that Napoleon’s column at Boulogne; but in the next reign Britain was
 really conquered.
 
-[4] He did not arrive at Rome until after the death of Tiberius. Like his
+[^4]: He did not arrive at Rome until after the death of Tiberius. Like his
 predecessor, he had governed Judea during ten or eleven years, the emperor
 having a great dislike for frequent changes in the provinces.
 
-[5] Tiberius had imprisoned him because of a conversation overheard by a slave
+[^5]: Tiberius had imprisoned him because of a conversation overheard by a slave
 when Caligula and Herod Agrippa were together in a carriage. Agrippa was much
 at Rome both at the beginning and end of Caligula’s reign.
 
-[6] It appears from Dio Cassius and Suetonius that this was part of a general
+[^6]: It appears from Dio Cassius and Suetonius that this was part of a general
 system for extending the worship of himself through the empire.
 
-[7] Philo’s account of this embassy is, next after Josephus, the most important
+[^7]: Philo’s account of this embassy is, next after Josephus, the most important
 writing of the period for throwing light on the condition of the Jews in
 Caligula’s reign. The Jewish envoys had their interview with the emperor at
 Puteoli, in the autumn of the same year (40 AD) in which he had made his
 progress through Gaul to the shore of the ocean.
 
-[8] Josephus, *Antiquities*, xix:8; Acts 12. The proof that his death took
+[^8]: Josephus, *Antiquities*, xix:8; Acts 12. The proof that his death took
 place in 44 may be seen in Anger and Wieseler; and indeed it is hardly doubted
 by any. A coincident and corroborative proof of the time of St. Paul’s journey
 to Jerusalem, is afforded by the mention of the Famine, which is doubtless that
@@ -160,19 +160,19 @@ recorded by Josephus.  Anger has shown that this famine must be assigned to the
 interval between 44 and 47; and Wieseler has fixed it more closely to the year
 45.
 
-[9] It ought to be stated that the latter date cannot be established by the
+[^9]: It ought to be stated that the latter date cannot be established by the
 same exact proof as the former; but, as a political fact, it must always be a
 cardinal point of reference in any system of Scripture chronology. Anger and
 Wieseler, by a careful induction of particulars, have made it highly probable
 that Festus succeeded Felix in the year 60. More will be said on this subject
 when we come to Acts 24:27.
 
-[10] Acts 9:30; Gal. 1:21. Wieseler, with Schrader, thinks that he stayed at
+[^10]: Acts 9:30; Gal. 1:21. Wieseler, with Schrader, thinks that he stayed at
 Tarsus only half a year or a year; Anger, that he was there two years, between
 41 and 43; Hemsen, that he spent there the years 40, 41, and 42. Among the
 English writers, Bishop Pearson imagines that great part of the interval after
 39 was passed in Syria; Burton, who places the conversion very early, is forced
 to allow nine or ten years for the time spent in Syria and Cilicia.
 
-[11] It may be gathered from Dio Cassius that the Emperor left Rome in July 34
+[^11]: It may be gathered from Dio Cassius that the Emperor left Rome in July 34
 and returned in January 45.
