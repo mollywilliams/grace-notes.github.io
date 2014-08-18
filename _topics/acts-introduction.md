@@ -2,6 +2,7 @@
 title: "Acts, Introduction"
 layout: lesson
 published: true
+description: an introduction to the study of the Acts of the Apostles.
 ---
 
 <style type="text/css">
