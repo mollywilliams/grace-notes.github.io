@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Grace Notes Home Page
+title: Grace Notes
 menu: primary
 menu_title: Home
 weight: 0
@@ -33,13 +33,3 @@ certificates for each course completed, Unit certificates, and Diplomas for
 completing various portions of the curriculum. See the course descriptions
 here: [Diplomas in Bible Teaching](diploma-courses.html)
 
-## Book Studies
-<ul>
-{% for lesson in site.lessons %}
-  {% for cat in lesson.categories %}
-    {% if cat == "books" %}
-      <li><a href="{{ lesson.url }}">{{ lesson.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-</ul>

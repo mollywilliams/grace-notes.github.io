@@ -5,8 +5,6 @@ layout: lesson
 published: true
 ---
 
-# Jude
-
 ## About the Book
 
 ### The Author

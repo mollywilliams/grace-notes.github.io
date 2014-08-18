@@ -1,22 +1,22 @@
 ---
-layout: default
-title: Grace Notes
 ---
 
 <html>
   <head>
-  <title>{{ page.title }}</title>
+  {% include google-fonts.html %}
+  <title>{{ page.title }} | Grace Notes</title>
   {% include head.html %}
   </head>
   <body>
     <div class="wrap">
-      <h1>{{ page.title }} <small>Training in Bible Teaching</small></h1>
+      <div class="brand">Grace Notes <small>Training in Bible Teaching</small></div>
       <ul id="primary-navigation" class="menu">
         {% assign menu = site.pages | where: 'menu','primary' | sort: 'weight' %}
         {% for item in menu %}
         <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{% if item.menu_title %}{{ item.menu_title }}{% else %}{{ item.title }}{% endif %}</a></li>
         {% endfor %}
       </ul>
+      <h1>{{ page.title }}</h1>
       {{ content }}
       {% include footer.html %}
     </div>
