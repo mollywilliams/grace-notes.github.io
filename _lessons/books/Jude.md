@@ -1,6 +1,6 @@
 ---
 title: Jude
-categories: books
+categories: [books, nt]
 layout: lesson
 published: true
 ---

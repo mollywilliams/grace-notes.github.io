@@ -1,0 +1,10 @@
+{% assign menu = site.lessons | sort: 'weight' %}
+<ul>
+{% for lesson in menu %}
+  {% for category in lesson.categories %}
+    {% if category == include.category %}
+    <li><a href="{{ lesson.url }}">{% if lesson.menu_title %}{{ lesson.menu_title }}{% else %}{{ lesson.title }}{% endif %}</a></li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ul>
