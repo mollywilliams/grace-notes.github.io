@@ -1,5 +1,5 @@
 ---
-title: ANABASIS
+title: Anabasis
 layout: lesson
 published: true
 description: "by Xenophon, The March of the Ten Thousand. The most famous work of the Greek professional soldier and writer Xenophon. The journey it narrates is his best known accomplishment and \"one of the great adventures in human history.\""
