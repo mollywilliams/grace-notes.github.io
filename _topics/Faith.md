@@ -3,6 +3,7 @@ title: Faith
 categories: topics
 layout: lesson
 published: true
+description: Faith as a means of learning compared to rationalism and empiricism; how Christian faith works; how to grow in faith. 
 ---
 
 
