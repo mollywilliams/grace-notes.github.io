@@ -1,12 +1,8 @@
 ---
 title: Abrahamic Covenant
 layout: lesson
+published: true
 ---
-
-
-**Abrahamic Covenant 7**
-
-**Abrahamic Covenant**
 
 Genesis 12:1-3 reads, “The Lord had said to Abram, ’Leave your country,
 your people and your fathers household and go to the land I will show
@@ -157,7 +153,7 @@ child of their own, then God said, “Now you are ready. Now you have no
 one and nothing to trust in but Me.” Gods power, then, must now fulfill
 the promise.
 
-CIRCUMCISION AND NAME CHANGE
+##CIRCUMCISION AND NAME CHANGE
 
 Now God changes Abrams name. Remember, that in the ancient covenant
 ritual each nation would alter its name to include the others name.
@@ -224,7 +220,7 @@ every newly circumcised Jewish infant. This phrase, chathan damim, has
 it provenance in the words spoken by Moses wife, Zipporah, in Exodus
 4:25, when she called him “a bloody bridegroom” and then abandoned him.
 
-THE COVENANT MEAL
+##THE COVENANT MEAL
 
 Genesis 18 narrates the covenant meal. Three men arrived to Abraham’s
 tent, one of which was the Lord or Jesus Christ. As the meal took place,
@@ -254,7 +250,7 @@ Egypt.
 Isaac was the first born son of Abraham and Jesus Christ was the last.
 Yahweh God, has laughed at mankind’s helplessness.
 
-PROVISIONS OF THE ABRAHAMIC COVENANT
+##PROVISIONS OF THE ABRAHAMIC COVENANT
 
 The Abrahamic Covenant constantly refers to the land and Abraham’s
 "descendants. The term for descendants may also be translated seed. Who,
@@ -399,4 +395,3 @@ Jewish by blood, are Abraham’s seed by faith. These, then, will inherit
 the new earth of Rev. 21:1, which reads, “Then I saw a new heaven and a
 new earth, for the first heaven and the first earth had passed away; and
 there was no longer any sea.”
-
