@@ -1,81 +1,59 @@
 ---
-title: Acts.Introduction
+title: "Acts, Introduction"
 layout: lesson
+published: true
 ---
-
-
-**Introduction to Acts2**
-
-**ACTS – An Introduction**
 
 By David Malick, Biblical Studies Foundation
 
-**I. Authorship of Acts**, Luke, is the author of the book Acts. He was
-also the author of its companion work, the Gospel of Luke. Luke-Acts
-makes up 28% of the New Testament–more than that written by either Paul
-or John.
+## I. Authorship of Acts
 
-A. External Evidence: Luke is uniformly identified as the author of Acts
+Luke is the author of the book Acts. He was also the author of its companion work, the Gospel of Luke. Luke-Acts makes up 28% of the New Testament–more than that written by either Paul or John.
+
+### A. External Evidence: Luke is uniformly identified as the author of Acts
 by the second century AD, in the writings of the Apostolic Fathers:
 
 The Anti-Marcionite Prologue to Luke; The Murtorian Fragment; Irenaeus;
 Clement of Alexandria; See also: Tertullian, Origen, Eusebius, and
 Jerome.
 
-B. Internal Evidence:
+### B. Internal Evidence:
 
 1. The Author was the Third Evangelist:
 
-a. This is implied in Acts 1:1, “In the first book ….”
-
-b. “Theophilus” is probably the same person as in Luke 1:1-4, “most
-excellent Theophilus.”
-
-c. There close similarity in style and language between Luke and Acts
-
-d. The tone of Luke and Acts is similar: world: worldwide outlook,
-interest in Gentiles, interest in woman, apologetic tendency
-
-e. The end of Luke dovetails into the beginning of Acts
-
-f. Jesus only appears to his disciples in Jerusalem in Luke and Acts
-
-g. Themes left out of Luke as a synoptic are incorporated into Acts by
+  a. This is implied in Acts 1:1, “In the first book ….”
+  b. “Theophilus” is probably the same person as in Luke 1:1-4, “most
+  excellent Theophilus.”
+  c. There close similarity in style and language between Luke and Acts
+  d. The tone of Luke and Acts is similar: world: worldwide outlook,
+  interest in Gentiles, interest in woman, apologetic tendency
+  e. The end of Luke dovetails into the beginning of Acts
+  f. Jesus only appears to his disciples in Jerusalem in Luke and Acts
+  g. Themes left out of Luke as a synoptic are incorporated into Acts by
 design (e.g., destruction of the temple [Acts 6])
+  h. Luke is the only Gospel which refers to Jesus’ appearance before Herod Antipas in his trial (Luke 23:7-12), and this theme is alluded to in Acts 4:27)
 
-h. Luke is the only Gospel which refers to Jesus’ appearance before
-Herod Antipas in his trial (Luke 23:7-12), and this theme is alluded to
-in Acts 4:27)
+2. The Author Was a Companion of Paul. This is a debated position, but there is good evidence for its support:
 
-2. The Author Was a Companion of Paul. This is a debated position, but
-there is good evidence for its support:
-
-a. There are movement in the narrative from the 3rd person to the first
-person plural–the “We” sections (16:10-17; 20:5-21:18; 27:1– 28:16). It
-is most natural to understand these to refer to the personal memoirs of
-one of Paul’s companions. There is no change in style which demonstrate
-these to be an external source.
-
-b. The prologue to the double work of Luke-Acts allows for Luke to have
-participated in some of the events of Acts (“having followed all things
-closely for some time past …” Luke 1:3)
-
-c. Luke’s Paul is not necessarily different from Paul’s Paul. The
-differences can be accounted for in style, and context.
+  a. There are movement in the narrative from the 3rd person to the first person plural–the “We” sections (16:10-17; 20:5-21:18; 27:1– 28:16). It is most natural to understand these to refer to the personal memoirs of one of Paul’s companions. There is no change in style which demonstrate these to be an external source.
+  
+  b. The prologue to the double work of Luke-Acts allows for Luke to have participated in some of the events of Acts (“having followed all things closely for some time past …” Luke 1:3)
+  
+  c. Luke’s Paul is not necessarily different from Paul’s Paul. The differences can be accounted for in style, and context.
 
 3. The Author was Luke the Physician
 
-a. The earliest traditions identify the author with the expression of
-Colossians 4:14, “Luke, the beloved physician” and this epistle probably
-aligns with Paul’s Roman imprisonment which Luke would have been present
-during according to the “We” sections (see also Philemon 24; 2 Timothy
-4:11)
+  a. The earliest traditions identify the author with the expression of
+  Colossians 4:14, “Luke, the beloved physician” and this epistle probably
+  aligns with Paul’s Roman imprisonment which Luke would have been present
+  during according to the “We” sections (see also Philemon 24; 2 Timothy
+  4:11)
+  
+  b. He is distinct from those named in the “We” sections: Silas/Silvanus,
+  Timothy, Sopater, Aristarchus, Secundus, Gaius (of Derbe) Tychicus, or
+  Trophimus
 
-b. He is distinct from those named in the “We” sections: Silas/Silvanus,
-Timothy, Sopater, Aristarchus, Secundus, Gaius (of Derbe) Tychicus, or
-Trophimus
-
-**II. The Date of Acts: Before A.D. 64/65.**
+## II. The Date of Acts: Before A.D. 64/65
 
 A. The earliest date for the book of Acts is the two year imprisonment
 which is recorded in Acts 28:30-31 which would have been around A.D. 60
@@ -124,8 +102,7 @@ gospel written in the 50s. However, it is not necessary to understand
 Luke to be altering Mark’s eschatological passage in chapter 13. Jesus
 speaks predictively and Luke understands this.
 
-III. The Sources of Acts
-========================
+## III. The Sources of Acts
 
 A. It is certain that Luke used sources in his composition of his double
 work (Luke 1:1-4).
@@ -148,8 +125,7 @@ employed).
 D. It is not presently possible to isolate Luke’s sources for Acts, but
 all indications are that he is a credible historian/theologian.
 
-IV. Purpose of Acts
-===================
+## IV. Purpose of Acts
 
 A. There are many candidates: (1) to evangelize, (2) to defend Paul and
 Christianity in the face of Jewish attacks, (3) to present Christianity
@@ -184,4 +160,3 @@ because the Jews rejected the message of Jesus as Messiah, and pushed
 the church out. Nevertheless, the Jews as a people are not rejected by
 God or his servant Paul. The promises will yet be consummated for the
 nation through the resurrected Jesus–the hope of Israel.
-
