@@ -1,16 +1,13 @@
 ---
 title: Adam
 layout: lesson
+description: "It is fitting that we start with Adam, because Adam was the first head of the human race. By looking at Adam's life we can discover the beginnings of our problems... and solutions. "
+date: "01/01/2013"
 ---
-
-
-**Adam 5**
-
-Adam
 
 **Adam and Life’s Problems and Solutions**
 
-by Pastor Mark Perkins, Front Range Bible Church, Denver, Colorado
+*by Pastor Mark Perkins, Front Range Bible Church, Denver, Colorado*
 
 It is fitting that we start with Adam, because Adam was the first head
 of the human race. By looking at Adam’s life we can discover the
@@ -65,13 +62,13 @@ consequences:
 -   They would be born with a human conscience, and thus be able to
     discern right from wrong,
 
-Romans 2:14-15, “For when Gentiles who do not have the Law do
+> Romans 2:14-15, “For when Gentiles who do not have the Law do
 instinctively the things of the Law, these, not having the law, are a
 law to themselves, in that they show the work of the Law written in
 their hearts, their conscience bearing witness, and their thoughts
 alternately accusing or else defending them…”
 
-Romans 5:13,14, “for until the Law sin was in the world; but sin is not
+> Romans 5:13,14, “for until the Law sin was in the world; but sin is not
 imputed though [concessive use of the present participle] there is no
 law. Nevertheless death reigned from Adam until Moses, even over those
 who had not sinned in the likeness of the offense of Adam, who is a type
@@ -105,7 +102,7 @@ spiritual death.
 
 Romans 5:15,16 contrasts the two Adams:
 
-“But the free gift is not like the transgression. For if by the
+> “But the free gift is not like the transgression. For if by the
 transgression of the one the many died, much more did the grace of God
 and the gift by the grace of the one Man, Jesus Christ, abound to the
 many. And the gift is not like that which came through the one who
@@ -129,7 +126,7 @@ Spiritual death arose from the sins of one being imputed to the all.
 
 Romans 5:17 tells us about realms of power and authority related to sin.
 
-“For if by the transgression of the one, death reigned through the one,
+> “For if by the transgression of the one, death reigned through the one,
 much more those who receive the abundance of grace and of the gift of
 righteousness will reign in life through the One, Jesus Christ.”
 
@@ -152,12 +149,12 @@ God’s control.
 
 Romans 5:18 provides a further explanation of the principle.
 
-“So then just as through one transgression there resulted condemnation
+> “So then just as through one transgression there resulted condemnation
 to all men, even so through one act of righteousness [a judicial
 sentence, handed down by a judge] there resulted justification of life
 to all men.”
 
-The Greek word **dikaio.ma** indicates a judicial sentence passed down
+The Greek word δικαιομα indicates a judicial sentence passed down
 from a judge.
 
 -   In this case, it is the death sentence passed down from God the
@@ -182,7 +179,7 @@ the basis for our justification.
 
 Romans 5:19 begins the summary,
 
-“For as through the one man’s disobedience the many were made sinners,
+> “For as through the one man’s disobedience the many were made sinners,
 even so through the obedience of the One the many will be made
 righteous.”
 
@@ -193,7 +190,7 @@ to all who believe on Him.
 
 f. The final two verses of the chapter:
 
-Romans 5:19,20, “Now the Law came in the side door [pareiserchomai] so
+> Romans 5:19,20, “Now the Law came in the side door [pareiserchomai] so
 that the transgression [unbelief - the unforgiveable sin] might increase
 [grow in importance as an issue]; but where the sin increased [as an
 issue], grace abounded all the more [salvation provision] that, as the
@@ -231,7 +228,7 @@ life in God.
 
 I Cor. 15:20-22 introduce the matter.
 
-“But now Christ has been raised from the dead, the first fruits of those
+> “But now Christ has been raised from the dead, the first fruits of those
 who are asleep. For since by a man came death, by a man also came the
 resurrection of the dead. For as in Adam all die, so also in Christ all
 shall be made alive.”
@@ -252,10 +249,10 @@ will be many more.
 
 1 Cor. 15:23 and 24 set forth the order of resurrections.
 
-"But each in his own order: Christ the first fruits, after that those
+> "But each in his own order: Christ the first fruits, after that those
 who are Christ’s at His coming, then comes the end, when He delivers up
 the kingdom to the God and Father, when he has abolished all rule and
-all authroity and power.
+all authority and power."
 
 The word for order in this passage has to do with human organizations of
 various kinds. Primarily, it is a word used of military formations. In a
@@ -272,10 +269,10 @@ what is in view here.
 
 -   It is at the end of history that all rule is abolished.
 
-**arche**. is the word for rule, and it serves as the general category.
+ἀρχη is the word for rule, and it serves as the general category.
 
-**exousia** and **dunamis** define the two types of rulership;
-**exousia** for legitimate authority, and **dunamis** for illegitimate.
+ἐξουσιας and δυναμις define the two types of rulership;
+ἐξουσιας for legitimate authority, and δυναμις for illegitimate.
 
 It is all abolished because the kingdom of heaven is put into place,
 where Christ rules all.
@@ -285,7 +282,7 @@ The kingdom which Christ delivers is His millennial kingdom.
 I Cor. 15:25 and 26 explain the reason for the extension of Christ’s
 millennial rule,
 
-“For He must reign until He has put all His enemies under His feet. The
+> “For He must reign until He has put all His enemies under His feet. The
 last enemy that will be abolished is death.”
 
 Christ will reign in His kingdom until the job is completely finished.
@@ -308,7 +305,7 @@ first real enemy.
 
 1 Cor. 15:27 and 28 comment on the victory that has already been won.
 
-“For he has put all things in subjection under His feet. But when he
+> “For he has put all things in subjection under His feet. But when he
 says, ‘All things are put in subjection,’ it is evident that He is
 excepted who put all things in subjection to Him. And when all things
 are subjected to Him, then the Son Himself also will be subjected to the
@@ -350,7 +347,7 @@ our study, so we will skip them
 
 1 Cor. 15:35 picks up the subject of the actual resurrection.
 
-“But someone will say, ‘How are the dead raised? And with what kind of
+> “But someone will say, ‘How are the dead raised? And with what kind of
 body do they come?’”
 
 We know how death came into the world - through Adam’s original sin came
@@ -374,7 +371,7 @@ but a bare grain, perhaps of wheat or of something else.”
 1 Cor. 15:38,39 are an explanation of the individuality of the
 resurrection bodies of all creatures.
 
-“But God gives it a body just as He willed, and to each of the seeds a
+> “But God gives it a body just as He willed, and to each of the seeds a
 body of its own. All flesh is not the same flesh, but there is one flesh
 of men and another flesh of beasts, and another flesh of birds, and
 another of fish.”
@@ -400,7 +397,7 @@ fantastic. If you neglect it, it will be not much.
 
 1 Cor. 15:40,41 continue the explanation.
 
-“There are also heavenly bodies and earthly bodies, but the glory of the
+> “There are also heavenly bodies and earthly bodies, but the glory of the
 heavenly is one, and the glory of the earthly is another. There is one
 glory of the sun, and another glory of the moon, and another glory of
 the stars; for star differs from star in glory. So also is the
@@ -414,7 +411,7 @@ to the will of God.
 1 Cor. 15:42,43 tell us the about the soil into which the seed of the
 resurrection body is sown.
 
-“It is sown in a perishable body, it is raised in an imperishable body;
+> “It is sown in a perishable body, it is raised in an imperishable body;
 it is sown in dishonorable, it is raised in glory; it is sown in
 weakness, it is raised in power; it is sown a soulish body, it is raised
 a spiritual body. If there is a natural body, there is also a spiritual
@@ -423,11 +420,11 @@ body.”
 The soil into which the seed is planted is the human body. The body is
 the perishable, the dishonorable, the weak, the soulish.
 
-The soulish is from the Greek word psuchikos. Soulish is used elsewhere
+The soulish is from the Greek word ψυχικος. Soulish is used elsewhere
 in Scripture (1 Cor 2:14; James 3:15; Jude 1:19) to connote a person
 without a human spirit.
 
-The weakness is from the Greek word astheneia, which emphasizes the
+The weakness is from the Greek word ἀσθενεια, which emphasizes the
 inability of the human to make the conversion.
 
 The perishable is obvious.
@@ -438,13 +435,13 @@ human flesh.
 And now a comparison is made between the earthly body of Adam and his
 race, and Christ and His followers.
 
-1 Cor. 15:45,46, "So also it is written, ‘The first man, Adam, became a
+> 1 Cor. 15:45,46, "So also it is written, ‘The first man, Adam, became a
 lving soul.’ The last Adam [Christ] became a life-making spirit.
 However, the spiritual is not first, but the natural; then the
-spiritual.
+spiritual."
 
 Adam’s bad decision resulted in the spiritual death of the entire human
-race. This is summed up in the phrase **psuche zosan** - “living soul.”
+race. This is summed up in the phrase ψυχη ζοσα - *living soul*.
 
 -   A living soul is one that has human life, but not spiritual.
 
@@ -462,7 +459,7 @@ problem must appear before the solution.
 
 The conclusion is in 1 Cor. 15:47-49.
 
-“The first man is from the earth, earthy; the second man is from heaven.
+> “The first man is from the earth, earthy; the second man is from heaven.
 As is the earthy, so also are those who are earthy; and as is the
 heavenly, so also are those who are heavenly. And just as we have borne
 the image of the earthy, we shall also bear the image of the heavenly.”
