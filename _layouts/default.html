@@ -8,14 +8,18 @@
   {% include head.html %}
   </head>
   <body>
-    <div class="wrap">
-      <div class="brand">Grace Notes <small>Training in Bible Teaching</small></div>
-      <ul id="primary-navigation" class="menu">
-        {% assign menu = site.pages | where: 'menu','primary' | sort: 'weight' %}
-        {% for item in menu %}
-        <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{% if item.menu_title %}{{ item.menu_title }}{% else %}{{ item.title }}{% endif %}</a></li>
-        {% endfor %}
-      </ul>
+    <div class="header">
+      <div class="container">
+        <div class="brand">Grace Notes <small>Training in Bible Teaching</small></div>
+        <ul id="primary-navigation" class="menu">
+          {% assign menu = site.pages | where: 'menu','primary' | sort: 'weight' %}
+          {% for item in menu %}
+          <li{% if page.url == item.url %} class="active"{% endif %}><a href="{{ item.url }}">{% if item.menu_title %}{{ item.menu_title }}{% else %}{{ item.title }}{% endif %}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <div class="wrap container">
       <h1>{{ page.title }}</h1>
       {{ content }}
       {% include footer.html %}
