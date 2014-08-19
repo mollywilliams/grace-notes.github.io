@@ -14,7 +14,7 @@ of the human race. By looking at Adam’s life we can discover the
 beginnings of our problems… and solutions. Adam is perhaps the one man
 in these genealogies with the greatest connection to Christ.
 
-Rom 5:12-21, “Therefore, just as through one man sin entered into the
+> Rom 5:12-21, “Therefore, just as through one man sin entered into the
 world, and death through sin, and so death spread to all men because all
 sinned”
 
