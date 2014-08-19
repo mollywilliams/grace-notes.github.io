@@ -2,7 +2,8 @@
 title: "Acts, Introduction"
 layout: lesson
 published: true
-description: an introduction to the study of the Acts of the Apostles.
+description: "an introduction to the study of the Acts of the Apostles."
+date: "12/01/2008"
 ---
 
 By David Malick, Biblical Studies Foundation

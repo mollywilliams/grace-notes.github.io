@@ -1,14 +1,13 @@
 ---
-title: Acts Survey
+title: Acts, Survey
 layout: lesson
+description: "a survey of the Acts of the Apostles."
+date: "11/1/2011"
 ---
-
-
-**Acts - Survey 2**
 
 **Survey of the Acts of the Apostles**
 
-Author and Title:
+## Author and Title
 
 Although the author is unnamed in Acts, the evidence leads to the
 conclusion that the author was Luke. Acts is the second volume of a
@@ -41,7 +40,7 @@ Many have felt that the book would be more accurately titled, “The Acts
 of the Holy Spirit” since it describes the spread of Christianity from
 the time of the coming of the Spirit in Acts 2 as promised in Acts 1:8.
 
-Date: A.D. 61
+## Date: A.D. 61
 
 The issues regarding the dating of the book are summarized by Stanley
 Toussaint as follows:
@@ -70,7 +69,7 @@ Acts is around AD 60-62. Accordingly the place of writing would be Rome
 or possibly both Caesarea and Rome. At the time of writing, Paul’s
 release was either imminent or had just taken place.
 
-Theme and Purpose:
+## Theme and Purpose
 
 The book of Acts stands out as unique among the New Testament books for
 it alone provides a bridge for the other books of the New Testament. As
@@ -101,14 +100,14 @@ empowering God’s people to be the Savior’s witnesses both in Jerusalem
 (home base), and in all Judea and Samaria (the immediate and surrounding
 areas), and even to the remotest part of the earth (the world).
 
-Key Word:
+## Key Word
 
 The key concept for Acts would be *the growth of the Church in all the
 world.*
 
 Two key words are “witness” or “witnesses,” and “the Holy Spirit.”
 
-Key Verses:
+## Key Verses
 
 **1:8** “But you will receive power when the Holy Spirit has come on
 you, and you will be my witnesses in Jerusalem, and in all Judea and
@@ -126,7 +125,7 @@ sharing their food with glad and humble hearts, **2:47** praising God
 and having the good will of all the people. And the Lord was adding to
 their number every day those who were being saved.
 
-Key Chapters:
+## Key Chapters
 
 Since the accomplishment of the church’s global mission of worldwide
 outreach is dependent on the coming of the Holy Spirit, **chapter 2** is
@@ -136,59 +135,59 @@ of baptizing believers into Christ’s body, the church (cf. 1:5; 11:15-16
 with 1 Cor. 12:13), began indwelling all believers and empowering them
 to be witnesses of the Savior.
 
-Key People:
+## Key People
 
 Key people include: Peter, Stephen, Philip, James, Barnabas and Paul.
 
-Outline:
+## Outline
 
 Acts can be naturally outlined around Acts 1:8, the spread of the gospel
 from Jerusalem to Judea and Samaria, and to the uttermost part of the
 earth.
 
-I. The Witness in Jerusalem (1:1-6:7)
+### I. The Witness in Jerusalem (1:1-6:7)
 
-A. The Expectation of the Chosen (1:1-2:47) *Progress report no. 1:*“And
-the Lord added to their number daily those who were being saved” (2:47).
+  A. The Expectation of the Chosen (1:1-2:47) *Progress report no. 1:*“And
+  the Lord added to their number daily those who were being saved” (2:47).
 
-B. The Expansion of the Church in Jerusalem (3:1-6:7) *Progress report
-no. 2:*“So the Word of God spread. The number of disciples in Jerusalem
-increased rapidly” (6:7).
+  B. The Expansion of the Church in Jerusalem (3:1-6:7) *Progress report
+  no. 2:*“So the Word of God spread. The number of disciples in Jerusalem
+  increased rapidly” (6:7).
 
-II. The Witness in all Judea and Samaria (6:8-9:31)
+### II. The Witness in all Judea and Samaria (6:8-9:31)
 
-A. The Martyrdom of Stephen (6:8-8:1a)
+  A. The Martyrdom of Stephen (6:8-8:1a)
 
-B. The Arrest of Stephen (6:8-7:1)
+  B. The Arrest of Stephen (6:8-7:1)
 
-C. The Address of Stephen (7:2-53)
+  C. The Address of Stephen (7:2-53)
 
-D. The Attack on Stephen (7:54-8:1a)
+  D. The Attack on Stephen (7:54-8:1a)
 
-E. The Ministry of Philip (8:1b-40)
+  E. The Ministry of Philip (8:1b-40)
 
-F. The Message of Saul (9:1-31)
+  F. The Message of Saul (9:1-31)
 
-G. The Conflicts of Saul (9:19b-31) *Progress report no. 3:*“Then the
-church throughout Judea, Galilee, and Samaria . . . was strengthened;
-and [it was] encouraged by the Holy Spirit, it grew in numbers, living
-in the fear of the Lord” (9:31).
+  G. The Conflicts of Saul (9:19b-31) *Progress report no. 3:*“Then the
+  church throughout Judea, Galilee, and Samaria . . . was strengthened;
+  and [it was] encouraged by the Holy Spirit, it grew in numbers, living
+  in the fear of the Lord” (9:31).
 
-III. The Witness to the Extremity of the Earth (9:32-28:31)
+### III. The Witness to the Extremity of the Earth (9:32-28:31)
 
-A. The extension of the church to Antioch (9:32-12:24) *Progress report
-no. 4:*“But the Word of God continued to increase and spread” (12:24).
+  A. The extension of the church to Antioch (9:32-12:24) *Progress report
+  no. 4:*“But the Word of God continued to increase and spread” (12:24).
 
-B. The extension of the church in Asia Minor (12:25-16:5) *Progress
-report no. 5:*“So the churches were strengthened in the faith and grew
-daily in numbers” (16:5).
+  B. The extension of the church in Asia Minor (12:25-16:5) *Progress
+  report no. 5:*“So the churches were strengthened in the faith and grew
+  daily in numbers” (16:5).
 
-C. The extension of the church in the Aegean area (16:6-19:20) *Progress
-report no. 6:*“In this way the Word of the Lord spread widely and grew
-in power” (19:20).
+  C. The extension of the church in the Aegean area (16:6-19:20) *Progress
+  report no. 6:*“In this way the Word of the Lord spread widely and grew
+  in power” (19:20).
 
-D. The extension of the church to Rome (19:21-28:31) *Progress report
-no. 7:*“Paul . . . welcomed all who came to see him. Boldly and without
-hindrance he preached the kingdom of God and taught about the Lord Jesus
-Christ” (28:30-31).
+  D. The extension of the church to Rome (19:21-28:31) *Progress report
+  no. 7:*“Paul . . . welcomed all who came to see him. Boldly and without
+  hindrance he preached the kingdom of God and taught about the Lord Jesus
+  Christ” (28:30-31).
 

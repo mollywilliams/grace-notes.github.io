@@ -1,13 +1,9 @@
 ---
 title: Absalom
 layout: lesson
+description: "David's third son by Maacah daughter of Talmai king of Geshur (a small country between Hermon and Bashan)"
+date: 02/01/2013
 ---
-
-
-<sup>Absalom</sup>
-
-Absalom
-=======
 
 **1.** [Heb *’aḇšālôm*—‘father is (or ‘of’) peace’]; also **ABISHALOM**
 ə-bishʹə-ləm [Heb *’*<sup>*a*</sup>*ḇîšālôm*] (1 K. 15:2, 10). David’s
@@ -112,7 +108,8 @@ he was killed. A great pile of stones was heaped over his body (18:17),
 in accordance with the custom of dishonoring rebels and great criminals
 (Josh. 7:26; 8:29).
 
-***V. David’s Lament***
+V. David’s Lament
+-----------------
 
 The death of Absalom was a source of great grief to his fond and aged
 father. David’s lament at the gate of Mahanaim, though very brief, is a
@@ -134,7 +131,6 @@ of Kidron traditionally has been called Absalom’s tomb; but this fine
 piece of masonry with its graceful cupola and Ionic pillars is probably
 not earlier than the Roman period.
 
-W. W. Davies
+**W. W. Davies**
 
-from International Standard Bible Encyclopedia
-
+*from International Standard Bible Encyclopedia*

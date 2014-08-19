@@ -3,6 +3,7 @@ title: Acts Historical Background
 layout: lesson
 published: true
 description: "chronology, and some of the political background of the Acts of the Apostles."
+date: 12/1/2013
 ---
 
 *from “The Life and Epistles of St. Paul,” by W. J. Conybeare and J. S.

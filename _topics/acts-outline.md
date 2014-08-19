@@ -1,16 +1,15 @@
 ---
-title: Acts Outline
+title: Acts, Outline
 layout: lesson
+discription: "outline of the book of Acts."
+date: "06/01/2004"
 ---
-
-
-**Acts – Outline,3**
 
 **The Acts of the Apostles - Outline**
 
-**The Period of Local Evangelism**
+## The Period of Local Evangelism
 
-**Preparatory Events**
+### Preparatory Events
 
 Reintroducing the Lord Jesus Christ, **1:1-3**
 
@@ -24,7 +23,7 @@ The selection of Matthias, **1:15,16**
 
 The descent of the Holy Spirit, **2:1-4**
 
-**The Ministries**
+### The Ministries
 
 The power for the ministry, **2:1-13**
 
@@ -46,7 +45,7 @@ Philip and Peter, **8:5-25**
 
 Philip’s ministry alone, **8:26-40**
 
-**Events in the Church**
+### Events in the Church
 
 The indwelling of the Holy Spirit, **4:31**
 
@@ -58,9 +57,9 @@ Spiritual power of the church, **5:12-16**
 
 The appointment of deacons, **6:1-6**
 
-**The Spread of the Gospel**
+## The Spread of the Gospel
 
-**Preliminary Events Leading to Worldwide Missions**
+### Preliminary Events Leading to Worldwide Missions
 
 Philip in Samaria, with Peter and John, **8:5-25**
 
@@ -79,15 +78,16 @@ Paul and Barnabas build church at Antioch, **11:25,26**
 
 Herod’s persecution; death of James; Peter in prison, **12:1-19**
 
-**Paul’s First Missionary Journey: 13:4 to 14:26**
+### Paul’s First Missionary Journey: 13:4 to 14:26
 
 **CYPRUS**: **Salamis** – Paul and Barnabas preach in synagogue;
+
 **Paphos** – Sergius Paulus converted; Elymas the sorcerer; Saul’s name
 changed to Paul.
 
 **PERGA IN PAMPHYLIA** – John Mark deserts the apostles
 
-### ANTIOCH IN PISIDIA - Paul’s address; The Apostles are rejected by the Jews and turn to the Gentiles; Paul is ill and helped by the Galatians; Persecution
+**ANTIOCH IN PISIDIA** - Paul’s address; The Apostles are rejected by the Jews and turn to the Gentiles; Paul is ill and helped by the Galatians; Persecution
 
 **ICONIUM** – persecution causes apostles to flee to Lystra.
 
@@ -98,7 +98,7 @@ Paul’s speech; Paul is stoned.
 
 **ANTIOCH IN SYRIA** – the apostles stay two years.
 
-**The Council at Jerusalem, 15:1-30**
+### The Council at Jerusalem, 15:1-30
 
 **Preliminary Meetings**: (1) Formal reception of delegates from
 Antioch; (2) Private interviews of Paul; (3) Public discussions of
@@ -109,7 +109,7 @@ Barnabas report on work with Gentiles; (3) James’ speech; (4) Selection
 of delegates to the churches; (5) The letter to the churches; (6) Paul
 and Barnabas approved to go to the Gentiles.
 
-**Paul’s Second Missionary Journey, 15:36 to 18:22**
+### Paul’s Second Missionary Journey, 15:36 to 18:22
 
 **ANTIOCH IN SYRIA** – Paul and Barnabas disagree over John Mark and
 separate.
@@ -132,20 +132,20 @@ companion.
 
 **PHILIPPI**
 
--   First European church founded
+- First European church founded
 
--   Paul’s arrival in the city
+- Paul’s arrival in the city
 
--   Euodias, Syntyche, Syzygus, Clement
+- Euodias, Syntyche, Syzygus, Clement
 
--   Conversion of Lydia
+- Conversion of Lydia
 
--   The healing of the demon-possessed girl
+- The healing of the demon-possessed girl
 
--   Paul and Silas in prison, the earthquake, salvation of the
-    Philippian jailer
+- Paul and Silas in prison, the earthquake, salvation of the
+  Philippian jailer
 
--   Luke remains in Philippi
+- Luke remains in Philippi
 
 **AMPHIPOLIS**
 
@@ -153,36 +153,36 @@ companion.
 
 **THESSALONICA**
 
--   Paul and Silas preach in synagogue
+- Paul and Silas preach in synagogue
 
--   Jason is brought before the magistrates.
+- Jason is brought before the magistrates.
 
 **BEREA** – Jews from Thessalonica oppose them, Paul departs by Silas
 remains.
 
 **ATHENS**
 
--   Silas and Timothy sent for
+- Silas and Timothy sent for
 
--   Paul disputes with Jews and with Greek philosophers
+- Paul disputes with Jews and with Greek philosophers
 
--   Paul’s speech on Mars Hill.
+- Paul’s speech on Mars Hill.
 
 **CORINTH**
 
--   Paul lives with Priscilla and Aquila, works as a tentmaker
+- Paul lives with Priscilla and Aquila, works as a tentmaker
 
--   Philippians send him aid
+- Philippians send him aid
 
--   Silas and Timothy return from Macedonia
+- Silas and Timothy return from Macedonia
 
--   The conversion of Crispus, Gaius, and the household of Stephanus
+- The conversion of Crispus, Gaius, and the household of Stephanus
 
--   Paul’s vision
+- Paul’s vision
 
--   Paul before Gallio.
+- Paul before Gallio.
 
-##### CENCHREA
+**CENCHREA**
 
 **EPHESUS**
 
@@ -192,9 +192,9 @@ remains.
 
 **ANTIOCH**
 
-**Paul’s Third Missionary Journey, 18:23 to 21:15**
+### Paul’s Third Missionary Journey, 18:23 to 21:15
 
-##### GALATIA AND PHRYGIA
+**GALATIA AND PHRYGIA**
 
 **EPHESUS**
 
@@ -242,7 +242,7 @@ remains.
 Chios, Samos, Trogyllium, Miletus, Coos, Rhodes, Patara, Cyprus, Tyre,
 Ptolemais, Caesarea (Agabus’ prophecy), Jerusalem
 
-**Paul in Jerusalem and Caesarea, 21:18 to 26:29**
+### Paul in Jerusalem and Caesarea, 21:18 to 26:29
 
 -   He relates his experiences to the church, **21:18-20**
 
@@ -268,7 +268,7 @@ Ptolemais, Caesarea (Agabus’ prophecy), Jerusalem
 
 -   His address before Agrippa, **26:1-19**
 
-**Paul’s Journey to Rome, 27:1 to 28:31**
+### Paul’s Journey to Rome, 27:1 to 28:31
 
 -   First stage of the voyage, **27:1-13**
 
