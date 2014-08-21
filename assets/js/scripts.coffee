@@ -34,11 +34,15 @@ $(document).ready ->
   key.click (e)->
     e.preventDefault()
     f = $(e.target).data('filter')
+    $('.topics-list').css('min-height', $('.topics-list').innerHeight())
     if f is "*"
-      $(".topics-list li").show(200)
+      $(".topics-list li").show()
+      setTimeout -> $('.topics-list').css('min-height', 0)
     else
-      $(".topics-list li").hide(200)
-      $(".topics-list li[data-letter='#{f}']").show(200)
+      $(".topics-list li[data-letter!='#{f}']").hide()
+      setTimeout ->
+        $(".topics-list li[data-letter='#{f}']").show()
+        setTimeout -> $('.topics-list').css('min-height', 0)
 
 unique = (a)->
   o = {}

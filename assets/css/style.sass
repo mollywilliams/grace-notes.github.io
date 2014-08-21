@@ -145,9 +145,12 @@ blockquote
   padding: 0
   margin-top: 1.5em
   margin-bottom: 1.5em
+  min-height: 10em
   li
     list-style-type: none
-    margin-bottom: 1em
+    padding: 0.5em
+    &:nth-child(2n)
+      background: #f8f8f8
     a:link
       font-weight: 700
       color: #444
@@ -165,5 +168,11 @@ blockquote
     text-align: center
     a
       display: inline-block
-      padding: 0.2em 0.5em
+      padding: 0.2em 0
+      background: rgb(109, 109, 109)
+      margin: 2px
+      width: 2em
+      line-height: 2em
+      color: white
+      text-align: center
       
