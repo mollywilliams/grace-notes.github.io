@@ -1,13 +1,10 @@
 ---
 title: Rabbinical Exegesis
 layout: lesson
+description: "from Talmud scholars, a brief description of the rules to be observed in deducing Halakhah (Jewish law) from the texts of Scripture."
 ---
 
-
-**Rabbinical Exegesis**
-
-Rabbinical Exegesis <sup>[<sup>1</sup>](#sdfootnote1sym)</sup>
---------------------------------------------------------------
+**Edersheim, Alfred, *History of the Jewish Nation after the Destruction of Jerusalem under Titus*, Appendix VII.**
 
 We cannot attempt in this place to give a complete account of the
 principles of Rabbinical exegesis, or of the rules to be observed in
@@ -50,13 +47,13 @@ another, it was held that if one of them confirmed the injunction
 contained in the second, while the second appeared to annul the
 injunction of the first, the second passage was to be rejected. Thus in
 Lev. 6:14 it was inferred that the injunction “before the Lord,” i.e.
-before the Holy Place, or on the west, overrode the injunction " before
+before the Holy Place, or on the west, overrode the injunction "before
 the altar," i.e. on the south.]
 
 If, however, there was only a partial contradiction between two
 passages, it was necessary to wait till a third verse was found which
 reconciled them. So Exo. 40:35 and Num, 7:89 are reconciled by means of
-Exo. 40:34,
+Exo. 40:34.
 
 Again, careful distinctions are drawn between the different modes of
 deducing logical conclusions from one or more passages of Scripture, If
@@ -157,8 +154,8 @@ was interdicted.
 
 On the other hand, as the statement that redemption was not to be taken
 for a murderer was needless, it was meant to indicate that redemption
-might be taken in cases of inferior importance, such as in that of an "
-eye for an eye."
+might be taken in cases of inferior importance, such as in that of an
+"eye for an eye."
 
 [These different methods of drawing inferences from the statements of
 Scripture were not all of equal value, and some were only to be used
@@ -183,13 +180,13 @@ Similarly, sentences and whole sections might be interchanged.
 
 In order to reconcile the Halakhah with the sacred text, it became
 necessary to seek in the latter indications for enlarging technically
-called " increasing " and for limiting its provisions. The particles "
-and, also, that," belonged to the first class ; " only, merely," etc.,
+called "increasing" and for limiting its provisions. The particles
+"and, also, that," belonged to the first class ; "only, merely," etc.,
 to the second. Some, such as the article, the suffixes, etc., enlarged
 or limited according to circumstances. But if the connection between a
 Halakhah and a text was deemed certain, almost anything might be
-employed for proving all the details of the former. Thus the verb " he
-shall be " was, according to the value of its letters in numerals, made
+employed for proving all the details of the former. Thus the verb "he
+shall be" was, according to the value of its letters in numerals, made
 to indicate that a vow, not otherwise limited, extended over thirty
 days. Naturally, in deductions of this character, great weight was
 attached to the authority of celebrated Rabbins as warranting certain
@@ -211,19 +208,11 @@ been received by the Synagogue. To Hillel, Jewish historians ascribe the
 following seven Middoth :
 
 1.  Kal Ve-Chomer, *inductio a minore ad majorem*. Tosefta Sanli. vii.
-
 2.  Gezerah Shavah, verbal analogy.
-
-3.  Binjan Av from one verse, or deduction by combination from one
-    verse.
-
+3.  Binjan Av from one verse, or deduction by combination from one verse.
 4.  Binjan Av from two verses.
-
 5.  Kelal and Perat, generalization and particularization.
-
-6.  Hekesh Mah Mazinu, analogy of the contents of a verse, " as it
-    results from one passage."
-
+6.  Hekesh Mah Mazinu, analogy of the contents of a verse, "as it results from one passage."
 7.  Inference from the context.
 
 These Middoth, in their development, gave rise to certain controversies
@@ -249,41 +238,29 @@ acknowledged by the Synagogue, and which were inserted into the
 prayer-book, are:
 
 1.  Kal Ve-Chomer
-
 2.  Gezerah Shavah
-
 3.  Binjan Av from one, and Binjan Av from two verses
-
 4.  From Kelal and Perat
-
 5.  From Perat and Kelal
-
 6.  Kelal, Perat, and Kelal infer only what is similar to the Perat
-
 7.  Kelal which requires a Perat, and Perat which requires a Kelal
-
 8.  If anything contained in the Kelal is singled out (particularized)
     for a decision, this is done not in order to decide about itself,
     but about the Kelal
-
 9.  If anything contained in the Kelal is singled out to impose a new
     obligation which is related to the general obligation of the Kelal,
     it has been singled out in order to lighten, but not to increase the
     burden
-
 10. If anything that is contained in the Kelal is singled out to impose
     a new obligation which is not related to the general obligation of
     the Kelal, it has been singled out both in order to lighten and to
     increase the burden (it is entirely independent of the Kelal)
-
 11. If anything contained in the Kelal is singled out in order that a
     new matter may be attached to it, the latter may not again be ranged
     with its Kelal, unless Scripture itself expressly range it again
     with the Kelal
-
 12. Something may be learned from the context of a verse and something
     from its own bearing
-
 13. When two verses exclude (contradict) each other, we wait till a
     third verse is adduced which decides between them.
 
@@ -292,8 +269,3 @@ acknowledge the validity of the Middoth. It simply referred the Halakhah
 to the authority of tradition. But it has to be remembered that while
 the teaching of Hillel was generally received, that of Shammai was not
 wholly repudiated.
-
-[1](#sdfootnote1anc) Edersheim, Alfred, *History of the Jewish Nation
-after the Destruction of Jerusalem under Titus*, Appendix VII.
-*Rabbinical Exegesis*
-

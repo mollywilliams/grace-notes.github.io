@@ -1,14 +1,12 @@
 ---
 title: Rabbinical Schools
 layout: lesson
+description: "Until the formation of the later Rabbinical colleges, which flourished after the Jews were driven from Jerusalem, the instruction in the divinity schools seems to have been chiefly oral."
 ---
 
+**Rabbinical Schools in the First Century**
 
-**Rabbinical Schools 3**
-
-Rabbinical Schools in the First Century  
-
-From “The Life and Epistles of St. Paul” by W. J. Conybeare and J. S.
+From *The Life and Epistles of St. Paul* by W. J. Conybeare and J. S.
 Howson, Eerdmans
 
 Until the formation of the later Rabbinical colleges, which flourished
@@ -110,7 +108,7 @@ no lack of excitements to stimulate his religious and intellectual
 activity, if he spent the years of his youth in that city “at the feet
 of Gamaliel.”
 
-Mode of Teaching
+## Mode of Teaching
 
 It has been contended that when St. Paul said he was “brought up” in
 Jerusalem “at the feet of Gamaliel,” he meant that he had lived at the
