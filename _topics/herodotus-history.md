@@ -13,6 +13,12 @@ due share of glory."
 
 _Translated by George Rawlinson_
 
+## Table of Contents
+{:.no_toc}
+
+* table of contents
+{:toc}
+
 BOOK I
 ------
 
