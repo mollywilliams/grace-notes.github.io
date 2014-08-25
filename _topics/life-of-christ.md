@@ -8,6 +8,9 @@ layout: lesson
 
 *by Rev. Mark Perkins*
 
+## Table of Contents
+{:.no_toc}
+
 * Table of Contents
 {:toc}
 
