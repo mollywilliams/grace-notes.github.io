@@ -29,7 +29,7 @@ darkness, but the darkness has not understood it."
 Son of God.**
 
 > **Luke 1:14**, "Many have undertaken to draw up an account of the things
-> that have been fulfilled among us, just as they were handed down to us by 
+> that have been fulfilled among us, just as they were handed down to us by
 > those who from the first were eyewitnesses and servants of the word.
 >
 > Therefore, since I myself have carefully investigated everything from
@@ -44,14 +44,14 @@ history.**
 > **1 John 1:14**, "That which was from the beginning, which we have
 > heard, which we have seen with our eyes, which we have looked at and our
 > hands have touched this we proclaim concerning the Word of life.
-> 
+>
 > The life appeared; we have seen it and testify to it, and we proclaim to
 > you the eternal life, which was with the Father and has appeared to us.
-> 
+>
 > We proclaim to you what we have seen and heard, so that you also may
 > have fellowship with us. And our fellowship is with the Father and with
 > his Son, Jesus Christ.
-> 
+>
 > We write this to make our joy complete."
 
 **Know from the beginning that this factual account changes lives. It
@@ -1278,7 +1278,7 @@ ensured their accuracy.
 When there are differences in translation, we can use them to amplify
 all the translations.
 
-Dr. Thomas summarizes this principle in this way: 
+Dr. Thomas summarizes this principle in this way:
 
 > What one does expect to be reproduced in ordinary discussion are the striking
 > or important statements, the leading thoughts, the major divisions or topics,
@@ -20044,8 +20044,8 @@ Romans 1:18-32 contains the doctrine of degeneracy and the principle of
 degenerating susceptibility. Three times in this passage Paul employs
 the phrase “God gave them over”.
 
-  
-  
+
+
 
 Rom 1:18-19, "The wrath of God is being revealed from heaven against all
 the godlessness and wickedness of men who suppress the truth by their
@@ -24593,8 +24593,8 @@ And looked down one as far as I could
 
 To where it bent in the undergrowth;
 
-  
-  
+
+
 
 Then took the other, as just as fair;
 
@@ -24606,8 +24606,8 @@ Though as for that the passing there
 
 Had worn them really about the same,
 
-  
-  
+
+
 
 And both that morning equally lay
 
@@ -24619,8 +24619,8 @@ Yet knowing how way leads on to way,
 
 I doubted if I should ever come back.
 
-  
-  
+
+
 
 I shall be telling this with a sigh
 
@@ -24634,8 +24634,8 @@ And that has made all the difference.
 
 Robert Frost (18751963)
 
-  
-  
+
+
 
 D. Distinctions among prophets, vv. 15-20 (Luke 6:43-45).
 
@@ -26520,8 +26520,8 @@ believers only.
 (4) Category four is blessings in the eternal state, for mature
 believers of all dispensations.
 
-  
-  
+
+
 
 Christ’s Teaching to the Crowd on the Baptist.
 
@@ -29255,8 +29255,8 @@ It is going to be: “Here you are judging this woman and judging Me at
 the same time, but I want you to know that she has the greater love for
 God!”
 
-  
-  
+
+
 
 “(44) And after turning toward the woman, He said to Simon, ‘See this
 woman? I entered into your house, you gave me no water for my feet! But
@@ -29892,8 +29892,8 @@ Christ.
 Christ and deliberately went about taking care of that humble service of
 washing His feet.
 
-  
-  
+
+
 
 11. It must have been her example that inspired the other women to
 participate.
@@ -34197,8 +34197,8 @@ Father through His Son Jesus Christ. Spirituality means being consistent
 in fellowship and fulfilling the plan of God through persistent study of
 God’s word under your right pastor.
 
-  
-  
+
+
 
 The Satanic counterfeits are many and subtle.
 
@@ -36765,8 +36765,8 @@ body is a terrible emptiness indeed.
 
 - There is also the more tangible torment of residence in the abyss.
 
-  
-  
+
+
 
 Christ’s response to the first entreaty, “And Jesus interrogated him,
 saying, ‘What is your name?’ And he says to Him, ‘Legion, because we are
@@ -36982,8 +36982,8 @@ They have the great scoop about the end of the reign of terror, and so
 they go and announce it to the city, and to the people in the region
 that was dominated by this demon-possessed man.
 
-  
-  
+
+
 
 Their announcement especially concentrates on the demon-possessed man.
 In reality, they have missed the significance of this.
@@ -40859,8 +40859,8 @@ reality.
 the physical ordeal, and more than that, of the spiritual ordeal that
 was ahead.
 
-  
-  
+
+
 
 The Romans employed the following procedures in crucifixion.
 
@@ -44101,10 +44101,3 @@ culmination.
 Father.
 
 (6) This was a rare and precious occasion in the life of Christ.
-
-  
-  
-
-  
-  
-
