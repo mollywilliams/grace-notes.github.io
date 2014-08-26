@@ -8,7 +8,8 @@ layout: lesson
 
 *by Rev. Mark Perkins*
 
-## Table of Contents
+Table of Contents
+-----------------
 {:.no_toc}
 
 * Table of Contents
@@ -16,7 +17,7 @@ layout: lesson
 
 
 Historical Introduction
-=======================
+-----------------------
 
 > **John 1:1-5**, "In the beginning was the Word, and the Word was with God,
 and the Word was God. He was with God in the beginning. Through him all
@@ -70,8 +71,7 @@ READ Isaiah 52:13 - 53:12
 for many hundreds of years, and know that He had a destiny of sorrow and
 a destiny of glory.**
 
-Dramatis Personae for the Opening Act
--------------------------------------
+### Dramatis Personae for the Opening Act
 
 Mary: a young virgin, who is betrothed to Joseph, a carpenter. They are
 residents of Nazareth, a small town in the hill country of Galilee;
@@ -96,8 +96,7 @@ eighty four of those years a very pious woman;
 Herod, the king over the Roman province of Judea an evil man full of
 ambition.
 
-HEROD THE GREAT
----------------
+### HEROD THE GREAT
 
 Herod in many ways personifies the trouble in Israel at the time of
 Christ. For a long time, hundreds of years, the Jews had lived under the
@@ -223,8 +222,7 @@ that was exactly the problem in Israel.
 Herod was the king. The people were unhappy. Their response to his
 despotism is worthwhile to note.
 
-Jewish Responses To Herod’s Rule; The Maccabaean Revolt
--------------------------------------------------------
+### Jewish Responses To Herod’s Rule; The Maccabaean Revolt
 
 Syria had one incredibly evil ruler by the name of Antiochus Epiphanes.
 This man was so evil that he made Herod the Great look like a great
@@ -392,8 +390,7 @@ Concluding principles:
     firm, then, and do not let yourselves be burdened again by a yoke of
     slavery.
 
-THE PHARISEES
--------------
+### THE PHARISEES
 
 The word “Pharisee” is the Greek translation from the Aramaic, and it
 means to be separated. To the Pharisee, this meant a separation from the
@@ -481,8 +478,7 @@ In the intermediate period between the death of Alexander in 323 B.C.
 and the establishment of Roman control from 63 B.C. onward, Israel
 remained under the nominal control of Greece and even Syria.
 
-THE SADDUCEES
--------------
+### THE SADDUCEES
 
 This religious group known as Sadducees came into being about 300 years
 before Christ. They are characterized by their aristocracy, their
@@ -560,8 +556,7 @@ direction. Although religion was important to them, relationship with
 God was not, and so they destroyed themselves. They left the pages of
 history forever after the destruction of Jerusalem in 70 A.D.
 
-THE ESSENES
------------
+### THE ESSENES
 
 The Essenes were a widespread movement in the ancient world. They
 appeared on the scene not long before the Maccabaean revolt, about 175
@@ -639,8 +634,7 @@ little to say about them, because He never ran across them.
 John the Baptist was considered to be like the Essenes because of his
 ascetic life in the desert, but he really wasn’t.
 
-THE ZEALOTS
------------
+### THE ZEALOTS
 
 The Zealots were almost purely a political party. They called for the
 violent overthrow of the Roman rule. They carried on the tradition of
@@ -654,8 +648,7 @@ Although they were politically correct (not in the modern sense), they
 were morally wrong, and in this they were most similar to the southern
 U.S. in the early 1800’s.
 
-Transition
-----------
+### Transition
 
 The nation of Israel at the time of the birth of Christ was an unhappy
 nation. For hundreds of years, they had battled for their freedom and
@@ -673,8 +666,7 @@ Without a national relationship with God, they would reject the greatest
 of all world leaders of all time: Jesus Christ. One and all, they would
 reject Him.
 
-Introduction to the Spiritual Perspective
------------------------------------------
+### Introduction to the Spiritual Perspective
 
 The past history of any people has an impact on their present culture
 the way they think, solve problems, react to pressure or prosperity.
@@ -692,8 +684,7 @@ establishment truth has a great impact on that nation’s status before
 God. The attitude of the individual believer toward Bible Truth has a
 great impact on all other people in the nation.
 
-The Cosmic System
------------------
+### The Cosmic System
 
 The term “cosmic system” refers to Satan’s plan and process for
 controlling the world, and his attempt, using his organization of fallen
@@ -710,8 +701,7 @@ on the downward side of history for quite some time. It is important to
 take a look at the principles of the cosmic system related to history in
 order to fully understand the period in question.
 
-General Principles of the Cosmic System.
-----------------------------------------
+### General Principles of the Cosmic System.
 
 Human history is the resolution of the prehistoric angelic conflict. In
 order to vindicate himself and His judgment of the fallen angels, God
@@ -739,8 +729,7 @@ There are three plans in Satan’s cosmic system.
 
 -   The Propaganda Plan
 
-The World Plan of Satan
------------------------
+### The World Plan of Satan
 
 The world plan is Satan’s plan to bring in His own millennium, and to
 prevent God from bringing in the Divine Millennium. The world plan is a
@@ -759,8 +748,7 @@ but these are due to the demonic side and not the human side. There is
 no Biblical documentation for a human world conspiracy. Humans are
 simply pawns in Satan’s world plan.
 
-The Individual Plan of Satan
-----------------------------
+### The Individual Plan of Satan
 
 The individual plan is an integral part of the world plan, since human
 participation in the demonic organization is absolutely essential. The
@@ -779,8 +767,7 @@ power over their lives. Every time that someone or some organization
 comes to believe a cosmic counterfeit or lie, Satan gains power over
 their lives.
 
-The Satanic “Millennium”
-------------------------
+### The Satanic “Millennium”
 
 As a part of the angelic appeal trial of human history, Satan has
 developed his idea of a millennium, which is designed to prove his
@@ -826,8 +813,7 @@ The characteristics of the Satanic millennium.
 -   Dishonesty, obfuscation, evasiveness, and a lack of veracity. (All
     this sounds like U.S. politics today).
 
-The Fight Against the Divine Millennium.
-----------------------------------------
+### The Fight Against the Divine Millennium.
 
 Satan is constantly fighting against the Divine plan for human history.
 Satan thinks that if he can destroy or delay the Divine millennium, he
@@ -840,8 +826,7 @@ attacks in history against the Divine Millennium: the attack against
 Christ, and the attack against the Jews. These attacks are tantamount to
 murdering the witnesses of a trial, so that they cannot testify.
 
-The Attacks against Christ.
----------------------------
+### The Attacks against Christ.
 
 Jesus Christ will be the world ruler during the Divine Millennium, and
 His rulership will be fantastic.
@@ -891,8 +876,7 @@ would be stymied. Therefore, there were several attempts on His life.
 
 Of course, all of these attempts failed completely.
 
-The Attacks against the Jews
-----------------------------
+### The Attacks against the Jews
 
 The Jews are God’s chosen people, and they are going to be Christ’s
 subjects in the Divine Millennium. Therefore, Satan is constantly
@@ -925,16 +909,14 @@ reservation of judgment.
 As a national entity, we are to provide a haven for the Jews, so that
 they might be free from racial prejudice.
 
-Conclusion.
------------
+### Conclusion.
 
 Although these demonically inspired attacks are terrible in their
 intensity and genius, they have no chance of succeeding. God will
 protect the Jews until the return of Jesus Christ. He will succeed,
 easily.
 
-The Propaganda Plan of Satan
-----------------------------
+### The Propaganda Plan of Satan
 
 The purpose of the propaganda plan is to promote the cosmic counterfeits
 and lies, and to attack the word of God. The propaganda plan integrates
@@ -943,8 +925,7 @@ cosmic system. The propaganda branch is an expression of Satanic genius
 and the demonic organization. Human beings are an important element in
 the propaganda branch.
 
-The Promotion of the Cosmic Counterfeits and Lies.
---------------------------------------------------
+### The Promotion of the Cosmic Counterfeits and Lies.
 
 The cosmic system has an elaborate scheme of counterfeits and lies.
 These counterfeits and lies are designed to supplant the truth. The
@@ -968,8 +949,7 @@ is a great emphasis today on the media, and especially television. Those
 who are heavily involved in the cosmic system inevitably become cosmic
 propagandists.
 
-The Attack Against the Word of God
-----------------------------------
+### The Attack Against the Word of God
 
 In order to make the promotion of the cosmic counterfeits and lies fully
 effective, the cosmic system attacks the Word. The attacks against the
@@ -984,10 +964,9 @@ Word. Liberal theologians are mainly responsible for this branch of the
 attack on the Word.
 
 Rome at the Time of Christ
-==========================
+--------------------------
 
-The Roman Environment During the Life of Christ.
-------------------------------------------------
+### The Roman Environment During the Life of Christ.
 
 The Pax Romanus.
 
@@ -1026,8 +1005,7 @@ of Christ.
 The Jews (and especially the Pharisees and Zealots) had absolutely
 nothing to complain about. The peace of Rome was very pro-establishment.
 
-Koine’ Greek, the Language of the Roman Empire.
------------------------------------------------
+### Koine’ Greek, the Language of the Roman Empire.
 
 Koine’ Greek was the language of Alexander’s conquest. Attic Greek was a
 difficult language to master. When Alexander expanded the Greek empire
@@ -1045,8 +1023,7 @@ communicated with clarity. Koine’ Greek was retained in the Roman Empire
 as the language of the common man. Nearly everyone knew it and used it
 throughout their lives.
 
-Roman Culture
--------------
+### Roman Culture
 
 The Romans borrowed much of their culture from their Greeks. Greek
 literature, drama, and games were all retained by the Romans. The Romans
@@ -1134,10 +1111,9 @@ written from this frame of reference.
 -   Masters are called upon to emancipate their slaves.
 
 The Four Gospels
-================
+----------------
 
-General Introduction.
----------------------
+### General Introduction.
 
 In the middle of the 6th decade of the first century, Christianity had
 reached a crisis. Nero had begun his persecutions, and the Romans had
@@ -1349,8 +1325,7 @@ problems with reference to inspiration. The accounts do harmonize well,
 and the problems that go with a harmony are easily and rationally
 accounted for.
 
-The Gospel of Matthew
----------------------
+### The Gospel of Matthew
 
 For each gospel, we will follow this order:
 
@@ -1364,7 +1339,7 @@ Purpose of writing, and
 
 Characteristics of the gospel.
 
-### The Author
+#### The Author
 
 Matthew God used an outcast. His name is a transliteration of the
 Aramaic word which means “gift of God.”
@@ -1406,7 +1381,7 @@ wealth. No doubt he knew of the supernatural essence of Christ’s
 ministry, and he may have even heard Him speak. It is often the outcast
 that finds it easiest to follow Christ.
 
-### The Circumstances Surrounding the Writing of the Matthew
+#### The Circumstances Surrounding the Writing of the Matthew
 
 Of the circumstances of the writing of this gospel we know very little.
 What little we can draw comes from inside the book.
@@ -1418,7 +1393,7 @@ believers in Palestine. A secondary audience may be found in Jewish
 audiences everywhere. His was the most read of all the gospels in the
 first century. This popularity is a good testimony to its arrangement.
 
-### The Purpose of the Gospel of Matthew
+#### The Purpose of the Gospel of Matthew
 
 The purpose of this gospel was generally to awaken and establish faith
 in Jesus Christ.
@@ -1451,7 +1426,7 @@ tide of destruction that had welled up among the Jews in Palestine.
 
 Matthew wrote just as the zealots began their armed revolt in 66 A.D.
 
-### General Characteristics of Matthew
+#### General Characteristics of Matthew
 
 The most striking of the characteristics of this gospel is its emphasis
 on Christ as the Messianic King promised by the Old Testament prophets.
@@ -1490,10 +1465,9 @@ numbers and accounts lead naturally to literary order. There is great
 continuity in the order of the subjects, and excellent literary
 transition.
 
-The Gospel of Mark
-------------------
+### The Gospel of Mark
 
-### The Author(s) Mark and Peter.
+#### The Author(s) Mark and Peter.
 
 There are really two persons behind the writing of this gospel. The one
 who gave dictation, Peter, and the one who received it, Mark.
@@ -1593,7 +1567,7 @@ Probably the best analogy to Peter’s early character is a politician on
 the campaign trail. Always promising, always in the limelight, but never
 following through.
 
-### Circumstances Surrounding the Writing of Mark
+#### Circumstances Surrounding the Writing of Mark
 
 The place is Rome, the situation the persecutions of Nero. Paul and
 Peter are in prison, soon to die at the command of Nero himself.
@@ -1605,7 +1579,7 @@ It is not clear whether Mark actually composed this gospel before or
 after Peter’s death. It is not important. This was a really hard time
 for believers in Jesus Christ, and especially so in Rome.
 
-### The Intended Readers of Mark’s Gospel.
+#### The Intended Readers of Mark’s Gospel.
 
 It is most likely that Peter (and Mark) had a Gentile audience in mind.
 This is especially interesting since Peter began with a prejudice
@@ -1617,7 +1591,7 @@ not presuppose an extensive knowledge of the Old Testament.
 Also, the Roman audience would have taken priority, since it was the
 closest.
 
-### The purpose of the Gospel of Mark
+#### The purpose of the Gospel of Mark
 
 Mark was written to win converts to Christianity. Mark portrays Christ
 as a suffering servant. This image fits well the Christians in Rome, and
@@ -1637,7 +1611,7 @@ Remember, this gospel goes out to the very hotbed of the Neronian
 persecution. It is a voice that rises above the cacophony of persecution
 and says, “but it is true”.
 
-### Characteristics of Mark’s Gospel
+#### Characteristics of Mark’s Gospel
 
 Brevity it is easily the shortest of the gospels, and conspicuous among
 the missing are the nativity, the genealogy, and most of Christ’s longer
@@ -1665,10 +1639,9 @@ give it. The contrast would be striking.
 Chronological Apparently, Mark’s gospel follows closely the actual
 chronological order of events in the life of Christ.
 
-The Gospel of Luke.
--------------------
+### The Gospel of Luke.
 
-### The Author Luke
+#### The Author Luke
 
 God used a Gentile doctor. Luke is mentioned only three times in all of
 the New Testament, yet he is responsible for 28% of it, for he wrote
@@ -1709,7 +1682,7 @@ would have been valuable in ministering to other Gentiles. Remember,
 most of the missionary teams were Jewish, and Paul’s ministry at first
 concentrated on teaching at synagogues.
 
-### Circumstances and Target Readership.
+#### Circumstances and Target Readership.
 
 Luke wrote in about 6667 AD He wrote his gospel, and later the Acts of
 the Apostles, to a man by the name of Theophilus. He probably wrote from
@@ -1728,7 +1701,7 @@ the Hebraisms and explains Jewish customs and localities. He usually
 quotes the Old Testament when it is contained in a saying of Christ, but
 not otherwise. There is little emphasis on the fulfillment of prophecy.
 
-### Purpose of the Gospel of Luke
+#### Purpose of the Gospel of Luke
 
 Luke comes right out and says it in chapter 1:4: “so that you might know
 the exact truth about the things you have been taught.”
@@ -1757,7 +1730,7 @@ evangelism. He wants people to know the truth, and to identify Christ as
 their savior. Luke has a great emphasis on the cross, and the end of the
 life of Christ. This reveals his designs for evangelism.
 
-### Characteristics of Luke’s Gospel
+#### Characteristics of Luke’s Gospel
 
 Luke’s gospel is much more comprehensive than the others. It begins many
 months before the other synoptic gospels, and it ends after the
@@ -1793,10 +1766,9 @@ diagnosis he developed as a doctor come into play in this regard.
 Luke concentrates on the death of Christ. From chapter 9 forward he
 keeps the thread of Christ’s death in the fabric of his narrative.
 
-The Gospel of John
-------------------
+### The Gospel of John
 
-### The Author John
+#### The Author John
 
 God used a zealot. He was a cousin “according to the flesh” of Jesus
 Christ. Brother of James (not the epistle writer). A native of Galilee.
@@ -1845,7 +1817,7 @@ ideas.
 He was the key figure in the transition from the pre-canon period to the
 post canon period.
 
-### Circumstances of Writing the Gospel.
+#### Circumstances of Writing the Gospel.
 
 John wrote about 20 years after the completion of the synoptic gospels.
 
@@ -1872,7 +1844,7 @@ John wrote in a time of transition to the post-canon era of the church
 age. The temporary spiritual gifts, with all their fantastic abilities,
 are being left behind.
 
-### The Target Audience
+#### The Target Audience
 
 If John’s Epistles are any indication of the readers of his gospel, he
 wrote to a crowd that needed to understand the basics of Christianity.
@@ -1890,7 +1862,7 @@ John has an very tough uphill battle to fight with regard to heresy and
 the truth. The situation was not unlike what we encounter in our nation
 today.
 
-### The Purpose of the Gospel
+#### The Purpose of the Gospel
 
 In John 20:3031, John communicates his purpose: “Many other signs
 therefore did Jesus in the presence of the disciples, which are not
@@ -1905,7 +1877,7 @@ In order to do so, he attempts to establish Jesus as the Son of God and
 the Messiah (Christ), and reestablish the Word of God as the authority
 and the Truth.
 
-### The Characteristics of the Gospel.
+#### The Characteristics of the Gospel.
 
 The gospel is very simple in the use of the Greek language and writing
 style.
@@ -1930,7 +1902,7 @@ narrative many times interpreting and illuminating the events as they
 occur.
 
 Jesus Christ in Eternity Past
-=============================
+-----------------------------
 
 Christ in Eternity Past
 
@@ -1963,10 +1935,9 @@ Therefore, God would become God-man, in order to save mankind. The God
 man, Jesus Christ was unique in that He was fully man and fully God.
 
 The Genealogy of Christ
-=======================
+-----------------------
 
-Introduction
-------------
+### Introduction
 
 Matthew and Luke have taken the time to record the genealogies of our
 Lord. Since they wrote under the inspiration of God the Holy Spirit, we
@@ -2005,14 +1976,13 @@ The reasons varied. It could be that the information was no longer
 available, or that the genealogist considered a certain generation
 unimportant. The reason does not matter. Just keep this fact in mind.
 
-Luke’s Genealogy.
------------------
+### Luke’s Genealogy.
 
 Luke’s genealogy is unique in that it traces its line in the opposite
 direction from the norm. However, we will start with Adam and go
 forward, in spite of Luke’s deviant behavior.
 
-### Adam
+#### Adam
 
 It is fitting that we start with Adam, because Adam was the first head
 of the human race. By looking at Adam’s life we can discover the
@@ -2463,7 +2433,7 @@ As is the earthy, so also are those who are earthy; and as is the
 heavenly, so also are those who are heavenly. And just as we have borne
 the image of the earthy, we shall also bear the image of the heavenly.”
 
-### Seth
+#### Seth
 
 Seth was Adam’s third son, and after the death of Abel and the
 banishment of Cain, Seth would renew Adam’s line.
@@ -2481,7 +2451,7 @@ The line of Christ had been cut off when Cain murdered Abel. Seth is the
 renewal of that line. In a sense, he is Abel’s substitute; his
 designated hitter.
 
-### Enosh
+#### Enosh
 
 Enos is the Greek rendering of this name, which is more correctly
 pronounced Enosh. The Greeks were indiscriminate in their rendering of
@@ -2521,7 +2491,7 @@ civilization.
 Enosh himself is not associated with the bitter outcry it is likely that
 he remained faithful to God in spite of public opinion about Him.
 
-### Cainan
+#### Cainan
 
 Although spelled Cainan in Luke’s translation, this is the Hellenization
 of Qinan of the Hebrew.
@@ -2529,14 +2499,14 @@ of Qinan of the Hebrew.
 We have no other information on this man, other than his place in the
 line of Christ.
 
-### Mahalaleel
+#### Mahalaleel
 
 He is the son of Cainan (Kenan). There is no other reference to this man
 in the Bible.
 
 His name literally means, “to the praise of God”.
 
-### Enoch
+#### Enoch
 
 Now we have someone we can talk about.
 
@@ -2618,7 +2588,7 @@ paradise, under the earth.
 At the resurrection of Christ he was transferred to heaven along with
 all the Old Testament Saints.
 
-### Methuselah
+#### Methuselah
 
 Methuselah is Enoch’s son, and Lamech’s father. His name means “man of
 the dart”. It is an intriguing name, but we do not have the foggiest
@@ -2631,7 +2601,7 @@ Long life was a sign of blessing during Biblical times, and was
 synonymous with quality of life. This being true, then Methuselah
 represents the quality of eternal life within Christ’s line.
 
-### Lamech
+#### Lamech
 
 Lamech forms the link between Methuselah and Noah. He lived to the age
 of 777.
@@ -2639,7 +2609,7 @@ of 777.
 Nothing else is known of Lamech, but if he raised Noah, it is likely he
 raised him right.
 
-### Noah
+#### Noah
 
 **Gen. 6:12**, “Now it came about, when men began to multiply on the
 face of the land, and daughters were born to them. The sons of God
@@ -2727,7 +2697,7 @@ their future judgment.
 Noah’s three sons and their wives repopulated the earth, and began the
 postdiluvian civilization.
 
-### Shem
+#### Shem
 
 Shem was a voyager on the ark, and the firstborn son of Noah. He cared
 for his nephew Canaan after it was discovered that he had been abused by
@@ -2736,10 +2706,9 @@ his father Ham, Genesis 9:2027.
 In that account, He is called blessed by Noah a recognition of his
 spiritual maturity.
 
-Christ’s Genealogy from Shem to Abraham
----------------------------------------
+### Christ’s Genealogy from Shem to Abraham
 
-### Introduction
+#### Introduction
 
 When Noah began the building of the ark, God made a covenant with him.
 
@@ -2843,7 +2812,7 @@ Read Gen. 9:8-17
 So the covenant is made and the transfer is made to postdiluvian
 civilization. Let’s pick up the line of Christ again with Shem.
 
-### Shem
+#### Shem
 
 Shem was the son of Noah. He was about 98 years old when he entered the
 ark with the rest of his family. He fathered many children, including
@@ -2856,7 +2825,7 @@ peninsula.
 
 Noah predicts that the people of Canaan would serve under the Semites.
 
-### Arphaxad, or Arphachshad
+#### Arphaxad, or Arphachshad
 
 He was born two years after the flood, conceived not long after the ark
 hit dry land.
@@ -2864,17 +2833,17 @@ hit dry land.
 He apparently settled in the mountainous country in the Northeast, and
 we really do not know much else about this man.
 
-### Cainan
+#### Cainan
 
 Cainan was the son of Arphaxad. He is not mentioned in the original
 table of nations in Gen., but for some reason Moses skipped him and went
 to his son, Shelah. Nothing else is known about this man.
 
-### Shelah
+#### Shelah
 
 The son of Cainan; the father of Heber.
 
-### Heber
+#### Heber
 
 This man’s name means ‘fellowship’. In the Hebrew, it is really Eber.
 
@@ -2883,7 +2852,7 @@ The son of Shelah, the father of Peleg.
 He is the founder of the Hebrew race, and he gave his name to it, Gen.
 10:21.
 
-### Peleg
+#### Peleg
 
 His name means division, and it was during his lifetime that the nations
 were divided.
@@ -2893,32 +2862,31 @@ of Babel. When God put down that attempt, the nations of the earth were
 formed, and the earth divided into geographical national boundaries for
 the very first time.
 
-### Reu
+#### Reu
 
 He is the son of Peleg and the father of Serug. His name means,
 ‘friend’. Nothing else is known.
 
-### Serug
+#### Serug
 
 He is the son of Reu. His name means ‘shoot, or tendril’ in the Hebrew.
 There is an ancient city by this name, and it may have something to do
 with this man.
 
-### Nahor
+#### Nahor
 
 Do not confuse this man with the brother of Abraham. This Nahor lived in
 the 23rd century B.C., and is the grandfather of Abraham. His name means
 snorting or snoring.
 
-### Terah
+#### Terah
 
 He was born in Ur of the Chaldees. His name means ‘antelope’. Joshua
 24:2 tells us that this man was involved in idolatry. He did take place
 in the big move to Canaan, with the rest of the family. He died about
 2100 B.C.
 
-The Abraham Connection
-----------------------
+### The Abraham Connection
 
 From Abraham to David, there are fourteen generations. Abraham, Isaac,
 Jacob, Judah, Perez, Hezron, Ram, Admin, Amminadab, Nahshon, Salmon,
@@ -2939,7 +2907,7 @@ This line covers the age of the patriarchs, from God’s covenant with
 Abraham to the next covenant with David. Its chronology runs from
 Abraham’s birth in 2160 B.C. to Israel under king Saul in 1004 B.C.
 
-### Abraham.
+#### Abraham.
 
 **Gen. 12:13** records Abram’s first call:
 
@@ -2955,8 +2923,7 @@ reserved for him and his progeny. He also had to leave because his first
 home and his family and relatives would have been a fatal distraction to
 him.
 
-The covenants to Israel
------------------------
+### The covenants to Israel
 
 God provided the nation of Israel a fantastic portfolio of grace
 blessings in the form of covenants. A covenant is based on the
@@ -3091,7 +3058,7 @@ It is here that Abram has another worship service.
 
 Next is the story of Abraham’s offspring.
 
-### Abraham’s Offspring
+#### Abraham’s Offspring
 
 The story of Sarai’s treachery begins in Genesis 16.
 
@@ -3193,7 +3160,7 @@ under the requirement as well. “You want us to do what to our whats?!”
 
 But this was the beginning of the miraculous birth of Isaac.
 
-### The Birth of Isaac
+#### The Birth of Isaac
 
 **Gen. 17:1-5**, “Then God said to Abraham, ‘As for Sarai your wife, you
 will not call her name Sarai, but Sarah will be her name. And I will
@@ -3252,8 +3219,7 @@ along!
 
 Wrong, says God.
 
-Isaac to Jesse
---------------
+### Isaac to Jesse
 
 Isaac was born to Abraham and Sarah. He would marry Rebekhah, and father
 the twins, Jacob and Esau. It is worthwhile to note that Rebekhah, too,
@@ -3281,20 +3247,20 @@ him.
 
 Ram forms another link.
 
-### Amminadab
+#### Amminadab
 
 We know only one thing about this man: his daughter was the wife of
 Aaron the High Priest under Moses. He was a man of the Exodus, and he
 died in the desert.
 
-### Nahshon
+#### Nahshon
 
 Now we can tell something of this man. His sister Elisheba was married
 to Aaron. He was also a man of the Exodus generation, the captain of the
 tribe of Judah. He must have been a talented military leader, but he
 died in the desert with the rest of his generation.
 
-### Salmon
+#### Salmon
 
 Salmon married Rahab, the famous prostitute of Jericho. Although little
 is mentioned of Salmon, Rahab deserves mention.
@@ -3348,11 +3314,11 @@ Bethlehem, and eventually he would marry her.
 
 Through Ruth and Boaz, the line of Christ was continued.
 
-### Obed
+#### Obed
 
 …was the son of Ruth and Boaz, and he was the grandfather of David.
 
-### Jesse
+#### Jesse
 
 …Obed’s son, was David’s father.
 
@@ -3779,7 +3745,7 @@ There are two predictions here. First, the prophet predicts the ministry
 of John the Baptist. Second, there is a prediction concerning the
 scouring of the Temple, which actually occurred on two occasions.
 
-### David, the Forerunner of Christ
+#### David, the Forerunner of Christ
 
 King David was the forerunner of Christ in at least three ways:
 
@@ -3792,12 +3758,11 @@ a lot about him. David, for all of his sin and tragedy was a man of God.
 
 **Read 1 Samuel 16**
 
-David to the Exile
-------------------
+### David to the Exile
 
 Joseph’s Line, the Legal Line of Christ (Matthew).
 
-### Solomon
+#### Solomon
 
 Solomon was a true genius, and he exploited that genius by having a
 great relationship with God. “Now God gave Solomon wisdom and very great
@@ -3827,7 +3792,7 @@ is: fear God, and keep His commandments, because this applies to every
 person. for God will bring every act to judgment, everything which is
 hidden, whether it is good or evil.”
 
-### Rehoboam
+#### Rehoboam
 
 The son of Solomon, he was a weak king, and although he wanted the right
 things, he lacked the leadership to bring them about.
@@ -3841,7 +3806,7 @@ conducted even the most depraved forms of idol worship.
 He was an immoral man, and he had a knack for making bad decisions from
 a position of weakness.
 
-### Abijah
+#### Abijah
 
 Abijah saw the split of the two nations in a very black and white way.
 The Northern kingdom had rebelled, and must be forcibly brought back
@@ -3852,7 +3817,7 @@ to bring the rebels under his rule. The kingdom remained divided.
 
 Abijah was also an immoral man, and he too was a failure as a king.
 
-### Asa
+#### Asa
 
 Asa returned to the pure worship of God. Although he allowed idolatry to
 exist, he emphasized what was true and right: the ritual plan of God.
@@ -3867,7 +3832,7 @@ allied with a pagan nation, Syria.
 Asa became ill and did not seek God’s help. Depending on his household
 physicians, he died.
 
-### Jehoshaphat
+#### Jehoshaphat
 
 This man, a king, was a winner. He sought the Lord with all his heart,
 and he made his nation a good place. When his nation was threatened, he
@@ -3879,11 +3844,11 @@ Jehoshaphat was benevolent and wise, and both his foreign and domestic
 policies were effective. He lived out his life peacefully, satisfied
 because of his great relationship with God.
 
-### Joram
+#### Joram
 
 Not much is known about this man, other than his father.
 
-### Uzziah
+#### Uzziah
 
 Uzziah was another great man, who followed the Lord for most of his
 life. He grew to have a great relationship with God under the ministry
@@ -3894,7 +3859,7 @@ overstepped the bounds of his authority and tried to perform a priestly
 function. For that sin, God gave him leprosy, and he remained a leper
 until the day of his death.
 
-### Jotham
+#### Jotham
 
 Jotham was also a great king, and he turned out to be great even than
 his father, for he did not become arrogant because of his success.
@@ -3904,7 +3869,7 @@ He died a contented man, confident before God of his eternal future.
 The people were not completely responsive to his leadership, but Judah
 still became much stronger through him.
 
-### Ahaz
+#### Ahaz
 
 This man was a loser. He refused to depend on God refused to believe in
 Him. He was instead an idolater, and as king he did many evil things.
@@ -3915,7 +3880,7 @@ king, even sending him the Temple treasures.
 When he died, no one missed him, and the people did not think him worthy
 to be buried with the other kings of Israel.
 
-### Hezekiah
+#### Hezekiah
 
 Hezekiah was a good and Godly king, who from his relationship with God
 desired to repair the damage that his father had done.
@@ -3942,7 +3907,7 @@ was through him. He prayed for his own life, and trusted in God, and God
 extended his life for another 15 years. It was during that time that he
 fathered a son, Manasseh.
 
-### Manasseh
+#### Manasseh
 
 Manasseh ruled for fifty five years. His was the longest rule of any of
 the kings of Judah. He was an extremely evil man, who hated God and his
@@ -3960,13 +3925,13 @@ all the idols and idolatrous altars that he could.
 Though he had been very evil, he died in peace, knowing the forgiveness
 of his savior.
 
-### Amon
+#### Amon
 
 Unfortunately, Amon imitated all of the evil of his own father, and
 failed to repent. He died the victim of a conspiracy, and his eight year
 old son took the throne in his place.
 
-### Josiah
+#### Josiah
 
 When Josiah had reigned for 12 years he began a great purge of all the
 idol worship in the land. A few years later, he oversaw the cleansing
@@ -3979,7 +3944,7 @@ was already unleashed.
 Josiah died in peace before the destruction of the nation, and did not
 have to witness the terrible invasion of the Babylonians.
 
-### Jehoiakim
+#### Jehoiakim
 
 Jehoiakim was an evil, idolatrous man who ruled as king during the
 destruction of the nation of Judah.
@@ -3993,21 +3958,21 @@ Mary’s Line, the Biological Line of Christ (Luke).
 
 Note: We are taking this one all the way to Christ.
 
-### Nathan
+#### Nathan
 
 Nathan was a son of David and Bathsheba. He is the quiet son, for
 nothing much is said about him in Scripture. Even so, he was a link in
 the biological line of Christ.
 
-### Mattathia
+#### Mattathia
 
 Nothing much is known about this man.
 
-### Menna, Melea, Eliakim, Jonam, Joseph, Judah, Simeon, Levi, Matthat, Jorim, Eliezer, Joshua, Er, Elmadam, Cosam, Addi, Melchi, Neri
+#### Menna, Melea, Eliakim, Jonam, Joseph, Judah, Simeon, Levi, Matthat, Jorim, Eliezer, Joshua, Er, Elmadam, Cosam, Addi, Melchi, Neri
 
 Nothing is said about any of these men in the Bible.
 
-### Shealtiel
+#### Shealtiel
 
 This is where a crossover point occurs. Both genealogies stop here. This
 is where the nation went into exile. Shealtiel was not the true son of
@@ -4015,7 +3980,7 @@ Jeconiah, but instead, the line of David continued in this man because
 Jeconiah failed to produce an heir. This is why Matthew’s genealogy
 claims Jeconiah as this man’s father.
 
-### Zerubbabel
+#### Zerubbabel
 
 He is the head of Israel at the time of the return from exile. Zerubabel
 is the result of the marriage between Pedaiah and the wife of Shealtiel.
@@ -4029,26 +3994,26 @@ According to the book of Ezra, this man was a key figure in the
 rebuilding of the Temple He was a good man who did much for the worship
 of the true God of Israel.
 
-### Rhesa, Joanan, Joda, Josech, Semein, Mattathias, MaathNaggai, Hesli, Nahum, Amos, Mattathias, Joseph, Jannai, Melchi, Levi, Matthat
+#### Rhesa, Joanan, Joda, Josech, Semein, Mattathias, MaathNaggai, Hesli, Nahum, Amos, Mattathias, Joseph, Jannai, Melchi, Levi, Matthat
 
 The biological line of Christ continued in these men. Nothing else is
 known of them.
 
-### Eli
+#### Eli
 
 Father of Mary.
 
-### Mary
+#### Mary
 
 From the Exile to Joseph Joseph’s Line, the Legal Line of Christ, as
 Expounded in Matthew
 
-### Shealtiel, Zerubbabel, Abiud, Eliakim, Azor, Zadok, Achim, Eliud, Eleazar, Matthan, Jacob
+#### Shealtiel, Zerubbabel, Abiud, Eliakim, Azor, Zadok, Achim, Eliud, Eleazar, Matthan, Jacob
 
 Joseph, the husband of Mary and stepfather of Christ
 
 Chronology of the Life of Christ
-================================
+--------------------------------
 
 6 B.C. The Magi from the East see the star and begin their journey to
 Jerusalem.
@@ -4145,7 +4110,7 @@ Spring, 30 A.D. Crucifixion and resurrection of Christ.
 Summer, 30 A.D. Ascension and Session of Christ.
 
 The Birth of John the Baptist
-=============================
+-----------------------------
 
 This begins our study on the people who waited in the right way for
 their Messiah.
@@ -4165,7 +4130,7 @@ to one that is quite Hebraistic. Since Luke was a Greek by birth, and
 his language is very Greek, the speculation is this: that Luke records
 here the memories of Mary, the mother of Jesus.
 
-### Introduction
+#### Introduction
 
 **Luke 1:5-7**, “In the days of Herod, king of Judea, there was a
 certain priest named Zacharias, of the division of Abijah; and he had a
@@ -4442,7 +4407,7 @@ living in seclusion, not excited to be a part of God’s plan for the
 Messiah, but ashamed to even go out. It is going to take a visit from
 Mary to get her out of her funk.
 
-### Elizabeth Gives Birth to the Forerunner
+#### Elizabeth Gives Birth to the Forerunner
 
 **Luke 1:57-66**
 
@@ -4461,7 +4426,7 @@ astonished at these events, and they wonder what the child will grow up
 to be. A prophet? The Messiah himself? There was a lot of serious
 thinking going on the subject.
 
-### Zacharias’ Prophecy
+#### Zacharias’ Prophecy
 
 **Luke 1:67-69**. And his father Zacharias was filled with the Holy
 Spirit, and prophesied, saying: ’Blessed be the Lord God of Israel, for
@@ -4521,17 +4486,16 @@ is a term that is used to denote the resurrected status of Jesus Christ.
 
 The light guides us into the way of peace (prosperity).
 
-### John the Baptist’s Childhood
+#### John the Baptist’s Childhood
 
 **Luke 1:80**, “And the child continued to grow, and to become strong in
 spirit, and he lived in the deserts until the day of his public
 appearance to Israel.”
 
 The Song of Mary
-================
+----------------
 
-Introduction
-------------
+### Introduction
 
 Luke’s narrative now turns to the story of Mary, the mother of our Lord.
 
@@ -4549,8 +4513,7 @@ birth to Christ. She is no different as far as we are concerned than any
 other mature believer. Christ Himself warns against Mariolatry in Luke
 11:2728.
 
-The Arrival of an Angel.
-------------------------
+### The Arrival of an Angel.
 
 **Luke 1:26-28**, “Now in the sixth month the angel Gabriel was went
 from God to a city in Galilee, called Nazareth, to a virgin engaged to a
@@ -4567,7 +4530,7 @@ As the angel “beams in”, he issues a greeting to her. The greeting means
 literally, “woman who has been graced out”. God is the only subject ever
 used by ***CHARITOO***.
 
-### A Conversation with an Angel, Luke 1:29-38
+#### A Conversation with an Angel, Luke 1:29-38
 
 Notice that Mary is not fazed at all by Gabriel’s angelic appearance.
 She is unique in this regard. Daniel trembles, Zacharias fears, the
@@ -4619,7 +4582,7 @@ This is the essence of the virgin birth. It is really quite clinical in
 nature. God the Holy Spirit performs the operation by his omnipotence,
 and adds the unpolluted chromosomes to Mary’s ovum.
 
-### The Two Mothers are United
+#### The Two Mothers are United
 
 **Luke 1:39-45**, “Now at this time Mary arose and went with haste to
 the hill country, to a city of Judah, and entered the house of Zacharias
@@ -4699,7 +4662,7 @@ clarity. This verse also answers the previous question why Mary came to
 visit Elizabeth. It was so that Elizabeth could recognize her own error,
 and turn around.
 
-### Mary’s Song, Luke 1:46-56
+#### Mary’s Song, Luke 1:46-56
 
 This is the great prayer of worship from Mary. It is a prayer that is
 based on the utter confidence of one who has known and relied on the
@@ -4747,10 +4710,9 @@ Mary understood the mercy of God, and its implications. She knew the
 history of her nation and its heroes.
 
 The Birth of Christ
-===================
-
-Joseph Has a Dream.
 -------------------
+
+### Joseph Has a Dream.
 
 **Matt 1:18-25**, “Now the birth of Jesus Christ was as follows. When
 His mother Mary had been betrothed to Joseph, before their union, she
@@ -4881,7 +4843,7 @@ Footnote: He does “know” her afterwards, and they produced several
 children together. Mary is not a perpetual virgin.
 
 The Night Before Christmas
-==========================
+--------------------------
 
 On the night before Christmas, God gave Christ the authority to
 establish His kingdom on earth.
@@ -5109,7 +5071,7 @@ Almighty. And on His robe and on His thigh He has a name written, ’KING
 OF KINGS, AND LORD OF LORDS.”
 
 Christ and the Shepherds
-========================
+------------------------
 
 **Luke 2:8-20**, “And some shepherds in the same region there were
 bivouacking and diligently keeping guard over their flock by night. And
@@ -5239,8 +5201,7 @@ before went together with what they knew now.
 The Davidic, Mosaic, and Abrahamic covenants were all fulfilled in
 Christ, and the shepherds knew it.
 
-Lessons from the Passage
-------------------------
+### Lessons from the Passage
 
 The quality of our worship is directly related to the amount of Bible
 Truth that we understand in our hearts. This was true for both Mary and
@@ -5291,7 +5252,7 @@ in the birth of Christ.
 This advent had to do with the redemption of sins.
 
 The Circumcision and Presentation of Christ
-===========================================
+-------------------------------------------
 
 **Luke 2:21-38**
 
@@ -5381,7 +5342,7 @@ Christ. Everything was done properly with regard to Jesus Christ, even
 though He did not require it. The propriety of these acts was quite
 poignant, and even ironic.
 
-### Luke 2:25-35
+#### Luke 2:25-35
 
 So they came to the temple for Christ’s dedication and Mary’s
 purification. Simeon and Anna and others were there in the temple.
@@ -5546,7 +5507,7 @@ An intriguing possibility exists with Mary as the author of the letter
 to the Hebrews. Unfortunately, there is just not enough evidence to make
 a definitive assertion at this time.
 
-### Luke 2:36-38
+#### Luke 2:36-38
 
 Anna had been a widow for some fifty or sixty years. She lived a life
 dedicated to service in the temple with fastings and prayers. Just as
@@ -5618,9 +5579,9 @@ security or some other distraction in life. That can be a truly crucial
 mistake in the arrangement of your priorities.
 
 The Visit of the Magi
-=====================
+---------------------
 
-### Gold, Frankincense, and Myrrh.
+#### Gold, Frankincense, and Myrrh.
 
 **Matt. 2:1-12**
 
@@ -5713,9 +5674,9 @@ should do so, since the Jews would reject Him. This hearkens forward to
 the church age.
 
 The Flight To Egypt and Return to Israel
-========================================
+----------------------------------------
 
-### Matt 2:13-23
+#### Matt 2:13-23
 
 The magi had been in Jerusalem to ask about the location of the Messiah.
 They figured they could find the information at the capital city.
@@ -5869,7 +5830,7 @@ quiet way, without the bother of the masses, and without other
 satanically inspired attempts on His life.
 
 The Early Life of Christ
-========================
+------------------------
 
 **Luke 2:40** “Now the child was growing and being made strong being
 filled with wisdom, and the grace of God was upon Him.”
@@ -6007,9 +5968,9 @@ Remember from our dispensational constants two things:
     character and reliance on Him are the very essence of SOPHIA.
 
 The Event at the Temple
-=======================
+-----------------------
 
-### Luke 2:41-50.
+#### Luke 2:41-50.
 
 [Translations the author’s from the Greek]
 
@@ -6401,7 +6362,7 @@ She would have had to tell someone about the thoughts of her heart.
     event but many others remained in Mary’s memory.
 
 Jesus’ Young Adulthood
-======================
+----------------------
 
 The young adulthood of Christ is recorded in verse 52. Translation, “And
 Jesus kept on progressing in wisdom and years and blessing before God
@@ -6580,7 +6541,7 @@ Nazarenes reject him on another basis. This is typical of those who are
 negative to the truth.
 
 Preparing the Way of the Lord (Isaiah 40)
-=========================================
+-----------------------------------------
 
 The Jews received the call to leave Egypt. They were to proceed to the
 promised land under the leadership of Moses. Between them and the
@@ -6677,7 +6638,7 @@ Bible truth is the bulldozer in the soul. Sin and death and Satanic
 propaganda are the great mountains and gullies.
 
 Jesus and John the Baptist
-==========================
+--------------------------
 
 John the Baptist had a ministry from God to prepare Israel for the
 millennial kingdom and its king.
@@ -7535,7 +7496,7 @@ The Word became flesh and explained the Father. In just what way the Son
 explains the Father we are about to study.
 
 The Wilderness Temptation of Christ
-===================================
+-----------------------------------
 
 The introductory verses, or how Christ got to the wilderness. The three
 gospel accounts of the event differ substantially so as to shed as much
@@ -8033,7 +7994,7 @@ understood the issue.
 Now the issue remained: Would He apply what had been recalled? The
 answer is of course. He even quotes the passage directly to the devil.
 
-### Deut 8:1-10
+#### Deut 8:1-10
 
 Test two: the idolatry test.
 
@@ -8289,7 +8250,7 @@ began to minister to Him.”
 departed from Him until an opportune time.”
 
 Jesus’ First Followers
-======================
+----------------------
 
 **John 1:35-51** (translation), "Again the next day John was standing
 with two of his disciples,
@@ -8352,12 +8313,11 @@ flesh. So when he sees the Messiah, he points Him out to the two
 disciples he is with. He calls Jesus the “Lamb of God.” This is a
 reference to the Passover feast.
 
-The Passover and Unleavened Bread
----------------------------------
+### The Passover and Unleavened Bread
 
 The Documentation. Ex 12:320; Lev 23:6; Deut 16:18; Num 28:1625.
 
-### The Procedure.
+#### The Procedure.
 
 A lamb without spot or blemish is slain by the head of each family.
 
@@ -8383,7 +8343,7 @@ The Sabbath was observed on the first and last days of the feast, but
 the entire week was treated as a Sabbath with reference to work. Only
 work for food preparation was allowed.
 
-### The interpretation.
+#### The interpretation.
 
 The wilderness journey.
 
@@ -8559,7 +8519,7 @@ literal vision, and so Nathaniel will have the gift of seeing behind the
 scenes of prayer.
 
 The Wedding at Cana of Galilee
-==============================
+------------------------------
 
 Cana was a town in Galilee, due west of the Sea of Galilee and north of
 Nazareth, about halfway between the two.
@@ -8601,7 +8561,7 @@ took place the party outside continued.
 Later the couple would emerge from the consummation room with evidence
 of the woman’s virginity on a piece of cloth.
 
-### The Text, John 2:1-11
+#### The Text, John 2:1-11
 
 **John 2:1**, “And a wedding began on the third day in Kana of Galilee,
 and the mother of Jesus was there.”
@@ -9084,7 +9044,7 @@ This miracle therefore points to the greatness of the rule of Christ,
 and the change from the plain to the immaculate.
 
 The Divine Guidance of Jesus Christ
-===================================
+-----------------------------------
 
 Jesus Christ functioned under a system of divine guidance that was both
 similar to and unique from that used by church age believers.
@@ -9242,7 +9202,7 @@ And so Christ obeyed the leadership of the Spirit and entered the desert
 not by hocus pocus but by the recall of Messianic prophecy and
 application.
 
-### Divine Guidance and the Essence of God
+#### Divine Guidance and the Essence of God
 
 In order to remain in the direct will of God you must begin with
 humility based on the essence of God proper.
@@ -9315,7 +9275,7 @@ God still overrules. You can bet that He has a greater purpose in mind
 for you if He does. 1 Thess 2:18 is the perfect illustration.
 
 The First Cleansing of the Temple
-=================================
+---------------------------------
 
 A distinction must be made between the two times that Christ cleansed
 the temple. Christ cleansed the temple at the beginning and end of His
@@ -9780,7 +9740,7 @@ combination of the sin nature and original sin that Christ used to
 conclude that He should not trust Himself to man.
 
 Nicodemus and Christ
-====================
+--------------------
 
 Nicodemus is a Greek name that means ‘Victor of the People’. Indeed he
 would be.
@@ -11057,7 +11017,7 @@ Naturally, this can lead to no small amount of confusion.
 Pay attention to the word PARABASIS. Paul employs it to denote original
 sin!
 
-### Romans 5:14
+#### Romans 5:14
 
 1 Timothy 2:14 (the woman’s original sin).
 
@@ -11212,7 +11172,7 @@ and God, and so must be discounted.
 
 The only option remaining is the one we have discussed.
 
-### The Essence of Adam’s Sin:
+#### The Essence of Adam’s Sin:
 
 Adam’s Original Sin is imputed at God consciousness, but before any
 personal sin is committed.
@@ -11596,7 +11556,7 @@ The evangelization of your child will ease your burden of child raising
 one hundred fold.
 
 The Accession of John the Baptist
-=================================
+---------------------------------
 
 Introduction:
 
@@ -12132,7 +12092,7 @@ in Him, and does not make reference to post salvation obedience.
 This verse does not undermine eternal security.
 
 The Samaritan Woman
-===================
+-------------------
 
 An Exposition of John 4:1-42
 
@@ -12992,7 +12952,7 @@ Is it not significant that the first real harvest of Jesus Christ is of
 Gentiles? And now these Gentiles are true Jews.
 
 Jesus’ Galilean Ministry
-========================
+------------------------
 
 **Arrival in Galilee, John 4:43-45.**
 
@@ -13304,7 +13264,7 @@ The first sign was the revelation of the Samaritan woman’s personal
 life. The second the healing of the royal man’s son.
 
 Ministry and Rejection at Nazareth
-==================================
+----------------------------------
 
 **Luke 4:16**, “And He came to Nazareth, where He had been brought up;
 and as was His custom, he entered the synagogue on the Sabbath, and
@@ -13852,7 +13812,7 @@ The dawning of the light is the dawning of the new era of the Messiah
 and His kingdom.
 
 The Official Calling of the Disciples
-=====================================
+-------------------------------------
 
 Matthew 4:18-22; Mark 1:16-20
 
@@ -13954,10 +13914,9 @@ while until the call of Matthew, and a little more time until the twelve
 are officially appointed.
 
 The Twelve Disciples
-====================
+--------------------
 
-Matthew
--------
+### Matthew
 
 God used an outcast. His name is a transliteration of the Aramaic word
 which means gift of God.
@@ -14003,8 +13962,7 @@ Matthew is a rich man who defied the odds.
 
 Remember Matthew if you are an outcast.
 
-John Boanerges
---------------
+### John Boanerges
 
 Cousin “according to the flesh” of Jesus Christ. Brother of James (not
 the epistle writer). A native of Galilee. John’s mother Salome was a
@@ -14059,8 +14017,7 @@ ideas.
 He was the key figure in the transition from the pre-canon period to the
 post canon period.
 
-Peter
------
+### Peter
 
 Peter’s name was also Simon. The testimony of Peter always stands behind
 the writing of Mark in this epistle.
@@ -14183,8 +14140,7 @@ following through.
 But Peter recovers, and not long before his death he writes the most
 marvelous gospel and two Epistles.
 
-James Boanerges
----------------
+### James Boanerges
 
 What we know about James is mostly related to his much more famous
 brother, John. Matt 4:21 communicates that they left the business and
@@ -14217,8 +14173,7 @@ This martyrdom may have been part of the impetus for John’s late
 ministry, because it is only after this that John begins to rev up his
 engines.
 
-Andrew, Simon’s brother
------------------------
+### Andrew, Simon’s brother
 
 Andrew is properly the first disciple of Christ. This is perhaps the
 most significant fact of his life. His brother Simon and business
@@ -14238,8 +14193,7 @@ People ask him for advice at the feeding of the five thousand, John 6:8.
 He is included in the inner circle at the Mt. of Olives during the last
 week of Christ’s life.
 
-Philip
-------
+### Philip
 
 Philip is from the hometown of Andrew and Peter, Bethsaida. He is
 another of those conservative, rebellious Galileans.
@@ -14269,8 +14223,7 @@ him again that He is the embodiment of the father, John 14:6-11.
 Philip is a good disciple to study for all the skeptics. He probably
 out-doubts Thomas.
 
-James Alphaeus
---------------
+### James Alphaeus
 
 He is the cousin of Christ. His mother Mary is the sister in law of Mary
 the mother of Christ.
@@ -14282,8 +14235,7 @@ His father is Cleopas, one of the men on the road to Emmaus.
 Apart from this we know little, but it appears that he wielded much
 influence in his family, for they seemed to all follow Christ.
 
-Nathanael Bartholomew
----------------------
+### Nathanael Bartholomew
 
 This man may be a celebrity, or at least from a famous family.
 
@@ -14362,8 +14314,7 @@ the prayers to God, and returning the answers to man. However, this is a
 literal vision, and so Nathanael will have the gift of seeing behind the
 scenes of prayer.
 
-Thomas
-------
+### Thomas
 
 This is the second of the doubters (see Phillip) among the disciples,
 although all seem to fail, and doubt is the seed of all failure.
@@ -14426,8 +14377,7 @@ to Him, My Lord and my God!’ Jesus said to him, ‘Because you have seen
 Me, have you believed? Blessed are they who did not see, and yet
 believed.’”
 
-Judas the unknown, or Thaddeus, or Lebbaeus
--------------------------------------------
+### Judas the unknown, or Thaddeus, or Lebbaeus
 
 **John 14:21-23** “He who has My commandments and keeps them, he it is
 who loves Me; and he who loves Me shall be loved by My Father, and I
@@ -14446,8 +14396,7 @@ he remains silent.
 Thaddeus or Lebbaeus means ‘breast’. This may be a clue to this man’s
 affectionate or endearing nature, but such is only speculation.
 
-Simon the Zealot
-----------------
+### Simon the Zealot
 
 More often called the Canaanite, which means zealot. We know nothing
 more about him.
@@ -14470,8 +14419,7 @@ Although they were politically correct (not in the modern sense), they
 were morally wrong, and in this they were most similar to the southern
 U.S. in the early 1800’s.
 
-Judas Iscariot, the Traitor.
-----------------------------
+### Judas Iscariot, the Traitor.
 
 All four of the gospels reveal before the fact that Judas will betray
 Jesus Christ, Matt 10:4; Mk 8:19; Luk 6:15; John 6:71.
@@ -14543,8 +14491,7 @@ spiritual footing as men. As a result, Christ gained many women
 followers who were in many ways more valuable than even His closest
 disciples.
 
-Salome. Mk 15:40; 16:1.
------------------------
+### Salome. Mk 15:40; 16:1.
 
 She is the mother of James and John, the husband of Zebedee; she is
 Mary, Jesus’ mother’s sister, and so the aunt of Jesus Christ.
@@ -14576,8 +14523,7 @@ The women reported to the eleven disciples and the other followers of
 Jesus, but they did not tell any outsiders. This is the explanation for
 the final verse.
 
-Mary from Magdala
------------------
+### Mary from Magdala
 
 **Luke 8:1-3**, “And it came about soon afterwards, that He began going
 about from one city and village to another, proclaiming and preaching
@@ -14621,8 +14567,7 @@ She goes and finds one of the disciples, and they treat her like Christ
 never did. They do not believe her words, and so they decide that they
 better check things out for themselves.
 
-Mary, the sister of Martha and Lazarus
---------------------------------------
+### Mary, the sister of Martha and Lazarus
 
 **Luke 10:38-42**tells us that Mary had her priorities straight: “now as
 they were traveling along, He entered a certain village; and a woman
@@ -14698,7 +14643,7 @@ ascension. No doubt they played an important role in the early church as
 well.
 
 Teaching in the Synagogue of Capernaum
-======================================
+--------------------------------------
 
 **Mark 1:21-22**: “And they went into Capernaum; and immediately on the
 Sabbath He entered the synagogue and began to teach. And they were
@@ -14942,7 +14887,7 @@ This then resulted in much publicity for Christ. Adversity had been
 turned to advantage.
 
 The Healing of Peter’s Mother in Law
-====================================
+------------------------------------
 
 **Matthew 8:14-17**: “And when Jesus had come to Peter’s home, He saw
 his mother-in-law lying sick in bed with a fever. And He touched her
@@ -15100,7 +15045,7 @@ Notice also that no one is worried about Christ doing these things on
 the sabbath.
 
 The Second Recall of the Four Disciples
-=======================================
+---------------------------------------
 
 **Luke 5:1-11**: “Now it came about that while the multitudes were
 pressing around Him and listening to the word of God, He was standing by
@@ -15298,7 +15243,7 @@ itself. That healing may have occurred on its own, since nowhere does it
 say that Christ performed it.
 
 Cleansing of a Leper
-====================
+--------------------
 
 **Matthew 8:2-4**: “And behold, a leper came to Him, and bowed down to
 Him, saying,”Lord, if You are willing, You can make me clean." And He
@@ -15462,7 +15407,7 @@ From this point, Christ could no longer publicly enter a city. Instead,
 He generally stayed out in the countryside, and pray.
 
 The Forgiving and Healing of a Paralytic
-========================================
+----------------------------------------
 
 **Matthew 9:1-8**: “And getting into a boat, he crossed over, and came
 to His own city. And behold, they were bringing to Him a paralytic,
@@ -15638,7 +15583,7 @@ Man. This was a Messianic term. (Son of Man)
 And so the paralytic did exactly as Jesus commanded.
 
 The Call of Matthew
-===================
+-------------------
 
 **Matthew 9:9**: "And as Jesus passed on from there, He saw a man,
 called Matthew, sitting in the tax office; and He said to him, ‘Follow
@@ -15720,7 +15665,7 @@ Matthew is a rich man who defied the odds.
 Remember Matthew if you are an outcast.
 
 Matthew’s Banquet for Christ
-============================
+----------------------------
 
 **Matthew 9:10-13**: “And it happened that as He was reclining at the
 table in the house, behold many tax-gatherers and sinners came and were
@@ -15912,7 +15857,7 @@ advantage. But the means are never going to be the substance, and God is
 never, ever pleased just by your ‘doing’ the means.
 
 The Dispensational Change
-=========================
+-------------------------
 
 **Matthew 9:14-17**: “Then the disciples of John came to Him,
 saying,”Why do we and the Pharisees fast, but Your disciples do not
@@ -15952,8 +15897,7 @@ and the skins will be ruined. But new wine must be put into fresh
 wineskins. And on one, after drinking old wine wishes for new; for he
 say, ‘The old is good enough.’”
 
-Introduction
-------------
+### Introduction
 
 Our Lord receives an opportunity here to give the disciples a basic
 understanding of a very complex subject: dispensation.
@@ -16147,8 +16091,7 @@ parable:”No one tears a piece from a new garment and puts it on an old
 garment; otherwise he will both tear the new, and the piece from the new
 will not match the old."
 
-Introduction to dispensations
------------------------------
+### Introduction to dispensations
 
 Dispensation is a theological term which describes the Divine outline of
 human history.
@@ -16165,8 +16108,7 @@ In human history, God gradually and progressively reveals His eternal
 purpose for mankind. Although the revelation is gradual and progressive,
 every generation has all that it needs to glorify God.
 
-Dispensational constants:
--------------------------
+### Dispensational constants:
 
 Since the creation of man, spiritual growth has come through faith
 perception, and tested through adversity. This will always be the case,
@@ -16194,8 +16136,7 @@ Since the fall of man, salvation has always been by grace through belief
 in Christ. So will it always be. Since Adam and Eve were in a state of
 perfection, they had no need for salvation.
 
-Dispensational variables:
--------------------------
+### Dispensational variables:
 
 The form and agents of communication of the truth.
 
@@ -16213,8 +16154,7 @@ truth from preceding ages, each successive age has greater amount of the
 truth than the preceding one. Sometimes the increases are dramatic,
 sometimes they are less so.
 
-The availability of Divine Power
---------------------------------
+### The availability of Divine Power
 
 The ministry of God the Holy Spirit in the church age marks a fantastic
 increase in the availability of divine power. In future ages, there will
@@ -16237,8 +16177,7 @@ a dispensation to the first and second advents has a direct effect on
 the conditions of that dispensation, especially what is revealed in the
 Word.
 
-Trends of Volition
-------------------
+### Trends of Volition
 
 Some dispensations seem to feature more positive volition than negative,
 and of course vice-versa. Even within dispensations this holds true.
@@ -16281,8 +16220,7 @@ will briefly present each of these four approaches.
 The incarnation runs from the birth of Christ in B.C. 4 to the
 resurrection and ascension of Christ in A.D. 30, a period of 33 years.
 
-The pre-baptism era
--------------------
+### The pre-baptism era
 
 The presentation of the Word.
 
@@ -16296,8 +16234,7 @@ testify concerning that light, so that through him all men might
 believe. He himself was not the light; he came only as a witness to the
 light.”
 
-The current phase of the angelic conflict
------------------------------------------
+### The current phase of the angelic conflict
 
 The Pre-baptism era of the life of Christ marked the beginning of the
 rebuttal phase of the angelic conflict. The intensity of the conflict
@@ -16328,15 +16265,13 @@ trial.
 He was therefore the perfect cornerstone between the two dispensations,
 Mt 21:42; Mk 12:10; Lk 20:17; Acts 4:11; Eph 2:20; 1 Pet 2:6,7.
 
-The post-baptism era
---------------------
+### The post-baptism era
 
 Note: At His baptism, Our Lord received the filling ministry of the Holy
 Spirit, and thus began His earthly ministry, and the prototype Christian
 life.
 
-The presentation of the Word
-----------------------------
+### The presentation of the Word
 
 The total information revealed took a large step forward at the
 revelation of the living Word in the baptism of Christ. The complexity
@@ -16436,10 +16371,10 @@ former dispensation, now obviously past?
 Nor do the Pharisees have an excuse.
 
 John Chapter 5
-==============
+--------------
 
 Jerusalem
-=========
+---------
 
 **John 5:1**, “After these things there was a feast of the Jews, and
 Jesus went up to Jerusalem”
@@ -16683,7 +16618,7 @@ have also distorted it, replacing it with cheap legalism and a multitude
 of rules. Let’s look at the Mosaic rule concerning the Sabbath…
 
 Sabbath Review
-==============
+--------------
 
 **Gen. 1:31-2:3**, “And God saw all that He had made, and behold, it was
 very good. And there was evening and there was morning, the sixth day.
@@ -16977,10 +16912,9 @@ Christ’s divine capabilities and character traits were ready and
 available for His use at all times, but He chose not to use them.
 
 John 5:19-47 Outline
-====================
+--------------------
 
-The Humility of the Son, vv.19-21
----------------------------------
+### The Humility of the Son, vv.19-21
 
 His humility in earthly doings, “19 Jesus therefore answered and was
 saying to them,”Truly, truly, I say to you, the Son can do nothing from
@@ -17068,8 +17002,7 @@ Christ specifically points out that His willpower is involved. This
 works in conjunction with His spiritual gift. Our willpower works the
 same way with our gifts.
 
-The Equality and Superiority of the Son, vv.22-30.
---------------------------------------------------
+### The Equality and Superiority of the Son, vv.22-30.
 
 His authority to judge, “22 For not even the Father judges anyone, but
 He has given all judgment to the Son.”
@@ -17258,8 +17191,7 @@ to please God. This is what makes all of His judgments perfectly fair.
 To please man is to fall into the morass of relativity. There is no
 fairness in relativity.
 
-The Testimony about the Son, vv.31-37
--------------------------------------
+### The Testimony about the Son, vv.31-37
 
 The invalidity of self-testimony, “31 If I testify about Myself, My
 testimony is not true;”
@@ -17403,8 +17335,7 @@ around.
 Irony: they are right in front of the Son of God, and yet they do not
 see God in Him.
 
-The Pharisees’ Rejection of the Witnesses and Their Negative Volition, vv.38-47
--------------------------------------------------------------------------------
+### The Pharisees’ Rejection of the Witnesses and Their Negative Volition, vv.38-47
 
 The Pharisees’ response to the word,“38 and you do not have His word
 living in you, because you do not believe the one whom He sent.”
@@ -17615,7 +17546,7 @@ It is impossible to reject Moses and at the same time receive Christ. If
 you miss Moses, you will most certainly miss Christ.
 
 Another Sabbath Controversy
-===========================
+---------------------------
 
 **Matt. 12:1-8**: 1“At that time Jesus went on the Sabbath through the
 grain fields, and His disciples became hungry and began to pick the
@@ -17779,7 +17710,7 @@ await the word of Jonathan; Saul learns of this conspiracy from Jonathan
 himself, and attempts to kill his own son; Jonathan warns David of his
 danger, and David flees again (1 Sam 20).
 
-### Read 1 Sam 21:1-6
+#### Read 1 Sam 21:1-6
 
 David in his desperation takes the sword of Goliath from Ahimelech, and
 then flees to Gath, the hometown of Goliath (Psalm 34); Achish the king
@@ -17914,7 +17845,7 @@ the week.
 And all this over such a little thing as eating grain on the fly!
 
 Healing on the Sabbath
-======================
+----------------------
 
 **Matthew 12:9-14**: “9 And departing there, He went into their
 synagogue. And behold, a man has a withered hand. 10 And they questioned
@@ -18241,7 +18172,7 @@ God was not, and so they destroyed themselves. They left the pages of
 history forever after the destruction of Jerusalem in 70 A.D.
 
 Transition to the Sermon on the Mount
-=====================================
+-------------------------------------
 
 Read Matthew 12:15-21
 
@@ -18520,7 +18451,7 @@ And, there are many indications from the epistles that the LDE are
 brought forward into the church age. Romans 1; 1 Tim 1:8-10.
 
 The Beatitudes
-==============
+--------------
 
 Beatitudes Quick Review
 
@@ -18922,7 +18853,7 @@ And, therefore Christ commands His hearers to rejoice when they
 encounter it.
 
 Waiting for the Kingdom
-=======================
+-----------------------
 
 The Present Responsibility of Those Who Wait for the Kingdom
 
@@ -19307,7 +19238,7 @@ Men glorify God by believing in Jesus Christ.
 Men glorify God by fulfilling His plan.
 
 Christ and the Law of Moses
-===========================
+---------------------------
 
 The General Policy of Law in the Kingdom; Christ and the Law of Moses
 
@@ -19502,7 +19433,7 @@ for doubt concerning the matter. This is a dogmatic and absolute
 negation.
 
 The Law in the Kingdom of Christ
-================================
+--------------------------------
 
 Matthew 5:21-48
 
@@ -20284,7 +20215,7 @@ In Acts 23:29, Claudius Lysias says that Paul is not axios thanatou.
 In 25:11,25 Paul himself claims the same thing.
 
 Oaths
-=====
+-----
 
 Matthew 5:33-37, “33 Again you heard that it was said by the ancients,
 You will not make false oaths, and, You will make your oaths to the
@@ -20525,7 +20456,7 @@ courtroom, or to the military oath. Neither one of those can cause you
 to go to jail if you are an honest person.
 
 Judicial Punishment
-===================
+-------------------
 
 Introduction.
 
@@ -21018,7 +20949,7 @@ Believers in Jesus Christ are always morally responsible in spite of the
 looseness of their national laws.
 
 Love Your Enemies
-=================
+-----------------
 
 Matthew 5:43-48: “43 You heard that it was said, ‘Love your neighbor’
 and, ‘Hate your enemy’. 44 But I say to you, love your enemies and pray
@@ -21361,7 +21292,7 @@ imitation of God. When we extend our virtue love only to those who love
 us, we imitate all the occupants of the cosmic system.
 
 Invisible Impact of Christians
-==============================
+------------------------------
 
 Matthew 6:1-4: “1 Be careful to not practice your righteousness before
 men for them to observe. For if not, you do not have a reward from your
@@ -21564,7 +21495,7 @@ knows what you need before you ask. You do not need to keep reminding
 Him of it.
 
 The Lord’s Prayer
-=================
+-----------------
 
 “9 Therefore you pray like this: “Our Father who is in heaven; let your
 name be sanctified; 10 Let Your kingdom come; let Your will be done, as
@@ -22158,7 +22089,7 @@ for that sin; Christ already did.
 of God. You must be at least in fellowship to do so.
 
 Fasting – Christ’s Comment
-==========================
+--------------------------
 
 Matthew 6:16-18, “16 But whenever you fast, do not become like the
 gloomy hypocrites, for they disfigure their faces in order to appear to
@@ -22271,7 +22202,7 @@ God is greater than man; His reward is greater than man.
 Therefore, this is a vastly superior reward system.
 
 Grace Provision
-===============
+---------------
 
 Introduction
 
@@ -23241,7 +23172,7 @@ The intake of doctrine today is the solution to the challenges of
 tomorrow.
 
 Judge Not
-=========
+---------
 
 Matthew 7:1-6
 
@@ -24312,7 +24243,7 @@ In the mean time, the discipline of God operates toward them in order to
 wake them up and shake them loose from their blindness.
 
 Sermon on the Mount – Conclusion
-================================
+--------------------------------
 
 Matthew 7:7-29
 
@@ -25449,7 +25380,7 @@ the details.
 (5) It must have self-esteem.
 
 Christ and the Centurion
-========================
+------------------------
 
 Matthew 8:5-13
 
@@ -25804,7 +25735,7 @@ lapse.
 (4) The servant was permanently healed from his malady.
 
 The Raising of the Widow’s Son
-==============================
+------------------------------
 
 Luke 7:11-17: “(11) And it came about soon afterward, He came into a
 city called Nain and His disciples and many crowds came with Him. (12)
@@ -25979,7 +25910,7 @@ widow’s son. What about John the Baptist? What did they say then? And
 what about the Sermon on the Mount? What did they say then?
 
 Christ on John the Baptist
-==========================
+--------------------------
 
 Matthew 11:2-19
 
@@ -27149,7 +27080,7 @@ negative to doctrine, then simply examine their fruit.
 (d) Is irrational hypocrisy the fruit of wisdom?
 
 The Woes Upon Chorazin and Bethsaida
-====================================
+------------------------------------
 
 The Woes upon Chorazin and Bethsaida
 
@@ -28099,7 +28030,7 @@ To compare the last judgment of the bottom of the Dead Sea with the
 people of Capernaum is a strong vilification indeed.
 
 The Easy Yoke
-=============
+-------------
 
 Matthew11:25-30, “(25) During that time Jesus, after formulating an
 answer, said, ‘I confess outwardly to you, Father, Lord of heaven and of
@@ -28894,7 +28825,7 @@ The burden is light, which is ELAPHRON. There is no great burden to bear
 in the plan of God.
 
 The Sinful Woman Forgiven
-=========================
+-------------------------
 
 Luke 7:36-50
 
@@ -29894,7 +29825,7 @@ gave them a shot at repentance, even though they were terribly rude to
 Him.
 
 The Women’s Auxiliary
-=====================
+---------------------
 
 The Women’s Auxiliary
 
@@ -30114,7 +30045,7 @@ resources of various kinds, so that the ministry could continue.
 c. They found a legitimate niche in the ministry, and away they went.
 
 Christ Casting Out Demons
-=========================
+-------------------------
 
 Accusations about Christ’s Use of Authority to Cast out Demons
 
@@ -31433,7 +31364,7 @@ wealth unto all who call upon Him. (13) For everyone who will call upon
 the name of the Lord will be saved.”
 
 The Demand For a Sign Refused
-=============================
+-----------------------------
 
 Matthew 12:38-45.
 
@@ -32201,7 +32132,7 @@ So the generation that lived at the time of Christ is always looking for
 happiness, and foolish enough to let the demons back in.
 
 Jesus’ Mother and Brothers
-==========================
+--------------------------
 
 Matthew 12:46-50
 
@@ -32518,7 +32449,7 @@ was severe. If He did it, you can do it too.
 (c) It should build up a sense of self-esteem inside of you.
 
 Parables, An Introduction
-=========================
+-------------------------
 
 Matthew 13:1-3a; Mark 4:1-2; Luke 8:4
 
@@ -32620,7 +32551,7 @@ kingdom information. It represents a striking departure for Him, and a
 recognition by Him that the people were not listening.
 
 Parable of the Sower
-====================
+--------------------
 
 Matthew 13:3b-23
 
@@ -33833,7 +33764,7 @@ who made it all the way to maturity and gave a fantastic testimony to
 God.
 
 Parable of the Seed
-===================
+-------------------
 
 Mark 4:26-29
 
@@ -34009,7 +33940,7 @@ analyzing their excuses and counseling their negative volition. Christ
 specifically says here that this is not a requirement.
 
 Parable of the Tares
-====================
+--------------------
 
 Matthew 13:24-30; 36-43.
 
@@ -34605,7 +34536,7 @@ one Lawgiver and Judge, the one who is able to save and destroy. But
 you–who are you to judge your neighbor?”
 
 Parable of the Mustard Seed
-===========================
+---------------------------
 
 Matthew 13:31-32
 
@@ -34751,7 +34682,7 @@ commandment, Deuteronomy 6:5, “You shall love the Lord your God with all
 your heart and with all your soul and with all your might.”
 
 The Remaining Parables
-======================
+----------------------
 
 Matthew 13:33-35, “(33) He spoke to them another parable: the kingdom of
 the heavens is like leaven, which a woman after taking hid it into three
@@ -35852,7 +35783,7 @@ legalistic background you may be tempted to throw out the good things
 from your heritage, but it is wrong to do so.
 
 Calming the Storm
-=================
+-----------------
 
 Matthew 13:53: “And it came about when Jesus finished these parables, He
 left there.
@@ -36365,7 +36296,7 @@ It is your time to go home to heaven.
 God will protect you through the storm.
 
 The Demons and the Swine
-========================
+------------------------
 
 Matthew 8:28-34
 
@@ -37248,7 +37179,7 @@ And this says something about the way in which missionary activity is to
 take place.
 
 The Healing of Jairus’ Daughter
-===============================
+-------------------------------
 
 Matthew 9:18-26
 
@@ -38319,7 +38250,7 @@ Jairus was a celebrity in his own right, there is the potential for an
 even greater crowd to follow our Lord. He does not want this.
 
 Healing Incidents
-=================
+-----------------
 
 Matthew 9:27-34
 
@@ -38548,7 +38479,7 @@ preventing others from being saved. This kind of sin has the gravest of
 consequences.
 
 Christ Returns to Nazareth
-==========================
+--------------------------
 
 Matthew 13:54-58
 
@@ -38960,7 +38891,7 @@ If possible, the gospel must be given opportunity with them again and
 again.
 
 The Final Galilean Ministry
-===========================
+---------------------------
 
 Matthew 9:35-38
 
@@ -39238,7 +39169,7 @@ Lord will do the rest. And indeed God is faithful to His word, and the
 twelve disciples are willing.
 
 The Commissioning of the Twelve
-===============================
+-------------------------------
 
 Matthew 10:1-42
 
@@ -41218,7 +41149,7 @@ Understands the eternal advantage, and how it allays the fears related
 to ambassadorship.
 
 Herod and John the Baptist
-==========================
+--------------------------
 
 Matthew 14:1-2
 
@@ -42160,7 +42091,7 @@ shadow of the messiah loomed over the Herod family as much as anyone.
 few who looked for the true and the good could see Him as He truly was.
 
 The Beheading of John the Baptist
-=================================
+---------------------------------
 
 Matthew 14:3-12
 
@@ -42731,7 +42662,7 @@ Christ. That is, we should realize that nothing we have encountered has
 eluded the experience of the Son of God.
 
 Jesus’ Withdrawal from Galilee
-==============================
+------------------------------
 
 Matthew 14:13-14: “(13) Now Jesus, after hearing [them] withdrew from
 there in a boat into a deserted place by Himself; and the multitudes,
@@ -42898,7 +42829,7 @@ This now becomes the setting for a remarkable series of events that will
 culminate in the Bread of Life discourse.
 
 The Feeding of the Five Thousand
-================================
+--------------------------------
 
 Matthew 14:15-23
 
