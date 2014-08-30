@@ -251,7 +251,7 @@ God (Rom. 8:21). Then will adoption be complete, when man’s whole
 personality shall be in harmony with the spirit of sonship, and the
 whole universe favorable to its perseverance in a state of blessedness.
 
-See also: [Children of God](children-of-god.html).
+See also: Children of God.
 
 **Bibliography.**—comms inloc, esp W. Sanday on Romans (ICC, 14th ed
 1913) and J. B. Lightfoot on Galatians (1900); RTWB (R. H. Fuller);
