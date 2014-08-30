@@ -77,7 +77,9 @@ The custom prevailed among Greeks, Romans, and other ancient peoples
 (including the Hurrians; see Abraham III); but it does not appear in
 Jewish law.
 
-A. In the OT Three cases of adoption are mentioned: of Moses (Ex. 2:10),
+### A. In the OT
+
+Three cases of adoption are mentioned: of Moses (Ex. 2:10),
 Genubath (1 K. 11:20), and Esther (Est. 2:7, 15); but it is remarkable
 that they all occur outside of Palestine—in Egypt and Persia, where the
 practice of adoption prevailed. Likewise the idea appears in the NT only
@@ -93,12 +95,16 @@ nations it was extended to slaves (as Moses), who thereby gained their
 freedom; but in Greece and Rome it was, with rare exceptions, limited to
 citizens.
 
-B. Greek In Greece a man might during his lifetime, or by will, to take
+### B. Greek
+
+In Greece a man might during his lifetime, or by will, to take
 effect after his death, adopt any male citizen into the privileges of
 his son, but with the invariable condition that the adopted son accepted
 the legal obligations and religious duties of a real son.
 
-C. Roman In Rome the unique nature of paternal authority (patria
+### C. Roman
+
+In Rome the unique nature of paternal authority (patria
 potestas), by which a son was held in his father’s power, almost as a
 slave was owned by his master, gave a peculiar character to the process
 of adoption. For the adoption of a person free from paternal authority
@@ -122,7 +128,9 @@ general idea. Under this Figure he teaches that God, by the
 manifestation of His grace in Christ, brings men into the relation of
 sons to Himself, and communicates to them the experience of sonship.
 
-A. Liberty (Galatians) In Galatians Paul emphasizes especially the
+### A. Liberty (Galatians)
+
+In Galatians Paul emphasizes especially the
 liberty enjoyed by those who live by faith, in contrast to the bondage
 under which men are held who guide their lives by legal ceremonies and
 ordinances, as the Galatians were prone to do (5:1). The contrast
@@ -151,7 +159,9 @@ a precondition of adoption, which follows upon faith, and is accompanied
 by the sending of “the Spirit of his Son into our hearts, crying, Abba,
 Father,” and then all bondage is done away (4:5–7).
 
-B. Deliverance from Debt (Romans) In Rom. 8:12–17 the idea of obligation
+### B. Deliverance from Debt (Romans)
+
+In Rom. 8:12–17 the idea of obligation
 or debt is coupled with that of liberty. Man is thought of as at one
 time under the authority and power of the flesh (8:5), but when the
 Spirit of Christ comes to dwell in him, he is a debtor no longer to the
@@ -177,7 +187,9 @@ Christ, by which man becomes so united with Christ that His filial
 spirit enters into him, and takes possession of his consciousness, so
 that he knows and greets God as Christ does (cf. Mk. 14:36).
 
-A. In Relation to Justification It is an aspect of the same experience
+### A. In Relation to Justification
+
+It is an aspect of the same experience
 that Paul describes elsewhere, under another legal metaphor, as
 justification by faith. According to the latter, God declares the sinner
 righteous and treats him as such, admits him to the experience of
@@ -191,7 +203,9 @@ justification is the act of a merciful judge setting the prisoner free,
 but adoption is the act of a generous father, taking a son to his bosom
 and endowing him with liberty, favor, and a heritage.
 
-B. In Relation to Sanctification Besides, justification is the beginning
+### B. In Relation to Sanctification
+
+Besides, justification is the beginning
 of a process which needs for its completion a progressive course of
 sanctification by the aid of the Holy Spirit, but adoption is
 coextensive with sanctification. The sons of God are those led by the
@@ -201,7 +215,9 @@ cleansing and growth as an abstract process, but adoption includes it as
 a concrete relation to God, as loyalty, obedience, and fellowship with
 an ever loving Father.
 
-C. In Relation to Regeneration Some have identified adoption with
+### C. In Relation to Regeneration
+
+Some have identified adoption with
 regeneration, and therefore many Fathers and Roman Catholic theologians
 have identified it with baptismal regeneration, thereby excluding the
 essential fact of conscious sonship. The new birth and adoption are
@@ -225,7 +241,9 @@ Adoption as God’s act is an eternal process of His gracious love, for He
 “foreordained us unto adoption as sons through Jesus Christ unto
 himself, according to the good pleasure of his will” (Eph. 1:5).
 
-A. Divine Fatherhood The motive and impulse of Fatherhood which result
+### A. Divine Fatherhood
+
+The motive and impulse of Fatherhood which result
 in adoption were eternally real and active in God. In some sense He had
 bestowed the adoption upon Israel (Rom. 9:4). “Israel is my son, my
 first-born” (Ex. 4:22; cf. Dt. 14:1; 32:6; Jer. 31:9; Hos. 11:1). God
@@ -238,7 +256,9 @@ in their hearts that they are sons of God, and to give them confidence
 and utterance to enable them to call God their Father (Gal. 4:5f; Rom.
 8:15).
 
-B. Its Cosmic Range But this experience also is incomplete, and looks
+### B. Its Cosmic Range
+
+But this experience also is incomplete, and looks
 forward to a fuller adoption in the response, not only of man’s spirit,
 but of the whole creation, including man’s body, to the Fatherhood of
 God (Rom. 8:23). Every filial spirit now groans, because it finds itself
@@ -250,6 +270,8 @@ bondage of corruption into the liberty of the glory of the children of
 God (Rom. 8:21). Then will adoption be complete, when man’s whole
 personality shall be in harmony with the spirit of sonship, and the
 whole universe favorable to its perseverance in a state of blessedness.
+
+---
 
 See also: Children of God.
 
