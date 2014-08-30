@@ -11,10 +11,10 @@ layout: lesson
 Besides the examples of physical walking in the Bible, there are many
 references to two types of spiritual walking:
 
-• Walking which is advancing in the Christian life through the use of
+* Walking which is advancing in the Christian life through the use of
 divine power, and
 
-• Walking in evil or controlled by the sin nature and using human
+* Walking in evil or controlled by the sin nature and using human
 energy, results in stagnation, retrogression or backsliding.
 
 So, in walking, a Christian is either advancing or retreating. To
