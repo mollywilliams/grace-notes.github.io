@@ -1,10 +1,9 @@
 ---
 title: Adoption
 layout: lesson
+description: "From Eph. 1:5, Gal. 4:5, etc., notes on the believer's spiritual adoption."
+date: "FEB 2013"
 ---
-
-
-**Adoption**
 
 The word adoption in the New Testament is translated from the Greek word
 **huiothesia**, which means “the placing of an adult son” and refers to
@@ -42,7 +41,7 @@ responsibilities. But the seriousness of his position as a citizen was
 impressed on him; and if he was intelligent and hard working, he would
 grow up to be an adult having integrity and character.
 
-Application
+## Application
 
 The spiritual use of the word “adoption” signifies the placing of a
 newborn child, in the spiritual sense, into the position of privilege
@@ -64,7 +63,7 @@ another.
 
 From the International Standard Bible Encyclopedia:
 
-**Adoption; Sonship**[Gk huiothesía]. The Greek term occurs in the Bible
+> **Adoption; Sonship**[Gk huiothesía]. The Greek term occurs in the Bible
 only in Paul’s Epistles (Rom. 8:15, 23; 9:4; Gal. 4:5; Eph. 1:5); for
 extrabiblical usage see MM, pp. 648f The AV and RV have “adoption”
 throughout. The RSV has “adoption” in Rom. 8:23; Gal. 4:5, and “sonship”
@@ -72,7 +71,7 @@ in Rom. 8:15; 9:4; in Eph. 1:5 the RSV reads “to be his sons.” The NEB
 in each instance uses a phrase such as “to make us sons” or “to attain
 the status of sons.”
 
-**I. General Legal Idea**
+## I. General Legal Idea
 
 The custom prevailed among Greeks, Romans, and other ancient peoples
 (including the Hurrians; see Abraham III); but it does not appear in
@@ -110,7 +109,7 @@ natural father’s power into that of his adoptive father; and it
 consisted in a fictitious sale of the son, and his surrender by the
 natural to the adoptive father.
 
-**II. Paul’s Doctrine**
+## II. Paul's Doctrine
 
 As a Roman citizen the apostle would naturally know of the Roman custom;
 but in the cosmopolitan city of Tarsus, and again on his travels, he
@@ -170,7 +169,7 @@ of mutual confidence and love, of unity of thought and will, which
 should characterize the ideal family, and in which all restraint,
 compulsion, and fear have passed away.
 
-**III. The Christian Experience**
+## III. The Christian Experience
 
 As a fact of Christian experience, the adoption is the recognition and
 affirmation by man of his sonship toward God. It follows upon faith in
@@ -220,7 +219,7 @@ alien and a stranger from God, and the change wrought by faith in Christ
 makes him morally a son and conscious of his sonship; but naturally he
 is always a potential son because God is always a real father.
 
-**IV. As God’s Act**
+## IV. As God’s Act
 
 Adoption as God’s act is an eternal process of His gracious love, for He
 “foreordained us unto adoption as sons through Jesus Christ unto
@@ -252,7 +251,7 @@ God (Rom. 8:21). Then will adoption be complete, when man’s whole
 personality shall be in harmony with the spirit of sonship, and the
 whole universe favorable to its perseverance in a state of blessedness.
 
-See also Children of god.
+See also: [Children of God](children-of-god.html).
 
 **Bibliography.**—comms inloc, esp W. Sanday on Romans (ICC, 14th ed
 1913) and J. B. Lightfoot on Galatians (1900); RTWB (R. H. Fuller);
