@@ -19,8 +19,8 @@ III. Worship
 
 IV. Various Forms of Baal
 
-I. Name
-=======
+##I. Name
+
 
 In the Râs Shamrah texts, the first of which were discovered in 1929,
 the designation “Baal” is found about 240 times either alone or in a
