@@ -1,5 +1,6 @@
 ---
 title: Babylon
+display_title: Babylon
 layout: lesson
 ---
 
@@ -12,8 +13,7 @@ From International Standard Bible Encyclopedia
 *bābel*—‘gate of god’; Akk *bāb–ili*, *bāb-ilāni*—‘gate of god(s)’; Gk
 *Babylōn*; Pers *Babirush*]. The capital city of Babylonia.
 
-I. Location
-===========
+##I. Location
 
 Babylon lay on the bank of the Euphrates in the land of Shinar (Gen.
 10:10), in the northern area of Babylonia (now southern Iraq) called
@@ -25,8 +25,7 @@ Merkes, *‘Amran Ibn ‘Alī Ṣaḥn*, and Homera to the south. The high water
 and long flooding of the whole area render the earlier and lower ruins
 inaccessible.
 
-II. Name
-========
+##II. Name
 
 The oldest attested extrabiblical name is the Sumerian ká-dingir-ki
 (usually written ká-dingir-ra, “gate of god”). This may have been a
@@ -42,8 +41,7 @@ usually interpreted as a coded form (Athbash) by which *š* = *b*, etc.
 The proposed equation with *ŠEŠ.KU* in a late king list has been
 questioned, since this could be read equally well as (É).URU.KU.
 
-III. Early History
-==================
+##III. Early History
 
 ***A. Foundation***Genesis ascribes the foundation of the city to Nimrod
 prior to his building of Erech (ancient Uruk, modern Warka) and Accad
@@ -150,8 +148,7 @@ control of local affairs in the hands of his son and co-regent
 Belshazzar, who died when the city fell to the Persians in 539 (Dnl
 5:30).
 
-IV. Description
-===============
+##IV. Description
 
 ***A. Walls***Babylon lay in a plain, encircled by double walls. The
 inner rampart (*dūru*), called “Imgur-Enlil,” was constructed of mud
@@ -500,8 +497,7 @@ copied long after Aramaic had become the official language written on
 more perishable materials, and they include astronomical observations,
 diaries, almanacs, and omens.
 
-V. Later History
-================
+##V. Later History
 
 ***A. Fall of Babylon, 539b.c.*** In 544 Nabonidus returned from *Teimā*
 to Babylon, with which he had been in contact throughout his ten-year
@@ -606,8 +602,7 @@ but made no reference to the continued existence of other religious
 practices or buildings. According to Septimius Severus the site was
 deserted by a.d. 200.
 
-VI. Exploration and Excavation
-==============================
+##VI. Exploration and Excavation
 
 Since the ancient city of Babylon long lay deserted and unidentified,
 many early travelers, including Schiltberger (ca 1400), di Conti
