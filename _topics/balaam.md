@@ -1,16 +1,13 @@
 ---
 title: Balaam
+display_title: Balaam
 layout: lesson
 ---
 
 
-**Balaam 2**
-
 **Balaam**
 
-Balaam was a Gentile living in the city of Pethor in Mesopotamia. He was
-a poet and a prophet of sorts, but he belongs to the Midianites. See
-Numbers 22 and following for his story.
+Balaam was a Gentile living in the city of Pethor in Mesopotamia. He was a poet and a prophet of sorts, but he belongs to the Midianites. See [Numbers 22] (http://www.biblegateway.com/passage/?search=Numbers+22) and following for his story.
 
 Balaam possessed some knowledge of Jehovah, the true God; and he
 acknowledged that his superior powers and knowledge as a prophet came
@@ -65,14 +62,9 @@ Israelites to commit fornication with them. A great deal of damage was
 done over several generations by this practice.
 
 A battle was fought between the Israelites and Midianites, and Balaam
-sided with the Midianites and was slain. See Num. 31:8.
+sided with the Midianites and was slain. See [Num. 31:8] (http://www.biblegateway.com/passage/?search=Numbers+31%3A8).
 
-Balaam comes down in history as the prototype of the typical hireling
-prophet eager only to commercialize his gift. 2 Pet. 2:15; Titus 1
+Balaam comes down in history as the prototype of the typical hireling prophet eager only to commercialize his gift. [2 Pet. 2:15; Titus 1] (http://www.biblegateway.com/passage/?search=2+Peter+2%3A15%3B+tit+1)
 
-The doctrine of Balaam mentioned in Rev. 2:14 was the teaching of the
-mercenary prophet to abandon godly separation and character in favor of
-worldly corruption and conformity. Balaam taught Balak to corrupt the
-people that he could not conquer. He was ignorant of God’s principles,
-and too self centered to use his gift properly.
+The doctrine of Balaam mentioned in [Rev. 2:14] (http://www.biblegateway.com/passage/?search=+Rev+2%3A14) was the teaching of the mercenary prophet to abandon godly separation and character in favor of worldly corruption and conformity. Balaam taught Balak to corrupt the people that he could not conquer. He was ignorant of God’s principles, and too self centered to use his gift properly.
 
