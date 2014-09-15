@@ -9,7 +9,7 @@ layout: lesson
 
 From International Standard Bible Encyclopedia
 
-**Babylon**baʹbə-lon; **BABEL** bāʹbəl (Gen. 10:10; 11:9) [Heb
+*Babylon*baʹbə-lon; *BABEL* bāʹbəl (Gen. 10:10; 11:9) [Heb
 *bābel*—‘gate of god’; Akk *bāb–ili*, *bāb-ilāni*—‘gate of god(s)’; Gk
 *Babylōn*; Pers *Babirush*]. The capital city of Babylonia.
 
