@@ -1,5 +1,6 @@
 ---
 title: Baal
+display_title: Baal
 layout: lesson
 ---
 
@@ -65,8 +66,7 @@ abundance or wealth,” Cant. 8:11). All these various forms of the
 fertility-god were collectively known as the Baalim
 (*b*<sup>*e*</sup>*‘ālîm*, Heb pl of Baal).
 
-II. Character
-=============
+##II. Character
 
 The Râs Shamrah tablets, as well as the statuettes and stelae found
 there, have produced an abundance of information relating to the
@@ -111,8 +111,7 @@ Consequently, Baal drives *Aṯtar*, the son of Asherah, from the throne
 and in a short but fierce battle again defeats Mot. Now the fields can
 once again be fertile and productive.
 
-III. Worship
-============
+##III. Worship
 
 The Canaanite religion had a strong influence on the Hebrews. During the
 time of Balaam and Balak, Baal was worshiped in Moab (Nu. 22:41). [5
@@ -158,8 +157,7 @@ all the idolatrous priests. Obviously, Baalism was and continued to be a
 pronounced threat to the Hebrews throughout their history, perhaps more
 in Israel than in Judah.
 
-IV. Various Forms of Baal
-=========================
+##IV. Various Forms of Baal
 
 Baal-berith (Heb *ba‘al b*<sup>*e*</sup>*rîṯ*; Gk *Baalberith*),
 “covenant Baal,” was worshiped at Shechem after the death of Gideon
