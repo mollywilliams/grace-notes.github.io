@@ -130,7 +130,7 @@ Belshazzar, who died when the city fell to the Persians in 539 (Dnl
 
 ##IV. Description
 
-***A. Walls***Babylon lay in a plain, encircled by double walls. The
+__A. Walls__ Babylon lay in a plain, encircled by double walls. The
 inner rampart (*dūru*), called “Imgur-Enlil,” was constructed of mud
 brick 6.50 m (21 ft) thick. It had large towers at intervals of 18 m (60
 ft) jutting out about 3.5 and.75 m (11.5 and 2.5 ft) and rising to 10–18
@@ -168,7 +168,7 @@ high and 60, 40, and 20 furlongs in length respectively). Herodotus
 viewed the city as a rectangle. Unfortunately no excavations to confirm
 this have yet been possible West of the river.
 
-***B. Gates***Babylonian inscriptions give the names of the eight major
+__B. Gates__ Babylonian inscriptions give the names of the eight major
 entrances to the city itself, but of these only four have been
 excavated. The southwest gate of *Uraš* was probably typical in general
 plan. The approach was by a dam across the moat through a wide gateway
@@ -194,7 +194,7 @@ decorated with blue and black glazed bricks with alternate rows in
 yellow relief of 575 *mušruššu* (a symbol of Marduk, a combination of a
 serpent with lion’s and eagle’s legs) and the bulls of (H)adad.
 
-***C. Streets***The layout of the principal streets was determined by
+__C. Streets__ The layout of the principal streets was determined by
 the line of the river and of the main gates and was virtually unchanged
 from Old Babylonian times. The main thoroughfare, called *Ai-ibūr-šābū*
 (“the enemy shall not prevail”), was the sacred procession way running
@@ -235,7 +235,7 @@ destroys his foes.” There were also other procession streets named after
 deities — Marduk (“Marduk hears him who seeks him”) and Sibitti — and
 also after earlier kings (*Damiq-ilišu*).
 
-***D. Citadel***The northern wall was extended in the center by
+__D. Citadel__ The northern wall was extended in the center by
 Nebuchadrezzar to form an additional defense for the palaces to the
 south and to provide more accommodation. This complex appears to have
 been used by his successors as a storehouse (some think as a “museum”),
@@ -245,7 +245,7 @@ Hittite basalt sculpture of a lion trampling a man (“the lion of
 Babylon”), and a stele showing the Hittite storm-god *Tešub* from
 seventh-century (b.c.) Sam’al.
 
-***E. Palaces***In the southern citadel, bounded by the Imgur-Enlil wall
+__E. Palaces__ In the southern citadel, bounded by the Imgur-Enlil wall
 (N), the river (W), the Procession Way (E), and the *Libilḫegalla* canal
 (which was cleared by Nebuchadrezzar and linked the Euphrates and the
 Banitu canal E of the city with the canal network in the New City, thus
@@ -294,7 +294,7 @@ Nebuchadrezzar also built himself a “Summer Palace” outside the main
 citadel but within the defense walls. This was set 9 m (30 ft) high (it
 was 100 m [328 ft] long) to catch the cooler northeast winds.
 
-***F. City Quarters***Tablets name the various parts of the city, which
+__F. City Quarters__ Tablets name the various parts of the city, which
 included the citadel itself (*ālu libbi āli*, “city within a city”) with
 at least nine temples. It was described as near ká-dingir-ra, which name
 also applied to the whole city. The citadel included the royal palace as
@@ -304,7 +304,7 @@ far as Esagila. Here were to be found the temples of Ishtar and
 part of the Chaldean extension. Large areas within the city walls were
 given up to parks and squares.
 
-***G. Temple Tower (Ziggurat**)*The ziggurat of Babylon, *É-temen-an-ki*
+__G. Temple Tower (Ziggurat)__ The ziggurat of Babylon, *É-temen-an-ki*
 (“building [of] the foundation of heaven and earth”), lay in the center
 of the city, S of the citadel, now marked by the ruin-area *Ṣaḥn* (“the
 Pan”), a deep depression near the mausoleum of *‘Amrān Ibn ‘Alī* founded
@@ -357,7 +357,7 @@ that one unmarried native woman spent the night there to be visited by
 the deity. Though Herodotus did not believe the story, it conforms to
 the known Babylonian view of the sacred marriage.
 
-***H. Esagila***The principal temple of Babylon, Esagila (“house of the
+__H. Esagila__ The principal temple of Babylon, Esagila (“house of the
 uplifted head”), was dedicated to the patron deity of the city Marduk.
 It lay S of Etemenanki, which must have overshadowed it. The excavations
 by Koldewey in the *‘Amrān Ibn ‘Alī* mound disclosed sufficient evidence
@@ -400,7 +400,7 @@ to the south, and elsewhere Nusku and Sin. To the east of Esagila lay a
 further complex of buildings (89 by 116 m, 292 by 380 ft) the precise
 purpose of which is not known.
 
-***I. Other Temples***In addition to Ezida, Babylonian texts refer to at
+__I. Other Temples__ In addition to Ezida, Babylonian texts refer to at
 least fifty other temples by name, Nebuchadrezzar himself claiming to
 have built fifteen of them within the city. Excavations have uncovered
 the temple of Ishtar of Agade (*Emašdari*) in the area of private houses
@@ -443,7 +443,7 @@ than two hundred pedestals for other deities mentioned. The open-air
 shrines were probably similar to those for the intercessory Lama goddess
 found at crossroads at Ur.
 
-***J. Private Houses***A series of mounds to the north of *Išin Aswad*
+__J. Private Houses__ A series of mounds to the north of *Išin Aswad*
 at Babylon are called locally Merkes, “trade center.” Since the levels
 containing houses were easier to excavate, being on raised ground, it
 was possible for Koldewey to trace occupation here almost continuously
@@ -460,7 +460,7 @@ with houses of three or four stories” cannot now be checked. Some houses
 may have been built on higher ground than others. Moreover, his
 expression *órophos* could be rendered “roofs” rather than “story.”
 
-***K. Documents***Apart from the architectural remains, the decorations
+__K. Documents__ Apart from the architectural remains, the decorations
 of the Ishtar gate, and small objects, the most significant finds from
 ancient Babylon are more than thirty thousand inscribed tablets. Since
 apart from the Merkes the Old Babylonian levels have not been explored,
@@ -479,7 +479,7 @@ diaries, almanacs, and omens.
 
 ##V. Later History
 
-***A. Fall of Babylon, 539b.c.*** In 544 Nabonidus returned from *Teimā*
+__A. Fall of Babylon, 539b.c.__ In 544 Nabonidus returned from *Teimā*
 to Babylon, with which he had been in contact throughout his ten-year
 exile. He does not, however, appear to have taken over control of the
 city itself again from Belshazzar when, according to the Babylonian
@@ -506,7 +506,7 @@ cities. The Jews were sent home with compensatory assistance. He
 appointed new governors, so ensuring peace and stable conditions
 essential to the proper maintenance of the religious centers.
 
-***B. Achaemenid City***In *Nisānu* 538, Cambyses II son of Cyrus II
+__B. Achaemenid City__ In *Nisānu* 538, Cambyses II son of Cyrus II
 “took the hands of *Bēl*,” but left the city under the control of a
 governor, who kept the peace until Cambyses’ death in 522 b.c. There
 followed the first of the recurrent revolts. *Nidintu-Bēl* seized power,
@@ -537,7 +537,7 @@ introduce the statue of Aphrodite or Anahita into the city. Artaxerxes
 III (Ochus, 358–338) could be the builder or restorer of the *appa
 danna* found by Koldewey.
 
-***C. Hellenistic Period***After his victory at Gaugamela near Arbela
+__C. Hellenistic Period__ After his victory at Gaugamela near Arbela
 (Erbil), Oct. 1, 331 b.c., Alexander marched to Babylon, where the
 Macedonian was triumphantly acclaimed, the Persian garrison offering no
 opposition. He offered sacrifices to Marduk, ordered the rebuilding of
@@ -553,7 +553,7 @@ theater inside the east wall (*Ḥomera*), cleared by Koldewey and Lenzen,
 may have been built at this time, though it was unquestionably restored
 in the time of Antiochus IV.
 
-***D. Seleucid-Parthians***A king list from Babylon written soon after
+__D. Seleucid-Parthians__ A king list from Babylon written soon after
 175 b.c. names the successors of Alexander who ruled the city — Philip
 Arrhidaeus, Antigonus, Alexander IV, and Seleucus I (323–250). Before
 Seleucus died Babylon’s economic but not its religious importance had
@@ -561,7 +561,7 @@ declined sharply, a process hastened by the foundation of a new capital
 at Seleucia (Tell \`Umar) on the Tigris by his successor Antiochus I, in
 274 b.c.
 
-***E. Later City***Babylon’s attraction as a “holy city” continued. The
+__E. Later City__ Babylon’s attraction as a “holy city” continued. The
 satrap Hyspaosines of Characene suppressed a revolt led by a certain
 Hymerus in 127 b.c. when the priests of Esagila were active. Hymerus
 issued coins as “king of Babylon” in 124/23, but by the following year
@@ -620,7 +620,7 @@ site by excavating the quay wall and the Greek theater.
 
 *See also* Archeology of Mesopotamia.
 
-***Bibliography.***—R. Koldewey, *Excavations at Babylon* (1914); E.
+*__Bibliography.__*—R. Koldewey, *Excavations at Babylon* (1914); E.
 Unger, *Babylon,* *die heilige Stadt* (1931); “Babylon” in *Reallexikon
 der Assyriologie*, II (1932); O. E. Ravn, *Herodutus’ Description of
 Babylon* (1932); W. Andrae, *Babylon,* *die versunkene Weltstadt und ihr
