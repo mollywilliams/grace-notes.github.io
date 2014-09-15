@@ -9,41 +9,21 @@ layout: lesson
 
 From International Standard Bible Encyclopedia
 
-**Babylon** baʹbə-lon; **BABEL** bāʹbəl ([Gen. 10:10; 11:9]  (http://www.biblegateway.com/passage/?search=Gen.+10%3A10%3B+11%3A9&version=NASB)) [Heb
-_bābel_—‘gate of god’; Akk _bāb–ili_, _bāb-ilāni_—‘gate of god(s)’; Gk
-_Babylōn_; Pers *Babirush*]. The capital city of Babylonia.
+**Babylon** baʹbə-lon; **BABEL** bāʹbəl ([Gen. 10:10; 11:9]  (http://www.biblegateway.com/passage/?search=Gen.+10%3A10%3B+11%3A9)) [Heb _bābel_—‘gate of god’; Akk _bāb–ili_, _bāb-ilāni_—‘gate of god(s)’; Gk _Babylōn_; Pers *Babirush*]. The capital city of Babylonia.
 
 ##I. Location
 
-Babylon lay on the bank of the Euphrates in the land of Shinar (Gen.
-10:10), in the northern area of Babylonia (now southern Iraq) called
-Accad (as opposed to the southern area called Sumer). Its ruins,
-covering 2100 acres (890 hectares), lie about 50 mi (80 km) S of Baghdad
-and 5 mi 8 (km) N of Hillah. The ancient site is now marked by the
-mounds of Bâbil to the north, *Qaṣr* (“the Citadel”) in the center, and
-Merkes, *‘Amran Ibn ‘Alī Ṣaḥn*, and Homera to the south. The high water
-and long flooding of the whole area render the earlier and lower ruins
+Babylon lay on the bank of the Euphrates in the land of Shinar ([Gen. 10:10] (http://www.biblegateway.com/passage/?search=Gen.+10%3A10)), in the northern area of Babylonia (now southern Iraq) called Accad (as opposed to the southern area called Sumer). Its ruins, covering 2100 acres (890 hectares), lie about 50 mi (80 km) S of Baghdad and 5 mi 8 (km) N of Hillah. The ancient site is now marked by the mounds of Bâbil to the north, *Qaṣr* (“the Citadel”) in the center, and Merkes, *‘Amran Ibn ‘Alī Ṣaḥn*, and Homera to the south. The high water and long flooding of the whole area render the earlier and lower ruins
 inaccessible.
 
 ##II. Name
 
-The oldest attested extrabiblical name is the Sumerian ká-dingir-ki
-(usually written ká-dingir-ra, “gate of god”). This may have been a
-translation of the more commonly used later Babylonian *Bāb-ilī*, of
-which an etymology based on Heb *bālal*, “confused,” is given in Gen
-11:9. Throughout the OT and NT, Babylon stands theologically for the
-community that is anti-God. Rarely from 2100 b.c. and frequently in the
-7th cent Babylon is called TIN.TIR.KI, “wood (trees) of life,” and from
-the latter period also. E.KI, “canal zone (?).” Other names applied to
-at least part of the city were *ŠU.AN.NA*, “hand of heaven” or
-“high-walled (?),” and the Heb *šēšaḵ* (Jer. 25:26; 51:41), which is
-usually interpreted as a coded form (Athbash) by which *š* = *b*, etc.
-The proposed equation with *ŠEŠ.KU* in a late king list has been
+The oldest attested extrabiblical name is the Sumerian ká-dingir-ki (usually written ká-dingir-ra, “gate of god”). This may have been atranslation of the more commonly used later Babylonian *Bāb-ilī*, of which an etymology based on Heb *bālal*, “confused,” is given in [Gen 11:9] (http://www.biblegateway.com/passage/?search=Gen.+11%3A9). Throughout the OT and NT, Babylon stands theologically for the community that is anti-God. Rarely from 2100 b.c. and frequently in the 7th cent Babylon is called TIN.TIR.KI, “wood (trees) of life,” and from the latter period also. E.KI, “canal zone (?).” Other names applied to at least part of the city were *ŠU.AN.NA*, “hand of heaven” or “high-walled (?),” and the Heb *šēšaḵ* (Jer. 25:26; 51:41), which is usually interpreted as a coded form (Athbash) by which *š* = *b*, etc. The proposed equation with *ŠEŠ.KU* in a late king list has been
 questioned, since this could be read equally well as (É).URU.KU.
 
 ##III. Early History
 
-***A. Foundation***Genesis ascribes the foundation of the city to Nimrod
+__A. Foundation__ Genesis ascribes the foundation of the city to Nimrod
 prior to his building of Erech (ancient Uruk, modern Warka) and Accad
 (Agade), which can be dated to the 4th and 3rd millennia b.c.
 respectively. The earliest written reference extant is by
@@ -52,7 +32,7 @@ the temple of *Anunītum* and carried out other restorations, thus
 indicating an earlier foundation. A later omen text states that Sargon
 (*Šarrukīn I*) of Agade (ca 2300) had plundered the city.
 
-***B. Old Babylonian Period**Šulgi* of Ur captured Babylon and placed
+__B. Old Babylonian Period__ *Šulgi* of Ur captured Babylon and placed
 there his governor (*ensi*), Itur-ilu, a practice followed by his
 successors in the Ur III Dynasty (ca [5 highlights]2150–2050 [5
 highlights]b.c.). Thereafter invading Semites, the Amorites of the 1st
@@ -72,7 +52,7 @@ recovered the captive statues, but that of Marduk was again removed at
 the sack of the city by Tukulti-Ninurta I of Assyria (1250) and by the
 *Elamite Kudur-Naḫḫunte* II (1176).
 
-***C. Middle Babylonian Period***The recovery of Marduk’s statue was the
+__C. Middle Babylonian Period__ The recovery of Marduk’s statue was the
 crowning achievement of Nebuchadrezzar I (1124–1103), marking an end to
 foreign domination of the city. He restored it to Esagila amid much
 public rejoicing and refurbished the cult places. Although Babylon
@@ -82,7 +62,7 @@ was given the throne (1067–1046). By the following century, however, the
 tribesmen held the suburbs and even prevented the celebration of the New
 Year Festival by *Nabû-mukīn-apli* of the 8th Babylonian Dynasty.
 
-***D. Neo-Assyrian Supremacy***Shalmaneser III of Assyria was called to
+__D. Neo-Assyrian Supremacy__ Shalmaneser III of Assyria was called to
 intervene in the strife that broke out on the death of Nabû-apla-iddina
 in 852 b.c. He defeated the rebels, entered Babylon, treated the
 inhabitants with respect, and offered sacrifices in Marduk’s temple.
@@ -130,7 +110,7 @@ Assyria laid siege to the city, which fell after four years of great
 hardship. *Šamaš-šum-ukīn* died in the fire that destroyed his palace
 and the citadel.
 
-***E. Chaldean Rulers***Reconstruction work began under the Chaldean
+__E. Chaldean Rulers__ Reconstruction work began under the Chaldean
 Nabopolassar (*Nabû-apla-uṣur*, 626–605 [5 highlights]b.c.), who was
 elected king following a popular revolt after the death of the Assyrian
 nominee Kandalanu. His energetic son Nebuchadrezzar (II) with his queen
