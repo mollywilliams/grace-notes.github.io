@@ -1,14 +1,13 @@
 ---
 title: Baptism
+display_title: Baptism
 layout: lesson
 ---
 
 
-**Baptism2**
+##Baptism
 
-Baptism
-
-Introduction
+**_Introduction_**
 
 The word baptize is from the Greek word **baptidzo** which means to
 identify or to be made one with. In early Greek, the word had both
@@ -27,13 +26,13 @@ are real baptisms and three are ritual baptisms.
 
 Real Baptisms
 
-- The Baptism of Moses
+*The Baptism of Moses
 
-- The Baptism of the Cross or Cup
+*The Baptism of the Cross or Cup
 
-- The Baptism of the Holy Spirit
+*The Baptism of the Holy Spirit
 
-- The Baptism of Fire
+*The Baptism of Fire
 
 Ritual Baptisms
 
