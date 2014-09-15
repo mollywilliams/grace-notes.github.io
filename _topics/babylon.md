@@ -546,26 +546,8 @@ declined sharply, a process hastened by the foundation of a new capital
 at Seleucia (Tell \`Umar) on the Tigris by his successor Antiochus I, in
 274 b.c.
 
-*__E. Later City__* Babylon’s attraction as a “holy city” continued. The
-satrap Hyspaosines of Characene suppressed a revolt led by a certain
-Hymerus in 127 b.c. when the priests of Esagila were active. Hymerus
-issued coins as “king of Babylon” in 124/23, but by the following year
-Mithradates II had regained control. An independent ruler Gotarzes I was
-recognized as ruler in 91–80, and the city lay in Parthian hands
-(Mithradates III, 58–55) until taken over by a rebel Orodes. It remained
-a center of Hellenism, despite the opposition of a significant
-traditional Babylonian priestly party and of a minority of Jews, from
-among whom may have come Hillel. Babylon supported the Jews in Palestine
-who opposed Herod (Josephus Ant. xv.2.1–3). The close association
-between these Jews in Babylon, who enjoyed self-government there in the
-1st cent, and their fellows in Jerusalem is suggested in Acts 2:9–11.
-Dated cuneiform texts up to a.d. 110 show that the site was still
-occupied. While Babylon may have been the site of an early Christian
-church (1 Pet. 5:13), there is no evidence (*see* Babylon in the NT).
-When Trajan entered the city in 115 he sacrificed to Alexander’s *manes*
-but made no reference to the continued existence of other religious
-practices or buildings. According to Septimius Severus the site was
-deserted by a.d. 200.
+*__E. Later City__* Babylon’s attraction as a “holy city” continued. The satrap Hyspaosines of Characene suppressed a revolt led by a certain Hymerus in 127 b.c. when the priests of Esagila were active. Hymerus issued coins as “king of Babylon” in 124/23, but by the following year Mithradates II had regained control. An independent ruler Gotarzes I was recognized as ruler in 91–80, and the city lay in Parthian hands (Mithradates III, 58–55) until taken over by a rebel Orodes. It remained
+a center of Hellenism, despite the opposition of a significant traditional Babylonian priestly party and of a minority of Jews, from among whom may have come Hillel. Babylon supported the Jews in Palestine who opposed Herod (Josephus Ant. xv.2.1–3). The close association between these Jews in Babylon, who enjoyed self-government there in the 1st cent, and their fellows in Jerusalem is suggested in [Acts 2:9–11] (http://www.biblegateway.com/passage/?search=Acts+2%3A9%E2%80%9311). Dated cuneiform texts up to a.d. 110 show that the site was still occupied. While Babylon may have been the site of an early Christian church ([1 Pet. 5:13] (http://www.biblegateway.com/passage/?search=1+Pet.+5%3A13)), there is no evidence (*see* Babylon in the NT). When Trajan entered the city in 115 he sacrificed to Alexander’s *manes* but made no reference to the continued existence of other religious practices or buildings. According to Septimius Severus the site was deserted by a.d. 200.
 
 ##VI. Exploration and Excavation
 
