@@ -2,6 +2,7 @@
 title: Babylon
 display_title: Babylon
 layout: lesson
+description: Babylon lay on the bank of the Euphrates in the land of Shinar (Gen. 10:10), in the northern area of Babylonia (now southern Iraq) called Accad (as opposed to the southern area called Sumer). [MAR 2013]
 ---
 
 
