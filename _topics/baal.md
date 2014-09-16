@@ -2,6 +2,7 @@
 title: Baal
 display_title: Baal
 layout: lesson
+description: The supreme fertility-god of the Canaanites. [FEB 2013]
 ---
 
 
