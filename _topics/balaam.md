@@ -2,7 +2,7 @@
 title: Balaam
 display_title: Balaam
 layout: lesson
-description:Short description of Balaam's career with reference to the Doctrine of Balaam [JAN 2012]
+description: Short description of Balaam's career with reference to the Doctrine of Balaam [JAN 2012]
 ---
 
 
