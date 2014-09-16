@@ -26,21 +26,16 @@ are real baptisms and three are ritual baptisms.
 
 Real Baptisms
 
-*The Baptism of Moses
-
-*The Baptism of the Cross or Cup
-
-*The Baptism of the Holy Spirit
-
-*The Baptism of Fire
+* The Baptism of Moses
+* The Baptism of the Cross or Cup
+* The Baptism of the Holy Spirit
+* The Baptism of Fire
 
 Ritual Baptisms
 
-- The Baptism of John
-
-- The Baptism of Jesus
-
-- The Baptism of the Christian Believer
+* The Baptism of John
+* The Baptism of Jesus
+* The Baptism of the Christian Believer
 
 These seven baptisms are described in the sections below.
 
