@@ -1,103 +1,44 @@
 ---
 title: Barrier
-display_title: Barrier
+display_title: The Barrier, Reconciliation, Justification
 layout: lesson
+description: The doctrines of Reconciliation, Propitiation, and the removal of the barrier between God and man.
 ---
 
 
+This paper is a brief study of the Biblical doctrines of reconciliation and propitiation, which are vitally important to a Christian’s understanding of how God has made it possible for any person to have a good relationship with Him. Jesus Christ, by bearing our sins on the cross, fulfilled God’s requirements for a perfect sacrifice; and the effect was to remove all impediments to our receiving eternal life and having fellowship with God.
 
-This paper is a brief study of the Biblical doctrines of reconciliation
-and propitiation, which are vitally important to a Christian’s
-understanding of how God has made it possible for any person to have a
-good relationship with Him. Jesus Christ, by bearing our sins on the
-cross, fulfilled God’s requirements for a perfect sacrifice; and the
-effect was to remove all impediments to our receiving eternal life and
-having fellowship with God.
+##Reconciliation
 
-Reconciliation
+The word reconciliation refers to the process of changing something thoroughly and adjusting it to something else that is a standard. For example, when you adjust your watch to a time signal, you are reconciling the watch to a time standard. When you reconcile your checkbook, the standard to which you match it is the bank’s record of your account. On rare occasions the bank must reconcile its accounts to yours.
 
-The word reconciliation refers to the process of changing something
-thoroughly and adjusting it to something else that is a standard. For
-example, when you adjust your watch to a time signal, you are
-reconciling the watch to a time standard. When you reconcile your
-checkbook, the standard to which you match it is the bank’s record of
-your account. On rare occasions the bank must reconcile its accounts to
-yours.
+In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. [Rom. 11:15] (http://www.biblegateway.com/passage/?search=Rom.+11%3A15) refers to the “reconciling of the world”. The Greek word used here is the noun (**katallagei**). This word is also used in [Rom. 5:11] (http://www.biblegateway.com/passage/?search=Romans+5%3A11), “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
+toward reconciliation. Read also [2 Cor. 5:17-21] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A17-21).
 
-In the Bible, reconciliation is the word used to refer to the process by
-which God changes human beings and adjusts them to the standard of His
-perfect character. Rom. 11:15 refers to the “reconciling of the world”.
-The Greek word used here is the noun (**katallagei**). This
-word is also used in Rom. 5:11, “…but we also joy in God through our
-Lord Jesus Christ, by whom we have now received the reconciliation.”
-Note that man is not active in reconciliation and provides nothing
-toward reconciliation. Read also 2 Cor. 5:17-21.
+Reconciliation also appears in the verb form  (**katallasso**), meaning “to reconcile”. It is used in the active voice in [2 Cor. 5:18] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A18) with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in [Rom. 5:10] (http://www.biblegateway.com/passage/?search=Romans+5%3A10) and [2 Cor. 5:20] (http://www.biblegateway.com/passage/?search=2+Cor.+5%3A20). The passive voice is also used in cases of reconciliation between people, as in [1 Cor. 7:11 and Matt. 5:24] (http://www.biblegateway.com/passage/?search=1+Cor.+7%3A11%3B+Matt.+5%3A24).
 
-Reconciliation also appears in the verb form 
-(**katallasso**), meaning “to reconcile”. It is used in the active voice
-in 2 Cor. 5:18 with the meaning of “reconciling someone to someone
-else.” In this case, God reconciles us to Himself, through the Lord
-Jesus Christ. This verb in the passive voice means “to be reconciled” or
-“to become reconciled”, and it is used in the case of man’s relationship
-to God in Rom. 5:10 and 2 Cor. 5:20. The passive voice is also used in
-cases of reconciliation between people, as in 1 Cor. 7:11 and Matt.
-5:24.
+Another Greek word translated “to reconcile” is  (**hilaskomai**), meaning “to reconcile” in the sense of providing
+propitiation, as in [Luke 18:13] (http://www.biblegateway.com/passage/?search=+Luke+18%3A13). It is used of the activity of the Lord Jesus Christ as High Priest in making reconciliation for His people, [Heb. 2:17] (http://www.biblegateway.com/passage/?search=+Heb.+2%3A17).
 
-Another Greek word translated “to reconcile” is 
-(**hilaskomai**), meaning “to reconcile” in the sense of providing
-propitiation, as in Luke 18:13. It is used of the activity of the Lord
-Jesus Christ as High Priest in making reconciliation for His people,
-Heb. 2:17.
+[Rom. 5:6-11] (http://www.biblegateway.com/passage/?search=+Rom.+5%3A6-11) points out that the whole world needs to be reconciled to God. Note the adjectives in this passage which stress this need: “ungodly”, “without strength”, “sinners” and “enemies”.
 
-Rom. 5:6-11 points out that the whole world needs to be reconciled to
-God. Note the adjectives in this passage which stress this need:
-“ungodly”, “without strength”, “sinners” and “enemies”.
+Reconciliation is an important consideration in the study of the doctrine of the barrier. By the death of Christ on the cross, the world is thoroughly changed in its relationship to God, [Eph. 2:14-18 and Col. 1:20-22] (http://www.biblegateway.com/passage/?search=+Eph.+2%3A14-18%3B+Col.+1%3A20-22). That is, through the cross of Christ the world is so altered in its position respecting the character and judgment of God that God does not now impute sin to human beings. The world is therefore rendered savable!
 
-Reconciliation is an important consideration in the study of the
-doctrine of the barrier. By the death of Christ on the cross, the world
-is thoroughly changed in its relationship to God, Eph. 2:14-18 and Col.
-1:20-22. That is, through the cross of Christ the world is so altered in
-its position respecting the character and judgment of God that God does
-not now impute sin to human beings. The world is therefore rendered
-savable!
+Because the position of the world before God is completely changed through the substitutionary atonement of Christ, God’s attitude toward man can no longer be the same. God can now deal with souls in the light of Christ’s work.
 
-Because the position of the world before God is completely changed
-through the substitutionary atonement of Christ, God’s attitude toward
-man can no longer be the same. God can now deal with souls in the light
-of Christ’s work.
-
-Notice that God is never said to be reconciled to man. God is immutable,
-so He does not change. Reconciliation is only possible in one direction.
-What sometimes seems to be a change in God is actually an unchanged
-attitude of God viewing a reconciled man. God, having how accepted
-Christ’s work, is able to continue to be just toward man. He can now
+Notice that God is never said to be reconciled to man. God is immutable, so He does not change. Reconciliation is only possible in one direction. What sometimes seems to be a change in God is actually an unchanged attitude of God viewing a reconciled man. God, having how accepted Christ’s work, is able to continue to be just toward man. He can now
 offer salvation.
 
-A person profits from reconciliation by faith in the Gospel of Jesus
-Christ. Once he becomes a believer, a person can partake in all of the
-blessings which accompany his position in Christ, including the
-privileges accruing from reconciliation.
+A person profits from reconciliation by faith in the Gospel of Jesus Christ. Once he becomes a believer, a person can partake in all of the blessings which accompany his position in Christ, including the privileges accruing from reconciliation.
 
-The believer, in turn, has the responsibility of becoming a minister of
-reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of
-the key salvation doctrines to be used in witnessing to those without
-Christ.
+The believer, in turn, has the responsibility of becoming a minister of reconciliation, [2 Cor. 5:18–19] (http://www.biblegateway.com/passage/?search=2+Cor.+5%3A18%E2%80%9319). The truth of reconciliation is one of the key salvation doctrines to be used in witnessing to those without Christ.
 
-Propitiation
+##Propitiation
 
-Propitiation is the work of the Lord Jesus Christ by which He appeases
-the wrath of God and conciliates Him who would otherwise be offended by
-our sin and would demand that we pay the penalty for it.
+Propitiation is the work of the Lord Jesus Christ by which He appeases the wrath of God and conciliates Him who would otherwise be offended by our sin and would demand that we pay the penalty for it.
 
-Propitiation is translated from the Greek ’ (**hilasterion**),
-meaning “that which expiates or propitiates” or “the gift which procures
-propitiation”. The word is also used in the New Testament for the place
-of propitiation, the “mercy seat”. Heb. 9:5. There is frequent similar
-use of **hilasterion** in the Septuagint. Ex. 25:18 ff. The mercy seat
-was sprinkled with atoning blood on the day of atonement (Lev. 16:14),
-representing that the righteous sentence of the Law had been executed,
-changing a judgment seat into a mercy seat (Heb. 9:11-15; compare with
-“throne of grace” in Heb. 4:14-16; place of communion, Ex. 25:21-22).
+Propitiation is translated from the Greek ’ (**hilasterion**), meaning “that which expiates or propitiates” or “the gift which procures propitiation”. The word is also used in the New Testament for the place of propitiation, the “mercy seat”. Heb. 9:5. There is frequent similar use of **hilasterion** in the Septuagint. Ex. 25:18 ff. The mercy seat
+was sprinkled with atoning blood on the day of atonement (Lev. 16:14), representing that the righteous sentence of the Law had been executed, changing a judgment seat into a mercy seat (Heb. 9:11-15; compare with “throne of grace” in Heb. 4:14-16; place of communion, Ex. 25:21-22).
 
 Another Greek word, ’ (**hilasmos**), is used for Christ as our
 propitiation. 1 John 2:2; 4:10, and for “atonement” in the Septuagint
