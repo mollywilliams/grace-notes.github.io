@@ -1,12 +1,10 @@
 ---
 title: Barrier
+display_title: Barrier
 layout: lesson
 ---
 
 
-**Reconciliation, Propitiation, The Barrier 5**
-
-**Reconciliation, Propitiation, and The Barrier**
 
 This paper is a brief study of the Biblical doctrines of reconciliation
 and propitiation, which are vitally important to a Christian’s
