@@ -2,6 +2,7 @@
 title: Baptism
 display_title: Baptism
 layout: lesson
+description: The seven types of baptism in the Bible; the baptism of the Holy Spirit; believer's baptism. [NOV 2011]
 ---
 
 
