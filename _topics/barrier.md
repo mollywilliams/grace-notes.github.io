@@ -12,12 +12,12 @@ This paper is a brief study of the Biblical doctrines of reconciliation and prop
 
 The word reconciliation refers to the process of changing something thoroughly and adjusting it to something else that is a standard. For example, when you adjust your watch to a time signal, you are reconciling the watch to a time standard. When you reconcile your checkbook, the standard to which you match it is the bank’s record of your account. On rare occasions the bank must reconcile its accounts to yours.
 
-In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. [Rom. 11:15] (http://www.biblegateway.com/passage/?search=Rom.+11%3A15) refers to the “reconciling of the world”. The Greek word used here is the noun καταλλαγη(**katallagei**). This word is also used in [Rom. 5:11] (http://www.biblegateway.com/passage/?search=Romans+5%3A11), “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
+In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. [Rom. 11:15] (http://www.biblegateway.com/passage/?search=Rom.+11%3A15) refers to the “reconciling of the world”. The Greek word used here is the noun καταλλαγη (**katallagei**). This word is also used in [Rom. 5:11] (http://www.biblegateway.com/passage/?search=Romans+5%3A11), “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
 toward reconciliation. Read also [2 Cor. 5:17-21] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A17-21).
 
-Reconciliation also appears in the verb form  (**katallasso**), meaning “to reconcile”. It is used in the active voice in [2 Cor. 5:18] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A18) with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in [Rom. 5:10] (http://www.biblegateway.com/passage/?search=Romans+5%3A10) and [2 Cor. 5:20] (http://www.biblegateway.com/passage/?search=2+Cor.+5%3A20). The passive voice is also used in cases of reconciliation between people, as in [1 Cor. 7:11 and Matt. 5:24] (http://www.biblegateway.com/passage/?search=1+Cor.+7%3A11%3B+Matt.+5%3A24).
+Reconciliation also appears in the verb form καταλλασσω (**katallasso**), meaning “to reconcile”. It is used in the active voice in [2 Cor. 5:18] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A18) with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in [Rom. 5:10] (http://www.biblegateway.com/passage/?search=Romans+5%3A10) and [2 Cor. 5:20] (http://www.biblegateway.com/passage/?search=2+Cor.+5%3A20). The passive voice is also used in cases of reconciliation between people, as in [1 Cor. 7:11 and Matt. 5:24] (http://www.biblegateway.com/passage/?search=1+Cor.+7%3A11%3B+Matt.+5%3A24).
 
-Another Greek word translated “to reconcile” is  (**hilaskomai**), meaning “to reconcile” in the sense of providing
+Another Greek word translated “to reconcile” is ιλασκοµαι (**hilaskomai**), meaning “to reconcile” in the sense of providing
 propitiation, as in [Luke 18:13] (http://www.biblegateway.com/passage/?search=+Luke+18%3A13). It is used of the activity of the Lord Jesus Christ as High Priest in making reconciliation for His people, [Heb. 2:17] (http://www.biblegateway.com/passage/?search=+Heb.+2%3A17).
 
 [Rom. 5:6-11] (http://www.biblegateway.com/passage/?search=+Rom.+5%3A6-11) points out that the whole world needs to be reconciled to God. Note the adjectives in this passage which stress this need: “ungodly”, “without strength”, “sinners” and “enemies”.
@@ -37,14 +37,10 @@ The believer, in turn, has the responsibility of becoming a minister of reconcil
 
 Propitiation is the work of the Lord Jesus Christ by which He appeases the wrath of God and conciliates Him who would otherwise be offended by our sin and would demand that we pay the penalty for it.
 
-Propitiation is translated from the Greek ’ (**hilasterion**), meaning “that which expiates or propitiates” or “the gift which procures propitiation”. The word is also used in the New Testament for the place of propitiation, the “mercy seat”. Heb. 9:5. There is frequent similar use of **hilasterion** in the Septuagint. Ex. 25:18 ff. The mercy seat
+Propitiation is translated from the Greek 'ιλαστεριον (**hilasterion**), meaning “that which expiates or propitiates” or “the gift which procures propitiation”. The word is also used in the New Testament for the place of propitiation, the “mercy seat”. Heb. 9:5. There is frequent similar use of **hilasterion** in the Septuagint. Ex. 25:18 ff. The mercy seat
 was sprinkled with atoning blood on the day of atonement (Lev. 16:14), representing that the righteous sentence of the Law had been executed, changing a judgment seat into a mercy seat (Heb. 9:11-15; compare with “throne of grace” in Heb. 4:14-16; place of communion, Ex. 25:21-22).
 
-Another Greek word, ’ (**hilasmos**), is used for Christ as our
-propitiation. 1 John 2:2; 4:10, and for “atonement” in the Septuagint
-(Lev. 25:9). The thought in the Old Testament sacrifices and in the New
-Testament fulfillment is that Christ completely satisfied the just
-demands of a holy God for judgment on sin by His death on the cross.
+Another Greek word, 'ιλασµος (**hilasmos**), is used for Christ as our propitiation. 1 John 2:2; 4:10, and for “atonement” in the Septuagint (Lev. 25:9). The thought in the Old Testament sacrifices and in the New Testament fulfillment is that Christ completely satisfied the just demands of a holy God for judgment on sin by His death on the cross.
 
 God, foreseeing the cross, is declared righteous in forgiving sins in
 the Old Testament period as well as in justifying sinners under the new
@@ -204,9 +200,7 @@ man to be alienated from God. The barrier, as described in six parts
 below, represents mankind’s need to be reconciled to God by God’s grace
 provision.
 
-1. Every person has a retroactive “position” in Adam. Because Adam died
-spiritually, every person is born spiritually dead. Read 1 Cor. 15:22
-and Eph. 2:5, 6.
+1. Every person has a retroactive “position” in Adam. Because Adam died spiritually, every person is born spiritually dead. Read 1 Cor. 15:22 and Eph. 2:5, 6.
 
 This problem is solved by God’s offering to us a “position” in Christ, a
 condition which forms the basis for the doctrines related to positional
@@ -215,47 +209,25 @@ truth. Read 1 John 5:11, 12; 1 Cor. 15:22; Eph. 1:7.
 2. Man’s physical birth places him in a condemned human race: 1 Cor.
 15:22; Eph. 2:5, 6.
 
-This problem is solved by God’s allowing us to become members of His
-family through regeneration: John 1:11, 12; 3:3 ff; Gal. 3:26; Titus
-3:5.
+This problem is solved by God’s allowing us to become members of His family through regeneration: John 1:11, 12; 3:3 ff; Gal. 3:26; Titus 3:5.
 
-3. God’s perfect character, His glory, His perfect essence, disallows
-imperfection of any kind. Example: The Ten Commandments. Read Rom. 3:23;
-Gal. 3:22, 23; Ps. 145:17.
+3. God’s perfect character, His glory, His perfect essence, disallows imperfection of any kind. Example: The Ten Commandments. Read Rom. 3:23; Gal. 3:22, 23; Ps. 145:17.
 
-But the death of Christ on the cross paid the penalty for our sin. He
-was our propitiation. Propitiation is “the work of the Lord Jesus Christ
-by which He appeases the wrath of God and conciliates Him who would
-otherwise be offended by our sin.” Read 1 John 2:2; Rom. 3:25.
+But the death of Christ on the cross paid the penalty for our sin. He was our propitiation. Propitiation is “the work of the Lord Jesus Christ by which He appeases the wrath of God and conciliates Him who would otherwise be offended by our sin.” Read 1 John 2:2; Rom. 3:25.
 
-4. Man’s personal righteousness falls short of God’s perfect
-righteousness: Isa. 64:6; Rom. 3:10–12; Rom. 5:6-11.
+4. Man’s personal righteousness falls short of God’s perfect righteousness: Isa. 64:6; Rom. 3:10–12; Rom. 5:6-11.
 
-This problem is solved in two ways. First, by justification, “God’s act
-of grace by which He pardons the sinner and accepts him as righteous on
-account of the atonement of Christ.” Read Rom. 3:24; 5:1.
+This problem is solved in two ways. First, by justification, “God’s act of grace by which He pardons the sinner and accepts him as righteous on account of the atonement of Christ.” Read Rom. 3:24; 5:1.
 
-Then, by imputation, “the act of God by which He credits human sin to
-Christ in order that He may in turn credit righteousness to men.” Read
-Rom. 3:22; 2 Cor. 5:21.
+Then, by imputation, “the act of God by which He credits human sin to Christ in order that He may in turn credit righteousness to men.” Read Rom. 3:22; 2 Cor. 5:21.
 
-5. Man’s personal sin causes him to fall short on a day by day basis:
-Rom. 3:23. This problem is solved by redemption, by which man is
-purchased from the slave market of sin and set free as a citizen of the
-heavenly kingdom: John 8:31-36; Eph. 1:7.
+5. Man’s personal sin causes him to fall short on a day by day basis: Rom. 3:23. This problem is solved by redemption, by which man is purchased from the slave market of sin and set free as a citizen of the heavenly kingdom: John 8:31-36; Eph. 1:7.
 
 6. Man stands under the penalty of sin: Rom. 6:23; 5:12.
 
-The penalty for sin was paid by Jesus Christ on the cross. This is known
-as expiation, a blotting out of sin: Col. 2:14.
+The penalty for sin was paid by Jesus Christ on the cross. This is known as expiation, a blotting out of sin: Col. 2:14.
 
-The barrier is removed and man is free to approach God. God is free to
-treat man in grace. God’s righteousness and justice are satisfied. The
-complete penalty has been paid.
+The barrier is removed and man is free to approach God. God is free to treat man in grace. God’s righteousness and justice are satisfied. The complete penalty has been paid.
 
-There is no double jeopardy for sins committed. “As far as the east is
-from the west, so far hath He removed our transgressions from us.”
-Therefore, the only issue to be faced by any person is whether he
-believes in Jesus Christ and His work on the cross. Read Acts 16:30:
-John 3:15-17, 36; 5:24.
+There is no double jeopardy for sins committed. “As far as the east is from the west, so far hath He removed our transgressions from us.” Therefore, the only issue to be faced by any person is whether he believes in Jesus Christ and His work on the cross. Read Acts 16:30: John 3:15-17, 36; 5:24.
 
