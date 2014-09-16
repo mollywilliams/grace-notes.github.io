@@ -111,7 +111,7 @@ identification. The individual is placed in the water, which means,
 symbolically, that he is identified with that which the water
 represents.
 
-**_The Baptism of John - [Matt. 3:6-11] (http://www.biblegateway.com/passage/?search=Matt.+3%3A6-11) _**
+**_The Baptism of John_** - [Matt. 3:6-11] (http://www.biblegateway.com/passage/?search=Matt.+3%3A6-11) 
 
 Here the water is symbolic of the kingdom of God which John was
 preaching. When a person was baptized by John, he was testifying to his
