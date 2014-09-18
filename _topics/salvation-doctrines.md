@@ -1,18 +1,14 @@
 ---
 title: Salvation Doctrines
+display_title: Salvation Doctrines
+description: Teaching about our union with Christ; and a listing, with verses, of more than 50 basic doctrines of the Bible which describe all that happens to a believer at the moment of salvation.
 layout: lesson
 ---
 
 
-**Salvation Doctrines**
 
-<table>
-<tbody>
-<tr class="odd">
-<td align="left"><p>“The Christian who does not understand what God has done in the past, and does not have faith in what God will do in the future, will be overwhelmed by today’s crisis.” Chester McCalley</p></td>
-</tr>
-</tbody>
-</table>
+> _“The Christian who does not understand what God has done in the past, and does not have faith in what God will do in the future, will be overwhelmed by today’s crisis.”_ Chester McCalley
+
 
 Your Christian life began the moment you believed the Gospel, putting
 your complete confidence in the Lord Jesus Christ for salvation. At that
