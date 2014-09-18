@@ -13,7 +13,7 @@ There are six uses of the term gospel in the New Testament:
 
 * The gospel of Christ; [Rom. 1:16,17] (http://www.biblegateway.com/passage/?search=Rom.+1%3A16-17), “_I am not ashamed of the gospel of Christ…_” This is an emphasis on the person of the gospel.
 
-* My gospel, [Rom. 2:16].(http://www.biblegateway.com/passage/?search=Rom.+2%3A16) This means that the gospel belongs to every
+* My gospel, [Rom. 2:16] (http://www.biblegateway.com/passage/?search=Rom.+2%3A16) This means that the gospel belongs to every
 believer.
 
 * Our gospel, [2 Cor. 4:3,4] (http://www.biblegateway.com/passage/?search=2+Cor.+4%3A3-4). This verse speaks of the believer’s possession of the gospel and the importance of communicating it as God gives opportunity in witnessing.
