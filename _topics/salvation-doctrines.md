@@ -7,105 +7,62 @@ layout: lesson
 
 
 
-> _“The Christian who does not understand what God has done in the past, and does not have faith in what God will do in the future, will be overwhelmed by today’s crisis.”_ Chester McCalley
+> _“The Christian who does not understand what God has done in the past, and does not have faith in what God will do in the future, will be overwhelmed by today’s crisis.”_ __Chester McCalley__
 
 
-Your Christian life began the moment you believed the Gospel, putting
-your complete confidence in the Lord Jesus Christ for salvation. At that
-moment, God provided you with a great number of unique and permanent
-blessings. “…and hath blessed us with all spiritual blessings in
-heavenly places in Christ.” (Eph. 1:3) These blessings are a part of
-your inheritance as a Christian; they are the doctrines and promises
-upon which you may draw during the remainder of your lifetime.
+Your Christian life began the moment you believed the Gospel, putting your complete confidence in the Lord Jesus Christ for salvation. At that moment, God provided you with a great number of unique and permanent blessings. _“…and hath blessed us with all spiritual blessings in heavenly places in Christ.”_ ([Eph. 1:3] (http://www.biblegateway.com/passage/?search=Eph.+1%3A3)) These blessings are a part of your inheritance as a Christian; they are the doctrines and promises upon which you may draw during the remainder of your lifetime.
 
-The following is a listing of salvation doctrines, a catalogue of the
-things God did for you when you accepted Christ. These basic teachings
-are the underlying principles for the mechanics of Christian living, the
-techniques such as faith rest and occupation with Christ, and are
-foundation principles for all other Bible doctrine.
+The following is a listing of salvation doctrines, a catalogue of the things God did for you when you accepted Christ. These basic teachings are the underlying principles for the mechanics of Christian living, the techniques such as faith rest and occupation with Christ, and are foundation principles for all other Bible doctrine.
 
-This listing can provide you with hours of quality study and meditation.
-You may well find other topics that could be added to the list. It is
-valuable and important that you understand thoroughly your relationship
-with the Lord; a good knowledge of these doctrines can be of great help
-to you in solving problems and making decisions according to God’s
-viewpoint.
+This listing can provide you with hours of quality study and meditation. You may well find other topics that could be added to the list. It is valuable and important that you understand thoroughly your relationship with the Lord; a good knowledge of these doctrines can be of great help to you in solving problems and making decisions according to God’s viewpoint.
 
-#### You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Christ. As such you are:
+You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Christ. As such you are:
 
-### Foreknown
+**Foreknown**
 
-**Acts 2:23**. this Man, delivered over by the predetermined plan and
-foreknowledge of God, you nailed to a cross by the hands of godless men
-and put Him to death.
+* **[Acts 2:23] (http://www.biblegateway.com/passage/?search=Acts+2%3A23)**. _this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death._
 
-**Romans 8:29**. For those whom He foreknew, He also predestined to
-become conformed to the image of His Son, so that He would be the
-firstborn among many brethren;
+* **[Romans 8:29] (http://www.biblegateway.com/passage/?search=Romans+8%3A29)**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren;_
 
-**1 Peter 1:2**. according to the foreknowledge of God the Father, by
-the sanctifying work of the Spirit, to obey Jesus Christ and be
-sprinkled with His blood: May grace and peace be yours in the fullest
-measure.
+* **[1 Peter 1:2] (http://www.biblegateway.com/passage/?search=1+Peter+1%3A2&)**. _according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure._
 
-### Elect
+**Elect**
 
-**Romans 8:33**. Who will bring a charge against God’s elect? God is the
-one who justifies;
+* **[Romans 8:33] (http://www.biblegateway.com/passage/?search=Romans+8%3A33)**. _Who will bring a charge against God’s elect? God is the one who justifies;_
 
-**Colossians 3:12**. So, as those who have been chosen of God, holy and
-beloved, put on a heart of compassion, kindness, humility, gentleness
-and patience;
+* **[Colossians 3:12] (http://www.biblegateway.com/passage/?search=Colossians+3%3A12)**. _So, as those who have been chosen of God, holy and beloved, put on a heart of compassion, kindness, humility, gentleness and patience;_
 
-**1 Thessalonians 1:4**. knowing, brethren beloved by God, His choice of
-you;
+* **[1 Thessalonians 1:4] (http://www.biblegateway.com/passage/?search=1+Thessalonians+1%3A4)**. _knowing, brethren beloved by God, His choice of you;_
 
-**Titus 1:1**. Paul, a bond-servant of God and an apostle of Jesus
-Christ, for the faith of those chosen of God and the knowledge of the
-truth which is according to godliness,
+* **[Titus 1:1] (http://www.biblegateway.com/passage/?search=Titus+1%3A1)**. _Paul, a bond-servant of God and an apostle of Jesus Christ, for the faith of those chosen of God and the knowledge of the truth which is according to godliness,_
 
-**1 Peter 1:1, 2**. Peter, an apostle of Jesus Christ, To those who
-reside as aliens, scattered throughout Pontus, Galatia, Cappadocia,
-Asia, and Bithynia, who are chosen
+* **[1 Peter 1:1, 2] (http://www.biblegateway.com/passage/?search=1+Peter+1%3A1-2)**. _Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen_
 
-### Predestined
+**Predestined**
 
-**Romans 8:29, 30**. For those whom He foreknew, He also predestined to
-become conformed to the image of His Son, so that He would be the
-firstborn among many brethren; and these whom He predestined, He also
-called; and these whom He called, He also justified; and these whom He
-justified, He also glorified.
+* **[Romans 8:29, 30] (http://www.biblegateway.com/passage/?search=Romans+8%3A29-30)**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that *He would be the firstborn among many brethren; and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified._
 
-**Ephesians 1:5.** He predestined us to adoption as sons through Jesus
-Christ to Himself, according to the kind intention of His will
+* **[Ephesians 1:5] (http://www.biblegateway.com/passage/?search=Ephesians+1%3A5).** _He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will_
 
-**Ephesians 1:11**. also we have obtained an inheritance, having been
-predestined according to His purpose who works all things after the
-counsel of His will,
+* **[Ephesians 1:11] (http://www.biblegateway.com/passage/?search=Ephesians+1%3A11)**. _also we have obtained an inheritance, having been predestined according to His purpose who works all things after the counsel of His will,_
 
-### Chosen in Christ
+**Chosen in Christ**
 
-**Matthew 22:14**. For many are called, but few are chosen.
+* **[Matthew 22:14] (http://www.biblegateway.com/passage/?search=Matthew+22%3A14)**. _For many are called, but few are chosen._
 
-**1 Peter 2:4**. And coming to Him as to a living stone which has been
-rejected by men, but is choice and precious in the sight of God
+* **[1 Peter 2:4] (http://www.biblegateway.com/passage/?search=1+Peter+2%3A4)**. _And coming to Him as to a living stone which has been rejected by men, but is choice and precious in the sight of God_
 
-### Called
+**Called**
 
-**1 Thessalonians 5:24**. Faithful is He who calls you, and He also will
-bring it to pass.
+**[1 Thessalonians 5:24] (http://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A24)**. _Faithful is He who calls you, and He also will bring it to pass._
 
-#### You have been **reconciled** …
+You have been **reconciled** …
 
-### Reconciled by God
+**Reconciled by God**
 
-**2 Corinthians 5:18**. Now all these things are from God, who
-reconciled us to Himself through Christ and gave us the ministry of
-reconciliation,
+**[2 Corinthians 5:18] (http://www.biblegateway.com/passage/?search=2+Corinthians+5%3A18)**. _Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,_
 
-**Colossians 1:20**. and through Him to reconcile all things to Himself,
-having made peace through the blood of His cross; through Him, I say,
-whether things on earth or things in heaven.
+**[Colossians 1:20] (http://www.biblegateway.com/passage/?search=Colossians+1%3A20)**. _and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven._
 
 ### Reconciled to God
 
