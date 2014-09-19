@@ -72,7 +72,7 @@ You have been **reconciled** …
 
 * **[Ephesians 2:14-16] (http://www.biblegateway.com/passage/?search=Ephesians+2%3A14-16)**. _For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity._
 
-**You have been **redeemed** (purchased from the slave market of sin).
+**You have been _redeemed_** (purchased from the slave market of sin).
 
 * **[Romans 3:24] (http://www.biblegateway.com/passage/?search=Romans+3%3A24)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus;_
 
