@@ -64,7 +64,7 @@ You have been **reconciled** …
 
 * **[Colossians 1:20] (http://www.biblegateway.com/passage/?search=Colossians+1%3A20)**. _and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven._
 
-** Reconciled to God**
+**Reconciled to God**
 
 * **[Romans 5:10] (http://www.biblegateway.com/passage/?search=Romans+5%3A10)**. _For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life._
 
