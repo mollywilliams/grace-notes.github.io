@@ -54,91 +54,59 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 **Called**
 
-**[1 Thessalonians 5:24] (http://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A24)**. _Faithful is He who calls you, and He also will bring it to pass._
+* **[1 Thessalonians 5:24] (http://www.biblegateway.com/passage/?search=1+Thessalonians+5%3A24)**. _Faithful is He who calls you, and He also will bring it to pass._
 
 You have been **reconciled** …
 
 **Reconciled by God**
 
-**[2 Corinthians 5:18] (http://www.biblegateway.com/passage/?search=2+Corinthians+5%3A18)**. _Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,_
+* **[2 Corinthians 5:18] (http://www.biblegateway.com/passage/?search=2+Corinthians+5%3A18)**. _Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation,_
 
-**[Colossians 1:20] (http://www.biblegateway.com/passage/?search=Colossians+1%3A20)**. _and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven._
+* **[Colossians 1:20] (http://www.biblegateway.com/passage/?search=Colossians+1%3A20)**. _and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven._
 
-### Reconciled to God
+** Reconciled to God**
 
-**Romans 5:10**. For if while we were enemies we were reconciled to God
-through the death of His Son, much more, having been reconciled, we
-shall be saved by His life.
+* **[Romans 5:10] (http://www.biblegateway.com/passage/?search=Romans+5%3A10)**. _For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life._
 
-**2 Corinthians 5:20**. Therefore, we are ambassadors for Christ, as
-though God were making an appeal through us; we beg you on behalf of
-Christ, be reconciled to God.
+* **[2 Corinthians 5:20] (http://www.biblegateway.com/passage/?search=2+Corinthians+5%3A20)**. _Therefore, we are ambassadors for Christ, as though God were making an appeal through us; we beg you on behalf of Christ, be reconciled to God._
 
-**Ephesians 2:14-16**. For He Himself is our peace, who made both groups
-into one and broke down the barrier of the dividing wall, by abolishing
-in His flesh the enmity, which is the Law of commandments contained in
-ordinances, so that in Himself He might make the two into one new man,
-thus establishing peace, and might reconcile them both in one body to
-God through the cross, by it having put to death the enmity.
+* **[Ephesians 2:14-16] (http://www.biblegateway.com/passage/?search=Ephesians+2%3A14-16)**. _For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity._
 
-#### You have been **redeemed** (purchased from the slave market of sin).
+**You have been **redeemed** (purchased from the slave market of sin).
 
-**Romans 3:24**. being justified as a gift by His grace through the
-redemption which is in Christ Jesus;
+* **[Romans 3:24] (http://www.biblegateway.com/passage/?search=Romans+3%3A24)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus;_
 
-**Colossians 1:14**. in whom we have redemption, the forgiveness of
-sins.
+* **[Colossians 1:14] (http://www.biblegateway.com/passage/?search=Colossians+1%3A14&)**. _in whom we have redemption, the forgiveness of sins._
 
-**1 Peter 1:18**. knowing that you were not redeemed with perishable
-things like silver or gold from your futile way of life inherited from
-your forefathers,
+* **[1 Peter 1:18] (http://www.biblegateway.com/passage/?search=1+Peter+1%3A18)**. _knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,_
 
-**Ephesians 1:7**. In Him we have redemption through His blood, the
-forgiveness of our trespasses, according to the riches of His grace
+* **[Ephesians 1:7] (http://www.biblegateway.com/passage/?search=Ephesians+1%3A7)**. _In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace_
 
-#### You have been **removed from condemnation.**
+You have been **removed from condemnation.**
 
-**John 3:18**. He who believes in Him is not judged; he who does not
-believe has been judged already, because he has not believed in the name
-of the only begotten Son of God.
+* **[John 3:18] (http://www.biblegateway.com/passage/?search=John+3%3A18)**. _He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God._
 
-**John 5:24**. Truly, truly, I say to you, he who hears My word, and
-believes Him who sent Me, has eternal life, and does not come into
-judgment, but has passed out of death into life.
+* **[John 5:24] (http://www.biblegateway.com/passage/?search=John+5%3A24)**. _Truly, truly, I say to you, he who hears My word, and believes Him who sent Me, has eternal life, and does not come into judgment, but has passed out of death into life._
 
-**Romans 8:1**. Therefore there is now no condemnation for those who are
-in Christ Jesus.
+* **[Romans 8:1] (http://www.biblegateway.com/passage/?search=Romans+8%3A1)**. _Therefore there is now no condemnation for those who are in Christ Jesus._
 
-#### You are **under grace** and not under judgment (doctrine of propitiation).
+You are **under grace** _and not under judgment (doctrine of propitiation)._
 
-**Romans 3:24–28**. being justified as a gift by His grace through the
-redemption which is in Christ Jesus; whom God displayed publicly as a
-propitiation in His blood through faith. This was to demonstrate His
-righteousness, because in the forbearance of God He passed over the sins
-previously committed; for the demonstration, I say, of His righteousness
-at the present time, so that He would be just and the justifier of the
-one who has faith in Jesus. Where then is boasting? It is excluded. By
-what kind of law? Of works? No, but by a law of faith. For we maintain
-that a man is justified by faith apart from works of the Law.
+* **[Romans 3:24–28] (http://www.biblegateway.com/passage/?search=Romans+3%3A24%E2%80%9328)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. For we maintain that a man is justified by faith apart from works of the Law._
 
-**1 John 2:2**. and He Himself is the propitiation for our sins; and not
-for ours only, but also for those of the whole world.
+* **[1 John 2:2] (http://www.biblegateway.com/passage/?search=1+John+2%3A2)**. _and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world._
 
-#### Your **sins have been judged** by the spiritual death of Christ on the cross:
+Your **sins have been judged** by the spiritual death of Christ on the cross:
 
-**Romans 4:25**. He who was delivered over because of our
-transgressions, and was raised because of our justification.
+* **[Romans 4:25] (https://www.biblegateway.com/passage/?search=Romans+4%3A25)**. _He who was delivered over because of our transgressions, and was raised because of our justification._
 
-**Ephesians 1:7**. In Him we have redemption through His blood, the
-forgiveness of our trespasses, according to the riches of His grace
+* **[Ephesians 1:7] (http://www.biblegateway.com/passage/?search=Ephesians+1%3A7)**. _In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace_
 
-**1 Peter 2:24**. and He Himself bore our sins in His body on the cross,
-so that we might die to sin and live to righteousness; for by His wounds
-you were healed.
+* **[1 Peter 2:24] (http://www.biblegateway.com/passage/?search=1+Peter+2%3A24)**. _and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed._
 
-#### You have been made **dead to the old life and alive unto God**. You are:
+You have been made **dead to the old life and alive unto God**. You are:
 
-### Crucified with Christ
+**Crucified with Christ**
 
 **Romans 6:6**. knowing this, that our old self was crucified with Him,
 in order that our body of sin might be done away with, so that we would
@@ -397,21 +365,7 @@ and prophets, Christ Jesus Himself being the corner stone,
 
 #### You are a **gift from God the Father** to the Lord Jesus Christ.
 
-**John 17:2, 6, 9, 11, 12, 24**. even as You gave Him authority over all
-flesh, that to all whom You have given Him, He may give eternal life.
-**6** I have manifested Your name to the men whom You gave Me out of the
-world; they were Yours and You gave them to Me, and they have kept Your
-word. **9** I ask on their behalf; I do not ask on behalf of the world,
-but of those whom You have given Me; for they are Yours. **11** I am no
-longer in the world; and yet they themselves are in the world, and I
-come to You. Holy Father, keep them in Your name, the name which You
-have given Me, that they may be one even as We are. **12** While I was
-with them, I was keeping them in Your name which You have given Me; and
-I guarded them and not one of them perished but the son of perdition, so
-that the Scripture would be fulfilled. **24** Father, I desire that they
-also, whom You have given Me, be with Me where I am, so that they may
-see My glory which You have given Me, for You loved Me before the
-foundation of the world.
+**[John 17:2, 6, 9, 11, 12, 24] ()**. even as You gave Him authority over all flesh, that to all whom You have given Him, He may give eternal life. **6** I have manifested Your name to the men whom You gave Me out of the world; they were Yours and You gave them to Me, and they have kept Your word. **9** I ask on their behalf; I do not ask on behalf of the world, but of those whom You have given Me; for they are Yours. **11** I am no longer in the world; and yet they themselves are in the world, and I come to You. Holy Father, keep them in Your name, the name which You have given Me, that they may be one even as We are. **12** While I was with them, I was keeping them in Your name which You have given Me; and I guarded them and not one of them perished but the son of perdition, so that the Scripture would be fulfilled. **24** Father, I desire that they also, whom You have given Me, be with Me where I am, so that they may see My glory which You have given Me, for You loved Me before the foundation of the world.
 
 #### You have been **delivered from the power of the sin nature**.
 
