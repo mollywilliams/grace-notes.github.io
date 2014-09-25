@@ -23,15 +23,37 @@ $(document).ready ->
       data: 'v=nasb&p='+$(this).data('bibleref').replace(/Deut\.?/gi, "Deuteronomy")
     .then (data)->
       html = ''
-      for book in data.book
-        html += '<h3>'+book.book_name+' '+book.chapter_nr+'</h3>'
-        for own key, verse of book.chapter
-          html += '<p><b>'+key+'</b> ' + verse.verse + '</p>'
+      if data.book?
+        for book in data.book
+          html += '<h3>'+book.book_name+' '+book.chapter_nr+'</h3>'
+          for own key, verse of book.chapter
+            html += '<p><b>'+key+'</b> ' + verse.verse + '</p>'
+        $(that).data("bibletext", html)
+        $(that).popover
+          html: true
+          content: html
+          placement: 'bottom'
+          container: '.wrap'
+        .popover('show')
+      else
+        html = "<div class='alert alert-warning'>Could not retrieve bible text.</div>"
+        $(that).data("bibletext", html)
+        $(that).popover
+          html: true
+          title: 'Error'
+          content: html
+          placement: 'bottom'
+          container: '.wrap'
+        .popover('show')
+    .fail ->
+      html = "<div class='alert alert-warning'>Could not retrieve bible text.</div>"
       $(that).data("bibletext", html)
       $(that).popover
         html: true
+        title: 'Error'
         content: html
         placement: 'bottom'
+        container: '.wrap'
       .popover('show')
 
   $('body').on 'click', '.greek', (e)->
