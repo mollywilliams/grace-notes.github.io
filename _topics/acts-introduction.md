@@ -118,7 +118,7 @@ sources in Acts.
 
 C. Although Luke may have been present for some of the events in Acts
 (the “We” sections), he was not an eye witness for all of them (at least
-all of Luke; Acts 1– 12, and probably other units where “we” is not
+all of Luke; Acts 1 - 12, and probably other units where “we” is not
 employed).
 
 D. It is not presently possible to isolate Luke’s sources for Acts, but
