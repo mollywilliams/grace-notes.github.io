@@ -41,7 +41,7 @@ The exclusion of Moabites and Ammonites from the congregation of the Lord to the
 
 ##The Time of the Judges
 
-After the conquest of Canaan, Moab oppressed Israel for 18 years. It is significant, however, that “The Lord strengthened Eglon, the King of Moab, against Israel … and he gathered unto him the children of Ammon and Amalek and went out and smote Israel” ([Judges 3:12,13] (https://www.biblegateway.com/passage/?search=Judges+3%3A12-13)). The Moabite conquest ended with the assassination of Eglon by the judge Ehud.
+After the conquest of Canaan, Moab oppressed Israel for 18 years. It is significant, however, that _“The Lord strengthened Eglon, the King of Moab, against Israel … and he gathered unto him the children of Ammon and Amalek and went out and smote Israel”_ ([Judges 3:12,13] (https://www.biblegateway.com/passage/?search=Judges+3%3A12-13)). The Moabite conquest ended with the assassination of Eglon by the judge Ehud.
 
 ##The Time of the Kingdom
 
