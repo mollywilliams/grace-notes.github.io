@@ -108,82 +108,81 @@ You have been made **dead to the old life and alive unto God**. You are:
 
 **Crucified with Christ**
 
-* **[Romans 6:6] ()**. _knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;_
+* **[Romans 6:6] (https://www.biblegateway.com/passage/?search=Romans+6%3A6)**. _knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;_
 
-* **[Galatians 2:20] ()**. _I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me._
+* **[Galatians 2:20] (https://www.biblegateway.com/passage/?search=Galatians+2%3A20)**. _I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me._
 
-### Dead with Christ
+**Dead with Christ**
 
-* **[Romans 6:8] ()**. _Now if we have died with Christ, we believe that we shall also live with Him,_
+* **[Romans 6:8] (https://www.biblegateway.com/passage/?search=Romans+6%3A8)**. _Now if we have died with Christ, we believe that we shall also live with Him,_
 
-* **[Colossians 3:3] ()**. _For you have died and your life is hidden with Christ in God._
+* **[Colossians 3:3] (https://www.biblegateway.com/passage/?search=Colossians+3%3A3)**. _For you have died and your life is hidden with Christ in God._
 
-* **[1 Peter 2:24] ()**. _and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed._
+* **[1 Peter 2:24] (https://www.biblegateway.com/passage/?search=1+Peter+2%3A24)**. _and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed._
 
 ** Buried with Christ**
 
-* **[Romans 6:4] ()**. _Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life._
+* **[Romans 6:4] (https://www.biblegateway.com/passage/?search=Romans+6%3A4)**. _Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life._
 
-* **[Colossians 2:12] ()**. _having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead._
+* **[Colossians 2:12] (https://www.biblegateway.com/passage/?search=Colossians+2%3A12)**. _having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead._
 
 ** Risen with Christ**
 
-* **Romans 6:4**. Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.
+* **[Romans 6:4] (https://www.biblegateway.com/passage/?search=Romans+6%3A4)**. _Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life._
 
-* **Colossials 3:1**. Therefore if you have been raised up with Christ, keep seeking the things above, where Christ is, seated at the right hand of God.
+* **[Colossians 3:1] (https://www.biblegateway.com/passage/?search=Colossians+3%3A1)**. Therefore if you have been raised up with Christ, keep seeking the things above, where Christ is, seated at the right hand of God.
 
-#### You are **free from the law**.
+You are **free from the law**.
 
-* **Romans 6:14**. For sin shall not be master over you, for you are not under law but under grace.
+* **[Romans 6:14] (https://www.biblegateway.com/passage/?search=Romans+6%3A14)**. _For sin shall not be master over you, for you are not under law but under grace._
 
-* **Romans 7:4-6**. Therefore, my brethren, you also were made to die to the Law through the body of Christ, so that you might be joined to another, to Him who was raised from the dead, in order that we might bear fruit for God. For while we were in the flesh, the sinful passions, which were aroused by the Law, were at work in the members of our body to bear fruit for death. But now we have been released from the Law, having died to that by which we were bound, so that we serve in newness of the Spirit and not in oldness of the letter.
+* **[Romans 7:4-6] (https://www.biblegateway.com/passage/?search=Romans+7%3A4-6)**. _Therefore, my brethren, you also were made to die to the Law through the body of Christ, so that you might be joined to another, to Him who was raised from the dead, in order that we might bear fruit for God. For while we were in the flesh, the sinful passions, which were aroused by the Law, were at work in the members of our body to bear fruit for death. But now we have been released from the Law, having died to that by which we were bound, so that we serve in newness of the Spirit and not in oldness of the letter._
 
-**2 Corinthians 3:11**. For if that which fades away was with glory, much more that which remains is in glory.
+* **[2 Corinthians 3:11] (https://www.biblegateway.com/passage/?search=2+Corinthians+3%3A11)**. _For if that which fades away was with glory, much more that which remains is in glory._
 
-* **Galatians 3:25**. But now that faith has come, we are no longer under a tutor [the Law].
+* **[Galatians 3:25] (https://www.biblegateway.com/passage/?search=Galatians+3%3A25)**. _But now that faith has come, we are no longer under a tutor [the Law]._
 
-#### You have been **adopted** (placed as an adult heir in the family of God)
+You have been **adopted** (placed as an adult heir in the family of God)
 
-* **Romans 8:15**. For you have not received a spirit of slavery leading to fear again, but you have received a spirit of adoption as sons by which we cry out, “Abba! Father!”
+* **[Romans 8:15] (https://www.biblegateway.com/passage/?search=Romans+8%3A15)**. _For you have not received a spirit of slavery leading to fear again, but you have received a spirit of adoption as sons by which we cry out, “Abba! Father!”_
 
-* **Romans 8:23**. And not only this, but also we ourselves, having the first fruits of the Spirit, even we ourselves groan within ourselves, waiting eagerly for our adoption as sons, the redemption of our body.
+* **[Romans 8:23] (https://www.biblegateway.com/passage/?search=Romans+8%3A23)**. _And not only this, but also we ourselves, having the first fruits of the Spirit, even we ourselves groan within ourselves, waiting eagerly for our adoption as sons, the redemption of our body._
 
-* **Ephesians 1:5**. He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,
+* **[Ephesians 1:5] (https://www.biblegateway.com/passage/?search=Ephesians+1%3A5)**. _He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will,_
 
-#### You have been **justified** (declared righteous).
+You have been **justified** (declared righteous).
 
-* **Romans 3:24**. being justified as a gift by His grace through the redemption which is in Christ Jesus;
+* **[Romans 3:24] (https://www.biblegateway.com/passage/?search=Romans+3%3A24)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus;_
 
-* **Romans 5:1**. Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,
+* **[Romans 5:1] (https://www.biblegateway.com/passage/?search=Romans+5%3A1)**. _Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,_
 
-* **Romans 5:9**. Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.
+* **[Romans 5:9] (https://www.biblegateway.com/passage/?search=Romans+5%3A9)**. _Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him._
 
-* **Romans 8:30**. and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.
+* **[Romans 8:30] (https://www.biblegateway.com/passage/?search=Romans+8%3A30)**. _and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified._
 
-**1 Corinthians 6:11**. Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God.
+* **[1 Corinthians 6:11] (https://www.biblegateway.com/passage/?search=1+Corinthians+6%3A11)**. _Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God._
 
-* **Titus 3:7**. so that being justified by His grace we would be made heirs according to *the* hope of eternal life.
+* **[Titus 3:7] (https://www.biblegateway.com/passage/?search=Titus+3%3A7)**. _so that being justified by His grace we would be made heirs according to *the* hope of eternal life._
 
-#### You have been **regenerated** (born spiritually into the family of God)
+You have been **regenerated** (born spiritually into the family of God)
 
-* **John 13:10**. Jesus said to him, “He who has bathed needs only to wash his feet, but is completely clean; and you are clean, but not all of
-you.”
+* **John 13:10**. _Jesus said to him, “He who has bathed needs only to wash his feet, but is completely clean; and you are clean, but not all of you._
 
-* **1 Corinthians 6:11**. Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God.
+* **1 Corinthians 6:11**. _Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God._
 
-* **Titus 3:5**. He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,
+* **Titus 3:5**. _He saved us, not on the basis of deeds which we have done in righteousness, but according to His mercy, by the washing of regeneration and renewing by the Holy Spirit,_
 
-By regeneration you are:
+**By regeneration you are:**
 
-### Born Again
+**Born Again**
 
-* **John 3:7.** Do not be amazed that I said to you, ‘You must be born again.
+* **John 3:7.** _Do not be amazed that I said to you, ‘You must be born again._
 
-* **1 Peter 1:23**. for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God.
+* **1 Peter 1:23**. _for you have been born again not of seed which is perishable but imperishable, that is, through the living and enduring word of God._
 
-### Children of God
+**Children of God**
 
-* **Galatians 3:26**. For you are all sons of God through faith in Christ Jesus.
+* **Galatians 3:26**. _For you are all sons of God through faith in Christ Jesus._
 
 ### Sons of God
 
