@@ -108,23 +108,23 @@ You have been made **dead to the old life and alive unto God**. You are:
 
 **Crucified with Christ**
 
-* **Romans 6:6**. knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;
+* **[Romans 6:6] ()**. _knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;_
 
-* **Galatians 2:20**. I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me.
+* **[Galatians 2:20] ()**. _I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me._
 
 ### Dead with Christ
 
-* **Romans 6:8**. Now if we have died with Christ, we believe that we shall also live with Him,
+* **[Romans 6:8] ()**. _Now if we have died with Christ, we believe that we shall also live with Him,_
 
-* **Colossians 3:3**. For you have died and your life is hidden with Christ in God.
+* **[Colossians 3:3] ()**. _For you have died and your life is hidden with Christ in God._
 
-* **1 Peter 2:24**. and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed.
+* **[1 Peter 2:24] ()**. _and He Himself bore our sins in His body on the cross, so that we might die to sin and live to righteousness; for by His wounds you were healed._
 
 ** Buried with Christ**
 
-* **Romans 6:4**. Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.
+* **[Romans 6:4] ()**. _Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life._
 
-* **Colossians 2:12**. having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead.
+* **[Colossians 2:12] ()**. _having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead._
 
 ** Risen with Christ**
 
