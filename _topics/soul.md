@@ -18,7 +18,7 @@ _*Self-Consciousness*_
 
 Man is aware of his own existence and is able to relate to both animate and inanimate life on earth.
 
-* [Acts 20:10] (https://www.biblegateway.com/passage/?search=act+20%3A10), But Paul went down and fell upon him, and after embracing him, he said, “Do not be troubled, for his life is in him.”
+* [Acts 20:10] (https://www.biblegateway.com/passage/?search=act+20%3A10), _But Paul went down and fell upon him, and after embracing him, he said, “Do not be troubled, for his life is in him.”_
 
 Animals have consciousness, but not self-consciousness.
 
