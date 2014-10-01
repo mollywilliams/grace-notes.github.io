@@ -6,12 +6,12 @@ layout: lesson
 ---
 
 
-**DOCTRINE OF THE SOUL**
+**DOCTRINE OF THE SOUL**\\
 **====================**
 
 Compiled from transcriptions of recorded teachings of Pastor R. B. Thieme, Jr.
 
-**The Essence of the Soul**
+**The Essence of the Soul**\\
 **=======================**
 
 _*Self-Consciousness*_
@@ -22,7 +22,7 @@ Man is aware of his own existence and is able to relate to both animate and inan
 
 Animals have consciousness, but not self-consciousness.
 
-*Mentality*
+*Mentality*\\
 *---------*
 
 Self-consciousness requires mentality. Mentality is the thinking part of man and is itself composed of two parts.
@@ -43,19 +43,19 @@ Self-consciousness requires mentality. Mentality is the thinking part of man and
 
 READ [Psalm 143] (https://www.biblegateway.com/passage/?search=ps+143)
 
-*Volition*
+*Volition*\\
 *--------*
 
 Man has the ability to be negative or positive to anything in life. This is why man was created to resolve the angelic conflict.
 
-*Emotion*
+*Emotion*\\
 *-------*
 
 Emotion is the appreciator of the soul. Emotion responds or reacts to whatever thoughts are in the soul. Normally the emotion is dominated by the right lobe of the soul.
 
 [Luke 12:19] (https://www.biblegateway.com/passage/?search=Luke+12%3A19). _And I will say to my soul, “Soul, you have many goods laid up for many years to come; take your ease, eat, drink and be merry.”’_
 
-*Conscience*
+*Conscience*  
 *----------*
 
 Conscience is the evaluator of the soul. It contains the norms and standards,
