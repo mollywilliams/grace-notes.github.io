@@ -97,7 +97,7 @@ Only the soul, not the body, is saved at the time a person is born again.
 
 * [Hebrews 10:39] (https://www.biblegateway.com/passage/?search=Hebrews+10%3A39). _But we are not of those who shrink back to destruction, but of those who have faith to the preserving of the soul._
 
-*Conclusions*
+*Conclusions*  
 *-----------*
 
 There is no “healing in the atonement.” The body is not saved because the sin nature resides there. In eternity the soul is given a perfect body minus an sin nature or any human good.
