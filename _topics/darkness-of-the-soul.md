@@ -1,98 +1,52 @@
 ---
 title: Darkness Of The Soul
+description: an exposition of Ephesians 4:17-24.
 layout: lesson
 ---
 
 
-**Darkness in the Soul (Ephesians 4:17-24) 7**
+**Ephesians 4:17-22**  
+**=================**
 
-Ephesians 4:17-22
-=================
-
-Ephesians 4:17
+_*Ephesians 4:17*_  
 --------------
 
-**This I say, therefore, and testify in the Lord, that you henceforth
-walk not as other Gentiles walk, in the vanity of their mind.**
+_*This I say, therefore, and testify in the Lord, that you henceforth
+walk not as other Gentiles walk, in the vanity of their mind.*_
 
-This passage of Ephesians, verses 17 to 24, is probably the strongest
-and most graphic warning to Christians in the New Testament!
+This passage of [Ephesians, verses 17 to 24] (http://www.biblegateway.com/passage/?search=Ephesians+4%3A17-24), is probably the strongest and most graphic warning to Christians in the New Testament!
 
-Paul issues this warning now because he knows that the great results of
-the previous verses depend on the personal choices that people make in
-the Christian life.
+Paul issues this warning now because he knows that the great results of the previous verses depend on the personal choices that people make in the Christian life.
 
-In this passage we are shown that it is possible for a Christian to have
-a darkened spirit (soul), an understanding that is like that of an
-unbeliever (other Gentiles), and the empty soul that has no spiritual
-understanding in it.
+In this passage we are shown that it is possible for a Christian to have a darkened spirit (soul), an understanding that is like that of an unbeliever (other Gentiles), and the empty soul that has no spiritual understanding in it.
 
-And we are also shown that it is completely unnecessary for any of us to
-have these problems. But as long as we live we are dependent on doctrine
-from the Word of God and on our day-to-day resolve to learn Bible truth
-at the feet of those the Lord has provided as communicators.
+And we are also shown that it is completely unnecessary for any of us to have these problems. But as long as we live we are dependent on doctrine from the Word of God and on our day-to-day resolve to learn Bible truth at the feet of those the Lord has provided as communicators.
 
-The developed Christian life in Grace is supposed to lead to maturity,
-edification, and effective function, as described in 4:11-16. But when a
-Christian’s understanding is darkened, he becomes sensitive to the
-opinions of other people, his self-consciousness leads him to flail
-around in a hundred directions. Self-consciousness leads to self-pity,
-then bitterness and implacability.
+The developed Christian life in Grace is supposed to lead to maturity, edification, and effective function, as described in [4:11-16] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A11-16). But when a Christian’s understanding is darkened, he becomes sensitive to the opinions of other people, his self-consciousness leads him to flail around in a hundred directions. Self-consciousness leads to self-pity, then bitterness and implacability.
 
-But God has ordained a system for getting Bible truth into the believer,
-via the public proclamation of the Word of God and the teaching ministry
-of the Holy Spirit. It is incumbent upon every believer to keep himself
-on track by staying in God’s plan for spiritual growth.
+But God has ordained a system for getting Bible truth into the believer, via the public proclamation of the Word of God and the teaching ministry of the Holy Spirit. It is incumbent upon every believer to keep himself on track by staying in God’s plan for spiritual growth.
 
-**“This I say, therefore”**
+_*“This I say, therefore”*_
 
-“This” is a reference to the statements which follow, comments on the
-subject of insensitivity, obtuseness, and indifference in the soul.
-Indifference to the Word of God is a Christian’s greatest occupational
-hazard. The apostle warns about the hardness of soul which is the direct
-result of failure to obtain Bible teaching and spiritual understanding.
+“This” is a reference to the statements which follow, comments on the subject of insensitivity, obtuseness, and indifference in the soul. Indifference to the Word of God is a Christian’s greatest occupational hazard. The apostle warns about the hardness of soul which is the direct result of failure to obtain Bible teaching and spiritual understanding.
 
-The first hints about the problems of immaturity are brought out in Eph.
-4:14. Immature Christians are “children”, gullible, pushed about by
-every phony idea that comes along (“winds of doctrine”), and easily
-fooled by crafty imitators.
+The first hints about the problems of immaturity are brought out in [Eph. 4:14] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A14). Immature Christians are “children”, gullible, pushed about by every phony idea that comes along (“winds of doctrine”), and easily fooled by crafty imitators.
 
-Everyone begins the Christian life as a novice; we all started our
-Christian walk as “babes in Christ.” A new believer is expected to be
-naive, to behave as a “child”, and not to know how to function as an
-“adult.” Young children have to grow up.
+Everyone begins the Christian life as a novice; we all started our Christian walk as “babes in Christ.” A new believer is expected to be naive, to behave as a “child”, and not to know how to function as an “adult.” Young children have to grow up.
 
-But the spiritual “babe” needs to take in spiritual food every day in
-order to grow. Otherwise, the effects of spiritual malnutrition will be
-obvious for everyone to see. Verses 11 to 16 tell us how to grow up
-spiritually and function like adults. Verses 17 to 19 verses show what
-happens to Christians who do not follow the Lord’s plan for growth.
+But the spiritual “babe” needs to take in spiritual food every day in order to grow. Otherwise, the effects of spiritual malnutrition will be obvious for everyone to see. [Verses 11 to 16] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A11-16) tell us how to grow up spiritually and function like adults. [Verses 17 to 19] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A17-19) verses show what happens to Christians who do not follow the Lord’s plan for growth.
 
-**“and testify in the Lord”** - a use of the verb MARTUREW, “to make a
-solemn appeal”.
+_*“and testify in the Lord”*_ - a use of the verb MARTUREW, “to make a solemn appeal”.
 
-Paul is very concerned for his Ephesian friends and colleagues. In his
-wide travels he has seen every kind of dysfunctional Christian. He knows
-what Christians need for Christian growth and spiritual health, and he
-knows how easy it is for indifference to develop. He begs his friends
-not to “walk as other Gentiles walk”.
+Paul is very concerned for his Ephesian friends and colleagues. In his wide travels he has seen every kind of dysfunctional Christian. He knows what Christians need for Christian growth and spiritual health, and he knows how easy it is for indifference to develop. He begs his friends not to “walk as other Gentiles walk”.
 
-**“that you walk not as other Gentiles walk”**
+_*“that you walk not as other Gentiles walk”*_
 
-“walk” refers to the pattern of life a person follows. Chapter 4 began
-with his exhortation to “walk worthy of the vocation to which you are
-called.” And he continues in chapter 5 with “Therefore, be followers of
-God, as dear children, and walk in love…”
+“walk” refers to the pattern of life a person follows. Chapter 4 began with his exhortation to “_walk worthy of the vocation to which you are called._” And he continues in chapter 5 with “_Therefore, be followers of God, as dear children, and walk in love…_”
 
-“Gentiles” is ETHNEI, the plural of ETHNOS, “a nation; a people”. Here
-the reference is to the rest of the “general population” who have not
-accepted Christ as Savior. Paul is pointing out that if a Christian has
-deadness of soul, his manner of life will exactly resemble that of the
-unbeliever.
+“Gentiles” is ETHNEI, the plural of ETHNOS, “a nation; a people”. Here the reference is to the rest of the “general population” who have not accepted Christ as Savior. Paul is pointing out that if a Christian has deadness of soul, his manner of life will exactly resemble that of the unbeliever.
 
-**1 Cor. 3:3, “For ye are yet carnal; for whereas there is among you
-envying, and strife, and divisions, are you not carnal, and walk as
-men?”**
+* [1 Cor. 3:3] (https://www.biblegateway.com/passage/?search=1+Cor.+3%3A3), “_For ye are yet carnal; for whereas there is among you envying, and strife, and divisions, are you not carnal, and walk as men?_”
 
 Christians are supposed to be distinguished by their walk. But there are
 believers, just as there are unbelievers, who are moral or immoral,
