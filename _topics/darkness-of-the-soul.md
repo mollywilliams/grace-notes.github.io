@@ -178,15 +178,9 @@ The antidote is first, Confession of Sin; then, Occupation with Christ and Livin
 
 “*_to work all uncleanness_*” - or, “to make a profession of impurity”.
 
-“with greediness” - this is the frantic search for happiness through the
-details of life. Because details of life cannot satisfy, the search
-becomes more and more intense, resulting in greediness.
+“*_with greediness_*” - this is the frantic search for happiness through the details of life. Because details of life cannot satisfy, the search becomes more and more intense, resulting in greediness.
 
-Greediness is the willingness to do something immoral, illegal, or
-harmful to other people in order to obtain something one desires. The
-Christian life removes greediness because a believer trusts God to
-supply all needs and has the patience to wait for God’s timing in
-everything.
+Greediness is the willingness to do something immoral, illegal, or harmful to other people in order to obtain something one desires. The Christian life removes greediness because a believer trusts God to supply all needs and has the patience to wait for God’s timing in everything.
 
 _*[Ephesians 4:20,21] (https://www.biblegateway.com/passage/?search=Eph.+4%3A20-21)*_  
 -----------------
@@ -227,7 +221,7 @@ The word “_*former*_” refers to us when we were unbelievers. An unbeliever m
 
 “_*according to deceitful lusts*_” Lusts are the activators of the Sin Nature and the motivators of a person who not controlled by the Holy Spirit. There are all sorts of lust patterns, and any person will have one or more of them: power lust; the desire for approbation; sexual lust; lust for worldly possessions; etc. The result of lust, among other things, is slavery to the details of life - seeking happiness and satisfaction in what the world offers, rather than through God’s plan.
 
-*_Ephesians 4:23_*  
+*_[Ephesians 4:23] (https://www.biblegateway.com/passage/?search=Eph.+4%3A23)_*  
 --------------
 
 * *_And be renewed in the spirit of your mind;_*
@@ -246,7 +240,7 @@ Here is the same process discussed in Romans.
 
 * [Romans 12:1,2] (https://www.biblegateway.com/passage/?search=Romans+12%3A1-2), _I urge you therefore, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, {which is} your spiritual service of worship. And do not be conformed to this world, but be TRANSFORMED BY THE RENEWING OF YOUR MIND, that you may prove what the will of God is, that which is good and acceptable and perfect._
 
-*_Ephesians 4:24_*  
+*_[Ephesians 4:24] (https://www.biblegateway.com/passage/?search=Eph.+4%3A24)_*  
 --------------
 
 * _And that you put on the new man, which after God is created in righteousness and true holiness._
