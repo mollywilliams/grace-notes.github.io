@@ -5,7 +5,7 @@ layout: lesson
 ---
 
 
-**[Ephesians 4:17-22] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17-22)**  
+_*[Ephesians 4:17-22] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17-22)*_
 **=================**
 
 _*[Ephesians 4:17] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17)*_  
