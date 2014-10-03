@@ -21,7 +21,7 @@ In this passage we are shown that it is possible for a Christian to have a darke
 
 And we are also shown that it is completely unnecessary for any of us to have these problems. But as long as we live we are dependent on doctrine from the Word of God and on our day-to-day resolve to learn Bible truth at the feet of those the Lord has provided as communicators.
 
-The developed Christian life in Grace is supposed to lead to maturity, edification, and effective function, as described in [4:11-16] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A11-16). But when a Christian’s understanding is darkened, he becomes sensitive to the opinions of other people, his self-consciousness leads him to flail around in a hundred directions. Self-consciousness leads to self-pity, then bitterness and implacability.
+The developed Christian life in Grace is supposed to lead to maturity, edification, and effective function, as described in  [4:11-16] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A11-16). But when a Christian’s understanding is darkened, he becomes sensitive to the opinions of other people, his self-consciousness leads him to flail around in a hundred directions. Self-consciousness leads to self-pity, then bitterness and implacability.
 
 But God has ordained a system for getting Bible truth into the believer, via the public proclamation of the Word of God and the teaching ministry of the Holy Spirit. It is incumbent upon every believer to keep himself on track by staying in God’s plan for spiritual growth.
 
