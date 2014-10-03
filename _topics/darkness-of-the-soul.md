@@ -115,7 +115,7 @@ are eight of them.
 
 2. Darkness causes inner misery, unhappiness, lack of peace. These things cannot be compensated for by anything in life, but the negative Christian spends his life in a frantic but futile pursuit of happiness through the details of life.
 
-2. Darkness can bring about neuroses and psychoses: [Phil. 4:6,7] (https://www.biblegateway.com/passage/?search=Phil.+4%3A6-7) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus.**
+2. Darkness can bring about neuroses and psychoses: [Phil. 4:6,7] (https://www.biblegateway.com/passage/?search=Phil.+4%3A6-7) _Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus._
 
 2. Darkness results in a frantic search for happiness through details of life, or through some form of sublimation.
 
