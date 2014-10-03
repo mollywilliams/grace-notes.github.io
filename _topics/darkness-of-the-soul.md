@@ -79,14 +79,14 @@ For example, DIANOIA is DIA + NOUS. DIA is the preposition “through”, so DIA
 
 In another example, the Greeks had an expression for changing one’s thoughts, METANOIA, the “changing of the mind.” This word was translated “repentance” in the King James Version, and the word “repent” 17th Century England meant “to rethink” or to change one’s mind about something. The change in idiom in modern times has resulted in a lot of confusion about repentance; but repentance is simply changing one’s mind, reversing previous thinking.
 
-[Verse 17] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17) reads, then, “This is say, therefore, and make a solemn warning in the Lord that your manner of life is not to be as the Gentiles manner of life, in the emptiness of the mentality of the soul.”
+[Verse 17] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17) reads, then, “_This is say, therefore, and make a solemn warning in the Lord that your manner of life is not to be as the Gentiles manner of life, in the emptiness of the mentality of the soul._”
 
 _*[Ephesians 4:18] (https://www.biblegateway.com/passage/?search=Eph.+4%3A18)*_  
 --------------
 
 * _*Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart;*_
 
-“_Understanding_” is DIANOIA, the activity of thinking in the soul.
+“_*Understanding*_” is DIANOIA, the activity of thinking in the soul.
 
 READ [Isa. 55:7-9] (https://www.biblegateway.com/passage/?search=Isa.+55%3A7-9), “_My thoughts are not your thoughts, says the Lord …_”
 
@@ -115,9 +115,7 @@ are eight of them.
 
 2. Darkness causes inner misery, unhappiness, lack of peace. These things cannot be compensated for by anything in life, but the negative Christian spends his life in a frantic but futile pursuit of happiness through the details of life.
 
-2. Darkness can bring about neuroses and psychoses.
-
-* [Phil. 4:6,7] (https://www.biblegateway.com/passage/?search=Phil.+4%3A6-7) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus.**
+2. Darkness can bring about neuroses and psychoses: [Phil. 4:6,7] (https://www.biblegateway.com/passage/?search=Phil.+4%3A6-7) Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus.**
 
 2. Darkness results in a frantic search for happiness through details of life, or through some form of sublimation.
 
@@ -127,7 +125,7 @@ are eight of them.
 
 2. Darkness is accompanied by a lack of capacity to love, leading to pseudo-love towards God, family, the community.
 
-“_being alienated from the life of God_” - the perfect passive participle of APALLOTRIOW, “to alienate”.
+“_*being alienated from the life of God*_” - the perfect passive participle of APALLOTRIOW, “to alienate”.
 
 Disorientation to the plan of God is a result of darkness. A Christian can live his whole life on this earth and always be out of phase with God’s plan for his life. This can go on indefinitely as long as the believer refuses to hear and believe the Word of God.
 
