@@ -71,7 +71,7 @@ When a soul is empty, there is a resulting “vacuum” that pulls in false doct
 
 * [1 Tim. 4:1-3] (https://www.biblegateway.com/passage/?search=1+Tim.+4%3A1-3), _Now the Spirit speaks expressly that, in the latter times, some shall depart from the faith, giving heed to seducing spirits, and doctrines of demons, speaking lies in hypocrisy, having their conscience seared with a hot iron, forbidding to marry, and commanding to abstain from foods, which God has created to be received with thanksgiving by them who believe and KNOW THE TRUTH._
 
-“of their mind” - NOUS. This word is a reference to the mind as a container of the thoughts of the soul. The phrase is not “…vanity of thoughts” but “…emptiness of the mind, the container of thoughts.”
+“*_of their mind_*” - NOUS. This word is a reference to the mind as a container of the thoughts of the soul. The phrase is not “…vanity of thoughts” but “…emptiness of the mind, the container of thoughts.”
 
 The verb equivalent to NOUS is NOEW, “to think”. The noun, therefore, means “place of thinking”. Both these words are used extensively in the Greek New Testament; and both words are used with various prefixes to indicate different kinds of thinking.
 
@@ -81,7 +81,7 @@ In another example, the Greeks had an expression for changing one’s thoughts, 
 
 [Verse 17] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17) reads, then, “This is say, therefore, and make a solemn warning in the Lord that your manner of life is not to be as the Gentiles manner of life, in the emptiness of the mentality of the soul.”
 
-_*Ephesians 4:18*_  
+_*[Ephesians 4:18] (https://www.biblegateway.com/passage/?search=Eph.+4%3A18)*_  
 --------------
 
 * _*Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart;*_
@@ -133,17 +133,17 @@ Disorientation to the plan of God is a result of darkness. A Christian can live 
 
 All of this is caused by…
 
-“_through the ignorance that is in them_”** - DIA plus AGNOIA. “By means of” or “because of” the “ignorance” that is in them.
+“_*through the ignorance that is in them*_” - DIA plus AGNOIA. “By means of” or “because of” the “ignorance” that is in them.
 
 This word is, literally, “no thinking”. The Greek word describes someone who is ignorant of the content of something that he is supposed to know. To “ignore” means “not to think about”.
 
 Therefore, the Christian in darkness either has not learned Bible doctrine, or he does not think of the Bible doctrine to which he has been exposed. So he lives in darkness. Without knowledge of the Word of God it is impossible to orient to God’s plan of Grace. When a believer lacks knowledge and edification he is out of step with the plan of God.
 
-“_in them_” refers to believers who have darkness in their souls.
+“*_in them_*” refers to believers who have darkness in their souls.
 
-“_because of the blindness of their hearts_”
+“*_because of the blindness of their hearts_*”
 
-“_Blindness_” is POROSIS, which is a direct cognate of the English word “porosis”. POROSIS means “callous” or “something which has hardened or petrified”. It is used for the buildup of scars from multiple wounds in the same place, hence “scar tissue.”
+“*_Blindness_*” is POROSIS, which is a direct cognate of the English word “porosis”. POROSIS means “callous” or “something which has hardened or petrified”. It is used for the buildup of scars from multiple wounds in the same place, hence “scar tissue.”
 
 So [verse 18] (https://www.biblegateway.com/passage/?search=eph+4%3A18) reads, “_Having become darkened in thinking, having been alienated from the life of God, because of the ignorance which is in them, because of the callous on their heart._”
 
@@ -161,24 +161,24 @@ So, in [verses 17 and 18] (https://www.biblegateway.com/passage/?search=eph+4%3A
 
 2. Alienation from the life of God.
 
-_*Ephesians 4:19*_
+_*[Ephesians 4:19] (https://www.biblegateway.com/passage/?search=Eph.+4%3A19)*_  
 --------------
 
-* _“Who, being past feeling, have given themselves over unto lasciviousness, to work all uncleanness with greediness._”
+* *_“Who, being past feeling, have given themselves over unto lasciviousness, to work all uncleanness with greediness._*”
 
 Remember - Paul is warning Christians not to fall into this lifestyle. It is easy to associate a sinful manner of living with non-Christians. But Christians who live apart from the plan of God can easily be involved in “Gentile” lasciviousness or uncleanness.
 
-“_Who_” is a relative pronoun referring to people who have callous on their souls, who are negative toward Bible teaching.
+“*_Who_*” is a relative pronoun referring to people who have callous on their souls, who are negative toward Bible teaching.
 
-“_being past feeling_” is APALGEO, “to cease to feel anything; to become calloused”. Callous develops from failure to learn and appropriate the Word of God. For the negative Christian, callous remains on the soul and accumulates, resulting in a lack of feeling. In other words, his situation continually gets worse.
+“*_being past feeling_*” is APALGEO, “to cease to feel anything; to become calloused”. Callous develops from failure to learn and appropriate the Word of God. For the negative Christian, callous remains on the soul and accumulates, resulting in a lack of feeling. In other words, his situation continually gets worse.
 
 Darkness of the soul is characterized by mental attitude sins, such as arrogance, bitterness, jealousy, worry, vindictiveness, implacability.
 
 The antidote is first, Confession of Sin; then, Occupation with Christ and Living in the Word.
 
-“_have given themselves over unto lasciviousness_”. Literally, “have betrayed themselves into immoral sexual activity (ASELGEIA)”
+“*_have given themselves over unto lasciviousness_*”. Literally, “have betrayed themselves into immoral sexual activity (ASELGEIA)”
 
-“_to work all uncleanness_” - or, “to make a profession of impurity”.
+“*_to work all uncleanness_*” - or, “to make a profession of impurity”.
 
 “with greediness” - this is the frantic search for happiness through the
 details of life. Because details of life cannot satisfy, the search
@@ -190,10 +190,10 @@ Christian life removes greediness because a believer trusts God to
 supply all needs and has the patience to wait for God’s timing in
 everything.
 
-_*Ephesians 4:20,21*_  
+_*[Ephesians 4:20,21] (https://www.biblegateway.com/passage/?search=Eph.+4%3A20-21)*_  
 -----------------
 
-* _But you have not so learned Christ; If so be that you have heard him, and have been taught by him, as the truth is in Jesus:**
+* *_But you have not so learned Christ; If so be that you have heard him, and have been taught by him, as the truth is in Jesus:_*
 
 Francis Foulkes in “Ephesians”, “‘But you’ the apostle says to his readers, emphasizing the personal pronoun, ‘can no longer walk in that way. You have not so learned Christ. The truth of God and of His purpose has come to dominate your minds, and this truth has ethical implications. Your lives are no longer dark, your minds no longer vain. You are no longer alienated but walking step by step in the full light of the Lord, and in fellowship with Him. So you must finish with all immorality, and the passion for what is impure, and for what outrages the souls and bodies of others.’”
 
@@ -214,12 +214,12 @@ Topic: SEPARATION
 To put it another way: while separation is definitely a part of God’s plan, you do not become more spiritual or more advanced in the Christian life by separating yourself from various evils. Rather, your advancement in the Christian life depends on the Word of God in your soul and your being filled with the Holy Spirit. As the Lord builds our lives, line
 upon line, precept upon precept, the fruit of the Spirit grows in our lives and our behavior changes, as shown in the verses that follow in chapter 4.
 
-_*Ephesians 4:22*_  
+_*[Ephesians 4:22] (https://www.biblegateway.com/passage/?search=Eph.+4%3A22)*_  
 --------------
 
-* _That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;**
+* *_That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;_*
 
-Notice in verses 22 to 24 that the Christian life is one of moving from a former state to a future state, from the “old man” to the “new man”. And the mechanism is described in verse 23 as being renewal that takes place in the mind. It is like a breathing process in which bad air goes out and good air comes in.
+Notice in [verses 22 to 24] (https://www.biblegateway.com/passage/?search=Eph.+4%3A22-24) that the Christian life is one of moving from a former state to a future state, from the “old man” to the “new man”. And the mechanism is described in verse 23 as being renewal that takes place in the mind. It is like a breathing process in which bad air goes out and good air comes in.
 
 “_*that you put off*_” is APOTHESTHAI, “to lay aside” as in laying aside a garment.
 
