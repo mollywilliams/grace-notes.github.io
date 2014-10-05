@@ -25,19 +25,19 @@ Therefore, they applied for permission to pass through the territory of Moab. Th
 
 ##History of Moab 
 
-Although the Moabites refused passage to the Israelites, Moab did not fight against Israel while they were neighbors for more than 300 years. In fact, [Deut. 2:29] (https://www.biblegateway.com/passage/?search=Deut.+2%3A29) makes no complaint about hostility either of Edom or Moab, only mentioning that Moab lacked hospitality and hired Balaam to curse Israel.
+Although the Moabites refused passage to the Israelites, Moab did not fight against Israel while they were neighbors for more than 300 years. In fact, Deut. 2:29 makes no complaint about hostility either of Edom or Moab, only mentioning that Moab lacked hospitality and hired Balaam to curse Israel.
 
-There is no hint that either nation hindered Israel in its passage along the borders, although Edom did stand ready to fight should its territory be encroached upon. [Deut. 2:29] (https://www.biblegateway.com/passage/?search=Deut.+2%3A29) indicates that trade was carried on.
+There is no hint that either nation hindered Israel in its passage along the borders, although Edom did stand ready to fight should its territory be encroached upon. Deut. 2:29 indicates that trade was carried on.
 
-The Moabites were much too friendly, in fact, sending their daughters to cultivate friendly relations with Israelite men and to entice them into idolatry. [Num. 25:2] (https://www.biblegateway.com/passage/?search=Num.+25%3A2) (note feminine of verb)
+The Moabites were much too friendly, in fact, sending their daughters to cultivate friendly relations with Israelite men and to entice them into idolatry. Num. 25:2 (note feminine of verb)
 
 The Moabites peaceful character and their many possessions may account for the terror of Moabite King Balak at the approach of the Israelites. He took rather special means to guard against them. Instead of sending his army out, he first consulted with the leaders of Midian. Moab and Midian were kin by virtue of their common descent from Terah, Moab through Lot from Haran, and Midian from Abraham by Keturah. [Gen. 11:27; 19:37; 25:2] (https://www.biblegateway.com/passage/?search=Gen.+11%3A27%3B+19%3A37%3B+25%3A2)
 
-The result of this conference was that the two nations united in sending for the prophet Balaam. [Num. 25] (https://www.biblegateway.com/passage/?search=Num.+25)
+The result of this conference was that the two nations united in sending for the prophet Balaam. Num. 25
 
 ##The Exclusion of Moab
 
-The exclusion of Moabites and Ammonites from the congregation of the Lord to the tenth generation was not on account of hostility but because of their lack of hospitality and the hiring of Balaam. [Deut. 23:4] (https://www.biblegateway.com/passage/?search=Deut.+23%3A4) There is no direct prohibition of marriage with Moabites. These rules were made against *Canaanites*.
+The exclusion of Moabites and Ammonites from the congregation of the Lord to the tenth generation was not on account of hostility but because of their lack of hospitality and the hiring of Balaam. Deut. 23:4 There is no direct prohibition of marriage with Moabites. These rules were made against *Canaanites*.
 
 ##The Time of the Judges
 
@@ -45,13 +45,13 @@ After the conquest of Canaan, Moab oppressed Israel for 18 years. It is signific
 
 ##The Time of the Kingdom
 
-We read that Saul fought against Moab, [1 Sam. 14:47] (https://www.biblegateway.com/passage/?search=1+Sam.+14%3A47).
+We read that Saul fought against Moab, 1 Sam. 14:47.
 
 Early relations seemed fairly friendly, however, as we see in Ruth.
 
-David, when being pressed by Saul, entrusted the safe keeping of his father and mother to the king of Moab. But, twenty years later, for some reason, he treated the Moabites hard and took spoil from them for the treasure of the temple, [2 Sam. 8:2] (https://www.biblegateway.com/passage/?search=2+Sam.+8%3A2). The Moabites became tributary to David. Later they again sent their daughters, this time to Saul to lead him astray.
+David, when being pressed by Saul, entrusted the safe keeping of his father and mother to the king of Moab. But, twenty years later, for some reason, he treated the Moabites hard and took spoil from them for the treasure of the temple, 2 Sam. 8:2. The Moabites became tributary to David. Later they again sent their daughters, this time to Saul to lead him astray.
 
-The Moabites were still paying tribute in the days of Ahab, [2 Kings 3:4,5] (https://www.biblegateway.com/passage/?search=2+Kings+3%3A4-5). After Ahab, they revolted. They collected an army ([2 Chron. 20] (https://www.biblegateway.com/passage/?search=2+Chron.+20)) of Moabites, Ammonites, and Edomites, and attacked Judah, then ruled by Jehoshaphat. Judah met them with prayer and praise of God. God caused dissension to break out in the camp of the enemy. The Moabites and Ammonites first slaughtered the Edomites, then each other, and Israel gathered the spoil.
+The Moabites were still paying tribute in the days of Ahab, [2 Kings 3:4,5] (https://www.biblegateway.com/passage/?search=2+Kings+3%3A4-5). After Ahab, they revolted. They collected an army (2 Chron. 20) of Moabites, Ammonites, and Edomites, and attacked Judah, then ruled by Jehoshaphat. Judah met them with prayer and praise of God. God caused dissension to break out in the camp of the enemy. The Moabites and Ammonites first slaughtered the Edomites, then each other, and Israel gathered the spoil.
 
 Moabites continued to appear in Bible accounts and in historical accounts. [ See Unger’s Bible Handbook ] Josephus described Moab as still a great nation in Roman times. The name “Moab” remained in history until about 380 AD in the time of Eusebius.
 
@@ -61,7 +61,7 @@ The language of Moab was a dialect of Hebrew, differing from Biblical Hebrew onl
 
 Chemosh (ke-mosh) was the national deity of Moab. This god was honored with cruel and perverse practices including child sacrifices like those of Molech. The account on the Moabite Stone (see below) states that “the anger of Chemosh” is the reason for Israel’s subjugation of Moab.
 
-Solomon made a fatal mistake of rearing an altar to Chemosh in Jerusalem ([1 Kings 11:7] (https://www.biblegateway.com/passage/?search=1+Kings+11%3A7), and this abomination was not destroyed until almost 300 years later during the purge carried out by Josiah ([2 Kings 23:13] (https://www.biblegateway.com/passage/?search=2+Kings+23%3A13)).
+Solomon made a fatal mistake of rearing an altar to Chemosh in Jerusalem (1 Kings 11:7, and this abomination was not destroyed until almost 300 years later during the purge carried out by Josiah (2 Kings 23:13).
 
 ##THE MOABITE STONE
 

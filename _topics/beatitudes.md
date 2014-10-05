@@ -5,7 +5,7 @@ layout: lesson
 ---
 
 
-**_The first blessing_**: "_Blessed are the poor in spirit, because theirs is the Kingdom of God_" is found in [Matthew 5:3] (https://www.biblegateway.com/passage/?search=Matthew+5%3A3).
+**_The first blessing_**: "_Blessed are the poor in spirit, because theirs is the Kingdom of God_" is found in Matthew 5:3.
 
 There is something quite significant here: even though you may be a believer, you are still poor in spirit! Many believers have a terrible time with this concept, because they fail to understand that this sermon assumes residence in the kingdom.
 
@@ -19,13 +19,13 @@ Furthermore, this is a remarkable statement because it holds in view the doctrin
 
 Therefore the first blessing to the one in the kingdom is eternal security.
 
-**_The second blessing_**: "_Blessed are they who mourn, because they will be comforted_" comes from [Matthew 5:4] (https://www.biblegateway.com/passage/?search=Matthew+5%3A4).
+**_The second blessing_**: "_Blessed are they who mourn, because they will be comforted_" comes from Matthew 5:4.
 
 There are two ways to take the mourning: in the literal sense of mourning for some loved one that is lost; in the figurative sense of mourning over lost fellowship with God.
 
 Now let us turn to mourning. Mourning due to the loss of fellowship is a fairly common Biblical theme.
 
-[Psalm 30:1-6] (https://www.biblegateway.com/passage/?search=Psalm+30%3A1-6)
+Psalm 30:1-6
 
 * _“I will extol You, O Lord, for You have lifted me up, and have not let my enemies rejoice over me._”
 
@@ -37,7 +37,7 @@ Now let us turn to mourning. Mourning due to the loss of fellowship is a fairly 
 
 * “_For His anger is but for a moment, His favor is for a lifetime; weeping may last for the night, but a shout of joy comes in the morning._”
 
-[Psalm 30:10-12] (https://www.biblegateway.com/passage/?search=Psalm+30%3A10-12)
+Psalm 30:10-12
 
 * “_Hear, O Lord, and be gracious to me; O lord, be my helper._”
 
@@ -45,7 +45,7 @@ Now let us turn to mourning. Mourning due to the loss of fellowship is a fairly 
 
 * “_That my soul may sing praise to You, and not be silent.  O Lord my God, I will give thanks to You forever._”
 
-[Psalm 38:1-8] (https://www.biblegateway.com/passage/?search=Psalm+38%3A1-8)
+Psalm 38:1-8
 
 * “_O Lord rebuke me not in Your wrath; and chasten me not in Your burning anger._”
 
@@ -63,7 +63,7 @@ Now let us turn to mourning. Mourning due to the loss of fellowship is a fairly 
 
 * “_I am benumbed and badly crushed; I groan because of the agitation of my heart._"
 
-[Isaiah 61:1-3] (https://www.biblegateway.com/passage/?search=Isaiah+61%3A1-3) connects mourning and the atonement,
+Isaiah 61:1-3 connects mourning and the atonement,
 
 * “_The Spirit of the Lord God is upon me, because the Lord has anointed me to bring good news to the afflicted; He has sent me to bind up the brokenhearted, to proclaim liberty to captives, and freedom to prisoners;_”
 
@@ -71,7 +71,7 @@ Now let us turn to mourning. Mourning due to the loss of fellowship is a fairly 
 
 * “_to grant those who mourn in Zion, giving them a garland instead of ashes, the oil of gladness instead of mourning, the mantle of praise instead of a spirit of fainting.  So they will be called oaks of righteousness, the planting of the lord, that He may be glorified._"
 
-[2 Corinthians 7:9-13] (https://www.biblegateway.com/passage/?search=2+Corinthians+7%3A9-13) makes a very direct connection between sin and grief.  This passage seems almost as if Paul intended to clarify our beatitude. 
+2 Corinthians 7:9-13 makes a very direct connection between sin and grief.  This passage seems almost as if Paul intended to clarify our beatitude. 
 
 * “I now rejoice, not that you were made sorrowful, but that you were made sorrowful to the point of repentance; for you were made sorrowful according to the will God, in order that you might not suffer loss in anything through us.”
 
@@ -111,11 +111,11 @@ Therefore, mourning is a blessing from God, for it brings comfort in the restora
 
 There is woe to those who laugh, because if they laugh at divine discipline and while they are out of fellowship they will have little motive to confess.
 
-* [Hebrews 12:5] (https://www.biblegateway.com/passage/?search=Hebrews+12%3A5), “_and you have forgotten the exhortation which is addressed to you as sons, ‘My son, do not regard lightly the discipline of the Lord, nor faint when you are reproved by Him;’_”
+* Hebrews 12:5, “_and you have forgotten the exhortation which is addressed to you as sons, ‘My son, do not regard lightly the discipline of the Lord, nor faint when you are reproved by Him;’_”
 
 Mourning and feelings of guilt after the restoration of fellowship are illegitimate and should be all left behind.
 
-**_The third blessing_**: "_Blessed are the humble, because they will inherit the earth_" is found in [Matthew 5:5] (http://www.biblegateway.com/passage/?search=Matthew+5%3A5).
+**_The third blessing_**: "_Blessed are the humble, because they will inherit the earth_" is found in Matthew 5:5.
 
 This really denotes the ability to solve problems without violence or angry reaction, but to solve the problems really and truly through the use of Bible doctrine in the soul.
 
@@ -131,7 +131,7 @@ Neither does being meek bring in the millennium. There is nothing that we can do
 
 Therefore, this is about the inheritance of the earth during the millennium, an inheritance based on the death of Christ.
 
-**_The fourth blessing_**: "_Blessed are they who hunger and thirst for righteousness, because they will be filled_" is found in [Matthew 5:6] (http://www.biblegateway.com/passage/?search=Matthew+5%3A6).
+**_The fourth blessing_**: "_Blessed are they who hunger and thirst for righteousness, because they will be filled_" is found in Matthew 5:6.
 
 The words for hunger and thirst are pretty standard here as we exactly what we understand them to be in the English, with little or no extra emphasis.
 
@@ -145,13 +145,13 @@ There are two types of righteousness related to Jesus Christ.
 
 The first is the righteousness which He produced on the cross and which is imputed to us at the moment that we believe in Him.
 
-* [Romans 5:18] (http://www.biblegateway.com/passage/?search=Romans+5%3A18), “_So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men._”
+* Romans 5:18, “_So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men._”
 
 The second righteousness is that which comes through the study of the word of God.
 
-* [2 Timothy 3:16] (http://www.biblegateway.com/passage/?search=2+Timothy+3%3A16), “_All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness._”
+* 2 Timothy 3:16, “_All Scripture is inspired by God and profitable for teaching, for reproof, for correction, for training in righteousness._”
 
-* [1 Corinthians 2:16] (https://www.biblegateway.com/passage/?search=1+Corinthians+2%3A16), “_For who has known the mind of the Lord, that he should instruct Him? But we have the mind of Christ._”
+* 1 Corinthians 2:16, “_For who has known the mind of the Lord, that he should instruct Him? But we have the mind of Christ._”
 
 This beatitude concentrates on the second righteousness. This is a righteousness which can only come through faith perception.
 
@@ -185,17 +185,17 @@ Being filled with the Word of God means:
 
 Therefore, this is a fantastic blessing indeed.
 
-_**The fifth blessing**_: "_Blessed are the merciful, because they will be shown mercy_" is from [Matthew 5:7] (http://www.biblegateway.com/passage/?search=Matthew+5%3A7).
+_**The fifth blessing**_: "_Blessed are the merciful, because they will be shown mercy_" is from Matthew 5:7.
 
 All of the actions of God are done without conditions.
 
 Unlimited atonement is an expression of divine mercy,
 
-* [1 John 2:2] (http://www.biblegateway.com/passage/?search=1+John+2%3A2), “_He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world._”
+* 1 John 2:2, “_He is the atoning sacrifice for our sins, and not only for ours but also for the sins of the whole world._”
 
 Eternal security is an expression of divine mercy,
 
-* [1 John 3:1a] (http://www.biblegateway.com/passage/?search=1+John+3%3A1), “_How great is the love the Father has lavished on us, that we should be called children of God! And that is what we are!_”
+* 1 John 3:1a, “_How great is the love the Father has lavished on us, that we should be called children of God! And that is what we are!_”
 
 The life and death of Jesus Christ are the ultimate testimony of the love of God.
 
@@ -203,7 +203,7 @@ An extension of your life is often an expression of mercy, so that you may have 
 
 The merciful follows of Christ during the tribulation will be shown mercy in the preservation of their human lives.  In fact, human mercy as expressed in charity is very much a measure of Christian maturity during the millennium.
 
-**_The sixth blessing_**: "_Blessed are the pure in heart, because they will see God_" is from [Matthew 5:8] (http://www.biblegateway.com/passage/?search=Matthew+5%3A8).
+**_The sixth blessing_**: "_Blessed are the pure in heart, because they will see God_" is from Matthew 5:8.
 
 Almost anyone can appear to be pure. This is not a great accomplishment. But those who are privately and mentally pure are
 another category entirely.
@@ -216,7 +216,7 @@ Putting the word in your heart causes personal purity related to spiritual matur
 
 Purity of heart is a requirement for prayer,
 
-* [2 Tim 2:22] (http://www.biblegateway.com/passage/?search=2+Tim+2%3A22), “_Now flee from youthful lusts, and pursue righteousness, faith, love, and peace, with those who call on the Lord from a pure heart._”
+* 2 Tim 2:22, “_Now flee from youthful lusts, and pursue righteousness, faith, love, and peace, with those who call on the Lord from a pure heart._”
 
 Summary of Biblical References to Maturity
 
@@ -240,11 +240,11 @@ Blessed are they who mourn, because they will be comforted and thus become pure 
 
 Purity of heart is the status of being in fellowship with God. It is only while you are in fellowship that you can learn and apply most doctrines.
 
-**_The seventh blessing_**: "_Blessed are the peacemakers, because they will be called sons of God_" comes from [Matthew 5:9] (http://www.biblegateway.com/passage/?search=Matthew+5%3A9).
+**_The seventh blessing_**: "_Blessed are the peacemakers, because they will be called sons of God_" comes from Matthew 5:9.
 
 The interpretation of the term is somewhat more difficult. We will begin with the meaning of the word itself.
 
-This is the only place in the Bible where this noun occurs. Its corresponding verb appears in [Colossians 1:19-20] (http://www.biblegateway.com/passage/?search=Colossians+1%3A19-20).
+This is the only place in the Bible where this noun occurs. Its corresponding verb appears in Colossians 1:19-20.
 
 * “_For it was the Father’s good pleasure for all the fullness to dwell in Him, and through Him to reconcile all things to Himself, having made peace through the blood of His cross; through Him, I say, whether things on earth or things in heaven._”
 
@@ -268,7 +268,7 @@ And to gain a new title, given by God Himself, would be significant indeed.
 
 To hold the same title as God the Son is truly a fantastic complement. Peacemakers having the same title as the peacemaker has a certain poetic symmetry to it.
 
-_**The eighth blessing and its explanation**_: "_Blessed are those who have been persecuted for the sake of righteousness, because theirs is the kingdom of heaven_" comes from [Matthew 5:10] (http://www.biblegateway.com/passage/?search=Matthew+5%3A10). You are blessed whenever they insult you and persecute you, and whenever they ostracize you and they insult you and cast down your name as evil falsely for my sake. Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you."
+_**The eighth blessing and its explanation**_: "_Blessed are those who have been persecuted for the sake of righteousness, because theirs is the kingdom of heaven_" comes from Matthew 5:10. You are blessed whenever they insult you and persecute you, and whenever they ostracize you and they insult you and cast down your name as evil falsely for my sake. Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you."
 
 Conclusion: You may be persecuted for two reasons: because you are a Christian, and because you are a mature Christian.
 
@@ -278,7 +278,7 @@ However, there is a contrast. In the first beatitude the emphasis lay on eternal
 
 **_Next comes the explanation_**. It begins with the phrase you are blessed.
 
-Then comes a command that is predicated on the persecution. “_Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you._” ([Matthew 5:12] (http://www.biblegateway.com/passage/?search=Matthew+5%3A12))
+Then comes a command that is predicated on the persecution. “_Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you._” (Matthew 5:12)
 
 The second pairing of verbs has to do with wild rejoicing. Matthew’s verb concentrates more on verbal expression, while Luke’s on physical expression. They both describe an ecstatic kind of rejoicing. This is the kind you see when you win the World Series in baseball.
 

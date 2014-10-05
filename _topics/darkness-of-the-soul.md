@@ -5,10 +5,10 @@ layout: lesson
 ---
 
 
-_*[Ephesians 4:17-22] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17-22)*_  
+_*Ephesians 4:17-22*_  
 **=================**
 
-_*[Ephesians 4:17] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17)*_  
+_*Ephesians 4:17*_  
 --------------
 
 * _*This I say, therefore, and testify in the Lord, that you henceforth walk not as other Gentiles walk, in the vanity of their mind.*_
@@ -21,7 +21,7 @@ In this passage we are shown that it is possible for a Christian to have a darke
 
 And we are also shown that it is completely unnecessary for any of us to have these problems. But as long as we live we are dependent on doctrine from the Word of God and on our day-to-day resolve to learn Bible truth at the feet of those the Lord has provided as communicators.
 
-The developed Christian life in Grace is supposed to lead to maturity, edification, and effective function, as described in  [4:11-16] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A11-16). But when a Christian’s understanding is darkened, he becomes sensitive to the opinions of other people, his self-consciousness leads him to flail around in a hundred directions. Self-consciousness leads to self-pity, then bitterness and implacability.
+The developed Christian life in Grace is supposed to lead to maturity, edification, and effective function, as described in  4:11-16. But when a Christian’s understanding is darkened, he becomes sensitive to the opinions of other people, his self-consciousness leads him to flail around in a hundred directions. Self-consciousness leads to self-pity, then bitterness and implacability.
 
 But God has ordained a system for getting Bible truth into the believer, via the public proclamation of the Word of God and the teaching ministry of the Holy Spirit. It is incumbent upon every believer to keep himself on track by staying in God’s plan for spiritual growth.
 
@@ -29,11 +29,11 @@ _*“This I say, therefore”*_
 
 “*_This_*” is a reference to the statements which follow, comments on the subject of insensitivity, obtuseness, and indifference in the soul. Indifference to the Word of God is a Christian’s greatest occupational hazard. The apostle warns about the hardness of soul which is the direct result of failure to obtain Bible teaching and spiritual understanding.
 
-The first hints about the problems of immaturity are brought out in [Eph. 4:14] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A14). Immature Christians are “children”, gullible, pushed about by every phony idea that comes along (“winds of doctrine”), and easily fooled by crafty imitators.
+The first hints about the problems of immaturity are brought out in Eph. 4:14. Immature Christians are “children”, gullible, pushed about by every phony idea that comes along (“winds of doctrine”), and easily fooled by crafty imitators.
 
 Everyone begins the Christian life as a novice; we all started our Christian walk as “babes in Christ.” A new believer is expected to be naive, to behave as a “child”, and not to know how to function as an “adult.” Young children have to grow up.
 
-But the spiritual “babe” needs to take in spiritual food every day in order to grow. Otherwise, the effects of spiritual malnutrition will be obvious for everyone to see. [Verses 11 to 16] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A11-16) tell us how to grow up spiritually and function like adults. [Verses 17 to 19] (https://www.biblegateway.com/passage/?search=Ephesians+4%3A17-19) verses show what happens to Christians who do not follow the Lord’s plan for growth.
+But the spiritual “babe” needs to take in spiritual food every day in order to grow. Otherwise, the effects of spiritual malnutrition will be obvious for everyone to see. Verses 11 to 16 tell us how to grow up spiritually and function like adults. Verses 17 to 19 verses show what happens to Christians who do not follow the Lord’s plan for growth.
 
 _*“and testify in the Lord”*_ - a use of the verb MARTUREW, “to make a solemn appeal”.
 
@@ -45,7 +45,7 @@ _*“that you walk not as other Gentiles walk”*_
 
 “*_Gentiles_*” is ETHNEI, the plural of ETHNOS, “a nation; a people”. Here the reference is to the rest of the “general population” who have not accepted Christ as Savior. Paul is pointing out that if a Christian has deadness of soul, his manner of life will exactly resemble that of the unbeliever.
 
-* [1 Cor. 3:3] (https://www.biblegateway.com/passage/?search=1+Cor.+3%3A3), “_For ye are yet carnal; for whereas there is among you envying, and strife, and divisions, are you not carnal, and walk as men?_”
+* 1 Cor. 3:3, “_For ye are yet carnal; for whereas there is among you envying, and strife, and divisions, are you not carnal, and walk as men?_”
 
 Christians are supposed to be distinguished by their walk. But there are believers, just as there are unbelievers, who are moral or immoral, religious or irreligious, self-righteous and legalistic, living in overt sin or not, in short having nothing to distinguish them from other people.
 
@@ -57,9 +57,9 @@ _*“in the vanity of their mind”*_
 
 A believer who is occupied with Christ and living in the Word is constantly “renewing his mind” by a process in which he continually takes in (inhales) the Word of God and exercises the Word (exhales). Let’s read ahead…
 
-* [Eph. 4:22-24] (https://www.biblegateway.com/passage/?search=Eph.+4%3A22-24), _That you put off concerning the former manner of life the old man, which is corrupt according to the deceitful lusts, and BE RENEWED IN THE SPIRIT OF YOUR MIND, and that you put on the new man, which after God is created in righteousness and true holiness._
+* Eph. 4:22-24, _That you put off concerning the former manner of life the old man, which is corrupt according to the deceitful lusts, and BE RENEWED IN THE SPIRIT OF YOUR MIND, and that you put on the new man, which after God is created in righteousness and true holiness._
 
-The apostle Paul makes a very similar plea to the Christians in Rome in [Romans 12] (https://www.biblegateway.com/passage/?search=Romans+12).
+The apostle Paul makes a very similar plea to the Christians in Rome in Romans 12.
 
 * [Romans 12:1,2] (https://www.biblegateway.com/passage/?search=Romans+12%3A1-2), _I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. And be not conformed to this world, but be ye transformed by the RENEWING OF YOUR MIND, that you may prove what is that good, and acceptable, and perfect, will of God._
 
@@ -69,36 +69,36 @@ A negative Christian “exhales”, that is, he thinks, speaks, and acts based o
 
 When a soul is empty, there is a resulting “vacuum” that pulls in false doctrines, doctrines of demons, darkness. Satan has a complete system of false theology to be used to ensnare the novice, the unprotected, the gullible. Today these doctrines may be any system of religion, existentialism, communism, or any other non-biblical proposition. Into the “vacuum” will go misery, mental attitude sins, religion, legalism, emphasis on details of life, human viewpoint, and so forth.
 
-* [1 Tim. 4:1-3] (https://www.biblegateway.com/passage/?search=1+Tim.+4%3A1-3), _Now the Spirit speaks expressly that, in the latter times, some shall depart from the faith, giving heed to seducing spirits, and doctrines of demons, speaking lies in hypocrisy, having their conscience seared with a hot iron, forbidding to marry, and commanding to abstain from foods, which God has created to be received with thanksgiving by them who believe and KNOW THE TRUTH._
+* 1 Tim. 4:1-3, _Now the Spirit speaks expressly that, in the latter times, some shall depart from the faith, giving heed to seducing spirits, and doctrines of demons, speaking lies in hypocrisy, having their conscience seared with a hot iron, forbidding to marry, and commanding to abstain from foods, which God has created to be received with thanksgiving by them who believe and KNOW THE TRUTH._
 
 “*_of their mind_*” - NOUS. This word is a reference to the mind as a container of the thoughts of the soul. The phrase is not “…vanity of thoughts” but “…emptiness of the mind, the container of thoughts.”
 
 The verb equivalent to NOUS is NOEW, “to think”. The noun, therefore, means “place of thinking”. Both these words are used extensively in the Greek New Testament; and both words are used with various prefixes to indicate different kinds of thinking.
 
-For example, DIANOIA is DIA + NOUS. DIA is the preposition “through”, so DIANOIA are thoughts moving “through the mind”, or simply “active thoughts.” This is used in [Eph. 4:18] (https://www.biblegateway.com/passage/?search=Eph.+4%3A18).
+For example, DIANOIA is DIA + NOUS. DIA is the preposition “through”, so DIANOIA are thoughts moving “through the mind”, or simply “active thoughts.” This is used in Eph. 4:18.
 
 In another example, the Greeks had an expression for changing one’s thoughts, METANOIA, the “changing of the mind.” This word was translated “repentance” in the King James Version, and the word “repent” 17th Century England meant “to rethink” or to change one’s mind about something. The change in idiom in modern times has resulted in a lot of confusion about repentance; but repentance is simply changing one’s mind, reversing previous thinking.
 
-[Verse 17] (https://www.biblegateway.com/passage/?search=Eph.+4%3A17) reads, then, “_This is say, therefore, and make a solemn warning in the Lord that your manner of life is not to be as the Gentiles manner of life, in the emptiness of the mentality of the soul._”
+Verse 17 reads, then, “_This is say, therefore, and make a solemn warning in the Lord that your manner of life is not to be as the Gentiles manner of life, in the emptiness of the mentality of the soul._”
 
-_*[Ephesians 4:18] (https://www.biblegateway.com/passage/?search=Eph.+4%3A18)*_  
+_*Ephesians 4:18*_  
 --------------
 
 * _*Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart;*_
 
 “_*Understanding*_” is DIANOIA, the activity of thinking in the soul.
 
-READ [Isa. 55:7-9] (https://www.biblegateway.com/passage/?search=Isa.+55%3A7-9), “_My thoughts are not your thoughts, says the Lord …_”
+READ Isa. 55:7-9, “_My thoughts are not your thoughts, says the Lord …_”
 
 There are two types of active thinking [DIANOIA] that are available to a Christian.
 
 The first type is called DARKNESS and refers both to satanic thoughts and human viewpoint.
 
-* [Col. 1:21] (https://www.biblegateway.com/passage/?search=Col.+1%3A21), _And you that were once alienated and enemies in mind by wicked works, yet now has he reconciled."_
+* Col. 1:21, _And you that were once alienated and enemies in mind by wicked works, yet now has he reconciled."_
 
-* [2 Cor. 10:5] (https://www.biblegateway.com/passage/?search=2+Cor.+10%3A5), _Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every though to the obedience of Christ._
+* 2 Cor. 10:5, _Casting down imaginations, and every high thing that exalts itself against the knowledge of God, and bringing into captivity every though to the obedience of Christ._
 
-And from [1 Tim. 4:1] (https://www.biblegateway.com/passage/?search=1+Tim.+4%3A1), “_…doctrines of demons_”
+And from 1 Tim. 4:1, “_…doctrines of demons_”
 
 The opposite type of active thinking is DOCTRINE, which is the Word of God active in the mind of the believer.
 
@@ -143,9 +143,9 @@ Therefore, the Christian in darkness either has not learned Bible doctrine, or h
 
 “*_Blindness_*” is POROSIS, which is a direct cognate of the English word “porosis”. POROSIS means “callous” or “something which has hardened or petrified”. It is used for the buildup of scars from multiple wounds in the same place, hence “scar tissue.”
 
-So [verse 18] (https://www.biblegateway.com/passage/?search=eph+4%3A18) reads, “_Having become darkened in thinking, having been alienated from the life of God, because of the ignorance which is in them, because of the callous on their heart._”
+So verse 18 reads, “_Having become darkened in thinking, having been alienated from the life of God, because of the ignorance which is in them, because of the callous on their heart._”
 
-So, in [verses 17 and 18] (https://www.biblegateway.com/passage/?search=eph+4%3A17-18), all the ingredients for soul blackness have been presented:
+So, in verses 17 and 18, all the ingredients for soul blackness have been presented:
 
 1. Negative volition towards Bible truth
 
@@ -159,7 +159,7 @@ So, in [verses 17 and 18] (https://www.biblegateway.com/passage/?search=eph+4%3A
 
 2. Alienation from the life of God.
 
-_*[Ephesians 4:19] (https://www.biblegateway.com/passage/?search=Eph.+4%3A19)*_  
+_*Ephesians 4:19*_  
 --------------
 
 * *_“Who, being past feeling, have given themselves over unto lasciviousness, to work all uncleanness with greediness._*”
@@ -206,12 +206,12 @@ Topic: SEPARATION
 To put it another way: while separation is definitely a part of God’s plan, you do not become more spiritual or more advanced in the Christian life by separating yourself from various evils. Rather, your advancement in the Christian life depends on the Word of God in your soul and your being filled with the Holy Spirit. As the Lord builds our lives, line
 upon line, precept upon precept, the fruit of the Spirit grows in our lives and our behavior changes, as shown in the verses that follow in chapter 4.
 
-_*[Ephesians 4:22] (https://www.biblegateway.com/passage/?search=Eph.+4%3A22)*_  
+_*Ephesians 4:22*_  
 --------------
 
 * *_That you put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;_*
 
-Notice in [verses 22 to 24] (https://www.biblegateway.com/passage/?search=Eph.+4%3A22-24) that the Christian life is one of moving from a former state to a future state, from the “old man” to the “new man”. And the mechanism is described in verse 23 as being renewal that takes place in the mind. It is like a breathing process in which bad air goes out and good air comes in.
+Notice in verses 22 to 24 that the Christian life is one of moving from a former state to a future state, from the “old man” to the “new man”. And the mechanism is described in verse 23 as being renewal that takes place in the mind. It is like a breathing process in which bad air goes out and good air comes in.
 
 “_*that you put off*_” is APOTHESTHAI, “to lay aside” as in laying aside a garment.
 
@@ -221,7 +221,7 @@ The word “_*former*_” refers to us when we were unbelievers. An unbeliever m
 
 “_*according to deceitful lusts*_” Lusts are the activators of the Sin Nature and the motivators of a person who not controlled by the Holy Spirit. There are all sorts of lust patterns, and any person will have one or more of them: power lust; the desire for approbation; sexual lust; lust for worldly possessions; etc. The result of lust, among other things, is slavery to the details of life - seeking happiness and satisfaction in what the world offers, rather than through God’s plan.
 
-*_[Ephesians 4:23] (https://www.biblegateway.com/passage/?search=Eph.+4%3A23)_*  
+*_Ephesians 4:23_*  
 --------------
 
 * *_And be renewed in the spirit of your mind;_*
@@ -240,7 +240,7 @@ Here is the same process discussed in Romans.
 
 * [Romans 12:1,2] (https://www.biblegateway.com/passage/?search=Romans+12%3A1-2), _I urge you therefore, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, {which is} your spiritual service of worship. And do not be conformed to this world, but be TRANSFORMED BY THE RENEWING OF YOUR MIND, that you may prove what the will of God is, that which is good and acceptable and perfect._
 
-*_[Ephesians 4:24] (https://www.biblegateway.com/passage/?search=Eph.+4%3A24)_*  
+*_Ephesians 4:24_*  
 --------------
 
 * _And that you put on the new man, which after God is created in righteousness and true holiness._
@@ -265,7 +265,7 @@ Light. Eph. 5, "…walk as children of light.
 
 “Imitators of God,” Eph 5
 
-[1 Cor 14:26] (https://www.biblegateway.com/passage/?search=1+Cor+14%3A26), “_When you assemble, let all things be done for edification._”
+1 Cor 14:26, “_When you assemble, let all things be done for edification._”
 
-[Acts 9:31] (https://www.biblegateway.com/passage/?search=Acts+9%3A31), "_All the church were having prosperity, having been edified, and advancing in occupation with Christ._
+Acts 9:31, "_All the church were having prosperity, having been edified, and advancing in occupation with Christ._
 

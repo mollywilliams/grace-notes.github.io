@@ -15,9 +15,9 @@ One of the strongest pressures against being true to the word of God comes from 
 
 **Separate yourself from those who are doctrinally disordered.**
 
-* [1 Tim. 6:3-5] (https://www.biblegateway.com/passage/?search=+1+Tim.+6%3A3-5). “_If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness, he is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness; from such withdraw thyself._”
+* 1 Tim. 6:3-5. “_If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness, he is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings, Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness; from such withdraw thyself._”
 
-* [2 Tim 3:1-5] (https://www.biblegateway.com/passage/?search=2+Tim+3%3A1-5). “_This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, truce breakers, false accusers, incontinent, fierce, despisers of those that are good, traitors, heady, high minded, lovers of pleasures more than lovers of God; having a form of godliness, but denying the power thereof: from such turn away._”
+* 2 Tim 3:1-5. “_This know also, that in the last days perilous times shall come. For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy, Without natural affection, truce breakers, false accusers, incontinent, fierce, despisers of those that are good, traitors, heady, high minded, lovers of pleasures more than lovers of God; having a form of godliness, but denying the power thereof: from such turn away._”
 
 **Avoid those who cause divisions and offense.**
 
@@ -25,7 +25,7 @@ One of the strongest pressures against being true to the word of God comes from 
 
 **Separate from the world.**
 
-* [John 15:19] (https://www.biblegateway.com/passage/?search=John+15%3A19), “_If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you._”
+* John 15:19, “_If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you._”
 
 **Separate from the works of darkness.**
 
@@ -33,25 +33,25 @@ One of the strongest pressures against being true to the word of God comes from 
 
 **Separate from Christians walking disorderly.**
 
-* [2 Thess. 3:6] (https://www.biblegateway.com/passage/?search=2+Thess.+3%3A6), “_Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us._”
+* 2 Thess. 3:6, “_Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us._”
 
 **Those who would not repent were excommunicated.**
 
-* [Matt. 18:15-17] (https://www.biblegateway.com/passage/?search=Matt.+18%3A15-17), “_Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican._”
+* Matt. 18:15-17, “_Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican._”
 
 *  [Titus 3:9–11] (https://www.biblegateway.com/passage/?search=Titus+3%3A9%E2%80%9311), “_But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain. A man that is an heretic after the first and second admonition reject; knowing that he that is such is subverted, and sinneth, being condemned of himself._”
 
 **Separate from false teachers.**
 
-* [2 John 10] (https://www.biblegateway.com/passage/?search=2+John+10), “_If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:_”
+* 2 John 10, “_If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:_”
 
-* [Col. 2:8] (https://www.biblegateway.com/passage/?search=Col.+2%3A8), “_Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ._”
+* Col. 2:8, “_Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ._”
 
-* [Prov. 19:27] (https://www.biblegateway.com/passage/?search=Prov.+19%3A27), “_Cease, my son, to hear the instruction that causeth to err from the words of knowledge._”
+* Prov. 19:27, “_Cease, my son, to hear the instruction that causeth to err from the words of knowledge._”
 
-* [Prov. 14:6-8] (https://www.biblegateway.com/passage/?search=Prov.+14%3A6-8), “_A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth. Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge. The wisdom of the prudent is to understand his way, but the folly of fools is deceit._”
+* Prov. 14:6-8, “_A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth. Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge. The wisdom of the prudent is to understand his way, but the folly of fools is deceit._”
 
-* [Psalm 1:1] (https://www.biblegateway.com/passage/?search=Psalm+1%3A1), “_Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the Lord; and in his law doth he meditate day and night._”
+* Psalm 1:1, “_Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful. But his delight is in the law of the Lord; and in his law doth he meditate day and night._”
 
 **Separate from sinful activities of the unbeliever.**
 
@@ -61,19 +61,19 @@ The Christian’s main goals in life should be occupation with the Lord Jesus Ch
 
 The following notes provide examples of the uses of the word αφοριζω which means separation in the Bible:
 
-* [Matt. 13:49-51] (https://www.biblegateway.com/passage/?search=Matt.+13%3A49-51), the wicked are separated from the righteous at the final judgment.
+* Matt. 13:49-51, the wicked are separated from the righteous at the final judgment.
 
-* [Matt. 25:31-46] (https://www.biblegateway.com/passage/?search=Matt.+25%3A31-46), the sheep are separated from the goats.
+* Matt. 25:31-46, the sheep are separated from the goats.
 
 Are you one of the righteous? How do you know? Can you explain to a friend how he can be one of the sheep instead of one of the goats?
 
-* [Luke. 6:22] (https://www.biblegateway.com/passage/?search=Luke.+6%3A22), the righteous man is ostracized by the worldly.
+* Luke. 6:22, the righteous man is ostracized by the worldly.
 
-* [Acts 13:2] (https://www.biblegateway.com/passage/?search=Acts+13%3A2), Barnabas and Saul (Paul) were separated to the work of the ministry.
+* Acts 13:2, Barnabas and Saul (Paul) were separated to the work of the ministry.
 
-* [2 Cor. 6:17] (https://www.biblegateway.com/passage/?search=2+Cor.+6%3A17), touch not the unclean thing.
+* 2 Cor. 6:17, touch not the unclean thing.
 
-* [Gal. 1:15] (https://www.biblegateway.com/passage/?search=Gal.+1%3A15), Paul separated from his mother’s womb.
+* Gal. 1:15, Paul separated from his mother’s womb.
 
-* [Gal. 2:12] (https://www.biblegateway.com/passage/?search=Gal.+2%3A12), Peter wrongfully separated himself from Gentiles for fear of the opinion of the Jews.
+* Gal. 2:12, Peter wrongfully separated himself from Gentiles for fear of the opinion of the Jews.
 
