@@ -19,13 +19,13 @@ Furthermore, this is a remarkable statement because it holds in view the doctrin
 
 Therefore the first blessing to the one in the kingdom is eternal security.
 
-*_The second blessing_*: "_Blessed are they who mourn, because they will be comforted_" comes from [Matthew 5:4] (https://www.biblegateway.com/passage/?search=Matthew+5%3A4).
+**_The second blessing_**: "_Blessed are they who mourn, because they will be comforted_" comes from [Matthew 5:4] (https://www.biblegateway.com/passage/?search=Matthew+5%3A4).
 
 There are two ways to take the mourning: in the literal sense of mourning for some loved one that is lost; in the figurative sense of mourning over lost fellowship with God.
 
 Now let us turn to mourning. Mourning due to the loss of fellowship is a fairly common Biblical theme.
 
-**[Psalm 30:1-6] (https://www.biblegateway.com/passage/?search=Psalm+30%3A1-6)**
+[Psalm 30:1-6] (https://www.biblegateway.com/passage/?search=Psalm+30%3A1-6)
 
 * _“I will extol You, O Lord, for You have lifted me up, and have not let my enemies rejoice over me._”
 
@@ -115,7 +115,7 @@ There is woe to those who laugh, because if they laugh at divine discipline and 
 
 Mourning and feelings of guilt after the restoration of fellowship are illegitimate and should be all left behind.
 
-*The third blessing*: "_Blessed are the humble, because they will inherit the earth_" is found in [Matthew 5:5] (http://www.biblegateway.com/passage/?search=Matthew+5%3A5).
+**_The third blessing_**: "_Blessed are the humble, because they will inherit the earth_" is found in [Matthew 5:5] (http://www.biblegateway.com/passage/?search=Matthew+5%3A5).
 
 This really denotes the ability to solve problems without violence or angry reaction, but to solve the problems really and truly through the use of Bible doctrine in the soul.
 
@@ -131,7 +131,7 @@ Neither does being meek bring in the millennium. There is nothing that we can do
 
 Therefore, this is about the inheritance of the earth during the millennium, an inheritance based on the death of Christ.
 
-*The fourth blessing*: "_Blessed are they who hunger and thirst for righteousness, because they will be filled_" is found in [Matthew 5:6] (http://www.biblegateway.com/passage/?search=Matthew+5%3A6).
+**_The fourth blessing_**: "_Blessed are they who hunger and thirst for righteousness, because they will be filled_" is found in [Matthew 5:6] (http://www.biblegateway.com/passage/?search=Matthew+5%3A6).
 
 The words for hunger and thirst are pretty standard here as we exactly what we understand them to be in the English, with little or no extra emphasis.
 
@@ -185,7 +185,7 @@ Being filled with the Word of God means:
 
 Therefore, this is a fantastic blessing indeed.
 
-_*The fifth blessing*_: "_Blessed are the merciful, because they will be shown mercy_" is from [Matthew 5:7] (http://www.biblegateway.com/passage/?search=Matthew+5%3A7).
+_**The fifth blessing**_: "_Blessed are the merciful, because they will be shown mercy_" is from [Matthew 5:7] (http://www.biblegateway.com/passage/?search=Matthew+5%3A7).
 
 All of the actions of God are done without conditions.
 
@@ -203,7 +203,7 @@ An extension of your life is often an expression of mercy, so that you may have 
 
 The merciful follows of Christ during the tribulation will be shown mercy in the preservation of their human lives.  In fact, human mercy as expressed in charity is very much a measure of Christian maturity during the millennium.
 
-*_The sixth blessing_*: "_Blessed are the pure in heart, because they will see God_" is from [Matthew 5:8] (http://www.biblegateway.com/passage/?search=Matthew+5%3A8).
+**_The sixth blessing_**: "_Blessed are the pure in heart, because they will see God_" is from [Matthew 5:8] (http://www.biblegateway.com/passage/?search=Matthew+5%3A8).
 
 Almost anyone can appear to be pure. This is not a great accomplishment. But those who are privately and mentally pure are
 another category entirely.
@@ -240,7 +240,7 @@ Blessed are they who mourn, because they will be comforted and thus become pure 
 
 Purity of heart is the status of being in fellowship with God. It is only while you are in fellowship that you can learn and apply most doctrines.
 
-*_The seventh blessing_*: "_Blessed are the peacemakers, because they will be called sons of God_" comes from [Matthew 5:9] (http://www.biblegateway.com/passage/?search=Matthew+5%3A9).
+**_The seventh blessing_**: "_Blessed are the peacemakers, because they will be called sons of God_" comes from [Matthew 5:9] (http://www.biblegateway.com/passage/?search=Matthew+5%3A9).
 
 The interpretation of the term is somewhat more difficult. We will begin with the meaning of the word itself.
 
@@ -268,7 +268,7 @@ And to gain a new title, given by God Himself, would be significant indeed.
 
 To hold the same title as God the Son is truly a fantastic complement. Peacemakers having the same title as the peacemaker has a certain poetic symmetry to it.
 
-_*The eighth blessing and its explanation*_: "_Blessed are those who have been persecuted for the sake of righteousness, because theirs is the kingdom of heaven_" comes from [Matthew 5:10] (http://www.biblegateway.com/passage/?search=Matthew+5%3A10). You are blessed whenever they insult you and persecute you, and whenever they ostracize you and they insult you and cast down your name as evil falsely for my sake. Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you."
+_**The eighth blessing and its explanation**_: "_Blessed are those who have been persecuted for the sake of righteousness, because theirs is the kingdom of heaven_" comes from [Matthew 5:10] (http://www.biblegateway.com/passage/?search=Matthew+5%3A10). You are blessed whenever they insult you and persecute you, and whenever they ostracize you and they insult you and cast down your name as evil falsely for my sake. Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you."
 
 Conclusion: You may be persecuted for two reasons: because you are a Christian, and because you are a mature Christian.
 
@@ -276,7 +276,7 @@ The blessing for this is the kingdom of heaven. This seems curious at first, bec
 
 However, there is a contrast. In the first beatitude the emphasis lay on eternal security.  In this last one it is on eternity, period.
 
-*_Next comes the explanation_*. It begins with the phrase you are blessed.
+**_Next comes the explanation_**. It begins with the phrase you are blessed.
 
 Then comes a command that is predicated on the persecution. “_Rejoice and exult and leap wildly, because your reward is great in heaven; for in the same way they persecuted the prophets who were before you._” ([Matthew 5:12] (http://www.biblegateway.com/passage/?search=Matthew+5%3A12))
 
