@@ -106,8 +106,7 @@ if you really want to worry.
 **1 Samuel 10:2**, “When you go from me today, then you will find two
 men close to Rachel’s tomb in the territory of Benjamin at Zelzah; and
 they will say to you, ‘The donkeys which you went to look for have been
-found. Now behold, your father has
-<sup>[</sup>[<sup>a</sup>](http://www.biblegateway.com/passage/?search=1%20sam%2010&version=NASB#fen-NASB-7421a)<sup>]</sup>ceased
+found. Now behold, your father has ceased
 to be concerned about the donkeys and is anxious for you, saying, “What
 shall I do about my son?”
 
