@@ -5,7 +5,7 @@ layout: lesson
 ---
 
 
-*_The first blessing_*: "_Blessed are the poor in spirit, because theirs is the Kingdom of God_" is found in [Matthew 5:3] (https://www.biblegateway.com/passage/?search=Matthew+5%3A3).
+**_The first blessing_**: "_Blessed are the poor in spirit, because theirs is the Kingdom of God_" is found in [Matthew 5:3] (https://www.biblegateway.com/passage/?search=Matthew+5%3A3).
 
 There is something quite significant here: even though you may be a believer, you are still poor in spirit! Many believers have a terrible time with this concept, because they fail to understand that this sermon assumes residence in the kingdom.
 
