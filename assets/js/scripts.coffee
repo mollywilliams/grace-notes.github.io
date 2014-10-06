@@ -11,11 +11,12 @@ $(document).ready ->
     .replace(XRegExp('([\\p{InGreek_and_Coptic}\\p{InGreek_Extended}]+)', 'g'), '<span class="greek">$1</span>')
     .replace(RegExp('('+books+'\.? [0-9]{1,3}([0-9 -:;,]+[0-9])?)', 'gi'), replacement)
 
-  $('body').on 'click', 'a[data-bibleref]', (e)->
+  $('body').on 'focus click', 'a[data-bibleref]', (e)->
     e.preventDefault()
     return if $(this).data('bibletext')
     that = this
-
+    
+    $(that).css("cursor", "progress")
     $.ajax
       url:'http://getbible.net/json'
       dataType: 'jsonp'
@@ -32,8 +33,9 @@ $(document).ready ->
         $(that).popover
           html: true
           content: html
-          placement: 'bottom'
+          placement: 'auto top'
           container: '.wrap'
+          trigger: 'focus click'
         .popover('show')
       else
         html = "<div class='alert alert-warning'>Could not retrieve bible text.</div>"
@@ -42,8 +44,9 @@ $(document).ready ->
           html: true
           title: 'Error'
           content: html
-          placement: 'bottom'
+          placement: 'auto top'
           container: '.wrap'
+          trigger: 'focus click'
         .popover('show')
     .fail ->
       html = "<div class='alert alert-warning'>Could not retrieve bible text.</div>"
@@ -52,9 +55,12 @@ $(document).ready ->
         html: true
         title: 'Error'
         content: html
-        placement: 'bottom'
+        placement: 'auto top'
         container: '.wrap'
+        trigger: 'focus click'
       .popover('show')
+    .always ->
+      $(that).css("cursor", "default")
 
   $('body').on 'click', '.greek', (e)->
     word = $(e.target)
