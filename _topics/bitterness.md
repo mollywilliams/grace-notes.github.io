@@ -72,7 +72,7 @@ So, in the Bible, except when it is obvious that the actual taste of something i
 
 * Bitterness is antisocial. A bitter person is selfish, inconsiderate of others, withdrawn from society, indifferent or adverse to conformity with conventional standards of social behavior. Even strangers avoid bitter people, [Prov. 14:10] (). No one is happy around bitter people.
 
-• Bitterness is a sign of the spiritual life gone wrong, [Jer. 2:19] (http://www.biblegateway.com/passage/?search=Jer.+2%3A19).
+* Bitterness is a sign of the spiritual life gone wrong, [Jer. 2:19] (http://www.biblegateway.com/passage/?search=Jer.+2%3A19).
 
 * A bitter person rejects Bible teaching. [James 3:14] (http://www.biblegateway.com/passage/?search=James+3%3A14), “_But if you have bitter jealousy and strife, stop being arrogant and lying against the truth._”
 
@@ -122,7 +122,7 @@ You can trust the Holy Spirit to reveal sin to you when you commit it, or even b
 
 * Long suffering gives the ability to deal with bitterness and other troubles.
 
-• Gentleness, goodness, faith, meekness, and temperance are fruits of righteousness, which is divine good. Divine good takes the place of bitterness.
+* Gentleness, goodness, faith, meekness, and temperance are fruits of righteousness, which is divine good. Divine good takes the place of bitterness.
 
 **Living in the Word**
 
