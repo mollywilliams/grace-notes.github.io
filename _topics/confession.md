@@ -1,31 +1,15 @@
 ---
 title: Confession
+display_title: Confession of Sin
+description: The principles of biblical confession of sin; how the Lord's grace provision makes it possible for a Christian to stay in fellowship.
 layout: lesson
 ---
 
+The presence of the sin nature in the soul guarantees that the Christian believer will have a problem with active personal sin for the rest of his life on earth. This personal sin causes a deep disturbance in the believer’s personal relationship with the Lord. The Holy Spirit is said to be personally grieved, and His work quenched by a Christian’s sin, or by his attempt to live outside of the will of God.
 
-**Confession of Sin 3**
+While you do not lose your salvation each time you sin, your personal growth and effectiveness are stifled as long as there is a rift in your fellowship with God. This rift is healed when you personally confess to God the sin which caused the breach.
 
-**Confession of Sin**
-
-The presence of the sin nature in the soul guarantees that the Christian
-believer will have a problem with active personal sin for the rest of
-his life on earth. This personal sin causes a deep disturbance in the
-believer’s personal relationship with the Lord. The Holy Spirit is said
-to be personally grieved, and His work quenched by a Christian’s sin, or
-by his attempt to live outside of the will of God.
-
-While you do not lose your salvation each time you sin, your personal
-growth and effectiveness are stifled as long as there is a rift in your
-fellowship with God. This rift is healed when you personally confess to
-God the sin which caused the breach.
-
-Confession of sins is not the basis of salvation. Jesus Christ was
-judged once for our sins, on the cross; and He does not need to be
-judged repeatedly for our sins. The basis of salvation is your personal
-trust in Christ and His work, rather than confession or any other act
-which you might perform to try to win the favor of God. Acts 16:31;
-John 1:12; Eph. 1:13, 14; 2:8, 9; 1 Pet. 2:24; 2 Cor. 5:21.
+Confession of sins is not the basis of salvation. Jesus Christ was judged once for our sins, on the cross; and He does not need to be judged repeatedly for our sins. The basis of salvation is your personal trust in Christ and His work, rather than confession or any other act which you might perform to try to win the favor of God. [Acts 16:31; John 1:12; Eph. 1:13, 14; 2:8, 9; 1 Pet. 2:24; 2 Cor. 5:21](http://www.biblegateway.com/passage/?search=Acts+16%3A31%3B+John 1%3A12%3B+Eph.+1%3A13-14%2C+2%3A8-9%3B+1+Pet.+2%3A24%3B+2Cor.+5%3A21%3B).
 
 A Christian is always in Christ. Eph. 1:3, 5, 7. So confession of
 personal sin is extremely important to the personal spiritual
