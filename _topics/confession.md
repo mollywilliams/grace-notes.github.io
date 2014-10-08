@@ -42,7 +42,7 @@ From Kittel: The aim in **homologia** is not a theoretical agreement which does 
 Thus, in the Christian’s life, confession of sins is based on an established agreement and personal acceptance of God’s divine
 sovereignty, which includes His right as creator and Father to set the standards by which Christians must live.
 
-The Lord Encourages Confession
+*The Lord Encourages Confession*
 
 A novice believer may not be aware that it is possible to live out of fellowship and that he needs to confess sin. [1 John 1:6; 2:9, 10; 2 Pet. 1:9](http://www.biblegateway.com/passage/?search=1+John+1%3A6%3B+2%3A9%2C+10%3B+2Pet.+1%3A9). God both commands and pleads with us to judge ourselves, to confess and then to forget sins. Take a look at: [Isa. 43:26; 1 Cor. 11:28, 31; 1 John 1:9; Phil. 3:13, 14; Prov. 1:23](http://www.biblegateway.com/passage/?search=Isa.+43%3A26%3B+1Cor.+11%3A28%2C+31%3B+1John%C2%A01%3A9%3B+Phil.+3%3A13-14%3B+Proverbs+1%3A23). Any person who reads the Bible quickly becomes aware of God’s intentions in this matter.
 
@@ -58,7 +58,7 @@ Some Christians willfully ignore the commands to confess, leading God to employ 
 
 A few Christians manage to ignore even severe chastening for a long time, leading to God’s administering the sin unto death. The alternative to confession is discipline. [Heb. 12:1-5](http://www.biblegateway.com/passage/?search=Heb.+12%3A1-5).
 
-The Mechanics of Confession of Sin
+*The Mechanics of Confession of Sin*
 
 Confession does not provide you with a license to sin. The idea that I can sin and confess repeatedly because God will always forgive is sinful in itself because it indicates that the believer does not actually think the same about his sin that God does. No real repentance or confession is shown.
 
