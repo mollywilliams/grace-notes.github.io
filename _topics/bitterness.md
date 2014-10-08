@@ -38,62 +38,62 @@ Then, bitterness has come to be used of those things that cause pain or grief, s
 The biblical Greek words for bitterness are PIKROS = “bitter” and PIKRIA = “bitterness”, and other derivatives. PIKROS originally meant “sharp”, or “pointed”. Then it was used more generally for anything that was penetrating to the senses, something that had a pervasive smell or a shrill noise. PIKRIA was used for the bitterness of the taste of some plants, and finally found use in speaking of personal experience when something was unpleasant, undesirable, or when something bad was
 unexpected.
 
-The words PIKROS or PIKRIA are used about 40 times in the Septuagint (Greek translation of the Old Testament), only rarely to refer to literal bitterness, such as the reference to bitter water in [Exo. 15:23] (http://www.biblegateway.com/passage/?search=+Exo.+15%3A23). Usually it is a reference to men who are (pikroi) the bitter ones when they are soured or cruel ([Ruth 1:20; Hab. 1:6] (http://www.biblegateway.com/passage/?search=+Ruth+1%3A20%3B+Hab.+1%3A6)).
+The words PIKROS or PIKRIA are used about 40 times in the Septuagint (Greek translation of the Old Testament), only rarely to refer to literal bitterness, such as the reference to bitter water in Exo. 15:23. Usually it is a reference to men who are (pikroi) the bitter ones when they are soured or cruel (Ruth 1:20; Hab. 1:6).
 
-There are seven instances of these words in the New Testament: [Matt. 26:75; Luke 22:62; Acts 8:23; Rom. 3:14; Eph. 4:31; James 3:11, 14] (http://www.biblegateway.com/passage/?search=+Matt.+26%3A75%3B+Luke+22%3A62%3B+Acts+8%3A23%3B+Rom.+3%3A14%3B+Eph.+4%3A31%3B+James+3%3A11%2C+14.).
+There are seven instances of these words in the New Testament: Matt. 26:75; Luke 22:62; Acts 8:23; Rom. 3:14; Eph. 4:31; James 3:11, 14.
 
 So, in the Bible, except when it is obvious that the actual taste of something in meant, _*PIKRIA refers to intensity of suffering of mind and body, something that is difficult to bear, something that causes animosity and reaction, something that is brought about by hatred or antagonism*_.
 
 **Bible Examples of Bitterness**
 
-* Women are bitter because they cannot have children, [1 Sam 1:10] (http://www.biblegateway.com/passage/?search=+1+Sam+1%3A10).
+* Women are bitter because they cannot have children, 1 Sam 1:10.
 
-* A foolish son is bitterness to his mother, [Prov. 17:25] (http://www.biblegateway.com/passage/?search=+Prov.+17%3A25).
+* A foolish son is bitterness to his mother, Prov. 17:25.
 
 * Divine discipline or chastisement of the Jewish people caused bitterness. This demonstrates the weakness and failure of the people. Bitterness destroyed the people’s spiritual lives. The Jews brought on self-destruction by their bitterness.
 
-* [Lam. 1:4; Amos 8:10; Ezek. 27:30; Isa. 33:7; 2 Kings 14:26] (http://www.biblegateway.com/passage/?search=+Lam.+1%3A4%3B+Amos+8%3A10%3B+Ezek.+27%3A30%3B+Isa.+33%3A7%3B+2+Kings+14%3A26).
+* Lam. 1:4; Amos 8:10; Ezek. 27:30; Isa. 33:7; 2 Kings 14:26.
 
-* Slavery causes bitterness, [Exo. 1:14] (http://www.biblegateway.com/passage/?search=Exo.+1%3A14).
+* Slavery causes bitterness, Exo. 1:14.
 
-* Suffering causes bitterness to people who do not understand the Bible’s problem solving devices and principles, and who do not give number one priority to their relationship with God. [Deut. 32:24] (http://www.biblegateway.com/passage/?search=Deut.+32%3A24).
+* Suffering causes bitterness to people who do not understand the Bible’s problem solving devices and principles, and who do not give number one priority to their relationship with God. Deut. 32:24.
 
-* Ridicule is a source of bitterness, [Lam 3:14] (http://www.biblegateway.com/passage/?search=Lam+3%3A14). The people ridiculed Jeremiah because of their bitterness toward him. When truth is taught, people sometimes react in bitterness.
+* Ridicule is a source of bitterness, Lam 3:14. The people ridiculed Jeremiah because of their bitterness toward him. When truth is taught, people sometimes react in bitterness.
 
-* Consummate human pride is a cause of bitterness, [Acts 8:23] (http://www.biblegateway.com/passage/?search=Acts+8%3A23).
+* Consummate human pride is a cause of bitterness, Acts 8:23.
 
-* Degeneracy is a source of bitterness, [Rom. 3:14] (http://www.biblegateway.com/passage/?search=Rom.+3%3A14).
+* Degeneracy is a source of bitterness, Rom. 3:14.
 
-* Personal choice is a source of bitterness, [Eph. 4:31] (http://www.biblegateway.com/passage/?search=Eph.+4%3A31).
+* Personal choice is a source of bitterness, Eph. 4:31.
 
-* Husbands and wives are a source of bitterness toward each other, [Col 3:19] (http://www.biblegateway.com/passage/?search=Col+3%3A19).
+* Husbands and wives are a source of bitterness toward each other, Col 3:19.
 
 **The Results of Bitterness**
 
-* Bitterness is antisocial. A bitter person is selfish, inconsiderate of others, withdrawn from society, indifferent or adverse to conformity with conventional standards of social behavior. Even strangers avoid bitter people, [Prov. 14:10] (). No one is happy around bitter people.
+* Bitterness is antisocial. A bitter person is selfish, inconsiderate of others, withdrawn from society, indifferent or adverse to conformity with conventional standards of social behavior. Even strangers avoid bitter people, Prov. 14:10. No one is happy around bitter people.
 
-* Bitterness is a sign of the spiritual life gone wrong, [Jer. 2:19] (http://www.biblegateway.com/passage/?search=Jer.+2%3A19).
+* Bitterness is a sign of the spiritual life gone wrong, Jer. 2:19.
 
-* A bitter person rejects Bible teaching. [James 3:14] (http://www.biblegateway.com/passage/?search=James+3%3A14), “_But if you have bitter jealousy and strife, stop being arrogant and lying against the truth._”
+* A bitter person rejects Bible teaching. James 3:14, “_But if you have bitter jealousy and strife, stop being arrogant and lying against the truth._”
 
-* Bitterness shows total lack of grace orientation. A bitter person does not understand the plan of God, let alone how it affects individuals. In [Job 9:17-18] (http://www.biblegateway.com/passage/?search=Job+9%3A17-18), Job’s complaint against God. Why does God let this happen
+* Bitterness shows total lack of grace orientation. A bitter person does not understand the plan of God, let alone how it affects individuals. In Job 9:17-18, Job’s complaint against God. Why does God let this happen
 to me?, is a statement of bitterness.
 
-* Bitterness accompanies the sin unto death, [Job 21:25] (http://www.biblegateway.com/passage/?search=Job+21%3A25).
+* Bitterness accompanies the sin unto death, Job 21:25.
 
-* Bitterness motivates complaining, [Job 7:11, 10:1] (http://www.biblegateway.com/passage/?search=Job+7%3A11%2C+10%3A1). People who habitually complain are bitter people; they have no self esteem.
+* Bitterness motivates complaining, Job 7:11, 10:1. People who habitually complain are bitter people; they have no self esteem.
 
-* Bitterness motivates gossip, [Psalm 64:3] (http://www.biblegateway.com/passage/?search=Psalm+64%3A3).
+* Bitterness motivates gossip, Psalm 64:3.
 
-* Bitterness fragments other peoples lives. [Heb 12:15] (http://www.biblegateway.com/passage/?search=Heb+12%3A15), “_See to it that no one comes short of the grace of God and that no root of bitterness springing up cause trouble, and by it many be defiled;_”
+* Bitterness fragments other peoples lives. Heb 12:15, “_See to it that no one comes short of the grace of God and that no root of bitterness springing up cause trouble, and by it many be defiled;_”
 
 * Bitterness is self induced misery, and it produces chain sinning. Bitterness is misery to others in the periphery. But two wrongs never make a right. You cannot build your happiness on someone else’s unhappiness.
 
 **Recovery from Bitterness**
 
-[Isa. 38:17] (http://www.biblegateway.com/passage/?search=Isa.+38%3A17), “_Behold, bitterness became deliverance to me. In Your love You have delivered my soul out of the pit of destruction; for You have cast all my sins behind my back._”
+Isa. 38:17, “_Behold, bitterness became deliverance to me. In Your love You have delivered my soul out of the pit of destruction; for You have cast all my sins behind my back._”
 
-[Ephesians 1:8] (http://www.biblegateway.com/passage/?search=Isa.+38%3A17) tells us that we have available to us wisdom and prudence which are part of God’s grace provision for us. Wisdom comes with a thorough understanding of Bible doctrine and the principles of Christian living. Prudence is the practical use of applied Bible truth in making decisions and solving problems in this life.
+Ephesians 1:8 tells us that we have available to us wisdom and prudence which are part of God’s grace provision for us. Wisdom comes with a thorough understanding of Bible doctrine and the principles of Christian living. Prudence is the practical use of applied Bible truth in making decisions and solving problems in this life.
 
 You can use the following practical methods to deal with bitterness in your life, regardless of the cause.
 
@@ -104,7 +104,7 @@ problems.
 
 Personal sin leads to bitterness. You must deal with sin on a daily basis by confessing and moving on. If you do not do this, sin becomes a burden which clouds your joy, drains your spiritual energy and destroys your productivity and vitality. In short, sin is always depressing.
 
-[1 John 1:9] (http://www.biblegateway.com/passage/?search=1+John+1%3A9) states that when you confess your sins, God “_is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness._”
+1 John 1:9 states that when you confess your sins, God “_is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness._”
 
 In privacy, make a list of your mental attitude sins, verbal sins, and behavior sins. Ask the Lord to make you aware of the habits of your own life. Respond immediately to the Holy Spirit when He uses the word to spotlight your sin. Name the sin to God; then rejoice in forgiveness and cleansing and your renewed fellowship with God. All the promises and provisions of God the Father are now available to you. Make it a spiritual habit to confess sins whenever they show up in your life.
 
@@ -112,7 +112,7 @@ In privacy, make a list of your mental attitude sins, verbal sins, and behavior 
 
 When you have unconfessed sin in your life, the Holy Spirit is grieved or quenched. But the Holy Spirit fills you and controls your life when you have no unconfessed sin in your life. This is why confession of sins is so important.
 
-You can trust the Holy Spirit to reveal sin to you when you commit it, or even before. When the Holy Spirit is in control, He produces His fruit ([Gal. 5:22] (http://www.biblegateway.com/passage/?search=Gal.+5%3A22)). The fruit of the Spirit does not include heaviness, bitterness, discouragement, disillusion, anguish, sadness, dejection or loss of productivity. Consider these points:
+You can trust the Holy Spirit to reveal sin to you when you commit it, or even before. When the Holy Spirit is in control, He produces His fruit (Gal. 5:22). The fruit of the Spirit does not include heaviness, bitterness, discouragement, disillusion, anguish, sadness, dejection or loss of productivity. Consider these points:
 
 * Love is free from bitterness.
 
