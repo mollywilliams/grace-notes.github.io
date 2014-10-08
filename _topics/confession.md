@@ -70,7 +70,7 @@ Some Christians try to get on God’s good side through some means other than th
 
 The word confession in the New Testament is taken from the Greek word ‘ομολογεω (homologeo), meaning to cite, to name, to classify in the same manner, to agree with, to say the same thing as. Confession acknowledges God’s ruler ship in the matter and agrees with His judgment.
 
-This is a method of dealing with the disharmony caused by sins which causes no merit to accrue to the person who confesses. It is strictly a grace provision in which God makes a promise and carries out the function of cleansing. The Christian must confess the sin, 1 John 1:9; forget the sin, Phil. 3:13, 14; and isolate the sin, Heb. 12:15.
+This is a method of dealing with the disharmony caused by sins which causes no merit to accrue to the person who confesses. It is strictly a grace provision in which God makes a promise and carries out the function of cleansing. The Christian must confess the sin, [1 John 1:9](http://www.biblegateway.com/passage/?search=1+John+1%3A9); forget the sin, [Phil. 3:13, 14](http://www.biblegateway.com/passage/?search=Phil.+3%3A13-14); and isolate the sin, [Heb. 12:15](http://www.biblegateway.com/passage/?search=Heb.+12%3A15).
 
 Forgiveness of sin is only from God([Mark. 2:7](http://www.biblegateway.com/passage/?search=Mark.+2%3A7))and confession is made only to God the Father. Upon the condition of confession, forgiveness is guaranteed and cleansing from all unrighteousness is administered (1 John 1:9). The word cleanse refers to the removal of the guilt of the sin. Therefore, the cleansed individual is removed from the condition of discipline, chastening is no longer being administered and the hindrances to the ministry of the Holy Spirit are removed.
 
