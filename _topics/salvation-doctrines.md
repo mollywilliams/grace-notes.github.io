@@ -20,23 +20,23 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 **Foreknown**
 
-* **Acts 2:23**. _this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death._
+* **[Acts 2:23](http://www.biblegateway.com/passage/?search=Acts+2%3A23)**. _this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death._
 
-* **Romans 8:29**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren;_
+* **[Romans 8:29](http://www.biblegateway.com/passage/?search=Romans+8%3A29)**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren;_
 
-* **1 Peter 1:2**. _according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure._
+* **[1 Peter 1:2](http://www.biblegateway.com/passage/?search=1+Peter+1%3A2)**. _according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure._
 
 **Elect**
 
-* **Romans 8:33**. _Who will bring a charge against God’s elect? God is the one who justifies;_
+* **[Romans 8:33](http://www.biblegateway.com/passage/?search=Romans+8%3A33)**. _Who will bring a charge against God’s elect? God is the one who justifies;_
 
-* **Colossians 3:12**. _So, as those who have been chosen of God, holy and beloved, put on a heart of compassion, kindness, humility, gentleness and patience;_
+* **[Colossians 3:12]()**. _So, as those who have been chosen of God, holy and beloved, put on a heart of compassion, kindness, humility, gentleness and patience;_
 
-* **1 Thessalonians 1:4**. _knowing, brethren beloved by God, His choice of you;_
+* **[1 Thessalonians 1:4]()**. _knowing, brethren beloved by God, His choice of you;_
 
-* **Titus 1:1**. _Paul, a bond-servant of God and an apostle of Jesus Christ, for the faith of those chosen of God and the knowledge of the truth which is according to godliness,_
+* **[Titus 1:1]()**. _Paul, a bond-servant of God and an apostle of Jesus Christ, for the faith of those chosen of God and the knowledge of the truth which is according to godliness,_
 
-* **[1 Peter 1:1, 2] (http://www.biblegateway.com/passage/?search=1+Peter+1%3A1-2)**. _Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen_
+* **[1 Peter 1:1, 2]() (http://www.biblegateway.com/passage/?search=1+Peter+1%3A1-2)**. _Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen_
 
 **Predestined**
 
@@ -92,7 +92,7 @@ You have been **removed from condemnation.**
 
 You are **under grace** _and not under judgment (doctrine of propitiation)._
 
-* **[Romans 3:24–28] (http://www.biblegateway.com/passage/?search=Romans+3%3A24%E2%80%9328)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. For we maintain that a man is justified by faith apart from works of the Law._
+* **[Romans 3:24–28](http://www.biblegateway.com/passage/?search=Romans+3%3A24%E2%80%9328)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. For we maintain that a man is justified by faith apart from works of the Law._
 
 * **1 John 2:2**. _and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world._
 
