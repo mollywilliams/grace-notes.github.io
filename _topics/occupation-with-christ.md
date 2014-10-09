@@ -61,9 +61,9 @@ Therefore, we can only come to love Jesus Christ, to be occupied with Christ, th
 
 This love for Jesus Christ can only come about through applied Bible truth.
 
-[Eph. 3:19](), and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fulness of God.
+Eph. 3:19, and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fulness of God.
 
-[1 Pet. 1:8](), and though you have not seen Him, you love Him [occupation with Christ], and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,
+1 Pet. 1:8, and though you have not seen Him, you love Him [occupation with Christ], and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,
 
 Joy and occupation with Christ always go together, you can’t have one without the other. The glory with which you are filled is Bible truth, and this emphasizes the fact that you have come to know Christ through perception and application of the Word of God.
 
@@ -99,15 +99,15 @@ Occupation with Christ makes an issue out of knowledge of the Word of God, setti
 
 2. Occupation with Christ means that human beings are not raised on pedestals, Phil. 3:7,8.
 
-6. The means of continuing to be occupied with Christ is the daily learning and application of Bible teaching while under the control of the Holy Spirit, Jer. 9:23,24.
+2. The means of continuing to be occupied with Christ is the daily learning and application of Bible teaching while under the control of the Holy Spirit, Jer. 9:23,24.
 
-7. Occupation with Christ is a pastor’s prime motivation to teach the Bible so that believers grow in Christ, Heb. 6:10.
+2. Occupation with Christ is a pastor’s prime motivation to teach the Bible so that believers grow in Christ, Heb. 6:10.
 
-8. Occupation with Christ is related to victory in spiritual warfare with Satan and his angels. With your mind in the right place, you are confident of victory, Col. 3:1,2.
+2. Occupation with Christ is related to victory in spiritual warfare with Satan and his angels. With your mind in the right place, you are confident of victory, Col. 3:1,2.
 
 **The Need for Occupation with Christ**
 
-Psalm 118:9 tells us, “It is better to take refuge in the Lord that to trust in princes.” If you take refuge in the Lord, you stop expecting things from people. Your fellowship with God solves the problems that you have with people, and makes your relationships with people far better.
+Psalm 118:9 tells us, “_It is better to take refuge in the Lord that to trust in princes._” If you take refuge in the Lord, you stop expecting things from people. Your fellowship with God solves the problems that you have with people, and makes your relationships with people far better.
 
 A person is seldom treated the way he wants to be treated, or loved the way he wants to be loved. Outside of God’s plan, this can cause frustration and instability.
 
@@ -196,83 +196,42 @@ Fellowship with God the Holy Spirit is also closely tied in with occupation with
 
 God’s happiness is completed as we have fellowship with Him, the Son, and the Holy Spirit.
 
-Then we can have true fellowship with people, without putting people
-before God. 2 Cor. 13:14 “The grace of our Lord Jesus Christ and the
-love for God and the fellowship of the Holy Spirit be with all of you.”
-But without occupation with Christ, interaction with other people is
-often bad.
+Then we can have true fellowship with people, without putting people before God. 2 Cor. 13:14 “_The grace of our Lord Jesus Christ and thelove for God and the fellowship of the Holy Spirit be with all of you._” But without occupation with Christ, interaction with other people is often bad.
 
-**Occupation with Christ, therefore, eliminates the superficiality of
-human hero worship**. Phil. 3:7,8 “…I count all things but loss except
-for the excellency of the knowledge of Christ Jesus my Lord…”
+**Occupation with Christ, therefore, eliminates the superficiality of human hero worship**. Phil. 3:7,8 “…I count all things but loss except for the excellency of the knowledge of Christ Jesus my Lord…”
 
-As you become occupied with Christ, you have a stronger motivation to
-have a relationship with the Lord, and you change gradually from
-dependence on people to dependence on the Lord. You cannot change
-people; it is God who causes people to change, to grow up. And no one is
-fully grown up who is not making use of occupation with Christ. The key
-to God’s plan is that we no longer live for ourselves but for Christ.
+As you become occupied with Christ, you have a stronger motivation to have a relationship with the Lord, and you change gradually from dependence on people to dependence on the Lord. You cannot change people; it is God who causes people to change, to grow up. And no one is fully grown up who is not making use of occupation with Christ. The key to God’s plan is that we no longer live for ourselves but for Christ.
 
-2 Cor. 5:14-17 For the love of Christ continues to motivate us, in that
-One died for all; therefore, all have died. And He died as a substitute
-for all, in order that those who live should no longer live for
-themselves, but for Him who died and was resurrected…
+2 Cor. 5:14-17 For the love of Christ continues to motivate us, in that One died for all; therefore, all have died. And He died as a substitute for all, in order that those who live should no longer live for themselves, but for Him who died and was resurrected…
 
-**Occupation with Christ brings spiritual self-esteem and
-self-confidence**. You have self-esteem when you stop competing with
-people and undermining them. You stop slandering, gossiping, maligning,
-and judging other people. You have impersonal (professional) love for
-other people, because you are occupied with Christ. You live in grace,
-and you are a conduit of grace to other people, because Christ has
-become formed in your thinking and you love Him above everything else.
-The result is 2 Cor. 5:14 “The Lord for Christ motivates…”
+**Occupation with Christ brings spiritual self-esteem and self-confidence**. You have self-esteem when you stop competing with people and undermining them. You stop slandering, gossiping, maligning, and judging other people. You have impersonal (professional) love for other people, because you are occupied with Christ. You live in grace, and you are a conduit of grace to other people, because Christ has become formed in your thinking and you love Him above everything else. The result is 2 Cor. 5:14 “_The Lord for Christ motivates_”
 
 **Occupation with Christ is the Basis for Production and Blessing**
 
-It is the means by which mature believers contribute to national
-blessing (blessing by association). Deut. 30:15-20.
+* It is the means by which mature believers contribute to national blessing (blessing by association). Deut. 30:15-20.
 
-It produces courage and victory in battle, Jer. 23:10,11.
+* It produces courage and victory in battle, Jer. 23:10,11.
 
-It is the basis for strength during testing, Psalm 31:23,24.
+* It is the basis for strength during testing, Psalm 31:23,24.
 
-It results in great blessings, Psalm 37:4,5.
+* It results in great blessings, Psalm 37:4,5.
 
-It provides strength under pressure, Heb. 11:27.
+* It provides strength under pressure, Heb. 11:27.
 
-It helps the Christian avoid fatigue in the soul, Heb. 12:3.
+* It helps the Christian avoid fatigue in the soul, Heb. 12:3.
 
 Summary Remarks
 
-Occupation with Christ is the ultimate function and outlook of the
-Christian way of life. It is the only answer to unrealistic expectations
-in life, which include not being treated the way you think you should be
-treated, and not being loved the way you think you should be loved.
+Occupation with Christ is the ultimate function and outlook of the Christian way of life. It is the only answer to unrealistic expectations in life, which include not being treated the way you think you should betreated, and not being loved the way you think you should be loved.
 
-Occupation with Christ is the main problem solving feature of Christian
-living, and it is the key to all other solutions which God’s plan
-provides.
+Occupation with Christ is the main problem solving feature of Christian living, and it is the key to all other solutions which God’s plan provides.
 
-Occupation with Christ proceeds through three phases as the Christian
-grows in Christ. First, “Christ is formed in you”, Gal. 4:19. As a
-result, “the love for Christ motivates us.” 2 Cor. 5:14
+Occupation with Christ proceeds through three phases as the Christian grows in Christ. First, “Christ is formed in you”, Gal. 4:19. As a result, “the love for Christ motivates us.” 2 Cor. 5:14
 
-Second, occupation with Christ is characterized as “Christ at home in
-your hearts”, Eph. 3:17, resulting in “setting apart the Lord Christ in
-your hearts”, 1 Pet. 3:15.
+Second, occupation with Christ is characterized as “Christ at home in your hearts”, Eph. 3:17, resulting in “setting apart the Lord Christ in your hearts”, 1 Pet. 3:15.
 
-Third, in spiritual maturity, “Christ is exalted in my body, whether by
-life or by death,” Phil. 1:20. The result “for me, living is Christ and
-dying is profit,” Phil. 1:21.
+Third, in spiritual maturity, “Christ is exalted in my body, whether by life or by death,” Phil. 1:20. The result “for me, living is Christ anddying is profit,” Phil. 1:21.
 
-Phil. 3:7-10, “Whatever things were gain to me, I have concluded them
-loss for the sake of Christ, I conclude all things to be loss because of
-the surpassing greatness of the knowledge of Jesus Christ, my Lord,
-because I have suffered the loss of all things, and I now consider then
-dung in order that I may gain Christ. And that I may be demonstrated in
-Him, not having my own righteousness from the law, but that
-righteousness which is through faith in Christ, the righteousness of God
-by faith in Christ. That I may know Him, the power of His resurrection,
-and the fellowship of His sufferings, being conformed to Christ in the
-fellowship of His death.”
+Phil. 3:7-10, “Whatever things were gain to me, I have concluded them loss for the sake of Christ, I conclude all things to be loss because of the surpassing greatness of the knowledge of Jesus Christ, my Lord, because I have suffered the loss of all things, and I now consider then dung in order that I may gain Christ. And that I may be demonstrated in Him, not having my own righteousness from the law, but that righteousness which is through faith in Christ, the righteousness of God
+by faith in Christ. That I may know Him, the power of His resurrection, and the fellowship of His sufferings, being conformed to Christ in the fellowship of His death.”
 
