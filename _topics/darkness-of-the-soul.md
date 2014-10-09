@@ -13,7 +13,7 @@ _*Ephesians 4:17*_
 
 * _*This I say, therefore, and testify in the Lord, that you henceforth walk not as other Gentiles walk, in the vanity of their mind.*_
 
-This passage of [Ephesians, verses 17 to 24] (http://www.biblegateway.com/passage/?search=Ephesians+4%3A17-24), is probably the strongest and most graphic warning to Christians in the New Testament!
+This passage of Ephesians, verses 17 to 24, is probably the strongest and most graphic warning to Christians in the New Testament!
 
 Paul issues this warning now because he knows that the great results of the previous verses depend on the personal choices that people make in the Christian life.
 

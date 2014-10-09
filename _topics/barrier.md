@@ -12,10 +12,10 @@ This paper is a brief study of the Biblical doctrines of reconciliation and prop
 
 The word reconciliation refers to the process of changing something thoroughly and adjusting it to something else that is a standard. For example, when you adjust your watch to a time signal, you are reconciling the watch to a time standard. When you reconcile your checkbook, the standard to which you match it is the bank’s record of your account. On rare occasions the bank must reconcile its accounts to yours.
 
-In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. Rom. 11:15 refers to the “reconciling of the world”. The Greek word used here is the noun καταλλαγη (**katallagei**). This word is also used in [Rom. 5:11] (http://www.biblegateway.com/passage/?search=Romans+5%3A11), “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
-toward reconciliation. Read also [2 Cor. 5:17-21] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A17-21).
+In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. Rom. 11:15 refers to the “reconciling of the world”. The Greek word used here is the noun καταλλαγη (**katallagei**). This word is also used in Rom. 5:11, “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
+toward reconciliation. Read also 2 Cor. 5:17-21.
 
-Reconciliation also appears in the verb form καταλλασσω (**katallasso**), meaning “to reconcile”. It is used in the active voice in [2 Cor. 5:18] (http://www.biblegateway.com/passage/?search=+2+Cor.+5%3A18) with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in Rom. 5:10 and [2 Cor. 5:20] (http://www.biblegateway.com/passage/?search=2+Cor.+5%3A20). The passive voice is also used in cases of reconciliation between people, as in [1 Cor. 7:11 and Matt. 5:24] (http://www.biblegateway.com/passage/?search=1+Cor.+7%3A11%3B+Matt.+5%3A24).
+Reconciliation also appears in the verb form καταλλασσω (**katallasso**), meaning “to reconcile”. It is used in the active voice in 2 Cor. 5:18 with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in Rom. 5:10 and 2 Cor. 5:20. The passive voice is also used in cases of reconciliation between people, as in 1 Cor. 7:11 and Matt. 5:24.
 
 Another Greek word translated “to reconcile” is ιλασκοµαι (**hilaskomai**), meaning “to reconcile” in the sense of providing
 propitiation, as in Luke 18:13. It is used of the activity of the Lord Jesus Christ as High Priest in making reconciliation for His people, Heb. 2:17.
@@ -31,7 +31,7 @@ offer salvation.
 
 A person profits from reconciliation by faith in the Gospel of Jesus Christ. Once he becomes a believer, a person can partake in all of the blessings which accompany his position in Christ, including the privileges accruing from reconciliation.
 
-The believer, in turn, has the responsibility of becoming a minister of reconciliation, [2 Cor. 5:18–19] (http://www.biblegateway.com/passage/?search=2+Cor.+5%3A18%E2%80%9319). The truth of reconciliation is one of the key salvation doctrines to be used in witnessing to those without Christ.
+The believer, in turn, has the responsibility of becoming a minister of reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of the key salvation doctrines to be used in witnessing to those without Christ.
 
 ##Propitiation
 
@@ -39,7 +39,7 @@ Propitiation is the work of the Lord Jesus Christ by which He appeases the wrath
 
 Propitiation is translated from the Greek 'ιλαστεριον (**hilasterion**), meaning “that which expiates or propitiates” or “the gift which procures propitiation”. The word is also used in the New Testament for the place of propitiation, the “mercy seat”. Heb. 9:5. There is frequent similar use of **hilasterion** in the Septuagint. Ex. 25:18 ff. The mercy seat was sprinkled with atoning blood on the day of atonement (Lev. 16:14), representing that the righteous sentence of the Law had been executed, changing a judgment seat into a mercy seat (Heb. 9:11-15; compare with “throne of grace” in Heb. 4:14-16; place of communion, Ex. 25:21-22).
 
-Another Greek word, 'ιλασµος (**hilasmos**), is used for Christ as our propitiation. [1 John 2:2; 4:10] (http://www.biblegateway.com/passage/?search=1+John+2%3A2%3B+4%3A10), and for “atonement” in the Septuagint (Lev. 25:9). The thought in the Old Testament sacrifices and in the New Testament fulfillment is that Christ completely satisfied the just demands of a holy God for judgment on sin by His death on the cross.
+Another Greek word, 'ιλασµος (**hilasmos**), is used for Christ as our propitiation. 1 John 2:2; 4:10, and for “atonement” in the Septuagint (Lev. 25:9). The thought in the Old Testament sacrifices and in the New Testament fulfillment is that Christ completely satisfied the just demands of a holy God for judgment on sin by His death on the cross.
 
 God, foreseeing the cross, is declared righteous in forgiving sins in
 the Old Testament period as well as in justifying sinners under the new

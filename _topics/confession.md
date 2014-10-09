@@ -9,9 +9,9 @@ The presence of the sin nature in the soul guarantees that the Christian believe
 
 While you do not lose your salvation each time you sin, your personal growth and effectiveness are stifled as long as there is a rift in your fellowship with God. This rift is healed when you personally confess to God the sin which caused the breach.
 
-Confession of sins is not the basis of salvation. Jesus Christ was judged once for our sins, on the cross; and He does not need to be judged repeatedly for our sins. The basis of salvation is your personal trust in Christ and His work, rather than confession or any other act which you might perform to try to win the favor of God. [Acts 16:31; John 1:12; Eph. 1:13, 14; 2:8, 9; 1 Pet. 2:24; 2 Cor. 5:21](http://www.biblegateway.com/passage/?search=Acts+16%3A31%3B+John 1%3A12%3B+Eph.+1%3A13-14%2C+2%3A8-9%3B+1+Pet.+2%3A24%3B+2Cor.+5%3A21%3B).
+Confession of sins is not the basis of salvation. Jesus Christ was judged once for our sins, on the cross; and He does not need to be judged repeatedly for our sins. The basis of salvation is your personal trust in Christ and His work, rather than confession or any other act which you might perform to try to win the favor of God. Acts 16:31; John 1:12; Eph. 1:13, 14; 2:8, 9; 1 Pet. 2:24; 2 Cor. 5:21.
 
-A Christian is always in Christ. [Eph. 1:3, 5, 7](http://www.biblegateway.com/passage/?search=Eph.+1%3A3%2C+5%2C+7). So confession of personal sin is extremely important to the personal spiritual relationship that you have with God. 
+A Christian is always in Christ. Eph. 1:3, 5, 7. So confession of personal sin is extremely important to the personal spiritual relationship that you have with God. 
 
 God requires confession of sin as the means of maintaining a close personal walk with Him. He requires a continual acknowledgment of His ruler ship; and confession of sin is the means by which you express your yielding and surrender to the sovereign will of God on a moment by moment basis. The Lord wants you to have a very useful and happy life,
 and part of His plan for providing this sort of life is confession of sin.
@@ -19,7 +19,7 @@ and part of His plan for providing this sort of life is confession of sin.
 **Etymology of the Word Confession**
 --------------------------------
 
-The word confession in [1 John 1:9](http://www.biblegateway.com/passage/?search=1+John+1%3A9) is the Greek verb **oJmologew** (**homologeo**). This word, and its derivatives, is a common term in ancient Greek and Hellenic speech, in the Septuagint Greek of the Old Testament, and in the New Testament Koine Greek. It means, literally, to say the same thing; to agree in statement.
+The word confession in 1 John 1:9 is the Greek verb **oJmologew** (**homologeo**). This word, and its derivatives, is a common term in ancient Greek and Hellenic speech, in the Septuagint Greek of the Old Testament, and in the New Testament Koine Greek. It means, literally, to say the same thing; to agree in statement.
 
 Xenophon uses the phrase **homologoi genesthai**, to agree in statement. Herodotus, similarly, has the phrase **glossan homologein**, to speak the same language. The word also appears quite often in the passive voice to say such things as all men are agreed on the statement.
 
@@ -44,19 +44,19 @@ sovereignty, which includes His right as creator and Father to set the standards
 
 *_The Lord Encourages Confession_*
 
-A novice believer may not be aware that it is possible to live out of fellowship and that he needs to confess sin. [1 John 1:6; 2:9, 10; 2 Pet. 1:9](http://www.biblegateway.com/passage/?search=1+John+1%3A6%3B+2%3A9%2C+10%3B+2Pet.+1%3A9). God both commands and pleads with us to judge ourselves, to confess and then to forget sins. Take a look at: [Isa. 43:26; 1 Cor. 11:28, 31; 1 John 1:9; Phil. 3:13, 14; Prov. 1:23](http://www.biblegateway.com/passage/?search=Isa.+43%3A26%3B+1Cor.+11%3A28%2C+31%3B+1John%C2%A01%3A9%3B+Phil.+3%3A13-14%3B+Proverbs+1%3A23). Any person who reads the Bible quickly becomes aware of God’s intentions in this matter.
+A novice believer may not be aware that it is possible to live out of fellowship and that he needs to confess sin. 1 John 1:6; 2:9, 10; 2 Pet. 1:9. God both commands and pleads with us to judge ourselves, to confess and then to forget sins. Take a look at: Isa. 43:26; 1 Cor. 11:28, 31; 1 John 1:9; Phil. 3:13, 14; Prov. 1:23. Any person who reads the Bible quickly becomes aware of God’s intentions in this matter.
 
 Some Christians willfully ignore the commands to confess, leading God to employ more persuasive measures to encourage us to comply. These methods include:
 
-* Loss of inner peace, [Phil. 4:6, 7](http://www.biblegateway.com/passage/?search=Phil.+4%3A6-7)
+* Loss of inner peace, Phil. 4:6, 7
 
-* Chastening or discipline, [Heb. 12:6](http://www.biblegateway.com/passage/?search=Heb.+12%3A6)
+* Chastening or discipline, Heb. 12:6
 
-* Pricking of conscience, [Heb. 13:18](http://www.biblegateway.com/passage/?search=Heb.+13%3A18)
+* Pricking of conscience, Heb. 13:18
 
-* Sorrow for sin, [Psalm 32](http://www.biblegateway.com/passage/?search=Psalm+32).
+* Sorrow for sin, Psalm 32.
 
-A few Christians manage to ignore even severe chastening for a long time, leading to God’s administering the sin unto death. The alternative to confession is discipline. [Heb. 12:1-5](http://www.biblegateway.com/passage/?search=Heb.+12%3A1-5).
+A few Christians manage to ignore even severe chastening for a long time, leading to God’s administering the sin unto death. The alternative to confession is discipline. Heb. 12:1-5.
 
 *_The Mechanics of Confession of Sin_*
 
@@ -70,19 +70,19 @@ Some Christians try to get on God’s good side through some means other than th
 
 The word confession in the New Testament is taken from the Greek word ‘ομολογεω (homologeo), meaning to cite, to name, to classify in the same manner, to agree with, to say the same thing as. Confession acknowledges God’s ruler ship in the matter and agrees with His judgment.
 
-This is a method of dealing with the disharmony caused by sins which causes no merit to accrue to the person who confesses. It is strictly a grace provision in which God makes a promise and carries out the function of cleansing. The Christian must confess the sin, [1 John 1:9](http://www.biblegateway.com/passage/?search=1+John+1%3A9); forget the sin, [Phil. 3:13, 14](http://www.biblegateway.com/passage/?search=Phil.+3%3A13-14); and isolate the sin, [Heb. 12:15](http://www.biblegateway.com/passage/?search=Heb.+12%3A15).
+This is a method of dealing with the disharmony caused by sins which causes no merit to accrue to the person who confesses. It is strictly a grace provision in which God makes a promise and carries out the function of cleansing. The Christian must confess the sin, 1 John 1:9; forget the sin, Phil. 3:13, 14; and isolate the sin, Heb. 12:15.
 
-Forgiveness of sin is only from God([Mark. 2:7](http://www.biblegateway.com/passage/?search=Mark.+2%3A7))and confession is made only to God the Father. Upon the condition of confession, forgiveness is guaranteed and cleansing from all unrighteousness is administered (1 John 1:9). The word cleanse refers to the removal of the guilt of the sin. Therefore, the cleansed individual is removed from the condition of discipline, chastening is no longer being administered and the hindrances to the ministry of the Holy Spirit are removed.
+Forgiveness of sin is only from God(Mark. 2:7)and confession is made only to God the Father. Upon the condition of confession, forgiveness is guaranteed and cleansing from all unrighteousness is administered (1 John 1:9). The word cleanse refers to the removal of the guilt of the sin. Therefore, the cleansed individual is removed from the condition of discipline, chastening is no longer being administered and the hindrances to the ministry of the Holy Spirit are removed.
 
 There are several synonyms in the Bible for the word “confess”, as follows":
 
-* To yield means to confess. [Rom. 6:13](http://www.biblegateway.com/passage/?search=Rom.+6%3A13).
+* To yield means to confess. Rom. 6:13.
 
-* Putting off the old man, is tantamount to confession. [Eph. 4:22](http://www.biblegateway.com/passage/?search=Eph.+4%3A22).
+* Putting off the old man, is tantamount to confession. Eph. 4:22.
 
-* Judging oneself is confession or leads to it. [1 Cor. 11:31](http://www.biblegateway.com/passage/?search=1+Cor.+11%3A31).
+* Judging oneself is confession or leads to it. 1 Cor. 11:31.
 
-* Presenting one’s body is analogous to confession. [Rom. 12:1](http://www.biblegateway.com/passage/?search=Rom.+12%3A1).
+* Presenting one’s body is analogous to confession. Rom. 12:1.
 
 **Principles Derived from the Doctrine of Confession**
 --------------------------------------------------

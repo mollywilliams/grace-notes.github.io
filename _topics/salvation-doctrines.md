@@ -20,15 +20,15 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 **Foreknown**
 
-* **[Acts 2:23](http://www.biblegateway.com/passage/?search=Acts+2%3A23)**. _this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death._
+* **Acts 2:23**. _this Man, delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put Him to death._
 
-* **[Romans 8:29](http://www.biblegateway.com/passage/?search=Romans+8%3A29)**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren;_
+* **Romans 8:29**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that He would be the firstborn among many brethren;_
 
-* **[1 Peter 1:2](http://www.biblegateway.com/passage/?search=1+Peter+1%3A2)**. _according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure._
+* **1 Peter 1:2**. _according to the foreknowledge of God the Father, by the sanctifying work of the Spirit, to obey Jesus Christ and be sprinkled with His blood: May grace and peace be yours in the fullest measure._
 
 **Elect**
 
-* **[Romans 8:33](http://www.biblegateway.com/passage/?search=Romans+8%3A33)**. _Who will bring a charge against God’s elect? God is the one who justifies;_
+* **Romans 8:33**. _Who will bring a charge against God’s elect? God is the one who justifies;_
 
 * **[Colossians 3:12]()**. _So, as those who have been chosen of God, holy and beloved, put on a heart of compassion, kindness, humility, gentleness and patience;_
 
@@ -40,7 +40,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 **Predestined**
 
-* **[Romans 8:29, 30] (http://www.biblegateway.com/passage/?search=Romans+8%3A29-30)**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that *He would be the firstborn among many brethren; and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified._
+* **Romans 8:29, 30**. _For those whom He foreknew, He also predestined to become conformed to the image of His Son, so that *He would be the firstborn among many brethren; and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified._
 
 * **Ephesians 1:5.** _He predestined us to adoption as sons through Jesus Christ to Himself, according to the kind intention of His will_
 
@@ -70,7 +70,7 @@ You have been **reconciled** …
 
 * **2 Corinthians 5:20**. _Therefore, we are ambassadors for Christ, as though God were making an appeal through us; we beg you on behalf of Christ, be reconciled to God._
 
-* **[Ephesians 2:14-16] (http://www.biblegateway.com/passage/?search=Ephesians+2%3A14-16)**. _For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity._
+* **Ephesians 2:14-16**. _For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity._
 
 **You have been _redeemed_** (purchased from the slave market of sin).
 
@@ -92,7 +92,7 @@ You have been **removed from condemnation.**
 
 You are **under grace** _and not under judgment (doctrine of propitiation)._
 
-* **[Romans 3:24–28](http://www.biblegateway.com/passage/?search=Romans+3%3A24%E2%80%9328)**. _being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. For we maintain that a man is justified by faith apart from works of the Law._
+* **Romans 3:24–28**. _being justified as a gift by His grace through the redemption which is in Christ Jesus; whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; for the demonstration, I say, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus. Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. For we maintain that a man is justified by faith apart from works of the Law._
 
 * **1 John 2:2**. _and He Himself is the propitiation for our sins; and not for ours only, but also for those of the whole world._
 
