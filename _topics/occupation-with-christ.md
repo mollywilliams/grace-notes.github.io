@@ -1,113 +1,75 @@
 ---
 title: Occupation With Christ
+description: the primary focus of the Christian life is the Lord Jesus Christ, and we know Him from the Word of God.
 layout: lesson
 ---
 
-
-**Occupation With Christ 6**
-
-Occupation With Christ
-
 **Introduction**
 
-The Lord has made available many provisions for living according to His
-plan and growing in Christ. These provisions are known variously as
-“divine operating assets”, “techniques for Christian living”, “problem
-solving devices”, and so forth.
+The Lord has made available many provisions for living according to His plan and growing in Christ. These provisions are known variously as “divine operating assets”, “techniques for Christian living”, “problem solving devices”, and so forth.
 
-These provisions are part of the great store of blessings which God has
-already made available to us in Christ.
+These provisions are part of the great store of blessings which God has already made available to us in Christ.
 
-Eph. 1:3, “And has blessed us with all spiritual blessings in heavenly
-places in Christ.”
+[Eph. 1:3](http://www.biblegateway.com/passage/?search=eph+1%3A3), “_And has blessed us with all spiritual blessings in heavenly places in Christ._”
 
 These provisions include:
 
-• Confession of Sin
+* Confession of Sin
 
-• The Filling of the Holy Spirit
+* The Filling of the Holy Spirit
 
-• Faith-Rest - the ability to trust God and to enjoy His peace
+* Faith-Rest - the ability to trust God and to enjoy His peace
 
-• Orientation to Grace
+* Orientation to Grace
 
-• Personal Love for God
+* Personal Love for God
 
-• Impersonal Love for Mankind
+* Impersonal Love for Mankind
 
-• Joy - the happiness of God which does not depend on people,
+* Joy - the happiness of God which does not depend on people,
 circumstances, or things
 
-• A personal destiny shared with all in God’s royal family
+* A personal destiny shared with all in God’s royal family
 
-• OCCUPATION WITH JESUS CHRIST
+* OCCUPATION WITH JESUS CHRIST
 
-This article deals with the subject of Occupation with the Lord Jesus
-Christ, under the following headings:
+This article deals with the subject of Occupation with the Lord Jesus Christ, under the following headings:
 
-• What is Occupation with Christ
+* What is Occupation with Christ
 
-• Why a Christian Needs to be Occupied with Christ
+* Why a Christian Needs to be Occupied with Christ
 
-• The Bible Commands Regarding Occupation with Christ
+* The Bible Commands Regarding Occupation with Christ
 
-• Mechanics - How to be Occupied with Christ
+* Mechanics - How to be Occupied with Christ
 
-• The Results of Occupation with Christ
+* The Results of Occupation with Christ
 
 **What is Occupation with Christ**
 
-Occupation with Christ is a mental attitude by which a Christian
-believer views all things in life with the Lord Jesus Christ in mind.
+Occupation with Christ is a mental attitude by which a Christian believer views all things in life with the Lord Jesus Christ in mind.
 
-Occupation with Christ is love for the Son, the 2nd Person of the
-Trinity, therefore it is the expression of love for God. The Bible
-commands us to love God, with all our heart, soul and mind. Being
-occupied with Christ is a great part of our love for God. Therefore,
-this concept is one of the most important spiritual functions in the
-Christian life.
+Occupation with Christ is love for the Son, the 2nd Person of the Trinity, therefore it is the expression of love for God. The Bible commands us to love God, with all our heart, soul and mind. Being occupied with Christ is a great part of our love for God. Therefore, this concept is one of the most important spiritual functions in the Christian life.
 
-Love for God, and Occupation with Christ, results from learning,
-digesting, and applying Bible truth. The Bible describes the lifestyle
-of wisdom and the path to spiritual maturity through the filling of the
-Holy Spirit and growth in Christ.
+Love for God, and Occupation with Christ, results from learning, digesting, and applying Bible truth. The Bible describes the lifestyle of wisdom and the path to spiritual maturity through the filling of the Holy Spirit and growth in Christ.
 
-The Lord Jesus Christ is invisible to us because He is in heaven, seated
-at the right hand of God. He will not become visible to us until we see
-Him when He returns. So, loving Christ requires a system of
-communications which is based on thought. The system is the Word of God,
-God’s thoughts and God’s words, guarded in the Scripture. There is no
-other accurate record of the mind of Christ, divine viewpoint, apart
-from what is contained in the Bible.
+The Lord Jesus Christ is invisible to us because He is in heaven, seated at the right hand of God. He will not become visible to us until we see Him when He returns. So, loving Christ requires a system of communications which is based on thought. The system is the Word of God, God’s thoughts and God’s words, guarded in the Scripture. There is no other accurate record of the mind of Christ, divine viewpoint, apart from what is contained in the Bible.
 
-Therefore, we can only come to love Jesus Christ, to be occupied with
-Christ, through learning the Word of God and making His thoughts our
-thoughts.
+Therefore, we can only come to love Jesus Christ, to be occupied with Christ, through learning the Word of God and making His thoughts our thoughts.
 
-1 Cor. 2:16, For who has known the mind of the Lord, that he should
-instruct Him? But we have the mind of Christ.
+[1 Cor. 2:16](http://www.biblegateway.com/passage/?search=1+Cor.+2%3A16), _For who has known the mind of the Lord, that he should instruct Him? But we have the mind of Christ._
 
-This love for Jesus Christ can only come about through applied Bible
-truth.
+This love for Jesus Christ can only come about through applied Bible truth.
 
-Eph. 3:19, and to know the love of Christ which surpasses knowledge,
-that you may be filled up to all the fulness of God.
+[Eph. 3:19](), and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fulness of God.
 
-1 Pet. 1:8, and though you have not seen Him, you love Him [occupation
-with Christ], and though you do not see Him now, but believe in Him, you
-greatly rejoice with joy inexpressible and full of glory,
+[1 Pet. 1:8](), and though you have not seen Him, you love Him [occupation with Christ], and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,
 
-Joy and occupation with Christ always go together, you can’t have one
-without the other. The glory with which you are filled is Bible truth,
-and this emphasizes the fact that you have come to know Christ through
-perception and application of the Word of God.
+Joy and occupation with Christ always go together, you can’t have one without the other. The glory with which you are filled is Bible truth, and this emphasizes the fact that you have come to know Christ through perception and application of the Word of God.
 
-Difference Between Indwelling of Christ and Occupation with Christ
+*Difference Between Indwelling of Christ and Occupation with Christ*
 
-The Indwelling of Christ is not an experience. Every Christian, whether
-a novice or advanced believer, is indwelt by Christ, has been since the
-point of salvation, and always will be. You find this teaching in John
-14:20; Rom. 8:10; 2 Cor. 13:5; Gal. 2:20; Col. 1:27; and 1 John 2:24.
+The Indwelling of Christ is not an experience. Every Christian, whether a novice or advanced believer, is indwelt by Christ, has been since the point of salvation, and always will be. You find this teaching in John 14:20; Rom. 8:10; 2 Cor. 13:5; Gal. 2:20; Col. 1:27; and 1 John 2:24.
 
 Christ indwells believers for a number of reasons: (1) as a sign that a
 Christian is a member of God’s royal family, (2) as a guarantee of the
