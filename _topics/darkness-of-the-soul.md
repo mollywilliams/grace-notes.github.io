@@ -61,7 +61,7 @@ A believer who is occupied with Christ and living in the Word is constantly “r
 
 The apostle Paul makes a very similar plea to the Christians in Rome in Romans 12.
 
-* [Romans 12:1,2] (https://www.biblegateway.com/passage/?search=Romans+12%3A1-2), _I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. And be not conformed to this world, but be ye transformed by the RENEWING OF YOUR MIND, that you may prove what is that good, and acceptable, and perfect, will of God._
+* Romans 12:1,2, _I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service. And be not conformed to this world, but be ye transformed by the RENEWING OF YOUR MIND, that you may prove what is that good, and acceptable, and perfect, will of God._
 
 The opposite of a RENEWED mind is an EMPTY mind.
 
@@ -115,7 +115,7 @@ are eight of them.
 
 2. Darkness causes inner misery, unhappiness, lack of peace. These things cannot be compensated for by anything in life, but the negative Christian spends his life in a frantic but futile pursuit of happiness through the details of life.
 
-2. Darkness can bring about neuroses and psychoses: [Phil. 4:6,7] (https://www.biblegateway.com/passage/?search=Phil.+4%3A6-7) _Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus._
+2. Darkness can bring about neuroses and psychoses: Phil. 4:6,7 _Be anxious for nothing, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all comprehension, shall guard [STABILIZE] your hearts and your minds in Christ Jesus._
 
 2. Darkness results in a frantic search for happiness through details of life, or through some form of sublimation.
 
@@ -182,7 +182,7 @@ The antidote is first, Confession of Sin; then, Occupation with Christ and Livin
 
 Greediness is the willingness to do something immoral, illegal, or harmful to other people in order to obtain something one desires. The Christian life removes greediness because a believer trusts God to supply all needs and has the patience to wait for God’s timing in everything.
 
-_*[Ephesians 4:20,21] (https://www.biblegateway.com/passage/?search=Eph.+4%3A20-21)*_  
+_*Ephesians 4:20,21*_  
 -----------------
 
 * *_But you have not so learned Christ; If so be that you have heard him, and have been taught by him, as the truth is in Jesus:_*
@@ -238,7 +238,7 @@ The only way to “put Christ first” in the life is to have maximum intake of 
 
 Here is the same process discussed in Romans.
 
-* [Romans 12:1,2] (https://www.biblegateway.com/passage/?search=Romans+12%3A1-2), _I urge you therefore, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, {which is} your spiritual service of worship. And do not be conformed to this world, but be TRANSFORMED BY THE RENEWING OF YOUR MIND, that you may prove what the will of God is, that which is good and acceptable and perfect._
+* Romans 12:1,2, _I urge you therefore, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, {which is} your spiritual service of worship. And do not be conformed to this world, but be TRANSFORMED BY THE RENEWING OF YOUR MIND, that you may prove what the will of God is, that which is good and acceptable and perfect._
 
 *_Ephesians 4:24_*  
 --------------

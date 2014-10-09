@@ -19,7 +19,7 @@ The territory of Moab is usually described in three parts:
 
 * The *plains of Moab* was the district in the low, tropical depths of the valley of the Jordan River.
 
-When the Israelites came up from Egypt, they approached Moab from the southeast, outside the bordering circle of hills. They were forbidden to disturb the Moabites in their enjoyment of the land which they had taken from the Emim. [Deut. 2:9-11]  (https://www.biblegateway.com/passage/?search=Deut.+2%3A9-11)
+When the Israelites came up from Egypt, they approached Moab from the southeast, outside the bordering circle of hills. They were forbidden to disturb the Moabites in their enjoyment of the land which they had taken from the Emim. Deut. 2:9-11
 
 Therefore, they applied for permission to pass through the territory of Moab. This was refused, so they went around its borders.
 
@@ -31,7 +31,7 @@ There is no hint that either nation hindered Israel in its passage along the bor
 
 The Moabites were much too friendly, in fact, sending their daughters to cultivate friendly relations with Israelite men and to entice them into idolatry. Num. 25:2 (note feminine of verb)
 
-The Moabites peaceful character and their many possessions may account for the terror of Moabite King Balak at the approach of the Israelites. He took rather special means to guard against them. Instead of sending his army out, he first consulted with the leaders of Midian. Moab and Midian were kin by virtue of their common descent from Terah, Moab through Lot from Haran, and Midian from Abraham by Keturah. [Gen. 11:27; 19:37; 25:2] (https://www.biblegateway.com/passage/?search=Gen.+11%3A27%3B+19%3A37%3B+25%3A2)
+The Moabites peaceful character and their many possessions may account for the terror of Moabite King Balak at the approach of the Israelites. He took rather special means to guard against them. Instead of sending his army out, he first consulted with the leaders of Midian. Moab and Midian were kin by virtue of their common descent from Terah, Moab through Lot from Haran, and Midian from Abraham by Keturah. Gen. 11:27; 19:37; 25:2
 
 The result of this conference was that the two nations united in sending for the prophet Balaam. Num. 25
 
@@ -41,7 +41,7 @@ The exclusion of Moabites and Ammonites from the congregation of the Lord to the
 
 ##The Time of the Judges
 
-After the conquest of Canaan, Moab oppressed Israel for 18 years. It is significant, however, that _“The Lord strengthened Eglon, the King of Moab, against Israel … and he gathered unto him the children of Ammon and Amalek and went out and smote Israel”_ ([Judges 3:12,13] (https://www.biblegateway.com/passage/?search=Judges+3%3A12-13)). The Moabite conquest ended with the assassination of Eglon by the judge Ehud.
+After the conquest of Canaan, Moab oppressed Israel for 18 years. It is significant, however, that _“The Lord strengthened Eglon, the King of Moab, against Israel … and he gathered unto him the children of Ammon and Amalek and went out and smote Israel”_ (Judges 3:12,13). The Moabite conquest ended with the assassination of Eglon by the judge Ehud.
 
 ##The Time of the Kingdom
 
@@ -51,7 +51,7 @@ Early relations seemed fairly friendly, however, as we see in Ruth.
 
 David, when being pressed by Saul, entrusted the safe keeping of his father and mother to the king of Moab. But, twenty years later, for some reason, he treated the Moabites hard and took spoil from them for the treasure of the temple, 2 Sam. 8:2. The Moabites became tributary to David. Later they again sent their daughters, this time to Saul to lead him astray.
 
-The Moabites were still paying tribute in the days of Ahab, [2 Kings 3:4,5] (https://www.biblegateway.com/passage/?search=2+Kings+3%3A4-5). After Ahab, they revolted. They collected an army (2 Chron. 20) of Moabites, Ammonites, and Edomites, and attacked Judah, then ruled by Jehoshaphat. Judah met them with prayer and praise of God. God caused dissension to break out in the camp of the enemy. The Moabites and Ammonites first slaughtered the Edomites, then each other, and Israel gathered the spoil.
+The Moabites were still paying tribute in the days of Ahab, 2 Kings 3:4,5. After Ahab, they revolted. They collected an army (2 Chron. 20) of Moabites, Ammonites, and Edomites, and attacked Judah, then ruled by Jehoshaphat. Judah met them with prayer and praise of God. God caused dissension to break out in the camp of the enemy. The Moabites and Ammonites first slaughtered the Edomites, then each other, and Israel gathered the spoil.
 
 Moabites continued to appear in Bible accounts and in historical accounts. [ See Unger’s Bible Handbook ] Josephus described Moab as still a great nation in Roman times. The name “Moab” remained in history until about 380 AD in the time of Eusebius.
 
@@ -79,5 +79,5 @@ But the bidding for the stone, the arguments, and the rivalry between the Prussi
 
 The pieces of the Moabite stone were distributed to various families in the area to put into their corn granaries as charms to protect from corn blight. A considerable number of these fragments have since been recovered, but without the squeeze which was taken when the stone was intact, it would have been impossible to fit many of them together.
 
-The writing on the stone was deciphered in 1886 by two German professors who worked for weeks in the Louvre, where the squeeze may still be seen. The inscription on the stone supplements and corroborates the history of King Mesha of Moab as recorded in [2 Kings 3:4‑27] (https://www.biblegateway.com/passage/?search=2+Kings+3%3A4-27). The inscription is proof that the Moabites were akin to Israelites in language as well as in race. The likeness between the languages of Moab and Israel extends beyond grammar and syntax. It is a likeness which exists also in thought.
+The writing on the stone was deciphered in 1886 by two German professors who worked for weeks in the Louvre, where the squeeze may still be seen. The inscription on the stone supplements and corroborates the history of King Mesha of Moab as recorded in 2 Kings 3:4‑27. The inscription is proof that the Moabites were akin to Israelites in language as well as in race. The likeness between the languages of Moab and Israel extends beyond grammar and syntax. It is a likeness which exists also in thought.
 

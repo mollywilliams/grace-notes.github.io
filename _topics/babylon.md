@@ -8,7 +8,7 @@ description: Babylon lay on the bank of the Euphrates in the land of Shinar (Gen
 
 From International Standard Bible Encyclopedia
 
-**Babylon** baʹbə-lon; **BABEL** bāʹbəl ([Gen. 10:10; 11:9]  (http://www.biblegateway.com/passage/?search=Gen.+10%3A10%3B+11%3A9)) [Heb _bābel_—‘gate of god’; Akk _bāb–ili_, _bāb-ilāni_—‘gate of god(s)’; Gk _Babylōn_; Pers *Babirush*]. The capital city of Babylonia.
+**Babylon** baʹbə-lon; **BABEL** bāʹbəl (Gen. 10:10; 11:9) [Heb _bābel_—‘gate of god’; Akk _bāb–ili_, _bāb-ilāni_—‘gate of god(s)’; Gk _Babylōn_; Pers *Babirush*]. The capital city of Babylonia.
 
 ##I. Location
 
@@ -17,7 +17,7 @@ inaccessible.
 
 ##II. Name
 
-The oldest attested extrabiblical name is the Sumerian ká-dingir-ki (usually written ká-dingir-ra, “gate of god”). This may have been atranslation of the more commonly used later Babylonian *Bāb-ilī*, of which an etymology based on Heb *bālal*, “confused,” is given in Gen 11:9. Throughout the OT and NT, Babylon stands theologically for the community that is anti-God. Rarely from 2100 b.c. and frequently in the 7th cent Babylon is called TIN.TIR.KI, “wood (trees) of life,” and from the latter period also. E.KI, “canal zone (?).” Other names applied to at least part of the city were *ŠU.AN.NA*, “hand of heaven” or “high-walled (?),” and the Heb *šēšaḵ* ([Jer. 25:26; 51:41] (https://www.biblegateway.com/passage/?search=Jer.+25%3A26%3B+51%3A41)), which is usually interpreted as a coded form (Athbash) by which *š* = *b*, etc. The proposed equation with *ŠEŠ.KU* in a late king list has been
+The oldest attested extrabiblical name is the Sumerian ká-dingir-ki (usually written ká-dingir-ra, “gate of god”). This may have been atranslation of the more commonly used later Babylonian *Bāb-ilī*, of which an etymology based on Heb *bālal*, “confused,” is given in Gen 11:9. Throughout the OT and NT, Babylon stands theologically for the community that is anti-God. Rarely from 2100 b.c. and frequently in the 7th cent Babylon is called TIN.TIR.KI, “wood (trees) of life,” and from the latter period also. E.KI, “canal zone (?).” Other names applied to at least part of the city were *ŠU.AN.NA*, “hand of heaven” or “high-walled (?),” and the Heb *šēšaḵ* (Jer. 25:26; 51:41), which is usually interpreted as a coded form (Athbash) by which *š* = *b*, etc. The proposed equation with *ŠEŠ.KU* in a late king list has been
 questioned, since this could be read equally well as (É).URU.KU.
 
 ##III. Early History

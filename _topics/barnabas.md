@@ -9,7 +9,7 @@ layout: lesson
 
 Barnabas was born in Cyprus and died in Salamis in the first century. His Jewish parents called him Joseph, but when he sold all his goods and gave the money to the apostles in Jerusalem, the Christians gave him a new name: Barnabas, which means son of consolation or man of encouragement. Although Barnabas was not among the original twelve, he is traditionally thought to have been among the seventy-two commissioned by Jesus to preach; thus, he is given the honorary title of apostle.
 
-Barnabas the Levite lived with the earliest Christians in Jerusalem. He was one of the first to welcome Saint Paul, the former persecutor of the early church, and his former schoolmate. He persuaded the Christians of Jerusalem to accept Paul’s claim that he was now a believer in Jesus ([Acts 9:26-30])(http://www.biblegateway.com/passage/?search=Acts+9%3A26-30). Barnabas was sent to Antioch, Syria, to investigate the community of non-Jewish believers there (Acts 11:22 ff), and brought
+Barnabas the Levite lived with the earliest Christians in Jerusalem. He was one of the first to welcome Saint Paul, the former persecutor of the early church, and his former schoolmate. He persuaded the Christians of Jerusalem to accept Paul’s claim that he was now a believer in Jesus (Acts 9:26-30). Barnabas was sent to Antioch, Syria, to investigate the community of non-Jewish believers there (Acts 11:22 ff), and brought
 Paul there from Tarsus. It was in Antioch that the followers of The Way were first called Christians. With Paul he took the donation from Antioch to Jerusalem community during a famine.
 
 After this Barnabas, his cousin John Mark, and Paul returned to Antioch before setting out together on the first missionary journey of the Christian church (Acts 13:2ff). They went first to Cyprus, Barnabas’s native land, and for this reason Barnabas is honored as the founder of the Cypriot church. Then they continued on to Perga (whence John Mark returned to Jerusalem), Antioch in Pisidia (where they were so violently opposed by the Jews that they decided to preach to the pagans) and Iconium (where they were stoned).
@@ -44,5 +44,5 @@ The gospel of Barnabas was probably authored by an Italian Christian who became 
 
 Barnabas is especially venerated in Florence, Italy, and Cyprus. He is invoked against hailstorms and as a peacemaker.
 
-Bible references to Barnabas: [Acts 4:36; 9:27; 11:22, 30; 12:25; 13:1, 2, 7, 43, 46, 50; 14:12, 14, 20; 15:2, 12, 22, 25, 35, 36, 37, 39; 1 Cor. 9:6] (https://www.biblegateway.com/passage/?search=Acts+4%3A36%3B+9%3A27%3B+11%3A22%2C+30%3B+12%3A25%3B+13%3A1%2C+2%2C+7%2C+43%2C+46%2C+50%3B+14%3A12%2C+14%2C+20%3B+15%3A2%2C+12%2C+22%2C+25%2C+35%2C+36%2C+37%2C+39%3B+1+Cor.+9%3A6&version=NASB); [Gal. 2:1, 9, 13; Col. 4:10] (https://www.biblegateway.com/passage/?search=Gal.+2%3A1%2C+9%2C+13%3B+Col.+4%3A10&version=NASB).
+Bible references to Barnabas: Acts 4:36; 9:27; 11:22, 30; 12:25; 13:1, 2, 7, 43, 46, 50; 14:12, 14, 20; 15:2, 12, 22, 25, 35, 36, 37, 39; 1 Cor. 9:6; Gal. 2:1, 9, 13; Col. 4:10.
 

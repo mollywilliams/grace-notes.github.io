@@ -21,7 +21,7 @@ One of the strongest pressures against being true to the word of God comes from 
 
 **Avoid those who cause divisions and offense.**
 
-* [Romans 16:17, 18] (https://www.biblegateway.com/passage/?search=Romans+16%3A17-18). “_Now I beseech you brethren, mark them which cause divisions and offenses contrary to the doctrine which ye have learned; and avoid them. For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple._”
+* Romans 16:17, 18. “_Now I beseech you brethren, mark them which cause divisions and offenses contrary to the doctrine which ye have learned; and avoid them. For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple._”
 
 **Separate from the world.**
 
@@ -29,7 +29,7 @@ One of the strongest pressures against being true to the word of God comes from 
 
 **Separate from the works of darkness.**
 
-* [Eph. 5:11, 12] (https://www.biblegateway.com/passage/?search=Eph.+5%3A11-12), “_And have no fellowship with the unfruitful works of darkness, but rather reprove them. For it is a shame even to speak of those things which are done of them in secret._”
+* Eph. 5:11, 12, “_And have no fellowship with the unfruitful works of darkness, but rather reprove them. For it is a shame even to speak of those things which are done of them in secret._”
 
 **Separate from Christians walking disorderly.**
 
@@ -39,7 +39,7 @@ One of the strongest pressures against being true to the word of God comes from 
 
 * Matt. 18:15-17, “_Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother. But if he will not hear thee, then take with thee one or two more, that in the mouth of two or three witnesses every word may be established. And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican._”
 
-*  [Titus 3:9–11] (https://www.biblegateway.com/passage/?search=Titus+3%3A9%E2%80%9311), “_But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain. A man that is an heretic after the first and second admonition reject; knowing that he that is such is subverted, and sinneth, being condemned of himself._”
+*  Titus 3:9–11, “_But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain. A man that is an heretic after the first and second admonition reject; knowing that he that is such is subverted, and sinneth, being condemned of himself._”
 
 **Separate from false teachers.**
 
@@ -55,7 +55,7 @@ One of the strongest pressures against being true to the word of God comes from 
 
 **Separate from sinful activities of the unbeliever.**
 
-[1 Cor. 5:9-11; 1 Kings 11:12; 2 Cor. 6:14; 2 Chron. 19:2; Heb. 13:13] (https://www.biblegateway.com/passage/?search=1+Cor.+5%3A9-11%3B+1+Kings+11%3A12%3B+2+Cor.+6%3A14%3B+2+Chron.+19%3A2%3B+Heb.+13%3A13+) ; [Ex. 34:12; 1 Pet. 4:1-5; Prov. 1:10-19; 4:14; 24:1; Num. 33:55] (https://www.biblegateway.com/passage/?search=+Ex.+34%3A12%3B+1+Pet.+4%3A1-5%3B+Prov.+1%3A10-19%3B+4%3A14%3B+24%3A1%3B+Num.+33%3A55)
+1 Cor. 5:9-11; 1 Kings 11:12; 2 Cor. 6:14; 2 Chron. 19:2; Heb. 13:13 ; Ex. 34:12; 1 Pet. 4:1-5; Prov. 1:10-19; 4:14; 24:1; Num. 33:55
 
 The Christian’s main goals in life should be occupation with the Lord Jesus Christ, conformity to His image, and fulfilling the plan of God for his life. The believer must make careful decisions about his purpose in life. He must compare every activity in his life with his goals to see whether the activity helps or hinders him in reaching the goals.
 

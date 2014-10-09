@@ -36,7 +36,7 @@ You are **in the eternal plan of God**, sharing the destiny of the Lord Jesus Ch
 
 * **[Titus 1:1]()**. _Paul, a bond-servant of God and an apostle of Jesus Christ, for the faith of those chosen of God and the knowledge of the truth which is according to godliness,_
 
-* **[1 Peter 1:1, 2]() (http://www.biblegateway.com/passage/?search=1+Peter+1%3A1-2)**. _Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen_
+* **1 Peter 1:1, 2**. _Peter, an apostle of Jesus Christ, To those who reside as aliens, scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, who are chosen_
 
 **Predestined**
 

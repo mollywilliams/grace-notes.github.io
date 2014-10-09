@@ -108,7 +108,7 @@ Those in eternity who glorify God will be those who had maximum Bible doctrine i
 
 Only the soul, not the body, was made in the image of God.
 
-* [Genesis 1:26,27] (https://www.biblegateway.com/passage/?search=Genesis+1%3A26-27). _Then God said, “Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the cattle and over all the earth, and over every creeping thing that creeps on the earth.” God created man in His own image, in the image of God He created him; male and female He created them._
+* Genesis 1:26,27. _Then God said, “Let Us make man in Our image, according to Our likeness; and let them rule over the fish of the sea and over the birds of the sky and over the cattle and over all the earth, and over every creeping thing that creeps on the earth.” God created man in His own image, in the image of God He created him; male and female He created them._
 
 * Genesis 2:7. _Then the Lord God formed man of dust from the ground, and breathed into his nostrils the breath of life; and man became a living being._
 
@@ -128,7 +128,7 @@ The soul becomes the seat of misery because of the residuals of sin in the soul.
 
 * Psalm 106:15. _He gave them their request, But sent a wasting disease among them._
 
-* [Psalm 119:25, 28, 81] (https://www.biblegateway.com/passage/?search=Psalm+119%3A25%2C+28%2C+81). _My soul cleaves to the dust; Revive me according to Your word. My soul weeps because of grief; Strengthen me according to Your word. My soul languishes for Your salvation; I wait for Your word._
+* Psalm 119:25, 28, 81. _My soul cleaves to the dust; Revive me according to Your word. My soul weeps because of grief; Strengthen me according to Your word. My soul languishes for Your salvation; I wait for Your word._
 
 The soul is the area for all capacities, good or bad.
 

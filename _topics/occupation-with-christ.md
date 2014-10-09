@@ -10,7 +10,7 @@ The Lord has made available many provisions for living according to His plan and
 
 These provisions are part of the great store of blessings which God has already made available to us in Christ.
 
-[Eph. 1:3](http://www.biblegateway.com/passage/?search=eph+1%3A3), “_And has blessed us with all spiritual blessings in heavenly places in Christ._”
+Eph. 1:3, “_And has blessed us with all spiritual blessings in heavenly places in Christ._”
 
 These provisions include:
 
@@ -57,7 +57,7 @@ The Lord Jesus Christ is invisible to us because He is in heaven, seated at the 
 
 Therefore, we can only come to love Jesus Christ, to be occupied with Christ, through learning the Word of God and making His thoughts our thoughts.
 
-[1 Cor. 2:16](http://www.biblegateway.com/passage/?search=1+Cor.+2%3A16), _For who has known the mind of the Lord, that he should instruct Him? But we have the mind of Christ._
+1 Cor. 2:16, _For who has known the mind of the Lord, that he should instruct Him? But we have the mind of Christ._
 
 This love for Jesus Christ can only come about through applied Bible truth.
 
@@ -69,7 +69,7 @@ Joy and occupation with Christ always go together, you can’t have one without 
 
 *Difference Between Indwelling of Christ and Occupation with Christ*
 
-The Indwelling of Christ is not an experience. Every Christian, whether a novice or advanced believer, is indwelt by Christ, has been since the point of salvation, and always will be. You find this teaching in [John 14:20; Rom. 8:10; 2 Cor. 13:5; Gal. 2:20; Col. 1:27; and 1 John 2:24](http://www.biblegateway.com/passage/?search=John+14%3A20%3B+Rom.+8%3A10%3B+2+Cor.+13%3A5%3B+Gal.+2%3A20%3B+Col.+1%3A27%3B+1+John+2%3A24).
+The Indwelling of Christ is not an experience. Every Christian, whether a novice or advanced believer, is indwelt by Christ, has been since the point of salvation, and always will be. You find this teaching in John 14:20; Rom. 8:10; 2 Cor. 13:5; Gal. 2:20; Col. 1:27; and 1 John 2:24.
 
 Christ indwells believers for a number of reasons: (1) as a sign that a Christian is a member of God’s royal family, (2) as a guarantee of the blessings which we have for time and eternity, (3) as a guarantee of eternal life and a life after death in the presence of God, (4) as a motivation for us to stay in the plan of God, especially when we experience suffering.
 
@@ -79,31 +79,31 @@ Occupation with Christ is the main motivation in a Christian’s life. And it is
 
 The following are expressions of the process of being occupied with Christ. Notice in each case how the Christian is involved in a thought and decision process leading to occupation with Christ.
 
-* “Christ being formed in you…” ([Gal. 4:19](http://www.biblegateway.com/passage/?search=Gal.+4%3A19))
+* “Christ being formed in you…” (Gal. 4:19)
 
-* “Christ at home in your hearts…” ([Eph. 3:17](http://www.biblegateway.com/passage/?search=Eph.+3%3A17))
+* “Christ at home in your hearts…” (Eph. 3:17)
 
-* “Christ shall even now, as always, be exalted in my body, whether by life or by death” ([Phil. 1:20](http://www.biblegateway.com/passage/?search=Phil.+1%3A20)).
+* “Christ shall even now, as always, be exalted in my body, whether by life or by death” (Phil. 1:20).
 
 Occupation with Christ makes an issue out of knowledge of the Word of God, setting right priorities, being involved and active in the plan of God, and glorifying God during a Christian’s lifetime.
 
 **Characteristics of Occupation with Christ**
 
-1. Jesus Christ is God; so, occupation with Christ is the greatest expression of love toward God, the objective of all Christians: [Deut. 6:5](http://www.biblegateway.com/passage/?search=Deut.+6%3A5), “_Love the Lord your God with all your heart…_”
+1. Jesus Christ is God; so, occupation with Christ is the greatest expression of love toward God, the objective of all Christians: Deut. 6:5, “_Love the Lord your God with all your heart…_”
 
-2. Occupation with Christ becomes the means for making great decisions with an impact on history: [Heb. 11:27](http://www.biblegateway.com/passage/?search=Heb.+11%3A27), “_Moses gave up the crown of Egypt. He became strong under pressure, for he saw the invisible One._”
+2. Occupation with Christ becomes the means for making great decisions with an impact on history: Heb. 11:27, “_Moses gave up the crown of Egypt. He became strong under pressure, for he saw the invisible One._”
 
-2. Occupation with Christ begins as the believer moves toward spiritual maturity, [Col. 3:15-l7](http://www.biblegateway.com/passage/?search=Colossians+3%3A15-17).
+2. Occupation with Christ begins as the believer moves toward spiritual maturity, Col. 3:15-l7.
 
-2. Occupation with Christ glories Him, [Eph. 3:17-21](http://www.biblegateway.com/passage/?search=Eph.+3%3A17-21)
+2. Occupation with Christ glories Him, Eph. 3:17-21
 
-2. Occupation with Christ means that human beings are not raised on pedestals, [Phil. 3:7,8](http://www.biblegateway.com/passage/?search=Phil.+3%3A7-8).
+2. Occupation with Christ means that human beings are not raised on pedestals, Phil. 3:7,8.
 
-6. The means of continuing to be occupied with Christ is the daily learning and application of Bible teaching while under the control of the Holy Spirit, [Jer. 9:23,24](http://www.biblegateway.com/passage/?search=Jer.+9%3A23%2C24).
+6. The means of continuing to be occupied with Christ is the daily learning and application of Bible teaching while under the control of the Holy Spirit, Jer. 9:23,24.
 
-7. Occupation with Christ is a pastor’s prime motivation to teach the Bible so that believers grow in Christ, [Heb. 6:10](http://www.biblegateway.com/passage/?search=Heb.+6%3A10).
+7. Occupation with Christ is a pastor’s prime motivation to teach the Bible so that believers grow in Christ, Heb. 6:10.
 
-8. Occupation with Christ is related to victory in spiritual warfare with Satan and his angels. With your mind in the right place, you are confident of victory, [Col. 3:1,2](http://www.biblegateway.com/passage/?search=Col.+3%3A1-2).
+8. Occupation with Christ is related to victory in spiritual warfare with Satan and his angels. With your mind in the right place, you are confident of victory, Col. 3:1,2.
 
 **The Need for Occupation with Christ**
 
