@@ -217,7 +217,7 @@ Psalm 78:31; John 3:36; Rom. 1:18; Eph. 5:6; Col. 3:6; Rev. 14:10, 19;
 
 Recognize the sin of anger and confess to the Lord when you become
 angry. “If we confess our sins, He is faithful and just to forgive us
-our sins, and to cleanse us from all unrighteousness.” I John 1:9. This
+our sins, and to cleanse us from all unrighteousness.” I John 1:9. This
 will help you maintain your walk with the Lord and be controlled or
 filled by the Holy Spirit.
 

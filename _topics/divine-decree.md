@@ -1349,7 +1349,7 @@ layout: lesson
 
 1.  We too can have foreknowledge, just like God! Here PROGNOSIS is
     defined as understanding a principle of Bible truth *before* coming
-    to a test. Now *that’s *a novel idea!
+    to a test. Now *that’s *a novel idea!
 
 2.  There is contingency at work here. Foreknowledge on our part
     certainly does not add up to certainty. Just because we know a

@@ -36,7 +36,7 @@ Our condition demands it. Eph. 2:1 declares us to be “dead” in sins.
 Death is a condition for which “life” (regeneration) is the only
 solution.
 
-Out family connection demands it. Rom. 5:12 indicates that we are dead
+Out family connection demands it. Rom. 5:12 indicates that we are dead
 because of a family relationship. Therefore, we need a new birth, a new
 family, a new Father, all of which are provided by regeneration.
 
@@ -56,7 +56,7 @@ The Means of Regeneration - The Word
 
 1 Pet. 1:23 makes it clear that the written word of God is the means of
 the new birth, because the written word is actually the living Word (see
-also Heb. 4:12; John 6:63; Acts 7:38). In practice, this means knowledge
+also Heb. 4:12; John 6:63; Acts 7:38). In practice, this means knowledge
 must precede the new birth. The miracle of the new birth cannot occur
 where the Word of God is not taught in some form.
 
@@ -75,9 +75,9 @@ of eternal life.
 
 The Basis of Regeneration - Blood
 
-Those who call on the Father, 1 Pet. 1:17­19, the family concept of
+Those who call on the Father, 1 Pet. 1:17­19, the family concept of
 regeneration. It is the blood of Christ that makes this possible
-(v. 19).
+(v. 19).
 
 The Agent of Regeneration - The Holy Spirit
 

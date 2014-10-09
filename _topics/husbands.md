@@ -34,7 +34,7 @@ relationship between spouses.
 A husband is commanded to love his wife. “Husbands, love your wives,
 even as Christ loved the church…” (Eph. 5:25) It is true that young
 women are to be taught by older women how they are to love their
-husbands (Titus 2:4). But nowhere in Scripture is there the same
+husbands (Titus 2:4). But nowhere in Scripture is there the same
 forceful command to women to love their husbands. It is paramount in the
 Bible that the wife’s love is the willing response to that which the
 husband initiates.

@@ -543,7 +543,7 @@ is in the mind long before it is in actions. Rom 1:24-27 illustrates,
 “they who exchange the doctrine of God for a lie.”
 
 Anti-establishment activity occurs when the soul is antagonistic to the
-laws of divine establishment and authority. 2 Tim 3:2-3 teaches that
+laws of divine establishment and authority. 2 Tim 3:2-3 teaches that
 this begins in the home with “disobedience to parents.” This is
 ingrained antagonism toward authority.
 

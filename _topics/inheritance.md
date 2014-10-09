@@ -86,7 +86,7 @@ not fade away, reserved in heaven for you,”
 ready to be revealed in the last time.”
 
 The indwelling of the Holy Spirit is the down payment on our
-inheritance. Eph. 1:14
+inheritance. Eph. 1:14
 
 Abraham’s inheritance is the pattern and illustration of the heritage of
 believers as described in Romans 4:9-16.

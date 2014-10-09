@@ -25,12 +25,12 @@ The Christian has confidence in
 • the resurrection body, **1 Cor. 15:51-57**
 
 See also **1 Th. 4:16-18; (verse context does not seem to fit.) and
-1 John 3:1,2.**
+1 John 3:1,2.**
 
 The **hope** of Israel is in their coming Messiah (the second coming of
 Christ, His kingdom on earth, and the new earth of eternity.
 
-**Luke 1:67-79; 2:28-32; Acts 26:6,7; 28:20; Eph. 2:12.**
+**Luke 1:67-79; 2:28-32; Acts 26:6,7; 28:20; Eph. 2:12.**
 
 The Abrahamic Covenant (amplified by the Palestinian, Davidic, and New
 Covenants) promised to Israel the land of Canaan, the eternal seed (the
@@ -38,10 +38,10 @@ Messiah), and blessing (new birth). Israel’s **hope** lies in these
 promises of God.
 
 Abraham’s **hope** was directed to the promise of a new city, the new
-Jerusalem, **Heb. 11:9,10.**
+Jerusalem, **Heb. 11:9,10.**
 
 The **hope** for the church is the blessed hope of the rapture. **Titus
-2:13-15; 1 John 3:2,3; 1 Thess. 4:13-18**
+2:13-15; 1 John 3:2,3; 1 Thess. 4:13-18**
 
 **Hope** is derived from such passages as (this verse does not fit this
 context). which it is stated that there will be no more death, tears,

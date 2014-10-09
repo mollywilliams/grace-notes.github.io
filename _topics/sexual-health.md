@@ -369,7 +369,7 @@ killed in punishment. Deut 27:21.
 
 **Additional Relevant Scriptures**
 
-Prov. 5:1-6; Prov. 6:23-35; Job 24:14-16; 1 Thess. 4:3-8; Prov. 7:10-23;
+Prov. 5:1-6; Prov. 6:23-35; Job 24:14-16; 1 Thess. 4:3-8; Prov. 7:10-23;
 1 Chron. 5:25,26; Eze. 23:35-37; Eze. 18:1-32; Prov. 6:23-35; 2 Pet.
 2:9-18; 1 Cor. 6:13-20
 

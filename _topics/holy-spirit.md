@@ -189,35 +189,35 @@ The following is a list of activities carried out by the Holy Spirit:
 
 • Reproving the world of sin: John 16:8
 
-• Making believers spiritually alive: Rom. 8:11
+• Making believers spiritually alive: Rom. 8:11
 
-• Making intercession for believers: Rom. 8:26
+• Making intercession for believers: Rom. 8:26
 
 • Making able ministers of the new covenant: 2 Cor. 3:6
 
-• Raising Christ from the dead: 1 Pet. 3:18
+• Raising Christ from the dead: 1 Pet. 3:18
 
-• Was executor of Bible inspiration: 2 Pet. 1:21
+• Was executor of Bible inspiration: 2 Pet. 1:21
 
-• Invites unbelievers to accept Christ: Rev. 22:17
+• Invites unbelievers to accept Christ: Rev. 22:17
 
 THE INDWELLING OF THE HOLY SPIRIT
 
 • The Holy Spirit lives permanently in every Christian. Rom. 8:9; Gal.
-3:2; 4:6; 1 Cor. 6:19, 20.
+3:2; 4:6; 1 Cor. 6:19, 20.
 
 • The indwelling of the Holy Spirit is called the “unction” in 1 John
 2:20, and “anointing” in 1 John 2:27. These are synonyms for
 “indwelling.”
 
 • The prophecy of the indwelling of the Holy Spirit is found in John
-7:37-39; John 14:16, 17.
+7:37-39; John 14:16, 17.
 
 • The indwelling of the Holy Spirit must be distinguished from the
 indwelling of the Lord Jesus Christ.
 
 Christ indwells the believer for the purpose of fellowship, Rom. 8:10;
-2 Cor. 13:5.
+2 Cor. 13:5.
 
 The Holy Spirit indwells the believer for the purpose of function, Gal.
 5:22-23.
@@ -240,7 +240,7 @@ truth, John 14:26; 16:12-15; 1 Cor. 2:9-16; 1 John 2:27. This is the
 “how to” of edification.
 
 • The indwelling of the Holy Spirit is necessary because of the
-spiritual conflict in “high places” (spiritual warfare), John 7:37-39.
+spiritual conflict in “high places” (spiritual warfare), John 7:37-39.
 
 THE SEALING MINISTRY OF THE HOLY SPIRIT
 
@@ -334,7 +334,7 @@ Results of the Filling of the Holy Spirit
 
 • Prayer: Eph. 6:18 with Psalm 66:18
 
-• Leadership in Ministry: John 16:13; Acts 10:9, 10; Acts 13:2; Acts
+• Leadership in Ministry: John 16:13; Acts 10:9, 10; Acts 13:2; Acts
 16:6
 
 THE HOLY SPIRIT PROVIDES SPIRITUAL POWER
@@ -345,7 +345,7 @@ Christ to his disciples was “He shall give you another Comforter, that
 he may abide with you forever, even the Spirit of Truth. He dwells with
 you and shall be in you.”
 
-The prophesy of John the Baptist in Matt. 3:11 regarding the coming
+The prophesy of John the Baptist in Matt. 3:11 regarding the coming
 ministry of the Lord Jesus also announced the ministry of the Holy
 Spirit for the church age.
 
@@ -365,16 +365,16 @@ Examples of believers receiving the Holy Spirit:
 
 The Benefits Derived from Spiritual Power
 
-• Men receive courage to rebuke sin: Matt. 3:8
+• Men receive courage to rebuke sin: Matt. 3:8
 
-• Men are enabled to speak with confidence: Acts 4:31-33
+• Men are enabled to speak with confidence: Acts 4:31-33
 
-• Gives spiritual and moral strength: 2 Sam. 22:40; Isa. 28:6; Isa.
+• Gives spiritual and moral strength: 2 Sam. 22:40; Isa. 28:6; Isa.
 40:31; 41:10; Dan. 11:32; Eph. 3:16
 
-• Provides strength in weakness: 1 Cor. 1:27; 2 Cor. 12:9; 13:4
+• Provides strength in weakness: 1 Cor. 1:27; 2 Cor. 12:9; 13:4
 
-• Provides spiritual gifts: Rom. 12:6; Eph. 4:11
+• Provides spiritual gifts: Rom. 12:6; Eph. 4:11
 
 THE FRUIT OF THE HOLY SPIRIT
 
@@ -426,7 +426,7 @@ are committed by Christians.
 Lord Jesus Christ and a rejection of the pre-salvation ministry of the
 Holy Spirit (John 16:7-11) through the sin of unbelief
 
-• Blasphemy of the Holy Spirit: Matt. 12:31, 32. This refers to
+• Blasphemy of the Holy Spirit: Matt. 12:31, 32. This refers to
 rejection of Jesus Christ during His ministry on earth (during the
 previous dispensation, the Age of the Jews).
 

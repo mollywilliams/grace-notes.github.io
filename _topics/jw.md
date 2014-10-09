@@ -34,7 +34,7 @@ belongs to Jehovah alone. In Rev. 1:8,11,17 and 22:13,14, Jesus Christ
 is shown possessing this very attribute.
 
 Isaiah 45:22-25 speaks of a universal worship which one day all mankind
-will render unto Jehovah. Phil. 2:9-11 applies this passage to Jesus
+will render unto Jehovah. Phil. 2:9-11 applies this passage to Jesus
 Christ.
 
 Isaiah 44:22,23 sets forth Jehovah as the redeemer. Eph. 1:7 establishes
@@ -50,7 +50,7 @@ Savior, thereby establishing Him as the Jehovah of Isaiah 43.
 **. . . teach that Jesus Christ is a created being - a created god.**
 
 This error is reached through a false translation in the New World
-Translation of the Greek New Testament which renders John 1:1 as “And
+Translation of the Greek New Testament which renders John 1:1 as “And
 the Word was **a** god…” This premise is refuted in Isaiah 43:10, 44:6,
 and 45:5, 21. For times Jehovah declares the impossibility of there
 being “another god” or “a god” besides Himself.
@@ -64,7 +64,7 @@ in the following references: Acts 5:3,4; 1 Cor. 3:16; 2 Cor. 13:14.
 
 In 1 Cor. 12:4-6 the Holy Spirit is called Lord and God. In placing
 Isaiah 68:10 alongside Acts 28:25-27, it becomes evident that the God of
-Isaiah 6 is the Holy Spirit.
+Isaiah 6 is the Holy Spirit.
 
 **. . . deny the Biblical doctrine of the Trinity.**
 

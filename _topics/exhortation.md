@@ -368,7 +368,7 @@ Of judgment, because the prince of this world is judged.
 
 The value of rebuke in witnessing and teaching.
 
-**1 Cor. 14:20-25.  **Brethren, be not children in understanding:
+**1 Cor. 14:20-25.  **Brethren, be not children in understanding:
 howbeit in malice be ye children, but in understanding be men.
 
 In the law it is written, With *men of* other tongues and other lips

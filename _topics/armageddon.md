@@ -515,20 +515,20 @@ NOTES:
 scholarship of Pastor Robert Thieme, Jr., Clarence Larkin and E.W.
 Bullinger.
 
-[2] E. W. Bullinger  Commentary on Revelation
+[2] E. W. Bullinger  Commentary on Revelation
 
-[3] Pastor Robert Thieme, Jr.  Revelation; from notes
+[3] Pastor Robert Thieme, Jr.  Revelation; from notes
 
 [4] This exposition is extracted from the scholarship of E.W. Bullinger,
-Clarence Larkin, and Pastor Robert Thieme, Jr.  From notes, handwritten,
+Clarence Larkin, and Pastor Robert Thieme, Jr.  From notes, handwritten,
 undated
 
-[5] Pastor Robert Thieme, Jr..  Revelation; from notes taken in 1970’s,
+[5] Pastor Robert Thieme, Jr..  Revelation; from notes taken in 1970’s,
 undated.
 
 [6] Pastor Robert Thieme, Jr..
 
-[7] Pastor Robert Thieme, Jr.  Revelation; from undated notes.
+[7] Pastor Robert Thieme, Jr.  Revelation; from undated notes.
 
 [8] E.W. Bullinger, Commentary on Revelation; page 597.
 

@@ -183,7 +183,7 @@ words, they were not walking straight.
 
 Walking in the light is a term used specifically for the believer’s
 execution of God’s will, plan and purpose for the church age. The
-concept of walking in the light is found in Eph. 5:8, "You were once in
+concept of walking in the light is found in Eph. 5:8, "You were once in
 darkness , but now you are light in the Lord. Begin walking
 (**peripatew**) as children of light.”
 

@@ -391,7 +391,7 @@ The Pseudepigraphical Writings
 **Pseudepigrapha** are falsely attributed works, texts whose claimed
 authorship is represented by a separate author; or a work, “whose real
 author attributed it to a figure of the past.”The word “pseudepigrapha”
-is from the Greek: ψευδής, *pseudes*, “false” and ἐπιγραφή, *epigraphē*,
+is from the Greek: ψευδής, *pseudes*, “false” and ἐπιγραφή, *epigraphē*,
 “name” or “inscription” or “ascription”; thus when taken together it
 means “false superscription or title”. (Wikipedia)
 

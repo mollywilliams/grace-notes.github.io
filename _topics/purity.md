@@ -50,11 +50,11 @@ This does not mean, “All things are pure in the judgment of the pure.”
 It is true that a pure minded man will not usually put evil
 constructions or interpretations on things. But to say that something is
 pure because he judges it to be so, or because he cannot be defiled, is
-false. The context of Titus 1 makes it clear that the apostle Paul is
+false. The context of Titus 1 makes it clear that the apostle Paul is
 referring to matters of Judaistic practice, ceremonial purifications,
 among other things, that have been misconstrued by false teachers.
 
-Read the following passage from Luke 11:37-44.
+Read the following passage from Luke 11:37-44.
 
 ”And as he spoke, a certain Pharisee besought him to dine with him: and
 he went in, and sat down to meat.”
@@ -108,7 +108,7 @@ Problems of impurity in life are attacked in the area of the mind.
 Timothy was commanded to “flee also youthful lusts…” But he was told in
 the same verse how to do this, to “follow righteousness, faith, love,
 peace, with them that call on the Lord out of a pure heart.”
-(2 Tim. 2:22)
+(2 Tim. 2:22)
 
 How often only the first part of the above verse is quoted, so that the
 believer never learns how to have victory over areas of weakness. Lust

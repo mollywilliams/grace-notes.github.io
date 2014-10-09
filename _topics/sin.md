@@ -51,7 +51,7 @@ THE SEQUENCE OF SIN
 In the Bible, sin is discussed under three types. The first type of sin
 is called Imputed Sin. This is the concept that, when Adam sinned, the
 whole human race sinned. Thus, when Adam was counted guilty, every human
-being shares his guilt. These things are mentioned in 1 Cor. 15:22; Rom.
+being shares his guilt. These things are mentioned in 1 Cor. 15:22; Rom.
 5:12; and Rom. 3:23.
 
 The second part of the sin “package” is known as Inherited Sin. Adam
@@ -73,10 +73,10 @@ race, including each aspect of sin mentioned in the previous section.
 
 As far as Imputed Sin is concerned, although in Adam we are counted
 “guilty” and spiritually dead, in Jesus Christ we are counted “not
-guilty” and spiritually alive. 1 Cor. 15:22; Eph 2:1,5,6.
+guilty” and spiritually alive. 1 Cor. 15:22; Eph 2:1,5,6.
 
 The problem of Inherited Sin was also dealt with at the Cross, as Jesus
-died to provide for the Sin Nature. 1  John 1:7. Human good, which is a
+died to provide for the Sin Nature. 1  John 1:7. Human good, which is a
 product of the Sin Nature, was rejected at the Cross, making salvation
 and all other spiritual benefits to be total products of the Grace of
 God, “not of works lest any man should boast”. Eph. 2:8,9; Rom. 4:4;
@@ -108,7 +108,7 @@ sin. 2 Cor. 5:21. He was therefore a free man and not in the slave
 market with us.
 
 The Lord Jesus Christ purchased us from the slave market of sin and set
-us free. 1 Pet. 1:18,19; 1 Cor. 6:20; Eph. 1:7. The gate to the slave
+us free. 1 Pet. 1:18,19; 1 Cor. 6:20; Eph. 1:7. The gate to the slave
 market has been removed for all people; but actual freedom depends on
 whether the individual exercises his free will in accepting the offer of
 freedom. The only way out of the slave market of sin is through Jesus
@@ -138,7 +138,7 @@ The Essence of the Sin Nature
 The Sin Nature has an “area” of strengths in which human good is
 produced, that is, those good deeds and thoughts which are acceptable to
 man but which are unacceptable to God for purposes of salvation or
-spiritual growth. Isa. 64:6; Rom. 8:8. In the Bible, human good is
+spiritual growth. Isa. 64:6; Rom. 8:8. In the Bible, human good is
 contrasted with divine good, which is the work produced by the Spirit of
 God in the life of a believer who is walking in daily fellowship with
 the Lord under the control of the Holy Spirit.
@@ -164,14 +164,14 @@ Bible Synonyms for the Sin Nature
 There are several terms used in scripture to refer to what is known as
 the Sin Nature.
 
-Sin (in the singular) – Ps. 51:5; Rom. 5:12; 7:14; 1 John 1:8.
+Sin (in the singular) – Ps. 51:5; Rom. 5:12; 7:14; 1 John 1:8.
 
 Flesh – the emphasis here is on the location of the Sin Nature in the
 “flesh” or life of the individual. Rom. 8:8; 7:18; 13:14; Gal. 5:16-21;
 Eph. 2.3.
 
 Old Man – referring to the believer’s former manner of life as an
-unbeliever. Eph. 4:22; Col.   3:5–9.
+unbeliever. Eph. 4:22; Col.   3:5–9.
 
 Heart – in some usages the word “heart” refers to a facet of the soul
 which is the source of sin. Jer. 17:9; Mt. 12:34; 15:19; Mark 7:21-23;
@@ -186,7 +186,7 @@ Principles Related to the Sin Nature
 The Sin Nature is the source of spiritual death. Rom. 5:12; Eph. 2:1,5.
 
 The Sin Nature is perpetuated in human beings through physical birth.
-Ps. 51:5; 1 Tim. 2:13,14. The believer continues to have his Sin Nature
+Ps. 51:5; 1 Tim. 2:13,14. The believer continues to have his Sin Nature
 after salvation. 1 Cor. 3:1; 1 John 1:8. The believer under the control
 of the Sin Nature is called “carnal”. Rom. 7:14; 1 Cor. 3:1ff
 
@@ -211,14 +211,14 @@ The unbeliever will be at the Great White Throne judgment because of his
 rejection of this grace provision. Rev. 20:11-15.
 
 The believer’s sins were borne on the Cross by the Lord, as were those
-of all people. 2 Cor. 5:21. When a believer sins, Satan accuses him in
+of all people. 2 Cor. 5:21. When a believer sins, Satan accuses him in
 heaven. Jesus Christ is our Advocate; He pleads our case, and the case
 is thrown out of court.
 
 God has provided confession of sin as a means of restoring the broken
 fellowship with God caused by the believer’s personal sin. The believer
 can repent and confess and be filled with the Spirit. 1 John 1:9;
-Prov. 1:23.
+Prov. 1:23.
 
 Human good, rejected by Jesus Christ (Eph. 2:8,9), is never acceptable
 to God, and it does not produce blessing in the life of the believer. It
@@ -446,15 +446,15 @@ can give the ability to think correctly under pressure. The Christian’s
 ability to think correctly is based on how much Bible teaching is
 resident (applied) in the soul of the believer.
 
-The Christian is commanded to have a new mental attitude. Col. 3:1,2; 2
-Cor. 10:4,5; 1 Cor. 2:16; Phil. 2:5.
+The Christian is commanded to have a new mental attitude. Col. 3:1,2; 2
+Cor. 10:4,5; 1 Cor. 2:16; Phil. 2:5.
 
 The warfare between two viewpoints in the believer’s soul must be fought
 from within, first by knowledge of doctrine, and then by the application
-of truth to the life. 2 Tim. 2:15; 1 John 1:9.
+of truth to the life. 2 Tim. 2:15; 1 John 1:9.
 
 Every believer has a mind which is capable of looking at life from God’s
-point of view. Rom. 1:18 ff. Mental attitude divine viewpoint is
+point of view. Rom. 1:18 ff. Mental attitude divine viewpoint is
 obtained only through Bible study accompanied by the controlling
 ministry of the Holy Spirit. The Christian who habitually studies the
 Word learns to concentrate and to think from God’s point of view, and
@@ -474,19 +474,19 @@ The conscience is located in the mind and is the center for the
 operating standards of the human soul. Titus 1:15. The conscience
 convicts the Christian of evil or wrongdoing. John 8:9. The conscience
 establishes standards for both human and divine relationships.
-Acts 24:16.
+Acts 24:16.
 
 The conscience functions on thinking; and the believer in fellowship has
 a conscience which functions from resident (applied) divine viewpoint.
-Rom. 2:15; 9:1, as related to applied Bible teaching. The conscience
-establishes standards for serving God. 2 Tim. 1:3; Heb. 9:14. But false
-operating standards in the conscience produce legalism. 1 Cor. 8:7.
+Rom. 2:15; 9:1, as related to applied Bible teaching. The conscience
+establishes standards for serving God. 2 Tim. 1:3; Heb. 9:14. But false
+operating standards in the conscience produce legalism. 1 Cor. 8:7.
 
 The more the believer uses applied Bible doctrine, the stronger his
 conscience becomes in using such thinks as the Law of Liberty and the
 superseding laws of love and sacrifice. 1 Cor. 10:24-29. Conscience is
 the basis for enduring mistreatment and misunderstanding without
-defending oneself. 1 Pet. 2:19; 3:16. The conscience can be damaged or
+defending oneself. 1 Pet. 2:19; 3:16. The conscience can be damaged or
 destroyed with false doctrine and with a calloused soul. 1 Tim. 4:1,2.
 
 The Mechanics of Replacing Human Thinking with Divine Viewpoint
@@ -494,18 +494,18 @@ The Mechanics of Replacing Human Thinking with Divine Viewpoint
 
 The Christian life is a supernatural life and cannot be lived without
 the filling of the Holy Spirit and the daily function of applied Bible
-teaching. Rom. 8:2; 7:6; Gal. 5:25; Eph. 5:18. All changes must come
+teaching. Rom. 8:2; 7:6; Gal. 5:25; Eph. 5:18. All changes must come
 from within, and the Holy Spirit must originate divine good by applying
 doctrine to the life.
 
 We begin a change of viewpoint at the moment of salvation. At that time
-we changed our mental attitude toward the Lord Jesus Christ. Acts 3:19.
+we changed our mental attitude toward the Lord Jesus Christ. Acts 3:19.
 That was repentance and faith, and it resulted in our regeneration.
-John 3:16. At that moment many benefits were made available to us,
+John 3:16. At that moment many benefits were made available to us,
 blessings and promises from God which enable us to live in a manner
 which is both acceptable to the Lord and which also produces great
 happiness for us. We are given the ability to think those things which
-will bring honor to the Lord. Eph. 5:18; 4:23; Col. 3:2.
+will bring honor to the Lord. Eph. 5:18; 4:23; Col. 3:2.
 
 The choice of whether to make use of the divine operating assets is made
 by the believer every day. The power or our walk with the Lord depends
@@ -520,26 +520,26 @@ The Benefits of Having a Proper Mental Attitude
 With the proper mental attitude, the Christian will have victory, peace,
 power, and mental stability. Phil. 2:5; 2 Tim. 1:7. The Christian can
 experience perfect inner peace, ever during times of difficulty and
-suffering. Phil. 4:7. Inner peace comes from what we think. Isa. 26:3.
+suffering. Phil. 4:7. Inner peace comes from what we think. Isa. 26:3.
 Divine viewpoint brings mental stability and eliminates discouragement,
 anxiety, instability, fearfulness, and double-mindedness. Stability of
 mind and character is a mental attitude of strength.
 
 The believer with divine viewpoint has a gracious attitude toward
 others. He is a mature believer characterized by mental attitude love
-who is a channel of the Grace of God. Deut. 6:5; 11:13. A mental
+who is a channel of the Grace of God. Deut. 6:5; 11:13. A mental
 attitude from DVP produces confidences based on absolute values and
-standards. 2 Cor. 5:1,6,8.
+standards. 2 Cor. 5:1,6,8.
 
 Mental Attitude and the Believer’s Ministry
 -------------------------------------------
 
 The mature believer “thinks Grace”, which is the “mind of Christ”.
 Therefore, the Christian’s life and personality are characterized by
-many of the qualities of the life of the Lord Jesus Christ. Rom. 8:29;
-Gal. 5:22 ff. In every one of these characteristics the Christian has
+many of the qualities of the life of the Lord Jesus Christ. Rom. 8:29;
+Gal. 5:22 ff. In every one of these characteristics the Christian has
 one basic ingredient - correct thinking according to divine viewpoint.
-1 Pet. 3:8
+1 Pet. 3:8
 
 Therefore, the mature believer is gentle, compassionate, caring, and has
 a gracious attitude toward others. These are essential life qualities in
@@ -623,12 +623,12 @@ Eph. 4:17-22, 25, 29-32.
 
 Verbal sins can destroy a family or a congregation. Things like gossip,
 slander, maligning, judging, backbiting, and boasting are malicious,
-venal, and destructive. James 3:5,6. Troublemakers are always
-characterized by sins of the tongue. Psalm 52:2.
+venal, and destructive. James 3:5,6. Troublemakers are always
+characterized by sins of the tongue. Psalm 52:2.
 
 It is the duty of the pastor to warn against these things. 2
- Tim. 2:14-17. And believers are commanded to separate themselves from
-such troublemakers. Rom. 16:17,18. This separation may be just a turning
+ Tim. 2:14-17. And believers are commanded to separate themselves from
+such troublemakers. Rom. 16:17,18. This separation may be just a turning
 away or refusal to comment or to reply in a conversation. Separation
 does not mean ostracism or excommunication except in the worst cases. It
 means, at first, refusal to participate. Teaching on this topic may
@@ -651,10 +651,10 @@ Types of Sins of the Tongue
 *Backbiting* - slander, defamation of character, evil speech,
 detraction. Found in several places in the Bible, including Rom. 1:30 as
 one of the sins of the immoral person who has rejected God. READ Psalm
-15:3; 50:20; 101:5; Proverbs 25:23; Jer. 9:4; Rom. 1:30; 2 Cor. 12:20.
+15:3; 50:20; 101:5; Proverbs 25:23; Jer. 9:4; Rom. 1:30; 2 Cor. 12:20.
 
 *False Witness* - lying about people, especially while under oath.
-Prov. 25:28; Exo. 32:1; Prov. 19:9. Examples of false witness:
+Prov. 25:28; Exo. 32:1; Prov. 19:9. Examples of false witness:
 
 - Against Stephen, Acts. 6:11
 
@@ -663,7 +663,7 @@ Prov. 25:28; Exo. 32:1; Prov. 19:9. Examples of false witness:
 - Against Christ, Matthew and Mark
 
 *Perjury* - lying under oath. READ Lev. 6:3; 19:12; Zech. 5:4; Mal. 3:5;
-1 Tim. 1:10
+1 Tim. 1:10
 
 *Lying* - READ Prov. 12:22; 21:6; Col. 3:9; Lev. 19:11; Luke 20:20.
 
@@ -685,7 +685,7 @@ Also from (allotroepiskopos),
 from, “belonging to another”, and , “bishop”. Hence,
 the busybody is “another man’s bishop”.
 
-1 Pet. 4:15.
+1 Pet. 4:15.
 
 *Talebearing* - slandering, whispering behind backs. Prov. 11:13; 17:9;
 18:8
@@ -696,18 +696,18 @@ the busybody is “another man’s bishop”.
 Luke 7:33.
 
 *False Accusation* - READ 1 Sam. 1:14; Neh. 6:7; Job 2:5; 22:6; Jer.
-33:17; Matt. 5:11; 27:12; Luke 6:7; 1 Peter 3:16.
+33:17; Matt. 5:11; 27:12; Luke 6:7; 1 Peter 3:16.
 
 *Evil Speaking* - READ Ps. 5:9; 10:7; 36:3; 55:21: Prov. 12:18; 24:2;
-Matt. 12:34; Rom. 3:13; James 3:6; 4:11.
+Matt. 12:34; Rom. 3:13; James 3:6; 4:11.
 
 God provides protection for the believer who is, himself, a victim of
-sins of the tongue. Job. 5:19–21.
+sins of the tongue. Job. 5:19–21.
 
 Control of the tongue, the absence of verbal sins, is a sign of
 Christian edification in the believer, and it is a sign of considerable
 growth in Grace. James 3:2; 4:11,12. By avoiding sins of the tongue, the
-Christian can lengthen his life and find great happiness. Ps. 34:12,13.
+Christian can lengthen his life and find great happiness. Ps. 34:12,13.
 
 How to Have Victory Over Sins of the Tongue
 -------------------------------------------
@@ -748,16 +748,16 @@ in maximum alienation from God. Only God can discern the true nature of
 a person’s mind, attitude, or volition; and only God knows whether a
 person is actually implacable and deserving of physical death.
 
-The “sin unto death” is described as a principle in 1 John 5:16; Psalm
+The “sin unto death” is described as a principle in 1 John 5:16; Psalm
 118:17,18; and Ezek. 18:21-32.
 
 It is important for the Christian to understand the circumstances under
 which sins are not “unto death”.
 
-First, sin which is confessed is not “unto death”. 1 John 1:9;
-1 Cor. 11:31; Ps. 32:5; Ps. 38.
+First, sin which is confessed is not “unto death”. 1 John 1:9;
+1 Cor. 11:31; Ps. 32:5; Ps. 38.
 
-Second, sin which is discontinued is not “unto death”. Heb. 12:1; Eze.
+Second, sin which is discontinued is not “unto death”. Heb. 12:1; Eze.
 18:21-32.
 
 Finally, the person who responds positively to divine discipline is not
@@ -774,13 +774,13 @@ people (causing stumbling) may lead a person into severe discipline.
 Some case histories of the “sin unto death”:
 
 • The case of “lying to the Holy Spirit” (Ananias and Sapphira).
-Acts 5:1-10.
+Acts 5:1-10.
 
 • The case of persistent carnality while sitting at the Lord’s Table,
-1 Cor. 11:30,31.
+1 Cor. 11:30,31.
 
-• The case of disobedience to the Word of God.1 Chron.10:13,14;
-1 Sam. 13:9–14. King Saul did not kill Agag although directly ordered to
+• The case of disobedience to the Word of God.1 Chron.10:13,14;
+1 Sam. 13:9–14. King Saul did not kill Agag although directly ordered to
 do so by God; he insisted on personally offering sacrifices in the place
 of divinely appointed priests; and he consulted a witch, itself a
 capital offense.
@@ -889,10 +889,10 @@ judged once for our sins, on the Cross; and He does not need to be
 judged repeatedly for our sins. The basis of salvation is the
 individual’s personal trust in Christ and His work, rather than
 confession or any other act which a person might perform to try to win
-the favor of God. Acts 16:31; John 1:12; Eph. 1:13,14; 2:8,9; 1 Pet.
+the favor of God. Acts 16:31; John 1:12; Eph. 1:13,14; 2:8,9; 1 Pet.
 2:24; 2 Cor. 5:21.
 
-A Christian is always “in Christ”. Eph. 1:3,5,7. So confession of
+A Christian is always “in Christ”. Eph. 1:3,5,7. So confession of
 personal sin is extremely important to the personal spiritual
 relationship that he has with God. God requires confession of sin as the
 means of maintaining a close personal walk with Himself. He requires,
@@ -909,7 +909,7 @@ A believer may not be aware, initially, that he can live out of
 fellowship and that he needs to confess sin. 1 John 1:6; 2:9,10; 2 Pet.
 1:9. God both commands and pleads with us to judge ourselves, to
 confess, and then to forget sins. Isa. 43:26; 1 Cor. 11:28,31;
-1 John 1:9; Phil. 3:13,14; Prov. 1:23. Any person who reads the Bible
+1 John 1:9; Phil. 3:13,14; Prov. 1:23. Any person who reads the Bible
 quickly becomes aware of God’s intentions in this matter.
 
 Some Christians willfully ignore the commands to confess, leading God to
@@ -965,7 +965,7 @@ causes no merit to accrue to the person who confesses.
 Confession is strictly a Grace provision in which God makes a promise
 and carries out the function of cleansing. The Christian must (1)
 confess the sin, 1 John 1:9; (2) forget the sin, Phil. 3:13,14; and (3)
-isolate the sin, Heb. 12:15.
+isolate the sin, Heb. 12:15.
 
 Since prayer is made only to God the Father (Mark. 2:7), confession is
 made only to God the Father. Upon the condition of confession,

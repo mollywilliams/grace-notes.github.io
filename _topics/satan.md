@@ -15,10 +15,10 @@ him shudder, because he is condemned to the lake of fire mentioned in
 Matt. 25:41. Satan is more intelligent than any human. His name,
 Lucifer, means great shining light or son of the morning.
 
-A portrait of Satan and his personality are given by Eze. 28:11-19 and
+A portrait of Satan and his personality are given by Eze. 28:11-19 and
 Isa. 14:12-17.
 
-1.  The Five I Will’s of Satan Are from Isa. 14:12-17
+1.  The Five I Will’s of Satan Are from Isa. 14:12-17
     -------------------------------------------------
 
 “I will ascend into heaven”, a reference to the throne room of God.
@@ -44,7 +44,7 @@ no match for Satan, Daniel 10:3.
 Satan’s Three Falls
 
 Satan fell first at the point of negative volition toward the
-sovereignty of God, during the five I will’s; Isa. 14:12-17; Eze. 28:15.
+sovereignty of God, during the five I will’s; Isa. 14:12-17; Eze. 28:15.
 
 Satan’s second fall will occur at the middle of the tribulation when he
 is denied access to heaven. Rev. 12:9; Eze. 28:15.
@@ -137,9 +137,9 @@ word of God.
 **False teaching is a part of Satan’s strategy**. The following are some
 of the characteristics of false teachers:
 
-• They have a false facade. Matt. 7:15; Rom. 16:18.
+• They have a false facade. Matt. 7:15; Rom. 16:18.
 
-• They court believers. Gal. 4:17, 18; 2 Tim. 3:5, 7.
+• They court believers. Gal. 4:17, 18; 2 Tim. 3:5, 7.
 
 • They appeal to human pride. 2 Cor. 10:12
 
@@ -154,13 +154,13 @@ earth. 1 John 4:1
 **Satan seeks to frustrate the will of God for the believer**. There are
 three categories of the will of God which Satan tries to interdict.
 
-• The operational will of God or what God wants us to do.; James 4:7, 8;
-Gal. 5:7.
+• The operational will of God or what God wants us to do.; James 4:7, 8;
+Gal. 5:7.
 
 • The mental or intellectual will of God or what God wants us to think.:
-1 Tim. 4:1.
+1 Tim. 4:1.
 
-• The geographical will of God or where God wants us to be.:, 1 Thess.
+• The geographical will of God or where God wants us to be.:, 1 Thess.
 2:18.
 
 **Satan encourages believers to worry**. Worry neutralizes the soul of
@@ -174,7 +174,7 @@ Heb. 2:14, 15
 **Satan attempts to change the focus of the believer**. Instead of
 occupation with Christ, Satan wants the Christian to be occupied with:
 
-Self, (Col. 3:1; 1 Cor. 1:10, 11; Gen. 3:4, 5; Matt. 26:31–35)
+Self, (Col. 3:1; 1 Cor. 1:10, 11; Gen. 3:4, 5; Matt. 26:31–35)
 
 Things, (Heb. 13:5, 6; 1 Cor. 1:10), and
 
@@ -208,13 +208,13 @@ counterfeits mentioned in the Bible.
 • A counterfeit gospel, 2 Cor. 11:3, 4
 
 • Counterfeit ministers who are unsaved, humanists, etc.,
-2 Cor. 11:13-15
+2 Cor. 11:13-15
 
 • Counterfeit communion table, 1 Cor. 10:19-21
 
 • Counterfeit righteousness, Matt. 19:16-19
 
-• Counterfeit manner of life like living the beautiful life, Matt. 23
+• Counterfeit manner of life like living the beautiful life, Matt. 23
 
 • Counterfeit power, 2 Thess. 2:8-10
 

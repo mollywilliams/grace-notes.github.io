@@ -82,7 +82,7 @@ The new man not only lives in the spirit which is **not visible**, but
 he also walks in the spirit which is **visible**. One of the great
 themes of the epistle to Titus is that of the outward walk, which is a
 demonstration to the world that the inner life which is claimed is
-genuine. Three illustrations are given in Titus 2.
+genuine. Three illustrations are given in Titus 2.
 
 1. In Titus 2:4,5, Young women are to be taught how to lead godly lives
 so that “the word of God be not blasphemed.” We have a responsibility

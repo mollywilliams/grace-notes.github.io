@@ -23,32 +23,32 @@ The following are the main principles found in the Bible dealing with
 parental responsibilities:
 
 • Children are a gift from God to parents. There are both privileges and
-responsibilities resulting from this gift. Gen. 48:9; Psa. 127:3;
-Isa. 8:18
+responsibilities resulting from this gift. Gen. 48:9; Psa. 127:3;
+Isa. 8:18
 
 • The chief responsibility of parents is the teaching and training of
-their children. Deut. 6:6,7; Prov. 22:6; 2 Cor. 12:14; Eph. 6:4;
-Col. 3:21; 1 Tim. 3:4,12; Tit. 2:4; Deut. 4:9; 31:13
+their children. Deut. 6:6,7; Prov. 22:6; 2 Cor. 12:14; Eph. 6:4;
+Col. 3:21; 1 Tim. 3:4,12; Tit. 2:4; Deut. 4:9; 31:13
 
 • Parents’ duties include providing for children’s physical needs.
-2 Cor. 12:14
+2 Cor. 12:14
 
 • Parents are expected to administer correction involving discipline.
-Eph. 6:4; 1 Tim. 3:4; Deut. 4:9; Prov. 19:18; 22:15; 23:13
+Eph. 6:4; 1 Tim. 3:4; Deut. 4:9; Prov. 19:18; 22:15; 23:13
 
 In all eras of Bible history, parents brought their children to public
-Bible teaching. Josh. 8:35; 2 Chron. 20:13; Neh. 12:43; Prov. 8:17,32;
-Matt. 21:15; Psa. 34:11; Prov. 3:1
+Bible teaching. Josh. 8:35; 2 Chron. 20:13; Neh. 12:43; Prov. 8:17,32;
+Matt. 21:15; Psa. 34:11; Prov. 3:1
 
 See related passages also in Josh. 1:8; Heb. 3:13; Acts 2:46,47;
 5:41,42; 16:4,5; 17:10,11
 
-The Word of God is administered to children in large doses. 2 Tim. 3:15;
-1 Sam. 2:26; Luke 1:80; 2:49
+The Word of God is administered to children in large doses. 2 Tim. 3:15;
+1 Sam. 2:26; Luke 1:80; 2:49
 
 Parents must realize that children who, in later life, dishonor their
 parents, bear heavy consequences as the result of divine discipline.
-Deut. 21:20; 27:16; Prov. 15:20; 30:11; Micah 7:6; 2 Tim. 3:2; Matt.
+Deut. 21:20; 27:16; Prov. 15:20; 30:11; Micah 7:6; 2 Tim. 3:2; Matt.
 15:4; Isa. 45:10.
 
 A Set of Biblical Goals
@@ -170,7 +170,7 @@ parents who are tempted to be “dropouts”.
 When parents fail to commit themselves to a consistent routine of Bible
 study and Christian growth, accompanied by the consistent control of the
 Holy Spirit, a condition will occur described in the Bible as “darkness
-in the soul” or “blindness in the soul”, Eph. 4:17,18. When this
+in the soul” or “blindness in the soul”, Eph. 4:17,18. When this
 happens, the fol­lowing progressive negative results are observed, all
 of which have an enor­mous negative impact on children, as you can see.
 

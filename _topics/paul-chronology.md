@@ -172,7 +172,7 @@ Galatia
 **52**
 
 … Troas, Philippi, Thessalonica, Berea, Athens, and Corinth (writes
-**1 Thessalonians**)
+**1 Thessalonians**)
 
 Claudius expels the Jews from Rome (Acts 18:2).
 
@@ -180,7 +180,7 @@ Claudius expels the Jews from Rome (Acts 18:2).
 
 At Corinth; writes **2 Thessalonians**
 
-Tetrarchy of Trachonitis given to Agrippa II; Felix procurator.
+Tetrarchy of Trachonitis given to Agrippa II; Felix procurator.
 
 **54**
 
@@ -275,7 +275,7 @@ Summer: Paul executed at Nero’s orders.
 
 Death of Nero in middle of June. **GALBA** becomes emperor (68 to 69)
 
-Sources: Cornelius Tacitus, *The Annals of Imperial Rome* and *Agricola*
+Sources: Cornelius Tacitus, *The Annals of Imperial Rome* and *Agricola*
 
 Conybeare, W. J. and Howson, J. S., *The Life and Epistles of St. Paul*
 

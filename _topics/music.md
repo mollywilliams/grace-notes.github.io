@@ -71,7 +71,7 @@ understand, since “he does not know what you are saying (singing).”
 Singing in the Local Church
 
 There are two major passages in the New Testament dealing with singing:
-Eph. 5:14-21 and Col. 3:12-17.
+Eph. 5:14-21 and Col. 3:12-17.
 
 The overall context of Ephesians establishes the following:
 
@@ -148,7 +148,7 @@ the soul created by applied Bible truth in a believer who is filled with
 the Spirit, occupied with Christ, living in the Word.
 
 • Singing is not measured by the amount of zeal employed, but by the
-understanding that accompanies it. (See above 1 Cor. 14:15).
+understanding that accompanies it. (See above 1 Cor. 14:15).
 
 • Spiritual singing is not designed to give a Christian a good feeling.
 If it is praise, then it is directed to God. If it is teaching, it is

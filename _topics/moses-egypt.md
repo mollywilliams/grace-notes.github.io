@@ -125,10 +125,10 @@ The following inscription was found in Egyptian records detailing one of
 his well known military campaigns where he personally led his army
 against the Canaanites at the fortress of Megiddo:
 
- “Then the king moved to the front of his army . . .Where his majesty
+ “Then the king moved to the front of his army . . .Where his majesty
 [Thutmose III] triumphed over them as leader of his troops.”
 
- Some people don’t believe that the Pharaoh perished in the waters of
+ Some people don’t believe that the Pharaoh perished in the waters of
 the Red Sea because the tombs of both Pharaoh Thutmose III and his
 successor, Amenhotep II, have been found.
 
@@ -142,7 +142,7 @@ One amazing fact about Amenhotep II was that his successor was not his
 firstborn son nor his heir. This would confirm the biblical passage in
 Exodus 4:22-23 which states:
 
- “Then you shall say to Pharaoh, ’Thus says the LORD:”Israel is My son,
+ “Then you shall say to Pharaoh, ’Thus says the LORD:”Israel is My son,
 My firstborn. “So I say to you, let My son go that he may serve Me. But
 if you refuse to let him go, indeed I will kill your son, your
 firstborn.”

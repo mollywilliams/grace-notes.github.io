@@ -23,5 +23,5 @@ victory in the believer’s life. Eph. 2:6.
 The **heavenlies** is the sphere of angelic activity, Eph. 3:10.
 
 The **heavenlies** is the battlefield for spiritual warfare during the
-Church Age, Eph. 6:12 ff.
+Church Age, Eph. 6:12 ff.
 

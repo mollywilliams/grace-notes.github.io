@@ -24,10 +24,10 @@ it shall die.”
 
 But the Father, in His love for us, seeing that we could not meet His
 standards, sent His Son to bear our penalty so that we “might be made
-the righteousness of God in Him.” (2 Cor. 5:21) Righteousness was
+the righteousness of God in Him.” (2 Cor. 5:21) Righteousness was
 imputed to us on the sole condition of our faith in Jesus Christ, just
 as “Abraham believed God and it was counted unto him for righteousness.”
-(Gen. 15:6)
+(Gen. 15:6)
 
 God the Father is now able to look upon us as righteous. And He is able
 to express His love for us in countless ways during our lifetime. The
@@ -49,7 +49,7 @@ of grace is so important to every Christian:
 “by grace through faith”, and the Christian way of life functions
 entirely on grace principles.
 
-• Grace provides the foundational structure for all Bible study. Eph. 2
+• Grace provides the foundational structure for all Bible study. Eph. 2
 
 • Knowledge of grace principles gives believers great knowledge and
 confidence in God’s plan, His provisions and His blessings.
@@ -376,7 +376,7 @@ God’s Operating Principle
 infinite resources; He is “rich in mercy”, and He has “great love”. Man,
 on the other hand, is described as “dead.” Man has the deepest need; God
 has the greatest resources. And God has a plan for linking our need to
-His resources (Eph. 2:5).
+His resources (Eph. 2:5).
 
 **Romans 4:4** states plainly that grace is the opposite of a merit
 plan. Two principles of operation are stated here, a “debt” principle
@@ -556,7 +556,7 @@ Christian must exercise his free will by choosing the things of God. The
 most important thing is the believer’s attitude toward the Word of God.
 The Lord provides believers with the capacity to grow and be effective
 so that they can glorify God in this lifetime. In fact, the Christian is
-*commanded* to grow in grace, **2 Pet. 3:18**.
+*commanded* to grow in grace, **2 Pet. 3:18**.
 
 Very little knowledge is required to accept Christ as Savior. But
 extensive knowledge is required during the believer’s remaining lifetime
@@ -565,13 +565,13 @@ requires an applied understanding of the Word and orientation to the
 grace of God.
 
 God’s grace is always available for the believer. In fact, the Lord
-waits to pour out His grace to us, **Isa. 30:18–19**.
+waits to pour out His grace to us, **Isa. 30:18–19**.
 
 Grace is sufficient for every problem.
 
-Grace is greater than sin, **Rom. 5:20**.
+Grace is greater than sin, **Rom. 5:20**.
 
-Grace is greater than suffering, **2 Cor. 12:9, 10**.
+Grace is greater than suffering, **2 Cor. 12:9, 10**.
 
 Grace is greater than Satan, **James 4:6, 7**.
 
@@ -593,33 +593,33 @@ Christian life:
 
 • Grace in God’s acceptance: **Eph. 1:6**
 
-• Grace in confidence in God’s plan: **2 Thess. 2:16**
+• Grace in confidence in God’s plan: **2 Thess. 2:16**
 
 • Grace in prayer: **Heb. 4:16**
 
-• Grace in daily provision: **Ps. 84:11; Acts 4:33, 34; Rom. 8:32**
+• Grace in daily provision: **Ps. 84:11; Acts 4:33, 34; Rom. 8:32**
 
 • Grace in suffering: **2 Cor. 12:9, 10**
 
-• Grace in God’s patience with us: **Ps. 103:8‑12**
+• Grace in God’s patience with us: **Ps. 103:8‑12**
 
-• Grace in releasing the power of God: **2 Tim. 2:1**
+• Grace in releasing the power of God: **2 Tim. 2:1**
 
-• Grace in victory over sin: **Rom. 6:14**
+• Grace in victory over sin: **Rom. 6:14**
 
-• Grace in spiritual growth: **2 Pet. 3:18; Acts 20:32; 1 Cor. 15:10**
+• Grace in spiritual growth: **2 Pet. 3:18; Acts 20:32; 1 Cor. 15:10**
 
-• Grace in spiritual gifts: **Rom. 12:6; Eph. 3:7,8; 4:7**
+• Grace in spiritual gifts: **Rom. 12:6; Eph. 3:7,8; 4:7**
 
 • Grace in stability: **1 Pet. 5:12**
 
-• Grace in becoming gracious: **2 Cor. 8:19; Col. 4:6; 1 Pet. 4:10**
+• Grace in becoming gracious: **2 Cor. 8:19; Col. 4:6; 1 Pet. 4:10**
 
-• Grace in method of living: **Heb. 12:28; 2 Cor. 1:12; Rom. 11:6**
+• Grace in method of living: **Heb. 12:28; 2 Cor. 1:12; Rom. 11:6**
 
 • Grace in worship of God: **Col. 3:16**
 
-• Grace in the production of divine good: 1** Cor. 15:10; 2 Cor. 6:1;
+• Grace in the production of divine good: 1** Cor. 15:10; 2 Cor. 6:1;
 9:8–11; Eph. 4:29**
 
 Surpassing Grace
@@ -653,16 +653,16 @@ something that it does not).
 
 First, grace is sometimes taken to mean that is permissible to sin.
 Thus, grace is used as an excuse for licentiousness, emphasizing overt
-sins. This is always condemned by the Word of God. **Rom. 6:1, 2;
-1 John 1:9 to 2:1; Jude 4.**
+sins. This is always condemned by the Word of God. **Rom. 6:1, 2;
+1 John 1:9 to 2:1; Jude 4.**
 
 Then, grace is sometimes taken as permission to be lazy, especially to
 skip Bible study. This emphasizes sins of omission. But this idea
 violates all of the Bible’s commands to study, to be diligent, to be
-oriented to grace. **Heb. 6:11, 12; 2 Pet. 1:5, 10; 1 Cor. 15:10**
+oriented to grace. **Heb. 6:11, 12; 2 Pet. 1:5, 10; 1 Cor. 15:10**
 
 The greatest enemy of grace is legalism. Grace and legalism are mutually
-exclusive, **Rom. 11:6.**Grace means that God does the “work” and
+exclusive, **Rom. 11:6.**Grace means that God does the “work” and
 receives the glory (credit) for it. Legalism means that man does the
 work and receives the credit. Notes are available on the doctrine of
 legalism.
@@ -678,10 +678,10 @@ without cost. Legalism excludes the mental attitude and emphasizes overt
 activity for the purpose of gaining credit with God and impressing men.
 
 Legalism hinders a person from accepting Christ as Savior,
-**Gal. 2:21.**
+**Gal. 2:21.**
 
 Legalism neutralizes the believer in the Christian way of life,
-**Gal. 5:2 to 4.**
+**Gal. 5:2 to 4.**
 
 God is perfect, and His plan is perfect. Man’s work is excluded from the
 plan of God because man is imperfect. If man were permitted to make a

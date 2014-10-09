@@ -76,7 +76,7 @@ he had great possessions.” Matt. 19:22
 “And He took with him Peter and the two sons of Zebedee, and began to be
 sorrowful and very heavy. Then saith he unto them, “My soul is exceeding
 sorrowful, even unto death: tarry ye here, and watch with Me.”
-Matt. 26:37, 38
+Matt. 26:37, 38
 
 “Truly, truly, I say unto you, that ye shall weep and lament, but the
 world shall rejoice: and ye shall be sorrowful, but your sorrow shall be
@@ -92,14 +92,14 @@ love which I have more abundantly unto you.” 2 Cor. 2:4
 
 “But I would not have you to be ignorant, brethren, concerning them
 which are asleep, that ye sorrow not, even as others which have no
-hope.” 1 Thess. 4:13
+hope.” 1 Thess. 4:13
 
 “In this you greatly rejoice, even though now for a little while, if
-necessary, you have been distressed by various trials,” 1 Peter 1:6
+necessary, you have been distressed by various trials,” 1 Peter 1:6
 
 “All discipline for the moment seems not to be joyful, but sorrowful;
 yet to those who have been trained by it, afterwards it yields the
-peaceful fruit of righteousness.” Heb. 12:11
+peaceful fruit of righteousness.” Heb. 12:11
 
 “For this finds favor, if for the sake of conscience toward God a man
 bears up under sorrows when suffering unjustly.” 1 Peter 2:19
@@ -118,8 +118,8 @@ compulsion.
 
 From here on, look up the verses for yourself.
 
-Matt. 18:7; Luke 14:18; 21:23; Rom. 13:5; 1 Cor. 7:26, 37; 9:16; 2 Cor.
-6:4; 9:7; 12:10; 1 Thess. 3:7; Philemon v. 14; Heb. 7:12, 27; 9:16; Jude
+Matt. 18:7; Luke 14:18; 21:23; Rom. 13:5; 1 Cor. 7:26, 37; 9:16; 2 Cor.
+6:4; 9:7; 12:10; 1 Thess. 3:7; Philemon v. 14; Heb. 7:12, 27; 9:16; Jude
 v. 3
 
 **stenochoria**), noun, narrowness of place, a trapped feeling.

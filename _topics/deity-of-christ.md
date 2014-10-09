@@ -14,7 +14,7 @@ same attributes as God the Father. See the Grace Notes topic: Essence of
 God) Jesus Christ has all of the divine attributes that God the Father
 has, including:
 
--   Eternity - Isa. 9:6; Micah 5:2; John 1:1,2; 8:58.
+-   Eternity - Isa. 9:6; Micah 5:2; John 1:1,2; 8:58.
 
 -   Immutability - Heb. 1:10-12, (cf. Mal. 3:6 and Ps. 102:25-27); Heb.
     13:8
@@ -37,9 +37,9 @@ In addition, the prerogatives of deity are ascribed to Jesus Christ:
 
 -   He is the creator of all things, John 1:3,10; Col. 1:16; Heb. 1:10.
 
--   He is the preserver of all things, Heb. 1:3; Col. 1:17.
+-   He is the preserver of all things, Heb. 1:3; Col. 1:17.
 
--   He pardons sins, Luke 5:24; Col. 3:13.
+-   He pardons sins, Luke 5:24; Col. 3:13.
 
 -   He raised the dead and He will raise the dead, 2 Cor. 1:9; John
     5:21, 28,29; 11:25

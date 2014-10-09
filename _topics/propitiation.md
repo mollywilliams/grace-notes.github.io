@@ -68,7 +68,7 @@ tabernacle, and the pattern of all the instruments thereof, even so
 shall ye make it.”*
 
 The pattern was given to Moses on Mt. Sinai, along with the Law. Read
-Hebrews 8:1–6. The tabernacle was a symbolical expression of spiritual
+Hebrews 8:1–6. The tabernacle was a symbolical expression of spiritual
 truth.
 
 The congregation of the Jews did not go beyond the courtyard of the
@@ -91,21 +91,21 @@ continuous reminder of “the Lamb of God that takes away the sin of the
 world.” The only thing the unbeliever can ever see is the Gospel, the
 good news of Christ’s substitutionary sacrifice for us.
 
-A description of the brazen altar is found in Ex. 27:1–8 and Ex. 38:1-7.
+A description of the brazen altar is found in Ex. 27:1–8 and Ex. 38:1-7.
 
 The Laver– Here the priests cleaned their hands and arms before
-performing any service or act of worship (Ex. 30:17-21). It was placed
+performing any service or act of worship (Ex. 30:17-21). It was placed
 between the brazen altar and the tent of worship (the holy place). This
 cleansing symbolized the spiritual cleansing which is essential to both
 worship and service.
 
 The Candlesticks– These illustrated the need for illumination, the light
-of the world. See Ex. 25:31–40; 37:17–24.
+of the world. See Ex. 25:31–40; 37:17–24.
 
 The Table of Bread – An illustration of the need for spiritual food. See
-Ex. 25:23–30; 37:10–16.
+Ex. 25:23–30; 37:10–16.
 
-The Altar of Incense– From Ex. 30:1–10, this piece of tabernacle
+The Altar of Incense– From Ex. 30:1–10, this piece of tabernacle
 furniture illustrated the need for acceptable worship and prayer. No
 animals were offered on this altar. The offering was an incense
 offering, indicat­ing that which is pleasing to God, divine good (gold,
@@ -126,8 +126,8 @@ by 30 inches deep. The ark was a picture of Christ bearing our sins, the
 box part representing Christ. The wood illustrated the humanity of
 Christ, the gold represented His deity.
 
-Inside the ark were three objects representing sin (Num. 17:8, 10;
-Heb. 9:4). The tables of the Law represented sin in the sense of
+Inside the ark were three objects representing sin (Num. 17:8, 10;
+Heb. 9:4). The tables of the Law represented sin in the sense of
 violation or transgression of God’s order. The pot of manna represented
 rejection of God’s provision. Aaron’s rod represented revolt against
 God’s authority.
@@ -160,7 +160,7 @@ with the work of Jesus Christ known as propitiation.
 Now, the Hebrew word for mercy seat is **kapporeth**. The Greek word
 used in the Septuagint translation of the Old Testament is
 **hilasterion**. This same Greek word is found in the New Testament in
-Rom. 3:25; Heb. 9:5; 1 John 2:2; and 4:10 and is translated “mercy seat”
+Rom. 3:25; Heb. 9:5; 1 John 2:2; and 4:10 and is translated “mercy seat”
 or “place of propitiation”. So there is a direct relationship between
 the mercy seat in the tabernacle and the doctrine of propitiation.
 

@@ -136,7 +136,7 @@ language significantly enriched both military and legal terminology:
 endowed the Koine, especially the modern Greek one, with the extension
 of the ending –ες from the nominative of the third declension to the
 accusative: οι πατέρες - τους πατέρες (and, by analogy, οι, τους
-ταμίες).  The language of administration and the military was
+ταμίες).  The language of administration and the military was
 strengthened by the Macedonians: δεκανός (\>NE δεκανέας, δεκανίκι),
 ταξίαρχος, σωματοφύλακες, υπασπισταί, while Macedonian was also the
 origin of the word κοράσιον and of the ending –ισσα (Μακεδόνισσα).
@@ -155,7 +155,7 @@ i, αι → e) and consonants become isochronal. Thus, for instance, ι, ει,
 η, οι and υ ended up being pronounced as ι (the transformation of the
 pronunciation of the diphthong οι to ι was completed only in the 10th
 century A.D.). One of the results of iotacism was the creation of many
-homonyms.  Changes were also sweeping in the realm of consonants.
+homonyms.  Changes were also sweeping in the realm of consonants.
 Nevertheless, even today in modern Hellenic dialects, double consonants
 (άλλος = άλ-λος) continue to be pronounced, while the ending –ν that has
 been hounded by both grammarians and popular usage, since the 4th
@@ -246,7 +246,7 @@ as their mother tongue. Thanks to all those Greek-speaking Jews, the Old
 Testament was translated into Hellenistic Koine. It took them
 approximately three centuries to complete the translation (the book of
 Job was only translated in the first century A.D.). The text of the
-Septuagint does not have a unified linguistic form.  The numerous
+Septuagint does not have a unified linguistic form.  The numerous
 barbarisms (Exodus 18,6, Τρία εγώ ειμί), solecisms, (Genesis 4,8 και
 εγένετο εν τω είναι αυτούς), the indeclinable names (Αβραάμ, Ιακώβ) and
 the overall unadorned and brusque style reveal that the authoritative
@@ -263,7 +263,7 @@ the dominance of Christianity, the popular tide of the Koine.
 
 Thus, the Koine was a language of communication, different from one
 region to another as it is colored by the local dialect (Koine with
-Doric and Ionic elements).  It favored lively expressions (direct speech
+Doric and Ionic elements).  It favored lively expressions (direct speech
 instead of indirect, superlatives instead of comparatives), strove for
 emphasis, clarity and simplicity, and used, if necessary, loans from
 high literature (λαίλαψ) as well as from the languages of nearby
@@ -282,14 +282,14 @@ the “γυμνάσματα” was still free to chatter about trivial subjects.
 Asian style was no longer confined to the sphere of ostentatious
 rhetoric and threatened to inundate both philosophy and historiography
 as well. The Atticists, strict guardians of the Classical tradition,
-attempted to stop the trend. Nevertheless, the flamboyant,  chattering
+attempted to stop the trend. Nevertheless, the flamboyant,  chattering
 and self-satisfied Asian style was an easy opponent, merely the pretext
 for a conspiracy of conservatives. The Atticists directed their furor
 mainly at the Koine, which was threatening to conquer prose. Their
 themes were: nostalgia for ancient glory, and a longing for the
 comfortably familiar and strict Attic language of Lysias and Plato.
 
-Dionysios of Alexandria, who taught from 30-8 B.C. in Rome  –the most
+Dionysios of Alexandria, who taught from 30-8 B.C. in Rome  –the most
 significant center for Hellenic culture and letters at the time– was the
 most important theorist of the Atticists. This movement spread quickly
 thanks to the popularity of the Attic dialect; the prestige of the
@@ -299,7 +299,7 @@ philological work that were done by the Alexandrians on Classical texts
 (editing, lexicography, annotation). The enemies of Christianity also
 acceded to the movement of the Atticists; as representatives of the high
 intelligentsia, they scorned both the simple lessons of the Gospel and
-the Apostles as well as their simple language.  
+the Apostles as well as their simple language.  
 
 The direct aim of the Atticists seemed to be a shared one: a return to
 the pure and correct Attic dialect. However, which was the true

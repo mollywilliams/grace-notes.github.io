@@ -129,6 +129,6 @@ religious functions and practices, such as sacrifices, Passover and
 other feasts, circumcision, etc. He was to be given a day of rest on the
 Sabbath. He was to receive his liberty if the case of some grievous
 injury such as loss of eye or limb. See other passages: Gen. 17:12;
-Exod. 12:44; 20:11; 21:20, 26, 27; Lev. 24:17, 22; Deut. 5:14 ff; 12:12,
+Exod. 12:44; 20:11; 21:20, 26, 27; Lev. 24:17, 22; Deut. 5:14 ff; 12:12,
 18.
 

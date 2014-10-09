@@ -747,7 +747,7 @@ Christian church over the first three centuries A.D.:
     statutes of the Senate, edicts of the Princeps, the “responsas”, and
     certain ancient customs which had the force of law. The statutes,
     edicts, and responsas formed the *ius civile*, the written law of
-    the Empire. The old customs formed the *ius gentium*, the unwritten
+    the Empire. The old customs formed the *ius gentium*, the unwritten
     common law.
 
 7.  Roman citizens had the right to appeal to the Princeps from the

@@ -40,7 +40,7 @@ there is to be any benefit derived from the Spirit’s control
 
 -   Imitating Christ, Eph. 5:1.
 
--   Epistles of Christ ministered by the Spirit, 2 Cor. 3:3.
+-   Epistles of Christ ministered by the Spirit, 2 Cor. 3:3.
 
 -   Partakers of the divine nature, 2 Pet. 1:4.
 

@@ -105,7 +105,7 @@ withstand thee?*
 *Psalm 83:18 That men may know that thou, whose name alone is the Lord,
 are the Most High over all the earth.*
 
-*Isaiah 45:5,6 I am the Lord, and there is none else, there is no God
+*Isaiah 45:5,6 I am the Lord, and there is none else, there is no God
 beside me: I girded thee, though thou hast not known me. That they may
 know from the rising of the sun, and from the west, that there is none
 beside me. I am the Lord, and there is none else.*
@@ -128,7 +128,7 @@ swear by no greater, he swore by himself.*
 *Psalm 47:7 For God is the King of all the earth; sing ye praises with
 understanding.*
 
-*Psa 115:3 But our God is in the heavens; he hath done whatsoever he
+*Psa 115:3 But our God is in the heavens; he hath done whatsoever he
 pleased.*
 
 In His sovereignty, God decided to give man a free will. The meeting
@@ -147,12 +147,12 @@ God is absolutely holy, or righteous.
 *Psalm 145:17 The Lord is righteous in all his ways, and holy in all his
 works.*
 
-*Lev. 19:2b Ye shall be holy; for I, the Lord your God, am holy.*
+*Lev. 19:2b Ye shall be holy; for I, the Lord your God, am holy.*
 
 *I Sam. 2:2 There is none holy like the Lord; for there is none beside
 thee, neither is there any rock like our God.*
 
-*Psalm 22:3 But thou art holy, O thou who inhabitest the praises of
+*Psalm 22:3 But thou art holy, O thou who inhabitest the praises of
 Israel.*
 
 *Ps. 111:9 He sent redemption unto his people; he hath commanded his
@@ -174,7 +174,7 @@ in mercy unto all those who call upon thee.*
 
 God is free from sin.
 
-*II Cor. 5:21 For he hath made him, who knew no sin, to be sin for us,
+*II Cor. 5:21 For he hath made him, who knew no sin, to be sin for us,
 that we might be made the righteousness of God in him.*
 
 *I John 1:5 This, then, is the message which we have heard of him, and
@@ -188,18 +188,18 @@ justice; a God of truth and without iniquity, just and right is he.*
 *Ps. 7:9 Oh, let the wickedness of the wicked come to an end, but
 establish the just; for the righteous God tests the minds and hearts.*
 
-*Rom. 1:17 For in it is the righteousness of God revealed from faith to
+*Rom. 1:17 For in it is the righteousness of God revealed from faith to
 faith; as it is written The just shall live by faith.*
 
 Psalms 11:7; 97:6; 111:3; 119:137
 
-Jer. 23:6
+Jer. 23:6
 
 John 17:25
 
 Rom. 10:3
 
-I John 2:29.
+I John 2:29.
 
 God is righteous in all His attitudes and actions
 
@@ -207,11 +207,11 @@ Deut. 32:4
 
 2 Sam. 22:31
 
-Ps. 119:137; 145:17
+Ps. 119:137; 145:17
 
 Dan. 9:14
 
-Rev. 19:2
+Rev. 19:2
 
 In the application of the concept of God’s righteousness (+R) to the
 unbeliever, it is important to remember that His righteousness is
@@ -220,7 +220,7 @@ the same perfection of His creatures. Man’s concept of righteousness is
 relative (Isa. 64:6); but no one can measure up to the divine standard
 nor achieve absolute righteousness by self-effort. However, the
 righteousness of God is freely available to all who believe. Psalm 14:3;
-Rom. 3:23; Tit. 3:5; Rom. 3:22
+Rom. 3:23; Tit. 3:5; Rom. 3:22
 
 JUSTICE
 
@@ -282,7 +282,7 @@ and love and grace can be given to men.
 
 Eph. 2:8,9
 
-Isa. 59:2
+Isa. 59:2
 
 John 3:16.
 
@@ -613,15 +613,15 @@ Heb. 10:23; 11:11
 
 He is faithful to forgive, 1 John 1:9.
 
-He is faithful to keep us saved, 2 Tim. 2:12,13.
+He is faithful to keep us saved, 2 Tim. 2:12,13.
 
-He is faithful to deliver in times of pressure, 1 Cor. 10:13.
+He is faithful to deliver in times of pressure, 1 Cor. 10:13.
 
-He is faithful in suffering, 1 Pet. 4:19
+He is faithful in suffering, 1 Pet. 4:19
 
-He is faithful to provide in eternity, 1 Thess. 5:24.
+He is faithful to provide in eternity, 1 Thess. 5:24.
 
-He is faithful to stabilize the believer, 2 Thess. 3:3
+He is faithful to stabilize the believer, 2 Thess. 3:3
 
 The faithfulness of Christ.
 
@@ -703,7 +703,7 @@ Matt. 5:37
 
 There are three distinct Persons of the Godhead, each possessing the
 entire essence of deity. The three Persons comprise what the Scripture
-represents as the ONE TRUE GOD. In the unity of the Godhead (Acts 17:29;
+represents as the ONE TRUE GOD. In the unity of the Godhead (Acts 17:29;
 Rom. 1:20; Col. 2:9) there are three Persons on one substance, power and
 eternity (Isa. 48:16; Luke 3:22; John 14:16; Rom. 15:30; 1 Cor. 12:4-6;
 1 John 4:13,14)

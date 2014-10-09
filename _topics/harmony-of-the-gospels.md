@@ -902,11 +902,11 @@ Perea
 
 14:25-35
 
-(23) Parables of Lost Sheep, Coin, The Prodigal Son
+(23) Parables of Lost Sheep, Coin, The Prodigal Son
 
 15:1-32
 
-(24) Parables of Unjust Steward, Rich Man & Lazarus
+(24) Parables of Unjust Steward, Rich Man & Lazarus
 
 16:1‑31
 
@@ -1156,7 +1156,7 @@ Mt. of Olives
 
 21:5-36
 
-(13) Parables: Ten Virgins, Talents, The Day of Judgment
+(13) Parables: Ten Virgins, Talents, The Day of Judgment
 
 Mt. of Olives
 
@@ -1514,7 +1514,7 @@ Sun.
 
 Late
 
-(7) Jesus’ Appearance to Disciples (Minus Thomas)
+(7) Jesus’ Appearance to Disciples (Minus Thomas)
 
 Jerusalem
 
@@ -1540,9 +1540,9 @@ Sea of Galilee
 
 21:1-25
 
-(10) Appearance to 500 (1<sup>st</sup> Cor. 15:6);
+(10) Appearance to 500 (1<sup>st</sup> Cor. 15:6);
 
-(11) Appearance to James (1<sup>st</sup> Cor. 15:7).
+(11) Appearance to James (1<sup>st</sup> Cor. 15:7).
 
 (12) Great Commission
 

@@ -9,7 +9,7 @@ The presence of the sin nature in the soul guarantees that the Christian believe
 
 While you do not lose your salvation each time you sin, your personal growth and effectiveness are stifled as long as there is a rift in your fellowship with God. This rift is healed when you personally confess to God the sin which caused the breach.
 
-Confession of sins is not the basis of salvation. Jesus Christ was judged once for our sins, on the cross; and He does not need to be judged repeatedly for our sins. The basis of salvation is your personal trust in Christ and His work, rather than confession or any other act which you might perform to try to win the favor of God. Acts 16:31; John 1:12; Eph. 1:13, 14; 2:8, 9; 1 Pet. 2:24; 2 Cor. 5:21.
+Confession of sins is not the basis of salvation. Jesus Christ was judged once for our sins, on the cross; and He does not need to be judged repeatedly for our sins. The basis of salvation is your personal trust in Christ and His work, rather than confession or any other act which you might perform to try to win the favor of God. Acts 16:31; John 1:12; Eph. 1:13, 14; 2:8, 9; 1 Pet. 2:24; 2 Cor. 5:21.
 
 A Christian is always in Christ. Eph. 1:3, 5, 7. So confession of personal sin is extremely important to the personal spiritual relationship that you have with God. 
 
@@ -44,7 +44,7 @@ sovereignty, which includes His right as creator and Father to set the standards
 
 *_The Lord Encourages Confession_*
 
-A novice believer may not be aware that it is possible to live out of fellowship and that he needs to confess sin. 1 John 1:6; 2:9, 10; 2 Pet. 1:9. God both commands and pleads with us to judge ourselves, to confess and then to forget sins. Take a look at: Isa. 43:26; 1 Cor. 11:28, 31; 1 John 1:9; Phil. 3:13, 14; Prov. 1:23. Any person who reads the Bible quickly becomes aware of God’s intentions in this matter.
+A novice believer may not be aware that it is possible to live out of fellowship and that he needs to confess sin. 1 John 1:6; 2:9, 10; 2 Pet. 1:9. God both commands and pleads with us to judge ourselves, to confess and then to forget sins. Take a look at: Isa. 43:26; 1 Cor. 11:28, 31; 1 John 1:9; Phil. 3:13, 14; Prov. 1:23. Any person who reads the Bible quickly becomes aware of God’s intentions in this matter.
 
 Some Christians willfully ignore the commands to confess, leading God to employ more persuasive measures to encourage us to comply. These methods include:
 
@@ -72,7 +72,7 @@ The word confession in the New Testament is taken from the Greek word ‘ομο�
 
 This is a method of dealing with the disharmony caused by sins which causes no merit to accrue to the person who confesses. It is strictly a grace provision in which God makes a promise and carries out the function of cleansing. The Christian must confess the sin, 1 John 1:9; forget the sin, Phil. 3:13, 14; and isolate the sin, Heb. 12:15.
 
-Forgiveness of sin is only from God(Mark. 2:7)and confession is made only to God the Father. Upon the condition of confession, forgiveness is guaranteed and cleansing from all unrighteousness is administered (1 John 1:9). The word cleanse refers to the removal of the guilt of the sin. Therefore, the cleansed individual is removed from the condition of discipline, chastening is no longer being administered and the hindrances to the ministry of the Holy Spirit are removed.
+Forgiveness of sin is only from God(Mark. 2:7)and confession is made only to God the Father. Upon the condition of confession, forgiveness is guaranteed and cleansing from all unrighteousness is administered (1 John 1:9). The word cleanse refers to the removal of the guilt of the sin. Therefore, the cleansed individual is removed from the condition of discipline, chastening is no longer being administered and the hindrances to the ministry of the Holy Spirit are removed.
 
 There are several synonyms in the Bible for the word “confess”, as follows":
 

@@ -28,7 +28,7 @@ themselves that they need not continue to work at the business of their
 callings, but might claim support from the richer members of the Church.
 Others, again, had yielded to the same temptations which afterwards
 influenced the Corinthian Church, and despised the gift of prophesying
-(1 Thess. 5:20) in comparison with those other gifts which afforded more
+(1 Thess. 5:20) in comparison with those other gifts which afforded more
 opportunity for display. These reasons, and others which will appear in
 the letter itself, led St. Paul to write to the Thessalonians as
 follows:

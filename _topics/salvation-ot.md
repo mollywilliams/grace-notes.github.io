@@ -92,7 +92,7 @@ Comments:
 not saving mankind. Rom. 10:13; 2 Pet. 3:9
 
 2. The Gospel was clearly declared in Old Testament times. Rom. 1:1-4;
-I Cor. 15:3-4; Acts 3:18. The passage in Isa. 53:5,6 has exactly the
+I Cor. 15:3-4; Acts 3:18. The passage in Isa. 53:5,6 has exactly the
 same boundaries as are found in I Cor. 15:3. Dan. 12:2,3 has the
 boundary of the resurrection.
 
@@ -138,12 +138,12 @@ Christ carried our guilt as well as our sins.
 historical Christology.
 
 10. According to Isa. 55:6, salvation in the person of Jesus Christ, is
-always available. Acts. 4:12.
+always available. Acts. 4:12.
 
 11. Many conversions are recorded in the Old Testament, including:
 
 Noah was declared “just” in Gen. 6:8,9, and was said to have
-righteousness in Heb. 11:7. Heb. 11 shows the spiritual life of OT
+righteousness in Heb. 11:7. Heb. 11 shows the spiritual life of OT
 believers. The OT imputation of righteousness is seen in Psalm 24:5 and
 Isa. 61:10.
 
@@ -154,6 +154,6 @@ and resurrection. Job. 19:23-27.
 
 Many Gentiles were saved in the Old Testament. The citizens of Nineveh
 responded to the Gospel when Jonah preached to them. Matt. 12:41; Luke
-11:32. See also Rom. 9:24,25; 9:30‑33. See Daniel regarding the
+11:32. See also Rom. 9:24,25; 9:30‑33. See Daniel regarding the
 salvation of Nebuchadnezzar.
 

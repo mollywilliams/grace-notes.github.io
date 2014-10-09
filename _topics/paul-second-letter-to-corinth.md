@@ -735,7 +735,7 @@ commissioned with Titus, as , guarding himself against all suspicion
 which might be cast on him in his administration of the bounty with
 which he was charged,” and as being” careful to do all things in a
 seemly manner, not only in the sight of the Lord, but also in the sight
-of men” (2 Cor. 8:20, 21).
+of men” (2 Cor. 8:20, 21).
 
 This regard to what was seemly appears most strikingly in his mode of
 bringing the subject before those to whom he wrote and spoke. He lays no
@@ -789,7 +789,7 @@ Jesus Christ, by the will of God’.
 
 The Macedonian contribution, if not complete, was in a state of much
 forwardness, when St. Paul wrote to Corinth. He speaks of liberal funds
-as being already pressed upon his acceptance (2 Cor. 8:4), and the
+as being already pressed upon his acceptance (2 Cor. 8:4), and the
 delegates who were to accompany him to Jerusalem had already been chosen
 (2 Cor. 8:19, 23). We do not know how many of the Churches of Macedonia
 took part in this collection,

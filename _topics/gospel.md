@@ -22,7 +22,7 @@ believer.
 
 * The everlasting gospel, Rev. 14:6. This emphasizes the proximity of eternity for unbelievers during the tribulation.
 
-* The gospel of the kingdom, Matt. 24:14. This emphasizes the fulfillment of the unconditional covenant to the born again of Israel.
+* The gospel of the kingdom, Matt. 24:14. This emphasizes the fulfillment of the unconditional covenant to the born again of Israel.
 
 The fundamentals of the gospel are given in 1 Cor. 15:1-4.
 

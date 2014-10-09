@@ -222,7 +222,7 @@ him above all else is deception. John describes him as the one “who
 deceives the whole world” (John 12:9). In his cunning, he disguises
 himself as an angel of light (2 Cor. 11:14). So, in view of this, the
 Apostle Paul wrote, “Therefore it is not surprising if his servants also
-disguise themselves as servants of righteousness . . .” (2 Cor. 11:15).
+disguise themselves as servants of righteousness . . .” (2 Cor. 11:15).
 More will be said on this below.
 
 The Ministry of Good Angels
@@ -260,7 +260,7 @@ make the Lord their refuge.
 
 The psalmist explained that **no harm** or **disaster** can **befall**
 those who have made **theLord** their **refuge** (mah£seh, “shelter from
-danger”; . . . ) because He has commissioned **angels** to care for
+danger”; . . . ) because He has commissioned **angels** to care for
 them. angels protect from physical harm and give believers strength to
 overcome difficulties, pictured here as wild lions and dangerous snakes.
 Satan, in tempting Christ, quoted 91:11-12 (Matt. 4:6), which shows that
@@ -485,7 +485,7 @@ servant angels ,who also disguise themselves in one way or another, that
 are behind the current *Angelmania* in our society today. As Bohlin
 points out:
 
-. . . there are many books, publications, and seminars that are filled
+. . . there are many books, publications, and seminars that are filled
 with demonic deception of the ugliest kind. Because when you start
 talking to angels, you end up dealing with
 demons.<sup>**[<sup>16</sup>](#sdfootnote16sym)**</sup>
@@ -564,7 +564,7 @@ by nature occultic and demonic.
 5. Human divinity
 
 The message of the ugly angels is that we need to recognize that we are
-one with the divine, we are divine. . . we are God. In Karen Goldman’s
+one with the divine, we are divine. . . we are God. In Karen Goldman’s
 *The Angel Book: A Handbook for Aspiring Angels*, she says things like,
 “Angels don’t fall out of the sky; they emerge from within.” (Goldman,
 Karen, *The Angel Book—A Handbook for Aspiring Angels*, New York: Simon

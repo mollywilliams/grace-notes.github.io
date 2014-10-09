@@ -12,12 +12,12 @@ The following is a selection of comments on the word “glory”, �
 (**doksos**), as used in the Bible.
 
 Glory is used to describe the essence of God: Rom. 3:23; Eph. 1:17;
-Deut. 5:24; Ps. 21:5; Mt. 16:27: Luke 2:9.
+Deut. 5:24; Ps. 21:5; Mt. 16:27: Luke 2:9.
 
 The Lord Jesus Christ is said to possess glory: Mk. 10:37.
 
 Glory is used to describe the edification structure in the believer’s
-soul: Eph. 3:21; Col. 1:27; 1 Pet. 1:8; 2 Thess. 2:14. As a believer
+soul: Eph. 3:21; Col. 1:27; 1 Pet. 1:8; 2 Thess. 2:14. As a believer
 receives doctrine, he reflects the glory of God.
 
 A wife is said to be the glory of her husband: 1 Cor. 11:7, 15.
@@ -25,18 +25,18 @@ A wife is said to be the glory of her husband: 1 Cor. 11:7, 15.
 The grace of God is described as his glory: Eph. 1:6.
 
 The provision of God’s grace is also called wealth, the riches of His
-glory: Eph. 1:18; 3:16; Phil. 4:19.
+glory: Eph. 1:18; 3:16; Phil. 4:19.
 
 There is a glory in the future which is beyond human knowledge, namely,
 the glory of eternity: 1 Tim. 3:16; Heb. 2:10; 1 Pet. 5:10; 2 Pet. 1:3.
 
 Human glamor is described as glory, though often in the negative sense:
-1 Pet. 1:24; Phil. 3:19; Mt. 6:29.
+1 Pet. 1:24; Phil. 3:19; Mt. 6:29.
 
 Glory is used to describe the wonders of the universe: 1 Cor. 15:40,41.
 
 Glory is used to describe the resurrection body of the believer: 1 Cor.
-15:43; 2 Thess. 2:14.
+15:43; 2 Thess. 2:14.
 
 The word glory is associated with the presentation of the Church to the
 Lord Jesus Christ: Heb. 2:10; Mt. 19:28; 24:30; 25:31.

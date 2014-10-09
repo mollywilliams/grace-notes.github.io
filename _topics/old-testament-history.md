@@ -154,7 +154,7 @@ Suffering may well be part of the chastisement, and confession does not
 remove the suffering. However, when suffering continues after the
 believer has been restored to fellowship, the cursing is turned to
 blessing; that is, the suffering is for a positive purpose. [Read
-*Christian Suffering*, by R. B. Thieme ] (Job 5:17,18).
+*Christian Suffering*, by R. B. Thieme ] (Job 5:17,18).
 
 If a believer continues in sin and refuses to repent and confess, the
 chastisement will become more and more severe. Certain sins bring

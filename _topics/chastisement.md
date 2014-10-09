@@ -20,16 +20,16 @@ handles the individual and nation in grace when either is disobedient.
 
 Chastisement or Divine Discipline of the Christian Believer
 
-Chastisement of individuals is for Christian believers only (Heb. 12:5).
+Chastisement of individuals is for Christian believers only (Heb. 12:5).
 God’s discipline is based on love, and when a believer is out of
 fellowship, discipline is aimed at only one thing, to get the believer
 to acknowledge his sin to God, to confess in order to be restored to
-fellowship (Heb. 12:6).
+fellowship (Heb. 12:6).
 
-Discipline never means a loss of salvation (Gal. 3:26). Divine
+Discipline never means a loss of salvation (Gal. 3:26). Divine
 discipline is chastisement for sins of the believer in the immediate
 context of the sin that was committed. Discipline is removed by Biblical
-confession of sin (1 John 1:9; 1 Cor. 11:31).
+confession of sin (1 John 1:9; 1 Cor. 11:31).
 
 Suffering may well be part of the chastisement and confession does not
 remove the suffering. However, when suffering continues after the
@@ -39,24 +39,24 @@ blessing; that is, the suffering is for a positive purpose.
 If a believer continues in sin and refuses to repent and confess, the
 chastisement will become more and more severe. Certain sins bring
 compounded discipline, particularly those in which the believer is
-acting as a stumbling block to others (Matt. 7:1–12). In extreme cases,
+acting as a stumbling block to others (Matt. 7:1–12). In extreme cases,
 the believer could suffer the sin unto death. However, all chastisement
 is confined to time; there will be no discipline for believers in
-eternity (Rev. 21:4)
+eternity (Rev. 21:4)
 
 The believer can avoid divine discipline through a consistent exercise
 of the principles of Christian living outlined in the word of God, as
-illustrated by the passage in Heb. 12:1‑6.
+illustrated by the passage in Heb. 12:1‑6.
 
-Confession is equivalent to laying aside the weight of Heb. 12:1. The
+Confession is equivalent to laying aside the weight of Heb. 12:1. The
 result is production and the fruit of the Holy Spirit. The phrase let us
 run with patience refers to the faith rest life. This is faith patience,
 also spoken of in James 1.
 
 The next recovery principle is occupation with Christ also called
-looking unto Jesus. described in Heb. 12:2. Then, avoid sins of the
+looking unto Jesus. described in Heb. 12:2. Then, avoid sins of the
 mind; avoid becoming wearied, a reference to mental depression resulting
-from sin in Heb. 12:3. If any of the following are harbored continually,
+from sin in Heb. 12:3. If any of the following are harbored continually,
 mental illness can result: A guilt complex; bitterness or hatred toward
 others; jealousy or envy; fear about the present or future; anxiety or
 worry about little things; desire for revenge; arrogance; judging
@@ -121,7 +121,7 @@ training and nurturing their children. It is the breakdown of morality
 which is the first and most obvious indication that both the individual
 and the nation are in trouble.
 
-The Five Stages of National Chastisement - Leviticus 26
+The Five Stages of National Chastisement - Leviticus 26
 
 The cycle of chastisement for a nation refers to the five stages, or
 increments, of chastisement which God brings on a nation which
@@ -136,7 +136,7 @@ levels of discipline. This destruction is analogous to the sin unto
 death suffered by an individual who is intractable in his defiance of
 God (Nadab and Abihu, Saul, Ananias and Sapphira).
 
-At this point you should read Leviticus 26:14–29. That chapter provides
+At this point you should read Leviticus 26:14–29. That chapter provides
 a concise outline of God’s warnings about the levels of punishment He
 will bring on the nation of Israel if they will not turn from their
 sinful rebellion.
@@ -180,7 +180,7 @@ no communication between God and man. They refused divine viewpoint and
 the commandment to go throughout the world and multiply.
 
 During the age of the Jews there were many examples of national
-discipline. Hosea 4:1-7 gives an example of the nation rejecting Bible
+discipline. Hosea 4:1-7 gives an example of the nation rejecting Bible
 teaching and building for chastisement. They were engaged in false
 business practices (4:2); there was no application of faithfulness or
 kindness(4:1); they were in a miserable state of life (4:3); there was
@@ -193,8 +193,8 @@ which had rejected the authority of God.
 National destruction came on every nation that rejected the word of God,
 not just the nation of Israel. Canaan was destroyed by the Jews under
 Joshua. There was divine discipline on Egypt for refusing to let the
-Jews leave. Assyria was destroyed (2 Kings 19:35; 2 Chron. 32:21).
-Babylon, in turn, faded quickly as a nation (Daniel 5).
+Jews leave. Assyria was destroyed (2 Kings 19:35; 2 Chron. 32:21).
+Babylon, in turn, faded quickly as a nation (Daniel 5).
 
 Discipline is related to cities as well as to nations, as the following
 examples indicate:

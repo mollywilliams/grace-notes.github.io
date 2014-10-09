@@ -65,7 +65,7 @@ done over several generations by this practice.
 A battle was fought between the Israelites and Midianites, and Balaam
 sided with the Midianites and was slain. See Num. 31:8.
 
-Balaam comes down in history as the prototype of the typical hireling prophet eager only to commercialize his gift. 2 Pet. 2:15; Titus 1
+Balaam comes down in history as the prototype of the typical hireling prophet eager only to commercialize his gift. 2 Pet. 2:15; Titus 1
 
-The doctrine of Balaam mentioned in Rev. 2:14 was the teaching of the mercenary prophet to abandon godly separation and character in favor of worldly corruption and conformity. Balaam taught Balak to corrupt the people that he could not conquer. He was ignorant of God’s principles, and too self centered to use his gift properly.
+The doctrine of Balaam mentioned in Rev. 2:14 was the teaching of the mercenary prophet to abandon godly separation and character in favor of worldly corruption and conformity. Balaam taught Balak to corrupt the people that he could not conquer. He was ignorant of God’s principles, and too self centered to use his gift properly.
 

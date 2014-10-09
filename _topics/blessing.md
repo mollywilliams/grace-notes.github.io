@@ -101,7 +101,7 @@ of the world’s greatest detective books.
 1. “to make sacred; to hallow (something).”
 
 “The word “bless” is from the Old Teutonic (German) bletsian, from
-heathen blood sacrifices. German: das Blut. English: blood.
+heathen blood sacrifices. German: das Blut. English: blood.
 
 “The meaning, then, was ‘to mark (or affect in some way) with blood (or
 a sacrificial animal).”

@@ -26,7 +26,7 @@ the soul contains:
 The Sin Nature has an “area” of strengths in which human good is
 produced, that is, those good deeds and thoughts which are ac­ceptable
 to man but which are unacceptable to God for purposes of salvation or
-spiritual growth. Isa. 64:6; Rom. 8:8. In the Bible, human good is
+spiritual growth. Isa. 64:6; Rom. 8:8. In the Bible, human good is
 contrasted with divine good which is the work produced by the Spirit of
 God in the life of a believer who is walking in daily fellowship with
 the Lord under the con­trol of the Holy Spirit.
@@ -114,14 +114,14 @@ Bible Synonyms for the Sin Nature
 There are several terms used in scripture to refer to what is known as
 the Sin Nature.
 
-Sin (in the singular) – Ps. 51:5; Rom. 5:12; 7:14; 1 John 1:8.
+Sin (in the singular) – Ps. 51:5; Rom. 5:12; 7:14; 1 John 1:8.
 
 Flesh – the emphasis here is on the location of the Sin Nature in the
 “flesh” or life of the individual. Rom. 8:8; 7:18; 13:14; Gal. 5:16-21;
 Eph. 2.3.
 
 Old Man – referring to the the believer’s for­mer manner of life as an
-unbeliever. Eph. 4:22; Col.   3:5–9.
+unbeliever. Eph. 4:22; Col.   3:5–9.
 
 Heart – in some usages the word “heart” refers to a facet of the soul
 which is the source of sin. Jer. 17:9; Mt. 12:34; 15:19; Mark 7:21-23;
@@ -135,7 +135,7 @@ Carnality – derived from the Latin for “flesh”. Rom. 7:14; 8:6-8; 1 Cor.
 The Sin Nature is the source of spiritual death. Rom. 5:12; Eph. 2:1,5.
 
 The Sin Nature is perpetuated in human beings through physical birth.
-Ps. 51:5; 1 Tim. 2:13,14. The believer continues to have his Sin Nature
+Ps. 51:5; 1 Tim. 2:13,14. The believer continues to have his Sin Nature
 after salvation. 1 Cor. 3:1; 1 John 1:8. The believer under the con­trol
 of the Sin Nature is called “carnal”. Rom. 7:14; 1 Cor. 3:1ff
 
@@ -159,14 +159,14 @@ The unbeliever will be at the Great White Throne judgment because of his
 rejection of this grace provi­sion. Rev. 20:11-15.
 
 The believer’s sins were borne on the Cross by the Lord, as were those
-of all people. 2 Cor. 5:21. When a believer sins, Satan ac­cuses him in
+of all people. 2 Cor. 5:21. When a believer sins, Satan ac­cuses him in
 heaven. Jesus Christ is our Advocate; He pleads our case, and the case
 is thrown out of court.
 
 God has provided confession of sin as a means of restoring the broken
 fellowship with God caused by the believer’s personal sin. The believer
 can repent and confess and be filled with the Spirit. 1 John 1:9;
-Prov. 1:23.
+Prov. 1:23.
 
 Human good, rejected by Jesus Christ (Eph. 2:8,9), is never acceptable
 to God, and it does not produce blessing in the life of the be­liever.

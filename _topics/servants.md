@@ -93,7 +93,7 @@ form of a servant, and was made in the likeness of men.”*
 
 Godly men served the Lord by serving other men.
 
-• Peter and Andrew, Mark 1:17,18
+• Peter and Andrew, Mark 1:17,18
 
 • Zaccheus, Luke 19:6 ff
 

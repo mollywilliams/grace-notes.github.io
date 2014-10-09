@@ -27,10 +27,10 @@ issues to help unbelievers see the true issue of salvation through
 Christ. For example:
 
 • Salvation cannot be purchased with money. (Mark 8:36-37) Salvation has
-been paid for and not with silver and gold. (1 Pet. 18, 19)
+been paid for and not with silver and gold. (1 Pet. 18, 19)
 
 • Money causes a rich person to put his faith in the wrong things.
-(Mark 10:23-25)
+(Mark 10:23-25)
 
 • Money keeps the rich unbeliever from seeking salvation in the right
 manner which is by means of God’s word. (Luke 16:19-31)
@@ -45,7 +45,7 @@ Christian life teaching includes the following:
 he has been left on this earth (Eccl. 5:10-20; 6:2). Solomon was a rich
 king, but his riches crowded the Lord out.
 
-• Money can be a source of temptation. (1 Tim. 6:7-19)
+• Money can be a source of temptation. (1 Tim. 6:7-19)
 
 • A believer should spend his money wisely. (1 Tim. 6:8) Investigate
 carefully before you give. Give money for the glory of the Lord.
@@ -53,7 +53,7 @@ carefully before you give. Give money for the glory of the Lord.
 • Two other passages of interest are James 4:13 to 5:6 and Acts 5:1-10.
 
 Christian giving is a part of stewardship and faithfulness is the first
-requirement. (1 Cor. 4:2) God really owns everything and gives to
+requirement. (1 Cor. 4:2) God really owns everything and gives to
 believers (James 1:17). A Christian is accountable for everything that
 the Lord provides (Rom. 14:12).
 
@@ -84,7 +84,7 @@ giving as seen in Amos 4:4 is replaced by the faith giving of Prov.
 than is needed (Ex. 36:5-7). The Pharisaism of Luke 18:9-14 is replaced
 by giving secretly and before the evangelism event (1 Cor. 16:1ff).
 Bribery and public testimonies (Gen. 28:20-22) are replaced by freewill
-offerings (Ex. 25:1, 2; 35:4-10; 2 Cor. 9:7).
+offerings (Ex. 25:1, 2; 35:4-10; 2 Cor. 9:7).
 
 Covetousness is an occupational hazard to be guarded against. (Luke
 12:15; Col. 3:5) Thirteen of the twenty-nine parables of Jesus referred
@@ -93,7 +93,7 @@ yourself to the Lord. (2 Cor. 8:5)
 
 Poverty is no excuse for not giving. Believers should not have to be
 urged to give, because Jesus gave Himself. We give in gratitude,
-cheerfully, willingly and in grace. Read 1 Cor. 6:19–20; 2 Cor. 8:1-15.
+cheerfully, willingly and in grace. Read 1 Cor. 6:19–20; 2 Cor. 8:1-15.
 
 The amount you give should be determined according to the following
 criteria:
@@ -101,10 +101,10 @@ criteria:
 • By the need, 2 Cor. 8 and 9
 
 • By how much wealth you have, 2 Cor. 8:12-15; and by how much God
-prospers you, 1 Cor. 16:2, Deut. 16:17; Matt. 10:8; Acts 11:29.
+prospers you, 1 Cor. 16:2, Deut. 16:17; Matt. 10:8; Acts 11:29.
 
-• Giving is to be systematic (1 Cor. 16:2) and sacrificial (Luke 21:3,
-4; 2 Cor. 8:2)
+• Giving is to be systematic (1 Cor. 16:2) and sacrificial (Luke 21:3,
+4; 2 Cor. 8:2)
 
 Tithing is not the issue in Christian giving. Tithing was a tax to
 support the theocratic government during the age of the Jews. The Old
@@ -115,7 +115,7 @@ Testament gives a systematic progression in the use of the tithe.
 14:22-24).
 
 • The Jews gave all the tithe of their produce every third year for the
-Levite, non Jew, orphan and widow in your town in Israel (Deut. 14:28,
+Levite, non Jew, orphan and widow in your town in Israel (Deut. 14:28,
 29)
 
 • Other tithes mentioned in Num. 28:26ff and Gen. 47:24. Melchizedek’s
@@ -131,7 +131,7 @@ Corinthians and us to know of the grace of God which was bestowed upon
 the churches of Macedonia. The reward from God is from grace and is
 invaluable, 2 Cor. 9:6; Matt. 6:20; Prov. 22:9.
 
-Principles of Christian giving from 2 Corinthians 8 and 9.
+Principles of Christian giving from 2 Corinthians 8 and 9.
 
 Read these two chapters and consider the following observations.
 

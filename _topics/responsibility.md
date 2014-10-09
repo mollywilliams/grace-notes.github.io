@@ -11,13 +11,13 @@ Responsibility of Those Who Wait for the Kingdom
 Matthew 5:13-16
 
 Translation: “13 You are the salt of the earth; but if the salt becomes
-foolish, how will it be salty?  It is useful for nothing further except
+foolish, how will it be salty?  It is useful for nothing further except
 when cast outside to be trampled by men. 14 You are the light of the
-world.  A city is not able to hide while laying on a hill; 15 nor do
+world.  A city is not able to hide while laying on a hill; 15 nor do
 they light a lamp and put it under the peck-measure, but they put it on
 the lampstand, and it illuminates all that is in the house. 16 So let
 your light shine before men, so that they might behold your good works
-and glorify your Father Who is in heaven.”  2.  Outline.
+and glorify your Father Who is in heaven.”  2.  Outline.
 
 The principle of salt, v.13.
 
@@ -51,8 +51,8 @@ more.
 
 Distinctions.
 
-· The Dispensation of Israel concentrated on corporate witnessing.  The
-nation itself was the prime element of light to the world.  There are
+· The Dispensation of Israel concentrated on corporate witnessing.  The
+nation itself was the prime element of light to the world.  There are
 only a couple of notable exceptions like Jonah.
 
 · The Dispensation of the Hypostatic Union required individual

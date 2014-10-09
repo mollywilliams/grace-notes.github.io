@@ -8,7 +8,7 @@ The Twelve Tribes of Israel 16
 
 The Twelve Tribes of Israel
 
-A topical study guide, as taught by Pastor Robert L. Bolender
+A topical study guide, as taught by Pastor Robert L. Bolender
 
 Austin Bible Church, 1998.
 
@@ -16,7 +16,7 @@ Austin Bible Church, 1998.
 
 All these are the twelve tribes of Israel, and this is what their father
 said to them when he blessed them. He blessed them, every one with the
-blessing appropriate to him (Gen. 49:28). The writer of Hebrews reminds
+blessing appropriate to him (Gen. 49:28). The writer of Hebrews reminds
 us, “By faith Jacob, when he was dying” (Heb. 11:21a). The blessings
 bestowed upon his children then, in Gen. 49, were given in the power of
 the Holy Spirit and as direct revelation from God.
@@ -175,14 +175,14 @@ Jewish tradition, all poor Jews supposedly came from that ill-fated
 tribe.
 
 11. Levi would be scattered, and yet they are the objects of special
-blessing! In the blessing of Moses (Dt. 33), the tribe of Simeon is not
+blessing! In the blessing of Moses (Dt. 33), the tribe of Simeon is not
 mentioned. The tribe of Levi receives the longest blessing!
-(Dt. 33:8-11).
+(Dt. 33:8-11).
 
 12. The tribe of Levi seems to have been the one spiritual tribe at the
 golden calf incident (Ex. 32:26). This is generally believed to be the
 reason why Levi was set aside as the priestly tribe (Ex. 32:29;
-Dt. 10:8,9).
+Dt. 10:8,9).
 
 Certainly Simeon and Levi were zealous, but their zeal was not channeled
 into godly paths. Zeal in itself is not sufficient, even in the Lord’s
@@ -245,7 +245,7 @@ the hand of Judah on the necks of his enemies (2<sup>nd</sup> Sam.
 22:41; Ps. 18:40).
 
 b. King Solomon extended David’s territory to the greatest extent Israel
-has ever achieved (1<sup>st</sup> Kings 4:20-25).
+has ever achieved (1<sup>st</sup> Kings 4:20-25).
 
 3. Judah will produce a line of kings.
 
@@ -397,7 +397,7 @@ Mediterranean Sea and the Sea of Galilee (Josh. 19:10-16).
 antiquity, the Via Maris (*way of the sea*). This caravan route reached
 from Damascus in the northeast to Egypt in the southwest. Thus, lying
 between two seas and on a trade route, Zebulun was heavily involved in
-commercial ventures (Dt. 33:19).
+commercial ventures (Dt. 33:19).
 
 4. The second element of Jacob’s prophecy is that their border shall be
 towards Sidon.
@@ -410,7 +410,7 @@ in that coastal area north of Mount Carmel and Haifa Bay (Judg.
 1:31,32).
 
 5. One notable Zebulunite in Scripture was Elon the Zebulunite, who
-judged Israel ten years (Judg. 12:11,12).
+judged Israel ten years (Judg. 12:11,12).
 
 6. Zebulun is praised in the Song of Deborah (Judg. 5:18). They despised
 their lives even unto death.
@@ -519,7 +519,7 @@ wait, O Lord.
 name (Gen. 30:6).
 
 2. One of the greatest Judges in the history of Israel would be from the
-tribe of Dan—Sampson (Judg. 13:2).
+tribe of Dan—Sampson (Judg. 13:2).
 
 3. Dan shall judge as one of the tribes of Israel.
 
@@ -533,9 +533,9 @@ a. The tribe’s idolatry and substitute priesthood (Judg. 18).
 
 1) They were dissatisfied with their God-given portion of land.
 
-2) They conquered another land by human effort (Judg. 18:27,28).
+2) They conquered another land by human effort (Judg. 18:27,28).
 
-3) They established their own religious center (Judg. 18:17-20,30-31)
+3) They established their own religious center (Judg. 18:17-20,30-31)
 
 4) This religious center would later serve the purposes of Jeroboam
 (1<sup>st</sup> Kgs. 12:28-30).
@@ -546,7 +546,7 @@ the tribe of Dan.
 5. In the twenty different listings of the tribes, Dan is generally far
 down and often is the last in the list.
 
-a. Dan was the rear guard in the wilderness march (Num. 10:25).
+a. Dan was the rear guard in the wilderness march (Num. 10:25).
 
 b. Dan received his allotment of land last (Josh. 19:47-49).
 
@@ -567,7 +567,7 @@ Gad
 
 1![](data:image/png;base64,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).
 The seventh son of Jacob, and the first-born son by his concubine Zilpah
-(Gen. 30:11).
+(Gen. 30:11).
 
 2. And the sons of Gad: Ziphion (also called Zephon) and Haggi, Shuni
 and Ezbon (also called Ozni), Eri and Arodi (also called Arod) and Areli
@@ -635,7 +635,7 @@ sher
 ==============================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
 
 1. The eighth son of Jacob, and the second son by his concubine Zilpah
-(Gen. 30:12,13).
+(Gen. 30:12,13).
 
 2. And the sons of Asher: Imnah and Ishvah and Ishvi and Beriah and
 their sister Serah. And the sons of Beriah: Heber and Malchiel (Gen.
@@ -684,7 +684,7 @@ aphtali
 2. And the sons of Naphtali: Jahzeel and Guni and Jezer and Shillem
 (Gen. 46:24). These are the sons of Bilhah, whom Laban gave to his
 daughter Rachel, and she bore these to Jacob; *there were*seven persons
-in all (Gen. 46:25).
+in all (Gen. 46:25).
 
 “Naphtali is a doe let loose, He gives beautiful words.
 
@@ -700,7 +700,7 @@ Naphtali was a tribe that was swift to run to the battle against Sisera
 
 3. The swift doe, with beautiful words has another, greater fulfillment
 in the disciples of Christ. Jesus Christ summoned his twelve disciples,
-and began their training in the region of Naphtali (Matt. 4:13‑15).
+and began their training in the region of Naphtali (Matt. 4:13‑15).
 Their feet, who preached good news, are pronounced “blessed” (Rom.
 10:15).
 
@@ -855,7 +855,7 @@ will tear in pieces the armies of darkness!
 All the persons belonging to Jacob, who came to Egypt, his direct
 descendants, not including the wives of Jacob’s sons, *were*sixty-six
 persons in all, All the persons of the house of Jacob, who came to
-Egypt, *were*seventy (Gen. 46:27).
+Egypt, *were*seventy (Gen. 46:27).
 
 In verse 26 the number of descendants is said to be **66,** whereas the
 number in verse 27 is **70.** The first number represents those who

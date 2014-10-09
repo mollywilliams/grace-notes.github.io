@@ -179,7 +179,7 @@ day may bring forth.”
 
 **Redeem the Time!**
 
-It is important to purchase time each day. Eph. 5:15-17 is above.
+It is important to purchase time each day. Eph. 5:15-17 is above.
 
 Days are meaningful and prosperous when there is spiritual growth
 through learning and applying the word of God.

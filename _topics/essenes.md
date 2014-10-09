@@ -14,7 +14,7 @@ mentions them as flourishing in the time of Jonathan Maccabaeus, in
 about 150 B.C., where he speaks of Judas, an Essene.
 
 The Essenes are not mentioned directly in the Bible. However, it is
-thought that Matt. 19:11,12 and Col. 2:8 and 18 include indirect
+thought that Matt. 19:11,12 and Col. 2:8 and 18 include indirect
 references to Essenes. In any case, the Essenes disappeared from history
 after the destruction of Jerusalem in 70 A.D.
 

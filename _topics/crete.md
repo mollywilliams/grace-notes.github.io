@@ -228,7 +228,7 @@ wars.”
 
 On Cretan treachery and conniving (this is Polybius’ rebuttal to the
 statements of Ephorus, Xenophon, Plato and Callisthenes that the
-constitutions of Sparta and Crete are similar) [III, 375ff] – "Such are
+constitutions of Sparta and Crete are similar) [III, 375ff] – "Such are
 the points in which I consider these two political systems to differ,
 and I will now give my reasons for not regarding that of Crete as worthy
 of praise or imitation.
@@ -254,7 +254,7 @@ that of Sparta nor in any way deserving of praise and imitation, I
 dismiss it from the comparison which I have proposed to make."
 
 On the treachery of some citizens of the cities of Cydonia and Apollonia
-[VI, 31] – "The people of Cydonia at this time committed a shocking act
+[VI, 31] – "The people of Cydonia at this time committed a shocking act
 of treachery universally condemned. For although many such things have
 happened in Crete, what was done then was thought to surpass all other
 instances of their habitual ferocity.
@@ -266,7 +266,7 @@ treacherously seized on the city, killing the men, laying violent hands
 on all property, and dividing among themselves and keeping the women and
 children, and the city with its territory.”
 
-From Crete vs. Rhodes [VI, 285] – “Antiphatas … for, as a fact, this
+From Crete vs. Rhodes [VI, 285] – “Antiphatas … for, as a fact, this
 young man was not at all Cretan in character but had escaped the
 contagion of Cretan ill-breeding.”
 

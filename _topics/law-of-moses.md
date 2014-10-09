@@ -32,11 +32,11 @@ a honeymoon, what to do about divorce, slavery, inheritances, etc., were
 all covered. It was a complete set of laws.
 
 The Law of Moses is called the book of the covenant: Ex. 24:7, 8; 34:27,
-28; Deut. 4:13; 9:9, 11, 15. There is a written addendum to the Law in
+28; Deut. 4:13; 9:9, 11, 15. There is a written addendum to the Law in
 Deut. 29.
 
 The prophecy regarding the breaking of the covenant is found in
-Deut. 31:16, 20; Jer. 22:9. The book of the covenant is the subject of
+Deut. 31:16, 20; Jer. 22:9. The book of the covenant is the subject of
 Jeremiah 11; but it is not to be confused with the new covenant with
 Israel discussed in Jeremiah 31 to 33.
 
@@ -55,7 +55,7 @@ Born again believers of the church age are not under the Law. Therefore,
 the Mosaic Law was never given to the church: Acts 15:5, 24; Rom. 6:14;
 Gal. 2:19.
 
-Jesus Christ fulfilled the Law: Matt. 5:17, “…I am not come to destroy
+Jesus Christ fulfilled the Law: Matt. 5:17, “…I am not come to destroy
 the Law, but to fulfill…” He fulfilled the commandments by living
 perfectly under the Law. His perfect life fulfilled Code I. The
 Ordinances, Code II, were fulfilled by Christ’s death, burial,
@@ -66,7 +66,7 @@ divine institutions and establishment.
 Jesus Christ is the end of the Law for believers: Rom. 10:4.
 
 Believers in the church age are under a higher law of spirituality: Rom.
-8:2-4; Gal. 5:18, 22, 23; I Cor. 13. The believer who functions under
+8:2-4; Gal. 5:18, 22, 23; I Cor. 13. The believer who functions under
 the filling of the Holy Spirit takes up where Christ left off and
 fulfills the Law.
 
@@ -74,7 +74,7 @@ fulfills the Law.
     -----------------------------
 
 The Law cannot provide justification either for individuals or for
-groups: Gal. 2:16; Rom. 3:20, 28; Acts 13:39; Phil. 3:9.
+groups: Gal. 2:16; Rom. 3:20, 28; Acts 13:39; Phil. 3:9.
 
 The Law cannot give life: Gal. 3:21.
 
@@ -91,7 +91,7 @@ sin.
 
 The commandments provide laws of human freedom and provide a divine
 standard to which the sinner can compare himself and his actions and
-recognize that he is a sinner and needs a savior: Rom. 3:20, 28; 1 Tim.
+recognize that he is a sinner and needs a savior: Rom. 3:20, 28; 1 Tim.
 1:8, 9.
 
 The ordinances are designed to communicate God’s grace in salvation and
@@ -188,7 +188,7 @@ Comments:
 saving mankind. Rom. 10:13; 2 Pet. 3:9
 
 • The gospel was clearly declared in Old Testament times. Rom. 1:1-4;
-I Cor. 15:3-4; Acts 3:18. The passage in Isa. 53:5, 6 has exactly the
+I Cor. 15:3-4; Acts 3:18. The passage in Isa. 53:5, 6 has exactly the
 same boundaries as are found in I Cor. 15:3. Dan. 12:2, 3 has the
 boundary of the resurrection.
 
@@ -233,12 +233,12 @@ Christ carried our guilt as well as our sins.
 historical Christology.
 
 • According to Isa. 55:6, salvation in the person of Jesus Christ, is
-always available. Acts 4:12
+always available. Acts 4:12
 
 • Many conversions are recorded in the Old Testament, including:
 
 Noah was declared just in Gen. 6:8, 9, and was said to have
-righteousness in Heb. 11:7. Heb. 11 shows the spiritual life of Old
+righteousness in Heb. 11:7. Heb. 11 shows the spiritual life of Old
 Testament believers. The Old Testament imputation of righteousness is
 seen in Psalm 24:5 and Isa. 61:10.
 
@@ -249,6 +249,6 @@ Job gave perfect testimony to salvation in gospel form described as
 
 Many Gentiles were saved in the Old Testament. The citizens of Nineveh
 responded to the gospel when Jonah preached to them. Jonah 3:5-10, Matt.
-12:41; Luke 11:32. See also Rom. 9:24, 25; 30-33. See Daniel 4:34-37
+12:41; Luke 11:32. See also Rom. 9:24, 25; 30-33. See Daniel 4:34-37
 regarding the salvation of Nebuchadnezzar.
 

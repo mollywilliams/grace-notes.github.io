@@ -97,7 +97,7 @@ of faith.*
 
 Circumcision is a sign of imputed righteousness; it is the sign that one
 has believed and is cleansed by the blood of Christ and has God’s
-Righteousness credited to his account. Gen. 15:6; 2 Cor. 5:21.
+Righteousness credited to his account. Gen. 15:6; 2 Cor. 5:21.
 
 The true significance of circumcision was not in the physical act being
 perpetuated but in the reasons the ritual was begun in the first place.

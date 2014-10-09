@@ -20,26 +20,26 @@ In the Bible, reconciliation is the word used to refer to the process by
 which God changes human beings and adjusts them to the standard of His
 perfect character. Rom. 11:15 refers to the “reconciling of the world”.
 The Greek word used here is the noun (**katallagei**). This
-word is also used in Rom. 5:11, “…but we also joy in God through our
+word is also used in Rom. 5:11, “…but we also joy in God through our
 Lord Jesus Christ, by whom we have now received the reconciliation.”
 Note that man is not active in reconciliation and provides nothing
-toward reconciliation. Read also 2 Cor. 5:17-21.
+toward reconciliation. Read also 2 Cor. 5:17-21.
 
 Reconciliation also appears in the verb form 
 (**katallasso**), meaning “to reconcile”. It is used in the active voice
-in 2 Cor. 5:18 with the meaning of “reconciling someone to someone
+in 2 Cor. 5:18 with the meaning of “reconciling someone to someone
 else.” In this case, God reconciles us to Himself, through the Lord
 Jesus Christ. This verb in the passive voice means “to be reconciled” or
 “to become reconciled”, and it is used in the case of man’s relationship
-to God in Rom. 5:10 and 2 Cor. 5:20. The passive voice is also used in
-cases of reconciliation between people, as in 1 Cor. 7:11 and Matt.
+to God in Rom. 5:10 and 2 Cor. 5:20. The passive voice is also used in
+cases of reconciliation between people, as in 1 Cor. 7:11 and Matt.
 5:24.
 
 Another Greek word translated “to reconcile” is 
 (**hilaskomai**), meaning “to reconcile” in the sense of providing
 propitiation, as in Luke 18:13. It is used of the activity of the Lord
 Jesus Christ as high priest in making reconciliation for His people,
-Heb. 2:17.
+Heb. 2:17.
 
 Rom. 5:6-11 points out that the whole world needs to be reconciled to
 God. Note the adjectives in this passage which stress this need:
@@ -71,7 +71,7 @@ accompany his position in Christ, including the privileges accruing from
 reconciliation.
 
 The believer, in turn, has the responsibility of becoming a minister of
-reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of
+reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of
 the key salvation doctrines to be used in witnessing to those without
 Christ.
 

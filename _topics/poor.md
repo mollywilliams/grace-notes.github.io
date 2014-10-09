@@ -170,8 +170,8 @@ God is represented as punishing the oppressors of the poor and rewarding
 those who are kind to them. Therefore, God was the protector and Savior
 of the poor,
 
-Exo. 22:23 ; Deut. 15:9 ; 24:15 ; 1 Sam. 2:8 ; Job 31:16; Psalm 9:18;
-12:5; Prov. 19:17; Isa. 25:4 ; Eccl. 5:8.
+Exo. 22:23 ; Deut. 15:9 ; 24:15 ; 1 Sam. 2:8 ; Job 31:16; Psalm 9:18;
+12:5; Prov. 19:17; Isa. 25:4 ; Eccl. 5:8.
 
 The poor are not only delivered by God from their poverty, but in the
 reality of their poverty they often see the need for salvation and

@@ -28,7 +28,7 @@ judgment, and God does not permit any interference with His judgment.
 Matt. 7:1 ff.
 
 The doctrine of Israel’s preëminence is first declared in the Abrahamic
-Covenant. Gen. 12:1-3; 13:15,16; 22:15-18; 26:3,4; Ex. 6:2-8. This
+Covenant. Gen. 12:1-3; 13:15,16; 22:15-18; 26:3,4; Ex. 6:2-8. This
 covenant is a reminder to us that long before our European ancestors
 were painting themselves blue and green and worshipping rocks and trees,
 God had taken a special man, Abraham, and created a special race of
@@ -41,7 +41,7 @@ part. But the Abrahamic covenant guarantees the Jews two things: 1) the
 Jews will live throughout history in spite of every Satanic attempt to
 destroy them through anti-Semitism; and 2) the born-again Jews from
 Abraham to the second coming of Christ will have a place forever that is
-unique and fantastic in God’s plan. The  preëminence of Israel is based
+unique and fantastic in God’s plan. The  preëminence of Israel is based
 on several important factors.
 
 First, the preëminence of Israel is based upon their custodianship of
@@ -64,16 +64,16 @@ The Palestinian Covenant is detailed in Gen. 15:18; Num. 34:1-12; Deut.
 30:1-9; Josh. 1:3,4. This land goes from the Nile River to the Euphrates
 and from the Mediterranean Sea to the Gulf of Akabah. The preëminence of
 Israel is also based on having a King who will reign forever, Jesus
-Christ of the line of David. 2 Sam. 7:8-16; Ps. 89:20-37.
+Christ of the line of David. 2 Sam. 7:8-16; Ps. 89:20-37.
 
 The preëminence of Israel is based on the fact that, even though they
 have been disciplined and scattered, they will be regathered and
 restored at the Second Advent of Christ. Isa. 5:26-30; 10:19-23;
 11:11-16; 14:1-3; 60:4-6; Joel 2:16 ff; Zech. 10:6-12. Therefore, the
 Jews’ preëminence is related to their survival in spite of
-anti-Semitism. Rev. 12; Zech. 14:16-21.
+anti-Semitism. Rev. 12; Zech. 14:16-21.
 
 Finally, the preëminence of Israel is based on the pattern of Abraham’s
-salvation. Gen. 15:6; Rom. 4:1-16,22,23. Born again Jews of all time
+salvation. Gen. 15:6; Rom. 4:1-16,22,23. Born again Jews of all time
 will participate in these promises.
 

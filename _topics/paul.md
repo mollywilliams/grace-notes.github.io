@@ -101,7 +101,7 @@ He taught three months in the synagogue in Ephesus. In the face of
 opposition, he took his classes to the school of one, Tyrannus, where he
 taught daily for two years. Exorcists were converted and books of magic
 were burned by the new converts. He paid a visit to Corinth, then
-returned to Ephesus where he wrote 1 Corinthians.
+returned to Ephesus where he wrote 1 Corinthians.
 
 Paul left for Troas and Macedonia because of the danger in Ephesus from
 the silversmiths and craftsmen who made articles for the worship of
@@ -135,21 +135,21 @@ had brought him into the temple, which would have been a sacrilege. The
 mob took Paul to kill him, but soldiers of the Roman garrison appeared.
 Paul spoke to the mob in his own defense, telling of his mission to the
 Gentiles. They shouted “Away with such a fellow from the earth, for it
-is not fit that he should live.” (Acts 22:1-23).
+is not fit that he should live.” (Acts 22:1-23).
 
 The Roman soldiers took Paul to the governor’s castle for interrogation
 by scourging, at which time Paul claimed his Roman citizenship. The next
 morning he was taken before the Sanhedrin, but there was no conclusion
 because of the dissension between the Sadducees and Pharisees. Paul was
 taken back to the castle for protection, and it was that night that the
-Lord appeared to Paul telling him to “be of good cheer.” (Acts 23:6‑10)
+Lord appeared to Paul telling him to “be of good cheer.” (Acts 23:6‑10)
 
 There arose a conspiracy among forty Jews to assassinate Paul, but
 Paul’s nephew brought him a warning of the plot. The Romans decided to
 send him to Caesarea to Felix, the procurator (governor) of Judea
-(Acts 22:21ff). Before Felix, Paul was merely asked from province he had
+(Acts 22:21ff). Before Felix, Paul was merely asked from province he had
 come. Five days later, the high priest Ananias and some of the Sanhedrin
-appeared, with Tertullus as their advocate (Acts 24:1‑9). They made
+appeared, with Tertullus as their advocate (Acts 24:1‑9). They made
 charges, which Paul denied. Felix delayed the proceeding further until
 Claudias Lysias, the captain of the Roman troops n Jerusalem, could come
 to give evidence.

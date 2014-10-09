@@ -48,7 +48,7 @@ summaries and comments by the Synoptic evangelists (Mk. 1:32–34 par Mt.
 In two of the six exorcism stories of the Gospels, Mt. 9:32–34 and Mt.
 12:22f (par Lk. 11:14), nothing is said of the technique used by Jesus.
 In three exorcism stories Jesus expels demons with short, succinct
-commands: “Jesus rebuked him, saying ‘Be silent and come out of him!’ ”
+commands: “Jesus rebuked him, saying ‘Be silent and come out of him!’ ”
 (Mk. 1:25 par Lk. 4:35); “Come out of the man, you unclean spirit!” (Mk.
 5:8 par Lk. 8:29); “He rebuked the unclean spirit and said to it, ‘I
 command you, come out of him and never enter him again!” (Mk. 9:25 par

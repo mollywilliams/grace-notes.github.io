@@ -42,7 +42,7 @@ question of the authority of the Bible.
 <td align="left"><p>The Bible is not merely a witness to revelation, does not become revelation in encounter, does not depend on the responses of men for its validity.</p></td>
 </tr>
 <tr class="even">
-<td align="left"><p> <strong>The written Word was completed with the New Testament.</strong></p></td>
+<td align="left"><p> <strong>The written Word was completed with the New Testament.</strong></p></td>
 <td align="left"><p>There is no later revelation which corrects or contradicts the Bible. No normative revelation has been given since the completion of the New Testament.</p></td>
 </tr>
 <tr class="odd">

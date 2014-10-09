@@ -21,7 +21,7 @@ it the capital of the united kingdom.
 
 The kingdom split up after Solomon’s death, and both Israel and Judah
 suffered continual deterioration for many generations. The Assyrians
-invaded Palestine in 721 B.C. and gained control of the north. In 606
+invaded Palestine in 721 B.C. and gained control of the north. In 606
 B.C. and again in 586 B.C. the Babylonians under Nebuchadnezzar besieged
 Jerusalem, eventually bringing the whole land under their domination and
 taking many captives, including the prophet Daniel.

@@ -91,7 +91,7 @@ The Justice of God
 
 God has sovereignty over His creatures by virtue of His creation. He has
 the perfect right to dispose of His works as it may please Him.
-Psa.. 115:3; 135:6
+Psa.. 115:3; 135:6
 
 God is a judge. Psalm 50:6. As a judge, He places a penalty on sin. Rom.
 6:23, “The wages of sin is death.” God demands that disobedience against

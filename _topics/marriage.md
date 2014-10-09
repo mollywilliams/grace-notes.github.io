@@ -30,11 +30,11 @@ wife.
 
 Imagine! Two young people who had never even met were, within a couple
 of days, living as husband and wife. And most probably this marriage
-will last. How different from the  American dream of the young girl who
-meets  Mr. Wonderful, falls in love, and then hopes he will propose. The
+will last. How different from the  American dream of the young girl who
+meets  Mr. Wonderful, falls in love, and then hopes he will propose. The
 Indian culture sets aside romance until after marriage; the American
 culture makes romance the prerequisite for marriage. In India, marriage
-is thought of in terms of  marriage and love rather than the American 
+is thought of in terms of  marriage and love rather than the American 
 love and marriage.
 
 Culture does play a very significant role in our attitudes and actions
@@ -56,13 +56,13 @@ A Christian marriage is one in which at least one partner is a believer
 in Christ, who embraces the attitudes and actions prescribed by the
 Scriptures in their relationship with their mate.
 
-We generally think of a Christian marriage  as one in which both the
-husband and the wife  are believers in Christ. While this is certainly
-the ideal, it is not always so.  A Christian marriage is one in which
+We generally think of a Christian marriage  as one in which both the
+husband and the wife  are believers in Christ. While this is certainly
+the ideal, it is not always so.  A Christian marriage is one in which
 Christ is manifested through the marriage relationship by at least one
 of the partners. Peter’s words to wives in 3:1-6 implies that a
 believing wife may manifest Christ while married to an unbeliever. Who
-would dare call this marriage something less than  Christian?
+would dare call this marriage something less than  Christian?
 
 It is not enough for one who is married to be a Christian. He or she
 must also think and act in a Christian manner. The Christian’s attitudes
@@ -77,11 +77,11 @@ true believer possesses.
 
 I have often heard Christians say the principles for successful
 relationships apply as much to unbelievers as they do to believers. If
-one believes this, then it matters not whether the one who goes to a 
+one believes this, then it matters not whether the one who goes to a 
 Christian counselor is a Christian or not; they simply need to be given
 the right principles. The Scriptures simply do not bear this out.
 Rather, the Scriptures inform us that when one comes to Christ, he or
-she becomes a  new creation, old things have passed away and all things
+she becomes a  new creation, old things have passed away and all things
 have become new (2 Corinthians 5:17). Peter also speaks of a radical
 change which takes place when one comes from darkness to light:
 
@@ -90,7 +90,7 @@ your hope completely on the grace to be brought to you at the revelation
 of Jesus Christ. 14 As obedient children, do not be conformed to the
 former lusts [which were yours] in your ignorance, 15 but like the Holy
 One who called you, be holy yourselves also in all [your] behavior; 16
-because it is written,  YOU SHALL BE HOLY, FOR I AM HOLY. 17 And if you
+because it is written,  YOU SHALL BE HOLY, FOR I AM HOLY. 17 And if you
 address as Father the One who impartially judges according to each man’s
 work, conduct yourselves in fear during the time of your stay [upon
 earth]; 18 knowing that you were not redeemed with perishable things
@@ -134,7 +134,7 @@ living according to the flesh, you must die; but if by the Spirit you
 are putting to death the deeds of the body, you will live. 14 For all
 who are being led by the Spirit of God, these are sons of God. 15 For
 you have not received a spirit of slavery leading to fear again, but you
-have received a spirit of adoption as sons by which we cry out,  Abba!
+have received a spirit of adoption as sons by which we cry out,  Abba!
 Father! (Romans 8:5-15).
 
 The unbeliever sets his mind on the things of the flesh, not the things
@@ -159,7 +159,7 @@ principles which are distinctly Christian.
 
 Biblical Expectations for Marriage
 
-There is no such thing as  heaven on earth. Heaven, as it were, will
+There is no such thing as  heaven on earth. Heaven, as it were, will
 come down to the earth at the return of our Lord (see Revelation 21-22).
 But the New Testament writers give us no indication that the believer
 can and will experience heaven on earth. In short, Christ and the
@@ -174,27 +174,27 @@ our station in life, we will not experience the bliss of heaven until we
 pass from this life into the glory of Christ’s kingdom.
 
 Godliness does not insure marital bliss. Most conservative, evangelical
-Christians recognize the error of what has been called the  health and
-wealth gospel,  name it and claim it Christianity, or the  prosperity
-gospel. We would be especially critical of the  prosperity gospel which
+Christians recognize the error of what has been called the  health and
+wealth gospel,  name it and claim it Christianity, or the  prosperity
+gospel. We would be especially critical of the  prosperity gospel which
 promises people that God wants them to be rich and all they have to do
 is to follow a few rules. As this works itself out through the
 prosperity televangelists, viewers are urged to send in their donations,
 assured of receiving God’s manifold financial blessings in return. We
-rightly recognize this not only as untrue, but  hucksterism at its
+rightly recognize this not only as untrue, but  hucksterism at its
 worst.
 
 We are inconsistent, however. Many who reject one form of the prosperity
 gospel believe it in another form. For example, how many parents believe
 that if they raise up their children in accordance with biblically
 prescribed principles they may be assured of having godly children in
-the end? How many Christians believe the  key to marital happiness is
+the end? How many Christians believe the  key to marital happiness is
 simply to follow the manual? I am afraid we sincerely, but wrongly,
 assume that following divine principles assures us of experiencing
 marital bliss. This is simply neither biblical nor true.
 
-For several reasons, we dare not presume that God is obligated to  bless
-our marriage with happiness if we but  follow the rules.
+For several reasons, we dare not presume that God is obligated to  bless
+our marriage with happiness if we but  follow the rules.
 
 First, these presumptions are contrary to the principle of grace. It is
 a mechanical and legalistic viewpoint which believes that every good we
@@ -232,7 +232,7 @@ purifies our faith, for our good and His glory (1 Peter 1:6-9; 2:18-25;
 see also Job, Psalm 73; Romans 5:1-11; James 1:2-4).
 
 Our expectations of marriage must not be based on the attitudes and
-actions God requires of our mate. It is true that the husband should 
+actions God requires of our mate. It is true that the husband should 
 live with his wife according to knowledge, granting her honor as the
 weaker vessel and as a co-heir of the grace of life (3:7). But it is
 wrong for the wife to expect or even demand that her husband live this
@@ -249,7 +249,7 @@ A Biblical Goal for Marriage
 
 Our expectations are closely linked with our goals. We set goals for
 those things we desire, which we believe are attainable. The Christian’s
-ultimate goal should not be to have a  good marriage, but to be godly in
+ultimate goal should not be to have a  good marriage, but to be godly in
 his or her marriage. A godly marriage is one in which at least one
 partner exhibits Christ in the marriage, to the glory of God. The Lord
 Jesus came as the Suffering Servant and thus became the model for both
@@ -267,11 +267,11 @@ over lust. Our goal should not be happiness, but holiness:
 14 As obedient children, do not be conformed to the former lusts [which
 were yours] in your ignorance, 15 but like the Holy One who called you,
 be holy yourselves also in all [your] behavior; 16 because it is
-written,  YOU SHALL BE HOLY, FOR I AM HOLY (1 Peter 1:14-16).
+written,  YOU SHALL BE HOLY, FOR I AM HOLY (1 Peter 1:14-16).
 
 Biblical Assumptions and Marriage
 
-We should not assume God is more glorified by a  successful and  happy
+We should not assume God is more glorified by a  successful and  happy
 marriage than by one fraught with difficulties. As Paul points out in
 Ephesians 5, a marriage in which the husband and wife play out their
 respective roles obediently portrays the relationship between Christ and
@@ -296,7 +296,7 @@ We should not assume we are more spiritually blessed by a happy and
 trouble-free marriage than by one characterized by trials and
 tribulation. Our ultimate good in this life is not our happiness, but
 our holiness (1:15). Suffering often contributes more to our holiness
-than our  happiness does (see 1 Peter 1:6-9; also Romans 5:1-11; 8:1ff.;
+than our  happiness does (see 1 Peter 1:6-9; also Romans 5:1-11; 8:1ff.;
 see also Job and Psalm 73).
 
 The world believes happiness is the good we should pursue, and that
@@ -318,13 +318,13 @@ for Him.
 The place of our family in our priorities is difficult because of errors
 at both extremes. Some seem to inundate themselves in ministry to avoid
 their family responsibilities. These people are really sluggards, not
-saints.  Conversely, some use their family as a pretext for avoiding
+saints.  Conversely, some use their family as a pretext for avoiding
 their spiritual obligations (see Luke 9:57-62). The subtle sin here is
 that in ostensibly making sacrifices to serve our family we are actually
 serving ourselves, for our life is tied up with our family. It is not
 surprising that in those texts in which Jesus called for His disciples
-to forsake (literally  hate) their family as their first priority, He
-spoke of them  giving up their life as well (see Matthew 10:39; Luke
+to forsake (literally  hate) their family as their first priority, He
+spoke of them  giving up their life as well (see Matthew 10:39; Luke
 14:26). Our commitment to Christ must come before all other commitments
 lest our devotion to Him be diminished (see 1 Corinthians 7:25-35).
 
@@ -354,7 +354,7 @@ fleshly desires (2 Peter 2:1-22).
 
 Biblical Principles and Marriage
 
-Contrary to many  marriage manuals and seminars on marriage, the key to
+Contrary to many  marriage manuals and seminars on marriage, the key to
 a biblical marriage is not the execution of specialized techniques
 applicable to marriage alone. Rather, the key to a biblical marriage is
 the possession of biblical attitudes and actions which apply to all
@@ -374,7 +374,7 @@ as Jezebel, with the assurance that keeping her husband satisfied at
 home will prevent worry about outside competition for her husband’s
 affection. Far too often, this is at best an element of truth and a
 massive dose of worldly advice. The advice may be partially sanctified
-by calling it  Christian, but most often it is secular and fleshly at
+by calling it  Christian, but most often it is secular and fleshly at
 its core. The Christian is not to live in accordance with the wisdom of
 this world but according to knowledge, the knowledge of God found in His
 Word.
@@ -433,7 +433,7 @@ Marriage is an eternal investment–the more you put into it, the more you
 get out of it from the Lord at His return. Marriage is not about
 equality, regardless of popular cultural ideas and values on the
 subject. Marriage is about ministry. Marriage is about submission and
-servanthood. All too often one partner carefully  meters out or measures
+servanthood. All too often one partner carefully  meters out or measures
 the things he or she contributes to the other partner, and then very
 carefully measures what is given back in return. The hope is that what
 we get back will at least equal or even better, exceed perhaps, what we
@@ -447,7 +447,7 @@ we are not to expect or demand them in this life. Jesus made it clear
 that giving with the expectation of returns is neither gracious nor
 godly:
 
-12 And He also went on to say to the one who had invited Him,  When you
+12 And He also went on to say to the one who had invited Him,  When you
 give a luncheon or a dinner, do not invite your friends or your brothers
 or your relatives or rich neighbors, lest they also invite you in
 return, and repayment come to you. 13 But when you give a reception,
@@ -494,13 +494,13 @@ our union with the Lord Jesus Christ, enjoying His presence forever:
 
 6 And I heard, as it were, the voice of a great multitude and as the
 sound of many waters and as the sound of mighty peals of thunder,
-saying,  Hallelujah! For the Lord our God, the Almighty, reigns. 7 Let
+saying,  Hallelujah! For the Lord our God, the Almighty, reigns. 7 Let
 us rejoice and be glad and give the glory to Him, for the marriage of
 the Lamb has come and His bride has made herself ready. 8 And it was
 given to her to clothe herself in fine linen, bright [and] clean; for
 the fine linen is the righteous acts of the saints. 9 And he said to
-me,  Write, ‘Blessed are those who are invited to the marriage supper of
-the Lamb.’ And he said to me,  These are true words of God (Revelation
+me,  Write, ‘Blessed are those who are invited to the marriage supper of
+the Lamb.’ And he said to me,  These are true words of God (Revelation
 19:6-9).
 
 At His return, our marriage with Christ will be consummated. But for now
@@ -519,7 +519,7 @@ Submission is an attitude which relates not only to people but to
 circumstances. When adverse circumstances come our way, this is often
 the time we strike out against others, our mate, and even God. Biblical
 submission accepts our circumstances as having come, first and foremost,
-from the hand of a sovereign and loving God, who causes  all things to
+from the hand of a sovereign and loving God, who causes  all things to
 work together for [our] good and His glory (Romans 8:28). Submission
 then seeks to serve, in spite of these difficulties, to the glory of God
 and the good of others, at the cost of personal sacrifice. We sacrifice

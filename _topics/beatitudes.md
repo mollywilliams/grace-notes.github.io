@@ -43,7 +43,7 @@ Psalm 30:10-12
 
 * “_You have turned for me my mourning into dancing; You have loosed my sackcloth and girded me with gladness._”
 
-* “_That my soul may sing praise to You, and not be silent.  O Lord my God, I will give thanks to You forever._”
+* “_That my soul may sing praise to You, and not be silent.  O Lord my God, I will give thanks to You forever._”
 
 Psalm 38:1-8
 
@@ -69,17 +69,17 @@ Isaiah 61:1-3 connects mourning and the atonement,
 
 * “_to proclaim the favorable year of the Lord, and the day of vengeance of our God; to comfort all who mourn,_”
 
-* “_to grant those who mourn in Zion, giving them a garland instead of ashes, the oil of gladness instead of mourning, the mantle of praise instead of a spirit of fainting.  So they will be called oaks of righteousness, the planting of the lord, that He may be glorified._"
+* “_to grant those who mourn in Zion, giving them a garland instead of ashes, the oil of gladness instead of mourning, the mantle of praise instead of a spirit of fainting.  So they will be called oaks of righteousness, the planting of the lord, that He may be glorified._"
 
-2 Corinthians 7:9-13 makes a very direct connection between sin and grief.  This passage seems almost as if Paul intended to clarify our beatitude. 
+2 Corinthians 7:9-13 makes a very direct connection between sin and grief.  This passage seems almost as if Paul intended to clarify our beatitude. 
 
 * “I now rejoice, not that you were made sorrowful, but that you were made sorrowful to the point of repentance; for you were made sorrowful according to the will God, in order that you might not suffer loss in anything through us.”
 
 * “_For the sorrow that is according to the will of God produces a repentance without regret, leading to salvation; but the sorrow of the world produces death._”
 
-* “_For behold what earnestness this very thing, this godly sorrow, has produced in you:  what vindication of yourselves, what indignation, what fear, what longing, what zeal, what avenging of wrong! In everything you demonstrated yourselves to be innocent in the matter._”
+* “_For behold what earnestness this very thing, this godly sorrow, has produced in you:  what vindication of yourselves, what indignation, what fear, what longing, what zeal, what avenging of wrong! In everything you demonstrated yourselves to be innocent in the matter._”
 
-* “_So although I wrote to you it was not for the sake of the offender, nor for the sake of the one offended, but that your earnestness on our behalf might be made known to you in the sight of God.  For this reason we have been comforted._"
+* “_So although I wrote to you it was not for the sake of the offender, nor for the sake of the one offended, but that your earnestness on our behalf might be made known to you in the sight of God.  For this reason we have been comforted._"
 
 Conclusion:
 
@@ -201,7 +201,7 @@ The life and death of Jesus Christ are the ultimate testimony of the love of God
 
 An extension of your life is often an expression of mercy, so that you may have another chance to use your volition responsibly.
 
-The merciful follows of Christ during the tribulation will be shown mercy in the preservation of their human lives.  In fact, human mercy as expressed in charity is very much a measure of Christian maturity during the millennium.
+The merciful follows of Christ during the tribulation will be shown mercy in the preservation of their human lives.  In fact, human mercy as expressed in charity is very much a measure of Christian maturity during the millennium.
 
 **_The sixth blessing_**: "_Blessed are the pure in heart, because they will see God_" is from Matthew 5:8.
 
@@ -224,7 +224,7 @@ Purity may refer to the status of spiritual maturity.
 
 Purity may also refer to the temporal state of being in fellowship with God.
 
-The only extra context we have is the blessing which attends the state. The blessing is that the pure in heart will see God. The phrase “will see God”  is the future indicative of OPSONTAI  with the simple accusative case of THEON.
+The only extra context we have is the blessing which attends the state. The blessing is that the pure in heart will see God. The phrase “will see God”  is the future indicative of OPSONTAI  with the simple accusative case of THEON.
 
 So, those who are pure in heart now will see God in the future.
 
@@ -260,7 +260,7 @@ So, peacemakers are purveyors of the gospel.
 
 The peacemakers will be called the sons of God.
 
-And so it comes  to this: that this is a special reward for those who lived or will live in any of the dispensations related to Israel.
+And so it comes  to this: that this is a special reward for those who lived or will live in any of the dispensations related to Israel.
 
 A person’s name held great significance in Biblical times more so than today.
 
@@ -274,7 +274,7 @@ Conclusion: You may be persecuted for two reasons: because you are a Christian, 
 
 The blessing for this is the kingdom of heaven. This seems curious at first, because the same is awarded the poor in spirit no matter what they might do.
 
-However, there is a contrast. In the first beatitude the emphasis lay on eternal security.  In this last one it is on eternity, period.
+However, there is a contrast. In the first beatitude the emphasis lay on eternal security.  In this last one it is on eternity, period.
 
 **_Next comes the explanation_**. It begins with the phrase you are blessed.
 

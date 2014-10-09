@@ -296,14 +296,14 @@ the things that are God’s” (Matthew 22:21) bears out this principle.
 Bible References to Specific Types of Authority
 
 • The authority of the rulers of federal, state, and local government:
-Rom. 12; 1 Tim. 2.
+Rom. 12; 1 Tim. 2.
 
-• The authority of a judge on the bench: 1 Cor. 6:1-8.
+• The authority of a judge on the bench: 1 Cor. 6:1-8.
 
 • The authority of a business owner or executive: Col. 3; Eph. 5; 1 Tim.
 6.
 
-• The authority of an athletic coach: 1 Cor. 9:24-27.
+• The authority of an athletic coach: 1 Cor. 9:24-27.
 
 • The authority of the military chain of command: Matt. 8:8-10.
 
@@ -316,7 +316,7 @@ Matt. 22:19-21; 17:25‑27
 
 1 Cor. 7:21-24
 
-Eph. 6:5-9
+Eph. 6:5-9
 
 1 Tim. 6:1, 2
 

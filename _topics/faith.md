@@ -161,7 +161,7 @@ The Biblical concept of faith is that it amounts to complete confidence
 in something for which there is no empirical or rational proof
 available. "And without faith it is impossible to please Him, for he who
 comes to God must believe that He is, and that He is a rewarder of those
-who seek Him.” Heb. 11:6
+who seek Him.” Heb. 11:6
 
 A person is said to have faith in something if he has believed it
 without having had a physical demonstration of it or a logical
@@ -239,23 +239,23 @@ idea or object which is believed. Faith is valid only when it has a
 valid object.
 
 Saving faith has as its object the Lord Jesus Christ and His
-substitutionary work on the cross for man's salvation, John 3:36;
-Acts 16:31. A belief in any other plan of salvation, however strongly
+substitutionary work on the cross for man's salvation, John 3:36;
+Acts 16:31. A belief in any other plan of salvation, however strongly
 and emotionally held, will prove to have been faith in an invalid and
-useless object, Acts 4:12.
+useless object, Acts 4:12.
 
 Living faith has as its objects the facts, promises, and commands of the
-Bible, Matt. 4:4. Faith in Bible principles is the only method which
-will unlock spiritual truth, I Cor. 1:18 to 2:16. The believer who is
+Bible, Matt. 4:4. Faith in Bible principles is the only method which
+will unlock spiritual truth, I Cor. 1:18 to 2:16. The believer who is
 growing spiritually receives continuous verification that the divine
 principles upon which he bases his life are perfectly valid,
-Eph. 4:11–16.
+Eph. 4:11–16.
 
 **How to have strong faith**
 
 The strongest, best established faith is that which is the result of
 Christian edification, that process by which a believer is rooted and
-built up in his spiritual life, Col. 2:6,7. One of the most important
+built up in his spiritual life, Col. 2:6,7. One of the most important
 results of Christian growth is the progressive increase in the
 believer's ability to use faith. Several important factors in the
 development of Christian faith are listed here along with some
@@ -263,28 +263,28 @@ representative Bible passages.
 
 -  Faith requires the continuous intake of truth from the word of God.
    "...faith cometh by hearing and hearing by the word of God...",
-   Rom. 10:17.
+   Rom. 10:17.
 
    Faith is not a fruit of the Holy Spirit.
 
 -  Faith must be exercised daily by using faith rest principles in day to
-   day living, "...we who have believed do enter into rest...", Heb. 4:1–3;
+   day living, "...we who have believed do enter into rest...", Heb. 4:1–3;
    and by using faith and patience in all situations, "...the testing of
-   your faith produces endurance.", James 1:3.
+   your faith produces endurance.", James 1:3.
 
 -  Applied knowledge overflowing from the human spirit, which refers to
    all witnessing, requires the exercise of faith. "...that Christ may
-   dwell in your hearts by faith...", Eph. 3:17-20.
+   dwell in your hearts by faith...", Eph. 3:17-20.
 
 -  Moving towards maturity includes the development of great faith.
    "...this is the victory that overcomes the world, our faith...",
-   1 John 5:4, 5; Heb. 11:6.
+   1 John 5:4, 5; Heb. 11:6.
 
 -  Daily occupation with the Lord Jesus Christ completes faith. "Looking
-   unto Jesus, the author and perfecter of faith...", Heb. 12:2.
+   unto Jesus, the author and perfecter of faith...", Heb. 12:2.
 
 -  Undeserved suffering both tests and strengthens faith. "...the proof
-   of your faith...", 1 Peter 1:7, 8.
+   of your faith...", 1 Peter 1:7, 8.
 
 **The word faith in the Bible**
 
@@ -341,18 +341,18 @@ the function of the Faith rest principles. This verb is used extensively
 in the Old Testament.
 
 KAHSAH
-: verb, Psalm 57:1, used of a rabbit fleeing from a desert fox and
+: verb, Psalm 57:1, used of a rabbit fleeing from a desert fox and
 finding refuge in the cleft of the rock where the fox can not reach him.
 The word means to believe in the sense of finding refuge in the word or
 taking shelter in the Lord.
 
 YAHKAL
 : verb, to trust in circumstances of pressure or suffering.
-Job 13:15; Lam. 3:21, 24.
+Job 13:15; Lam. 3:21, 24.
 
 KAHWAH
 : used in the sense of binding or twisting strands of fiber
 together to make a rope. Threads which are weak in themselves are woven
 together into strength. The meaning is that we are weak and can be
 broken, but woven into the Lord and His word, we cannot be broken.
-Isa. 40:31; Lam. 3:25.
+Isa. 40:31; Lam. 3:25.

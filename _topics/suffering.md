@@ -228,7 +228,7 @@ and confessing the sins in the chain.
 
 You can avoid suffering due to a guilt reaction to sin; the maintaining
 of a guilt complex. Remember that Christ died for all our sins; He bore
-the guilt for us. (1 Pet. 3:18; 2:24; 2 Cor. 5:21). One may have
+the guilt for us. (1 Pet. 3:18; 2:24; 2 Cor. 5:21). One may have
 confessed sin biblically and be in fellowship and still labor under a
 heavy load of guilt. But this is unbelief. A guilt complex itself is
 sinful, because one says by this that the Lord has not forgiven. But,
@@ -274,33 +274,33 @@ undeservedly in order to bring blessing to themselves or others.
 
 1. Suffering for the glory of God: Book of Job; Isa. 48:9–11
 
-2. Suffering to comfort others: 2 Cor. 1:3–6
+2. Suffering to comfort others: 2 Cor. 1:3–6
 
 3. Suffering to demonstrate the power of God, the provisions of grace:
-2 Cor. 12:8–10
+2 Cor. 12:8–10
 
 4. Suffering from spiritual growing pains; the testing that strengthens
-faith: Deut. 8:1–10; James 1:1–6; 1 Pet. 1:7,8; Rom. 5:3
+faith: Deut. 8:1–10; James 1:1–6; 1 Pet. 1:7,8; Rom. 5:3
 
 Faster growth means more frequent testing; there is a refining process:
-Job. 23:10; Isa. 1:18–27; 1 Pet. 1:7
+Job. 23:10; Isa. 1:18–27; 1 Pet. 1:7
 
-5. Suffering to keep down pride: 2 Cor. 12:6,7; Matt. 26:31–75 (the
+5. Suffering to keep down pride: 2 Cor. 12:6,7; Matt. 26:31–75 (the
 scattering of the disciples)
 
 6. Suffering to illustrate doctrine (for advanced believers: Book of
 Hosea
 
 7. Suffering by association occurs when we have some relationship with
-someone who is suffering: Rom. 14:7; 1 Cor. 12:26; 1 Chron. 21
+someone who is suffering: Rom. 14:7; 1 Cor. 12:26; 1 Chron. 21
 
 8. Suffering to show the fruit of the Spirit and the results of
-edification: 2 Cor. 4:6–11
+edification: 2 Cor. 4:6–11
 
 9. Suffering to learn the value of doctrine: Psalm 119:65-72
 
-10. Suffering as a witness to Christ: 2 Tim. 2:8–12; John 15:18-21; Acts
-5:40-42; 1 Cor. 4:9–16
+10. Suffering as a witness to Christ: 2 Tim. 2:8–12; John 15:18-21; Acts
+5:40-42; 1 Cor. 4:9–16
 
 11. Suffering as a result of exercising a spiritual gift; illustrated by
 the life of the Apostle Paul
@@ -310,5 +310,5 @@ conflict: Eph. 3:8–13
 
 Promises to Believers Who Suffer
 
-Psalm 34:19,20; Isa. 43:2; 2 Cor. 4:17 and 12:9; 1 Peter 5:10
+Psalm 34:19,20; Isa. 43:2; 2 Cor. 4:17 and 12:9; 1 Peter 5:10
 

@@ -52,7 +52,7 @@ redeemed by sacrificing a sheep in its place; or, if not redeemed in
 this manner, was put to death itself (Ex. 13:12 ff; 34:20). Later, the
 law provided that the ass could be redeemed with money, the amount to be
 determined by the market value of the ass plus twenty percent, according
-to the priest’s valuation (Lev. 27:27; Num. 18:15).
+to the priest’s valuation (Lev. 27:27; Num. 18:15).
 
 The firstfruits of the harvest were sacred to Jehovah because He is the
 Lord of the soil (Ex. 23:19). These were given to the priest to be
@@ -217,7 +217,7 @@ the praise of his glory.”**
 Some Implications of the Doctrine of Redemption
 
 Redemption is the basis of our eternal inheritance. See Eph. 1:13,14 and
-Heb. 9:15 above.
+Heb. 9:15 above.
 
 Redemption is the basis of justification. Rom. 3:23, 24 (above).
 
@@ -225,7 +225,7 @@ Redemption includes the total forgiveness of sins; Eph. 1:7; Col. 1:14.
 
 Redemption results in adoption.
 
-**Gal. 4:4–6, “But when the fullness of time was come, God sent forth
+**Gal. 4:4–6, “But when the fullness of time was come, God sent forth
 His Son, made of a woman, made under the Law, To redeem them that were
 under the Law, that we might receive the adoption of sons. And because
 you are sons, God has sent forth the Spirit of His Son into your hearts,
@@ -234,7 +234,7 @@ crying, Abba, Father.”**
 The doctrine of redemption is used to orient believers in time of
 stress.
 
-**Job 19:25, “I know that my Redeemer liveth…”**
+**Job 19:25, “I know that my Redeemer liveth…”**
 
 At the point of redemption we can have peace of mind, stability, a
 relaxed mental attitude by knowing the doctrine and that God has paid

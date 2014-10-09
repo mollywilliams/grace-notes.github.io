@@ -86,7 +86,7 @@ effort to represent yourself approved to God, an irreproachable worker
 cutting a straight path with the Word of Truth.”
 
 The Christian worker must also be able to stand the test of negative
-volition on the part of those he is reaching. READ Acts 13. Nothing
+volition on the part of those he is reaching. READ Acts 13. Nothing
 tests the Christian worker more than a lack of response. Paul began his
 first missionary journey about ten years after he was saved, when he was
 mature. He ran into negative volition and corrected the situation with
@@ -115,12 +115,12 @@ worker must understand the doctrine of volition, both positive and
 negative aspects.
 
 A Christian worker must also possess spiritual endurance. The idea is
-expressed in 2 Tim. 4:7,8 as having iron in the soul, “Thou therefore
+expressed in 2 Tim. 4:7,8 as having iron in the soul, “Thou therefore
 endure hardness, as a good soldier of Jesus Christ.” Or. “Iron sharpens
 iron, so a man sharpens the countenance of his friend.” (Prov. 27:17).
 
 The enemy of spiritual endurance is “brittleness in the soul”, as seen
-in Jer. 13:8‑14. In the ancient world they understood how a dried out
+in Jer. 13:8‑14. In the ancient world they understood how a dried out
 wineskin would shatter. This passage is talking about the disintegration
 of the soul of an individual, like Prov. 6:32. The soul becomes brittle
 when the believer fails to respond to doctrine and either goes into

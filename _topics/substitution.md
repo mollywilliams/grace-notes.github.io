@@ -39,7 +39,7 @@ steps were taken by the sinner for whom the sacrifice was being made.
 • He selected and presented the proper sacrificial animal, Lev. 1:2
 
 • He identified with the sacrifice by placing his hand on its head,
-Lev. 1:4
+Lev. 1:4
 
 • Then, he killed the animal, Lev. 1:9
 
@@ -73,7 +73,7 @@ reference to the Messiah. The New Testament clearly shows the Lord Jesus
 to be the one who fulfills this prophecy. When Philip was talking with
 the Ethiopian eunuch as he read this very passage in Isaiah, the issue
 was raised as to the identity of the servant. Philip took this passage
-and preached Jesus to him (Acts 8:26-35).
+and preached Jesus to him (Acts 8:26-35).
 
 Jehovah made a triple declaration about the Messiah. First, He said that
 the Messiah would be successful in His work. The passage says that He

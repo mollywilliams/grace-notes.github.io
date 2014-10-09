@@ -27,25 +27,25 @@ The Bible indicates that there are three broad divisions of a lifetime.
 
 The period of youth lasts up to about forty years of age. Moses began to
 sense his re­sponsibility to Israel and to the Lord when he was about
-forty, Acts 7:23. He spent forty more years in training, however, before
+forty, Acts 7:23. He spent forty more years in training, however, before
 he became leader of the people of Israel. It was during the years from
 eighty to one hundred twenty that he did his great work.
 
-In Acts 4:22, a man is healed and the Sanhedrin wanted to ridicule his
+In Acts 4:22, a man is healed and the Sanhedrin wanted to ridicule his
 testimony. However, “the man was above forty years old on whom this
 miracle of healing was shown”, indicating that he was mature enough to
 know what had happened.
 
-In 1 Tim. 4:12, Paul writes, “Let no man despise thy youth . . .”
+In 1 Tim. 4:12, Paul writes, “Let no man despise thy youth . . .”
 Timothy was in his thirties at the time.
 
 The period of middle age last from about forty to sixty years of age. In
-1 Tim. 5:9, a sixty year old widow’s retirement was into a full time
+1 Tim. 5:9, a sixty year old widow’s retirement was into a full time
 ministry of prayer supported by the church. Many believers hit their top
 pace in the middle years. The high priest’s work load was heaviest
 between thirty and fifty.
 
-Old age is from sixty and forward. In Daniel 12:13, Daniel, at age
+Old age is from sixty and forward. In Daniel 12:13, Daniel, at age
 ninety, was told to stop acting like a dead man and to get going. In
 Luke 2:36-38, a woman of great age (84) was very active in serving the
 Lord.
@@ -176,11 +176,11 @@ happiness in old age.
 
 This person comes into old age able to apply the word of God to
 experience. Even his mind is saved, according to the principles of
-Romans 12:2. He realizes that there are many books, but only one book,
+Romans 12:2. He realizes that there are many books, but only one book,
 the mind of Christ, the word of God.
 
 The elderly believer uses the faith rest principles of life. While the
-body is getting weaker, there is this promise of 2 Cor. 4:15.
+body is getting weaker, there is this promise of 2 Cor. 4:15.
 
 “For all things are for your sakes, that the abundant grace might
 through the thanksgiv­ing of many redound to the glory of God. For which

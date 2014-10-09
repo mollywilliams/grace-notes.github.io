@@ -24,7 +24,7 @@ Peter’s brother, and Philip, who also came from Bethsaida, bear Greek
 names; and the bilingual setting arising from Greek culture explains why
 Simon became his adopted name.
 
-His father’s name was Jonah = John (Matt. 16:17; John 1:42). At some
+His father’s name was Jonah = John (Matt. 16:17; John 1:42). At some
 unspecified point in his life he had married (Mark 1:30) a wife who in
 later days accompanied him on his missionary tours, evidently to
 Corinth, where she was known (1 Cor. 9:5).
@@ -138,7 +138,7 @@ extract from a text, especially a passage from the Bible) is introduced
 for hortatory (aiming to exhort) purposes, with Peter playing the role
 of the model disciple who looks to his Lord in time of danger.
 
-The confession at Caesarea Philippi (Acts 16:17–19) is more
+The confession at Caesarea Philippi (Acts 16:17–19) is more
 problematical. The authenticity of the pericope has been challenged on
 textual grounds. A. von Harnack tried to show that the passage is an
 interpolation into the original text, made at Rome in the time of
@@ -229,7 +229,7 @@ After Pentecost Peter became the leading figure in the apostolic Church.
 Here we are in touch with the role of Peter in Luke’s description of
 Christianity. The Gospel of Luke portrays Peter in a more favorable
 light than Mark’s account. There is no rebuke of Peter for his false
-messianic presuppositions (Luke 9:20–22), and Luke has Peter’s
+messianic presuppositions (Luke 9:20–22), and Luke has Peter’s
 confession in a limpid, verb-less form as though to make it a prototype
 creed of the Church.
 
@@ -238,18 +238,18 @@ Peter’s eventual restoration is given more shape in the garden scene
 part of Luke’s interest in what has been termed the first exercise in
 “pastoral theology”. Luke’s depiction of Peter emphasizes the paroenetic
 (emphasizing exhortation) elements in his character (esp. in
-Luke 5:1–11) as a prelude to Luke’s fuller description of him in Acts as
+Luke 5:1–11) as a prelude to Luke’s fuller description of him in Acts as
 church leader and Jewish-Christian missionary.
 
 Acts 1–12 shows that Peter was clearly the dominant influence, both in
 decision making and public preaching (see 1:15–22; 2:14–40; 3:12–26).
 
 Before the Jewish authorities (Acts 4:5ff) Peter is spokesperson; and
-his many-sided role included that of forceful leader (Luke 5:1–11) and
-miracle worker (Luke 5:15). The Holy Spirit’s endowment of the apostle
+his many-sided role included that of forceful leader (Luke 5:1–11) and
+miracle worker (Luke 5:15). The Holy Spirit’s endowment of the apostle
 is the explanation, and it is this factor that accounts for the dramatic
 change between Peter’s character in Gethsemane and in the courtyard and
-his new boldness (Luke 4:13) as a Christian witness.
+his new boldness (Luke 4:13) as a Christian witness.
 
 Peter is presented as a church leader in his handling of the situation
 at Samaria and his encounter with Simon (Acts 8:14–24). The historian
@@ -257,13 +257,13 @@ evidently decided to give prominence to the conversion of Cornelius by
 the way the narrative is set down, with great fullness of detail and
 repetition for emphasis (Acts 10–11). Peter’s Jewish susceptibilities
 were overcome and his convictions redirected as he came to learn that
-“God shows no partiality” (Acts 10:34) and that Gentiles such as
+“God shows no partiality” (Acts 10:34) and that Gentiles such as
 Cornelius were suitable recipients of the gospel message, offered and
 received on the basis of trust in Christ, without any ceremonial
 requirement.
 
-Peter’s sermon, dramatically cut short (Acts 11:15) by the gracious
-interposition of God (Acts 10:44–47), announced the good news, which was
+Peter’s sermon, dramatically cut short (Acts 11:15) by the gracious
+interposition of God (Acts 10:44–47), announced the good news, which was
 accepted gratefully and movingly. Peter’s association with the embryonic
 gentile mission is clear. Luke evidently wanted to depict him as a link
 between Jewish Christianity (which in Luke’s day was part of past
@@ -278,7 +278,7 @@ in the vacillations he practiced at Antioch, and he needed the stern
 reproof of Paul (Gal. 2:14–21). If Galatians is a pre-Council letter,
 written A.D. 48–49, subsequent events at Jerusalem show that Peter
 profited from this rebuke, as is demonstrated by his gentile interest in
-1 Peter.
+1 Peter.
 
 Peter’s arrest in Jerusalem at an earlier date (Acts 12:1–17) led to
 imprisonment and marvelous release. The apparent hopelessness of his
@@ -367,7 +367,7 @@ in Italy when Paul was a prisoner there, presumably the period described
 at the close of Acts.
 
 The Neronian persecution in A.D. 65 marks the turning point, though our
-sources of information about the apostles are not clear. 1 Clement 5–6
+sources of information about the apostles are not clear. 1 Clement 5–6
 speaks of Christian martyrs at Rome in such a way as to fit the
 description of Tacitus (Ann. xv.44) that it was during Nero’s pogrom
 that Paul and Peter perished. This would preclude any release of Paul

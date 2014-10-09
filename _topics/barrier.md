@@ -12,10 +12,10 @@ This paper is a brief study of the Biblical doctrines of reconciliation and prop
 
 The word reconciliation refers to the process of changing something thoroughly and adjusting it to something else that is a standard. For example, when you adjust your watch to a time signal, you are reconciling the watch to a time standard. When you reconcile your checkbook, the standard to which you match it is the bank’s record of your account. On rare occasions the bank must reconcile its accounts to yours.
 
-In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. Rom. 11:15 refers to the “reconciling of the world”. The Greek word used here is the noun καταλλαγη (**katallagei**). This word is also used in Rom. 5:11, “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
-toward reconciliation. Read also 2 Cor. 5:17-21.
+In the Bible, reconciliation is the word used to refer to the process by which God changes human beings and adjusts them to the standard of His perfect character. Rom. 11:15 refers to the “reconciling of the world”. The Greek word used here is the noun καταλλαγη (**katallagei**). This word is also used in Rom. 5:11, “…but we also joy in God through our Lord Jesus Christ, by whom we have now received the reconciliation._” Note that man is not active in reconciliation and provides nothing
+toward reconciliation. Read also 2 Cor. 5:17-21.
 
-Reconciliation also appears in the verb form καταλλασσω (**katallasso**), meaning “to reconcile”. It is used in the active voice in 2 Cor. 5:18 with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in Rom. 5:10 and 2 Cor. 5:20. The passive voice is also used in cases of reconciliation between people, as in 1 Cor. 7:11 and Matt. 5:24.
+Reconciliation also appears in the verb form καταλλασσω (**katallasso**), meaning “to reconcile”. It is used in the active voice in 2 Cor. 5:18 with the meaning of “reconciling someone to someone else.” In this case, God reconciles us to Himself, through the Lord Jesus Christ. This verb in the passive voice means “to be reconciled” or “to become reconciled”, and it is used in the case of man’s relationship to God in Rom. 5:10 and 2 Cor. 5:20. The passive voice is also used in cases of reconciliation between people, as in 1 Cor. 7:11 and Matt. 5:24.
 
 Another Greek word translated “to reconcile” is ιλασκοµαι (**hilaskomai**), meaning “to reconcile” in the sense of providing
 propitiation, as in Luke 18:13. It is used of the activity of the Lord Jesus Christ as High Priest in making reconciliation for His people, Heb. 2:17.
@@ -31,7 +31,7 @@ offer salvation.
 
 A person profits from reconciliation by faith in the Gospel of Jesus Christ. Once he becomes a believer, a person can partake in all of the blessings which accompany his position in Christ, including the privileges accruing from reconciliation.
 
-The believer, in turn, has the responsibility of becoming a minister of reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of the key salvation doctrines to be used in witnessing to those without Christ.
+The believer, in turn, has the responsibility of becoming a minister of reconciliation, 2 Cor. 5:18–19. The truth of reconciliation is one of the key salvation doctrines to be used in witnessing to those without Christ.
 
 ##Propitiation
 
@@ -81,7 +81,7 @@ tabernacle, and the pattern of all the instruments thereof, even so
 shall ye make it.”
 
 The pattern was given to Moses on Mt. Sinai, along with the Law. **Read
-Hebrews 8:1–6**. The tabernacle was a symbolical expression of spiritual
+Hebrews 8:1–6**. The tabernacle was a symbolical expression of spiritual
 truth. The congregation of the Jews did not go beyond the courtyard of
 the tabernacle. They made offerings only at the brazen altar; and only
 the priests were allowed to go anyplace else in the tabernacle. The
@@ -103,21 +103,21 @@ world.” The only thing the unbeliever can ever see is the Gospel of
 Jesus Christ, the good news of Christ’s substitutionary sacrifice for
 us.
 
-A description of the brazen altar is found in Ex. 27:1–8 and Ex. 38:1-7.
+A description of the brazen altar is found in Ex. 27:1–8 and Ex. 38:1-7.
 
 **The Laver**– Here the priests cleaned their hands and arms before
-performing any service or act of worship (Ex. 30:17-21). It was placed
+performing any service or act of worship (Ex. 30:17-21). It was placed
 between the brazen altar and the tent of worship (the holy place). This
 cleansing symbolized the spiritual cleansing which is essential to both
 worship and service.
 
 **The Candlesticks**– These illustrated the need for illumination, the
-light of the world. See Ex. 25:31–40; 37:17–24.
+light of the world. See Ex. 25:31–40; 37:17–24.
 
 **The Table of Bread** – An illustration of the need for spiritual food.
-See Ex. 25:23–30; 37:10–16.
+See Ex. 25:23–30; 37:10–16.
 
-**The Altar of Incense**– From Ex. 30:1–10, this piece of tabernacle
+**The Altar of Incense**– From Ex. 30:1–10, this piece of tabernacle
 furniture illustrated the need for acceptable worship and prayer. No
 animals were offered on this altar. The offering was an incense
 offering, indicating that which is pleasing to God, divine good (gold,
@@ -138,8 +138,8 @@ by 30 inches deep. The ark was a picture of Christ bearing our sins, the
 box part representing Christ. The wood illustrated the humanity of
 Christ, the gold represented His deity.
 
-Inside the ark were three objects representing sin (Num. 17:8, 10;
-Heb. 9:4). The tables of the Law represented sin in the sense of
+Inside the ark were three objects representing sin (Num. 17:8, 10;
+Heb. 9:4). The tables of the Law represented sin in the sense of
 violation or transgression of God’s order. The pot of manna represented
 rejection of God’s provision. Aaron’s rod represented revolt against
 God’s authority.
@@ -172,7 +172,7 @@ with the work of Jesus Christ known as propitiation.
 Now, the Hebrew word for mercy seat is **kapporeth**. The Greek word
 used in the Septuagint translation of the Old Testament is
 **hilasterion**. This same Greek word is found in the New Testament in
-Rom. 3:25; Heb. 9:5; 1 John 2:2; and 4:10. and is translated “mercy
+Rom. 3:25; Heb. 9:5; 1 John 2:2; and 4:10. and is translated “mercy
 seat” or “place of propitiation”. So there is a direct relationship
 between the mercy seat in the tabernacle and the doctrine of
 propitiation.
@@ -205,16 +205,16 @@ This problem is solved by God’s offering to us a “position” in Christ, a
 condition which forms the basis for the doctrines related to positional
 truth. Read 1 John 5:11, 12; 1 Cor. 15:22; Eph. 1:7.
 
-2. Man’s physical birth places him in a condemned human race: 1 Cor.
+2. Man’s physical birth places him in a condemned human race: 1 Cor.
 15:22; Eph. 2:5, 6.
 
 This problem is solved by God’s allowing us to become members of His family through regeneration: John 1:11, 12; 3:3 ff; Gal. 3:26; Titus 3:5.
 
 3. God’s perfect character, His glory, His perfect essence, disallows imperfection of any kind. Example: The Ten Commandments. Read Rom. 3:23; Gal. 3:22, 23; Ps. 145:17.
 
-But the death of Christ on the cross paid the penalty for our sin. He was our propitiation. Propitiation is “the work of the Lord Jesus Christ by which He appeases the wrath of God and conciliates Him who would otherwise be offended by our sin.” Read 1 John 2:2; Rom. 3:25.
+But the death of Christ on the cross paid the penalty for our sin. He was our propitiation. Propitiation is “the work of the Lord Jesus Christ by which He appeases the wrath of God and conciliates Him who would otherwise be offended by our sin.” Read 1 John 2:2; Rom. 3:25.
 
-4. Man’s personal righteousness falls short of God’s perfect righteousness: Isa. 64:6; Rom. 3:10–12; Rom. 5:6-11.
+4. Man’s personal righteousness falls short of God’s perfect righteousness: Isa. 64:6; Rom. 3:10–12; Rom. 5:6-11.
 
 This problem is solved in two ways. First, by justification, “God’s act of grace by which He pardons the sinner and accepts him as righteous on account of the atonement of Christ.” Read Rom. 3:24; 5:1.
 
@@ -228,5 +228,5 @@ The penalty for sin was paid by Jesus Christ on the cross. This is known as expi
 
 The barrier is removed and man is free to approach God. God is free to treat man in grace. God’s righteousness and justice are satisfied. The complete penalty has been paid.
 
-There is no double jeopardy for sins committed. “As far as the east is from the west, so far hath He removed our transgressions from us.” Therefore, the only issue to be faced by any person is whether he believes in Jesus Christ and His work on the cross. Read Acts 16:30: John 3:15-17, 36; 5:24.
+There is no double jeopardy for sins committed. “As far as the east is from the west, so far hath He removed our transgressions from us.” Therefore, the only issue to be faced by any person is whether he believes in Jesus Christ and His work on the cross. Read Acts 16:30: John 3:15-17, 36; 5:24.
 

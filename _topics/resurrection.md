@@ -29,18 +29,18 @@ Bible itself.
 Resurrection Order of Events
 
 • After Christ is taken down from the cross, Pontius Pilate orders His
-body turned over to Joseph of Arimathea for burial. Matt. 27:57–60.
+body turned over to Joseph of Arimathea for burial. Matt. 27:57–60.
 
 • Pilate then orders a military guard to be placed at the tomb.
-Matt. 27:62–66.
+Matt. 27:62–66.
 
 • Jesus Christ has voluntarily laid aside the powers of His own deity,
 with respect to His human body. Therefore, in accor­dance with the
 divine decrees, God the Father gave the orders for Christ’s
-resur­rection from the dead. 1 Cor. 15:15.
+resur­rection from the dead. 1 Cor. 15:15.
 
 • The Holy Spirit was the agent of the resurrection that God used His
-power to bring Christ to life. 1 Pet. 3:18
+power to bring Christ to life. 1 Pet. 3:18
 
 This verse does not fit.
 
@@ -50,7 +50,7 @@ accompanied by a great earthquake. Matt. 28:1,2
 
 • It is at this point that Satan is once again made aware of the victory
 of Jesus Christ over death and the grave and His triumph in the angelic
-warfare. 1 Cor. 15:54–57.
+warfare. 1 Cor. 15:54–57.
 
 • Mary (the mother of James), Mary Magdalene and Salomé come to the
 tomb. Mark 16:1
@@ -59,7 +59,7 @@ tomb. Mark 16:1
 disciples. John 20:1,2
 
 • Mary and Salomé then see the angel who tells them that Jesus had
-risen. Mark 16:5,6.
+risen. Mark 16:5,6.
 
 • Peter and John come to the tomb after hearing Mary Magdalene’s report.
 John 20:1,2
@@ -68,7 +68,7 @@ John 20:1,2
 tomb, and he wonders at what he had seen. Luke 24:10-12.
 
 • Mary Magdalene, who had not heard the angel’s report, returns to the
-tomb, and does not recognize Christ when she sees Him. John 20:11–18.
+tomb, and does not recognize Christ when she sees Him. John 20:11–18.
 
 • It is to Mary Magdalene that Christ first reveals Himself in
 resurrected power. He starts by establishing that He is now op­erating
@@ -92,7 +92,7 @@ physical death. John 19:34
 in a tomb, eliminating all possibility of His receiving medical
 attention. Matthew 27:62-66
 
-• The women came to the tomb prepared to anoint a dead body. Mark 16:1
+• The women came to the tomb prepared to anoint a dead body. Mark 16:1
 
 • If He had not died physically, He would not have been worthy to be a
 sin offering to God. Matt. 26:12 with Lev. 2:1-16
@@ -101,7 +101,7 @@ Christ’s body could not have been removed by His followers, as some have
 claimed. There are too many contradictory facts against that conclusion.
 
 • The disciples of Christ were afraid and had already deserted Him.
-Matt. 26:69–75; Mark 14:66-72; Luke 22:55-62; John 18:15-27.
+Matt. 26:69–75; Mark 14:66-72; Luke 22:55-62; John 18:15-27.
 
 • Their boldest leader, Peter, had denied Him three times. Matthew
 26:69-75
@@ -111,7 +111,7 @@ enter the tomb would itself be punishable by death. Matthew 27:64-66
 
 • The tomb was guarded by Roman soldiers. To attack them would have been
 suicidal; such an attack was considered an act of in­surrection, to be
-punished by crucifixion. Matt. 27:62-66
+punished by crucifixion. Matt. 27:62-66
 
 • The followers who buried Christ, Joseph of Arimathea and Nicodemus,
 would not have arranged to bury Him in such a prominent place if they
@@ -129,14 +129,14 @@ showed no after effects from the terrible ordeal He had gone through.
 resurrected bodily. John 2:19-21; Matt. 12:40 with Rev. 1:18
 
 • The angels at the tomb declared that He had been resurrected.
-Luke 24:6–8 The tomb was empty, and the grave clothes were folded and in
+Luke 24:6–8 The tomb was empty, and the grave clothes were folded and in
 order only minutes af­ter the tomb was opened. Mark 16:6; John 20:5-7
 
 • Christ declared that He was flesh and bone, eliminating the spirit
-theory and the vision theory. Luke 24:39-40
+theory and the vision theory. Luke 24:39-40
 
 • The five women to whom he appeared touched his feet and held him.
-Matt. 28:9
+Matt. 28:9
 
 • Christ ate food after His resurrection. This would have been
 impossible if it was just a vision or a psychological mass delusion.
@@ -147,15 +147,15 @@ witnesses. John 20:25,27,28; 21:7; Luke 24:34-40
 
 • It would be impossible to understand sev­eral other Bible passages
 except from the standpoint of a literal, bodily resurrection.
-John 5:28,29; 1 Cor. 15:20; Eph. 1:19,20
+John 5:28,29; 1 Cor. 15:20; Eph. 1:19,20
 
 Several other individuals had been raised from the dead; but in each
 case the person died again. Christ’s resurrection was thus unique in
 that He ever lives to make intercession for us.
 
-• The son of the widow of Zarephath, 1 Kings 17:17-24
+• The son of the widow of Zarephath, 1 Kings 17:17-24
 
-• The Shunammite’s son, 2 Kings 4:17–37
+• The Shunammite’s son, 2 Kings 4:17–37
 
 • Jairus’s daughter, Mark 5:22-43
 
@@ -170,16 +170,16 @@ that He ever lives to make intercession for us.
 The Resurrection Body of Christ
 
 • The risen Christ had a real human body that was recognizable as such.
-Luke 24; John 20:26–29
+Luke 24; John 20:26–29
 
 • His body was composed of flesh and bones but had no blood.
-Luke 24:39,40
+Luke 24:39,40
 
 • His body could be handled and touched, therefore it had to have
 substance. Matt. 28:9; John 20:27
 
 • However, His body was able to pass through solid objects like the tomb
-and closed doors, etc. John 20:19-26; Luke 24:36
+and closed doors, etc. John 20:19-26; Luke 24:36
 
 • His body was such that He was able to make Himself appear and
 disappear. Luke 24:15
@@ -187,10 +187,10 @@ disappear. Luke 24:15
 • His skin showed scars and nail prints; His body retains the scar of
 the wound in his side and hands. The believer’s resurrec­tion body will
 not have any imperfec­tions! This was prophesied in Zech. 12:10 and
-Psalm. 22:16; The fulfillment of the prophesies is recorded in
-John 20:25-27.
+Psalm. 22:16; The fulfillment of the prophesies is recorded in
+John 20:25-27.
 
-• He breathed; but He did not necessarily need to breathe. John 20:22
+• He breathed; but He did not necessarily need to breathe. John 20:22
 
 • He carried on conversations, so He had to have vocal cords and the use
 of air. His voice was immediately recognizable. Luke 24; John 20:16, 26
@@ -199,9 +199,9 @@ of air. His voice was immediately recognizable. Luke 24; John 20:16, 26
 eat to live eternally. Luke 24:30
 
 • Christ is able, in His resurrection body, to travel through space.
-Acts 1:9 with Heb. 1:3.
+Acts 1:9 with Heb. 1:3.
 
-• His resurrection body is indestructable and eternal. Rev. 19:11-21
+• His resurrection body is indestructable and eternal. Rev. 19:11-21
 
 The Appearances of Jesus Christ After His Resurrection
 
@@ -213,15 +213,15 @@ The Appearances of Jesus Christ After His Resurrection
 disciples- 1 Cor. 15:5
 
 • To two Christians on the road to Emmaus (Cleophas and another person)
-- Luke 24:13–33; Mark 16:12
+- Luke 24:13–33; Mark 16:12
 
 • To ten disciples - John 20:19-25
 
-• To eleven disciples including Thomas - John 20:26-29; Mark 16:14
+• To eleven disciples including Thomas - John 20:26-29; Mark 16:14
 
 • To seven disciples by the Sea of Galilee - John 21:1,2
 
-• To five hundred Christians - 1 Cor. 15:6
+• To five hundred Christians - 1 Cor. 15:6
 
 • To Jesus’ half brother James, who had been an unbeliever until the
 resurrection - 1 Cor. 15:7 (This verse is pre resurrection of Christ);
@@ -234,7 +234,7 @@ Acts 1:14
 • To Stephen after the ascension - Acts 7:55,56
 
 • To the Apostle Paul on several occasions after the ascension - Acts
-9:1-8; 18:9; 22:17-18; 23:11; 27:23; 1 Cor. 15:8; Gal. 1:12-17.
+9:1-8; 18:9; 22:17-18; 23:11; 27:23; 1 Cor. 15:8; Gal. 1:12-17.
 
 • To John on the island of Patmos - Rev. 1:12-20; (This verse does not
 fit the context).
@@ -276,10 +276,10 @@ people.) Mark 16:1-6
 
 • Matthew, by written testimony, Matt. 28:6.
 
-• John, by written testimony, John 20:1-8
+• John, by written testimony, John 20:1-8
 
 • The written testimony of facts as given by witnesses, Mark 16:1-8;
-Luke 24:3. All people, in fact, mentioned in the previous section, to
+Luke 24:3. All people, in fact, mentioned in the previous section, to
 whom Christ appeared after His resurrection, were eyewitnesses.
 
 • The fact of the resurrection of Christ may also be inferred from a
@@ -288,16 +288,16 @@ the Jews, chapter 3:3, states that Jesus Christ was resurrected and had
 made appearances on the earth.
 
 • The word of God is the written testimony that Christ was resurrected
-from the dead. 1 Cor. 15:3,4.
+from the dead. 1 Cor. 15:3,4.
 
 • God Himself is a witness to the resurrec­tion. 1 Cor. 15:15; (Verse
-context does not fit.) 1 Peter 3:18.
+context does not fit.) 1 Peter 3:18.
 
 • Christ’s resurrection is testified to by an­gels. Matt. 28:5,6; Mark
-16:6; Luke 24:5,6; Acts 1:10,11
+16:6; Luke 24:5,6; Acts 1:10,11
 
 • The resurrection was a fulfillment of Old Testament prophecy.
-Job 19:25–27; Psalm 16:10; Isaiah 52:13-15; Zech. 12:10
+Job 19:25–27; Psalm 16:10; Isaiah 52:13-15; Zech. 12:10
 
 Importance of the Doctrine of the Resurrection of Christ
 
@@ -311,17 +311,17 @@ salvation. Rom. 10:9,10
 
 • The doctrine of the resurrection supports all of Christian faith, so
 much so that ev­ery aspect of Christianity depends on the fact of the
-resurrection. 1 Cor. 15:12–19. Apostolic preaching is worthless without
+resurrection. 1 Cor. 15:12–19. Apostolic preaching is worthless without
 it. Without the resurrection the believer’s faith is without substance
 and his hope is in vain. Without the resurrection, no man can be
-reconciled to God (Rom. 5:8–10).
+reconciled to God (Rom. 5:8–10).
 
 In application, the doctrine of the resurrec­tion supports many of the
 features of the Christian life. The resurrected Christ is the head of
-the church (Eph. 1:19–23). His resurrection must predate the baptism of
-the Holy Spirit and the beginning of the church age (John 1:33;
-Acts 2:32,33 with John (15:26 and 16:7). Without Christ’s resurrection
-there would be no spiritual gifts (Eph. 4:8-13). Without resurrection,
+the church (Eph. 1:19–23). His resurrection must predate the baptism of
+the Holy Spirit and the beginning of the church age (John 1:33;
+Acts 2:32,33 with John (15:26 and 16:7). Without Christ’s resurrection
+there would be no spiritual gifts (Eph. 4:8-13). Without resurrection,
 He cannot be the Prince and the Savior of­fered to the nation of Israel.
-Acts 5:31 with Daniel 12:1-3.
+Acts 5:31 with Daniel 12:1-3.
 

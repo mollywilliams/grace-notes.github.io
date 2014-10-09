@@ -70,7 +70,7 @@ You have been **reconciled** …
 
 * **2 Corinthians 5:20**. _Therefore, we are ambassadors for Christ, as though God were making an appeal through us; we beg you on behalf of Christ, be reconciled to God._
 
-* **Ephesians 2:14-16**. _For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity._
+* **Ephesians 2:14-16**. _For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances, so that in Himself He might make the two into one new man, thus establishing peace, and might reconcile them both in one body to God through the cross, by it having put to death the enmity._
 
 **You have been _redeemed_** (purchased from the slave market of sin).
 
@@ -78,7 +78,7 @@ You have been **reconciled** …
 
 * **Colossians 1:14**. _in whom we have redemption, the forgiveness of sins._
 
-* **1 Peter 1:18**. _knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,_
+* **1 Peter 1:18**. _knowing that you were not redeemed with perishable things like silver or gold from your futile way of life inherited from your forefathers,_
 
 * **Ephesians 1:7**. _In Him we have redemption through His blood, the forgiveness of our trespasses, according to the riches of His grace_
 
@@ -160,9 +160,9 @@ You have been **justified** (declared righteous).
 
 * **Romans 8:30**. _and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified._
 
-* **1 Corinthians 6:11**. _Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God._
+* **1 Corinthians 6:11**. _Such were some of you; but you were washed, but you were sanctified, but you were justified in the name of the Lord Jesus Christ and in the Spirit of our God._
 
-* **Titus 3:7**. _so that being justified by His grace we would be made heirs according to *the* hope of eternal life._
+* **Titus 3:7**. _so that being justified by His grace we would be made heirs according to *the* hope of eternal life._
 
 You have been **regenerated** (born spiritually into the family of God)
 
@@ -249,7 +249,7 @@ also should you.
 
 #### You have been made a **heavenly citizen** based on reconciliation.
 
-* **Luke 10:20**. Nevertheless do not rejoice in this, that the spirits are subject to you, but rejoice that your names are recorded in heaven.”
+* **Luke 10:20**. Nevertheless do not rejoice in this, that the spirits are subject to you, but rejoice that your names are recorded in heaven.”
 
 * **Ephesians 2:13,19**. But now in Christ Jesus you who formerly were far off have been brought near by the blood of Christ. **19** So then you are no longer strangers and aliens, but you are fellow citizens with the saints, and are of God’s household,
 
