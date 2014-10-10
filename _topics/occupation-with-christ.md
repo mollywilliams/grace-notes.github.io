@@ -26,8 +26,7 @@ These provisions include:
 
 * Impersonal Love for Mankind
 
-* Joy - the happiness of God which does not depend on people,
-circumstances, or things
+* Joy - the happiness of God which does not depend on people, circumstances, or things
 
 * A personal destiny shared with all in God’s royal family
 
@@ -61,9 +60,9 @@ Therefore, we can only come to love Jesus Christ, to be occupied with Christ, th
 
 This love for Jesus Christ can only come about through applied Bible truth.
 
-Eph. 3:19, and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fulness of God.
+Eph. 3:19, _and to know the love of Christ which surpasses knowledge, that you may be filled up to all the fullness of God._
 
-1 Pet. 1:8, and though you have not seen Him, you love Him [occupation with Christ], and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,
+1 Pet. 1:8, _and though you have not seen Him, you love Him [occupation with Christ], and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,_
 
 Joy and occupation with Christ always go together, you can’t have one without the other. The glory with which you are filled is Bible truth, and this emphasizes the fact that you have come to know Christ through perception and application of the Word of God.
 
@@ -79,11 +78,11 @@ Occupation with Christ is the main motivation in a Christian’s life. And it is
 
 The following are expressions of the process of being occupied with Christ. Notice in each case how the Christian is involved in a thought and decision process leading to occupation with Christ.
 
-* “Christ being formed in you…” (Gal. 4:19)
+* “_Christ being formed in you..._” (Gal. 4:19)
 
-* “Christ at home in your hearts…” (Eph. 3:17)
+* “_Christ at home in your hearts…_” (Eph. 3:17)
 
-* “Christ shall even now, as always, be exalted in my body, whether by life or by death” (Phil. 1:20).
+* “_Christ shall even now, as always, be exalted in my body, whether by life or by death_” (Phil. 1:20).
 
 Occupation with Christ makes an issue out of knowledge of the Word of God, setting right priorities, being involved and active in the plan of God, and glorifying God during a Christian’s lifetime.
 
@@ -119,9 +118,9 @@ Occupation with Christ brings about a change in priorities in a Christian’s li
 
 Impersonal love, which is the professional attitude of a mature believer toward all people, provides a capacity for wonderful relationships with people in Christian fellowship, friendship, and marriage.
 
-The Problems of Focusing on Self, People, Things
+_The Problems of Focusing on Self, People, Things_
 
-Jer. 17:5,6 Thus says the Lord, “Cursed is the man who trusts in mankind And makes flesh his strength, and whose heart turns away from the Lord. For he will be like a bush in the desert, and will not see when prosperity comes, but will live in stony wastes in the wilderness, a land of salt without inhabitant.
+Jer. 17:5,6 _Thus says the Lord, “Cursed is the man who trusts in mankind And makes flesh his strength, and whose heart turns away from the Lord. For he will be like a bush in the desert, and will not see when prosperity comes, but will live in stony wastes in the wilderness, a land of salt without inhabitant._
 
 Three great problems develop through failure to be occupied with Christ. The first problem is to have a focus on self. This is arrogance, or an overestimation of one’s self. When you are indignant, or offended, or angered by the way you are treated, your eyes are on yourself. You are frustrated and bitter, and you become vengeful. You make bad decisions from a position of weakness.
 
@@ -141,27 +140,27 @@ So, how you are treated by people, or by life itself, is no longer an issue. You
 
 You have yourself been changed through the Word of God. You can pass all forms of testing without being destroyed. You are well positioned to conduct a powerful personal ministry for Christ, being free from the self-generated problems to which most people are subject.
 
-The Bible Commands Us to be Occupied with Christ
+_The Bible Commands Us to be Occupied with Christ_
 
 Occupation with Christ is commanded by God; it is not an option. If you are going to live the Christian life according to God’s plan, you must come to the place where you are occupied with Christ.
 
-Deut. 6:5 And you shall love the Lord your God with all your heart and with all your soul and with all your might.
+Deut. 6:5 _And you shall love the Lord your God with all your heart and with all your soul and with all your might._
 
 This verse shows that it is God’s will that we be absorbed with Him in our whole being: heart, soul, and might. This means the Word of God must be our top priority. To love God - to love the Lord Jesus Christ - we must know Him. We learn about Christ, the Living Word, through the Bible, the written Word. The written Word and the Living Word eventually become our main focus in life. A Christian cannot enter spiritual adulthood (maturity) without this dual priority in life.
 
 Christians who are not occupied with Christ will always be novices, spiritual immature, and dabblers in the faith.
 
-Heb. 12:2, fixing our eyes on Jesus, the author and perfecter of faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God.
+Heb. 12:2, _fixing our eyes on Jesus, the author and perfecter of faith, who for the joy set before Him endured the cross, despising the shame, and has sat down at the right hand of the throne of God._
 
 Jesus Christ is the author and perfecter of our faith (our doctrine). Furthermore, the Bible is the “mind of Christ”, the actual thinking of Jesus Christ. (1 Cor. 2:16)
 
 The word “joy” in Heb. 12:2 refers to the happiness of the Lord Jesus as he endured the suffering of the Cross, when He was being judged for our sins. We don’t usually think of happiness associated with Christ’s suffering, but this was the pure joy, in Christ’s case, of his being 100% occupied with the Father and with His plan.
 
-1 Pet. 3:15, but sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence;
+1 Pet. 3:15, _but sanctify Christ as Lord in your hearts, always being ready to make a defense to everyone who asks you to give an account for the hope that is in you, yet with gentleness and reverence;_
 
 This verse is a command to be occupied with Christ. The “heart” is the place in the soul where wisdom and applied Bible knowledge reside. We “sanctify” Christ in our hearts by having maximum understanding and application of Bible truth. By consistent learning of the Word, under conditions of spiritual fellowship (control of the Holy Spirit), a believer sanctifies Christ as Lord in the heart.
 
-Mechanics - How To Be Occupied with Christ
+_Mechanics - How To Be Occupied with Christ_
 
 You have probably already seen that occupation with Christ is accomplished through having regular interaction with the Word of God. The \#1 priority is concentration on Bible truth, and organizing one’s life around that \#1 priority. When you do that, you are concentrating on Christ, you are occupied with Christ.
 
@@ -173,14 +172,13 @@ If your top priority is Bible truth, your life will begin to change almost witho
 
 When the Word of God is the main focus of your life, you come to the point of personal love for God the Father. You will have spiritual self-esteem. Once you begin to have love for God, and to be occupied with Christ, you will no longer feel threatened by things in life that once disturbed you. You have a relaxed mental attitude and spiritual joy, which is happiness supplied by God that you have regardless of circumstances, things, or the people in your life. This process is demonstrated in 1 Peter 1:6-8.
 
-In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials, 
-that the proof (genuineness) of your faith (doctrine), being more precious than gold which is perishable, even though tested by fire, may be found to result in praise and glory and honor at the revelation of Jesus Christ; 
+_In this you greatly rejoice, even though now for a little while, if necessary, you have been distressed by various trials, that the proof (genuineness) of your faith (doctrine), being more precious than gold which is perishable, even though tested by fire, may be found to result in praise and glory and honor at the revelation of Jesus Christ;_
 
-and though you have not seen Him (Jesus Christ), you love Him (occupation with Christ), and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,
+_and though you have not seen Him (Jesus Christ), you love Him (occupation with Christ), and though you do not see Him now, but believe in Him, you greatly rejoice with joy inexpressible and full of glory,_
 
 In other words, you begin to function by using the Word of God during times of testing, at the same time as you are occupied with Christ. You are actually sharing the happiness of God as you go through life.
 
-The Results of Occupation with Christ
+_The Results of Occupation with Christ_
 
 **Occupation with Christ is the principal solution to all problems that occur in life.** God the Father has provided us with everything necessary for us to have a capacity for joy and a prosperity that is independent of people or circumstances. These provisions are known as “all blessings in heavenly places in Christ” (Eph. 1:3). Note that the place of blessing is in Christ. All blessings, and all problem solutions begin with Occupation with Christ.
 
@@ -190,19 +188,19 @@ The Results of Occupation with Christ
 
 In 2 Cor. 13:14, the “practice of truth” is fellowship with God the Father; and fellowship with God always leads to love for God.
 
-I Cor. 1:9 indicates that fellowship with Christ is concurrent with, and necessary for, fellowship with God. Since you were “called into fellowship with His Son,” this should be your main priority in life. But this means that you have to make the Word of God your main interest in life.
+I Cor. 1:9 indicates that fellowship with Christ is concurrent with, and necessary for, fellowship with God. Since you were “_called into fellowship with His Son_,” this should be your main priority in life. But this means that you have to make the Word of God your main interest in life.
 
-Fellowship with God the Holy Spirit is also closely tied in with occupation with Christ. Phil. 2:1,2 “Therefore, if there be any encouragement in Christ, if there is any comfort of love, if there is any fellowship with the Spirit, if there is any affection mercies, complete my happiness by thinking the same things.”
+Fellowship with God the Holy Spirit is also closely tied in with occupation with Christ. Phil. 2:1,2 “_Therefore, if there be any encouragement in Christ, if there is any comfort of love, if there is any fellowship with the Spirit, if there is any affection mercies, complete my happiness by thinking the same things._”
 
 God’s happiness is completed as we have fellowship with Him, the Son, and the Holy Spirit.
 
 Then we can have true fellowship with people, without putting people before God. 2 Cor. 13:14 “_The grace of our Lord Jesus Christ and thelove for God and the fellowship of the Holy Spirit be with all of you._” But without occupation with Christ, interaction with other people is often bad.
 
-**Occupation with Christ, therefore, eliminates the superficiality of human hero worship**. Phil. 3:7,8 “…I count all things but loss except for the excellency of the knowledge of Christ Jesus my Lord…”
+**Occupation with Christ, therefore, eliminates the superficiality of human hero worship**. Phil. 3:7,8 “_…I count all things but loss except for the excellency of the knowledge of Christ Jesus my Lord…_”
 
 As you become occupied with Christ, you have a stronger motivation to have a relationship with the Lord, and you change gradually from dependence on people to dependence on the Lord. You cannot change people; it is God who causes people to change, to grow up. And no one is fully grown up who is not making use of occupation with Christ. The key to God’s plan is that we no longer live for ourselves but for Christ.
 
-2 Cor. 5:14-17 For the love of Christ continues to motivate us, in that One died for all; therefore, all have died. And He died as a substitute for all, in order that those who live should no longer live for themselves, but for Him who died and was resurrected…
+2 Cor. 5:14-17 _For the love of Christ continues to motivate us, in that One died for all; therefore, all have died. And He died as a substitute for all, in order that those who live should no longer live for themselves, but for Him who died and was resurrected…_
 
 **Occupation with Christ brings spiritual self-esteem and self-confidence**. You have self-esteem when you stop competing with people and undermining them. You stop slandering, gossiping, maligning, and judging other people. You have impersonal (professional) love for other people, because you are occupied with Christ. You live in grace, and you are a conduit of grace to other people, because Christ has become formed in your thinking and you love Him above everything else. The result is 2 Cor. 5:14 “_The Lord for Christ motivates_”
 
