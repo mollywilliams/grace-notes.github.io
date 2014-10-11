@@ -79,19 +79,19 @@ the same location…well, you know what I mean.
 
 God’s happiness (joy) is *independent* of anything in this world. The Bible says that it is possible, “to be content in whatsoever state I am”, that is, to have a deep inner happiness and contentment that does not depend on other people, material possessions, or circumstances.
 
-Joy is not dependent on the details of life!
+* Joy is not dependent on the details of life!
 
-You can see, then, that if a person possesses God’s joy (+H), the loss of human happiness is much more tolerable.
+* You can see, then, that if a person possesses God’s joy (+H), the loss of human happiness is much more tolerable.
 
-When you are a master of the details of life, **your happiness does not depend on people, circumstances, or things**.
+* When you are a master of the details of life, **your happiness does not depend on people, circumstances, or things**.
 
-You have the peace of God that passes understanding.
+* You have the peace of God that passes understanding.
 
-You have learned to be content under any circumstances.
+* You have learned to be content under any circumstances.
 
-You can wait for the Lord’s timing in providing the details you want; you can enjoy them when you have them.
+* You can wait for the Lord’s timing in providing the details you want; you can enjoy them when you have them.
 
-You can remain happy when the Lord sees fit not to provide some detail.
+* You can remain happy when the Lord sees fit not to provide some detail.
 
 **Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life.**
 
