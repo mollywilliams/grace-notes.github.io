@@ -56,7 +56,7 @@ At this point you should read Leviticus 26:14–29. That chapter provides a conc
 **First Stage** - Discipline of the nation begins with relatively mild problems, including people’s loss of inner peace and mental depression. There will be great fear and paranoia among the people, accompanied by lack of success in business and agriculture, poverty, sickness, and
 defeat in battle.
 
-**Second Stage -**Verses 18 to 20 show the discipline which is characterized by a continued lack of fellowship with the Lord, loss of national prestige and honor, a cessation of God’s grace provision for the nation and a great barrenness in the land.
+**Second Stage**Verses 18 to 20 show the discipline which is characterized by a continued lack of fellowship with the Lord, loss of national prestige and honor, a cessation of God’s grace provision for the nation and a great barrenness in the land.
 
 **Third Stage** - verses 21 and 22 include great plagues, no control over natural enemies, a general inability to subdue the earth, the death of children and the beginnings of great desolation among the people.
 
