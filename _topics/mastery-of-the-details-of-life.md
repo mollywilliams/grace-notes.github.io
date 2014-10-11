@@ -5,9 +5,6 @@ layout: lesson
 ---
 
 
-Mastery of the Details of Life
-==============================
-
 I met Ethel at church in Kansas City, in 1952; we were 18. She was then already a master of the details of life.
 
 Ethel had accepted Christ at 16, and had immediately begun studying the Bible, learning and absorbing the teachings of Bible doctrine, virtually memorizing epistles and other large portions of Scripture. We got married in 1955; from then until now, Ethel’s life has been one of the continuous application of Bible doctrine to the details of life.
@@ -18,8 +15,7 @@ During hard times, Ethel has always trusted the Lord to provide. When she was hu
 
 Ethel’s testimony has always been one of occupation with Christ, faith-rest, a relaxed mental attitude, and the resulting joy of the Lord.
 
-The Details of Life
--------------------
+**The Details of Life**
 
 For the purposes of our Bible studies, we use the term “details of life” to refer to everything that is a part of human life on earth.
 
@@ -44,8 +40,7 @@ Anything that affects our life, or on which our life is contingent, is a detail 
 
 I know you could add many things to these, but this list is representative.
 
-Human Happiness
----------------
+**Human Happiness**
 
 Now the details of life can sometimes provide a measure of satisfaction and happiness, but only in the sense of human happiness.
 
@@ -61,8 +56,7 @@ Human happiness depends upon one or more details of life to sustain it. Therefor
 
 Human happiness begins to be diminished, or disappears completely, when the details that support that happiness are no longer there.
 
-The Loss of Human Happiness (Suffering)
----------------------------------------
+**The Loss of Human Happiness (Suffering)**
 
 One way of describing suffering is to say that it comes from the removal of some form of human happiness. Suffering is the loss of some of the details of life.
 
@@ -81,8 +75,7 @@ Suffering can occur several ways, both for Christians and unbelievers, including
 * Suffering caused by other people. As long as there are two people in
 the same location…well, you know what I mean.
 
-Joy (Divine Happiness)
-----------------------
+**Joy (Divine Happiness)**
 
 God’s happiness (joy) is *independent* of anything in this world. The Bible says that it is possible, “to be content in whatsoever state I am”, that is, to have a deep inner happiness and contentment that does not depend on other people, material possessions, or circumstances.
 
