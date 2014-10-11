@@ -1,9 +1,9 @@
 ---
 title: Mastery Of The Details Of Life
-description: Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life. [MAR 2013]
+description: "Mastery of the details of life means that you look to the Lord for every detail, that you accept with calm fortitude either the gain or loss of details of life. [MAR 2013]"
 layout: lesson
+published: true
 ---
-
 
 I met Ethel at church in Kansas City, in 1952; we were 18. She was then already a master of the details of life.
 
@@ -23,7 +23,7 @@ Anything that affects our life, or on which our life is contingent, is a detail 
 
 * Your human body, which includes your health, physical fitness, age.
 
-* Your mental capability, e.g. intelligence, education, mental     stability.
+* Your mental capability, e.g. intelligence, education, mental stability.
 
 * Necessities of life: food, clothing, shelter, transportation.
 
@@ -34,9 +34,9 @@ Anything that affects our life, or on which our life is contingent, is a detail 
 
 * Finances, income, savings, and your financial future.
 
-* Employment: satisfaction with job, sense of accomplishment, etc
+* Employment: satisfaction with job, sense of accomplishment, etc.
 
-* Environment: the country and community you live in, the weather, the     comfort of your surroundings.
+* Environment: the country and community you live in, the weather, the comfort of your surroundings.
 
 I know you could add many things to these, but this list is representative.
 
@@ -105,49 +105,27 @@ The following is a list of many of the Bible doctrine topics that contribute to 
 
 Doctrinal studies are available at the Grace Notes Topical Library site. Go there to download them.
 
-**<http://www.gracenotes.info/GN_TopicsLibrary.shtml>.**
+**(Topics Library)[/topics.html]**
 
-**Chastisement**
-
-**Depression**
-
-**Edification**
-
-**The Faithfulness of God**
-
-**Faith Rest**
-
-**Happiness**
-
-**The Holy Spirit’s Sustaining Ministry**
-
-**Hope**
-
-**The Importance of Bible Doctrine**
-
-**Jealousy**
-
-**Mental Attitude**
-
-**The Much More Care of God**
-
-**Negative Volition**
-
-**Occupation with Christ**
-
-**Peace**
-
-**Problem Solving Devices of Scripture**
-
-**Promotion**
-
-**Redeeming the Time**
-
-**Reversionism (Backsliding)**
-
-**Salvation Doctrines**
-
-**Separation**
-
-**Suffering**
-
+  * Chastisement
+  * Depression
+  * Edification
+  * The Faithfulness of God
+  * Faith Rest
+  * Happiness
+  *	The Holy Spirit’s Sustaining Ministry
+  * Hope
+  *	The Importance of Bible Doctrine
+  * Jealousy
+  * Mental Attitude
+  *	The Much More Care of God
+  *	Negative Volition
+  *	Occupation with Christ
+  *	Peace
+  *	Problem Solving Devices of Scripture
+  *	Promotion
+  *	Redeeming the Time
+  *	Reversionism (Backsliding)
+  *	Salvation Doctrines
+  *	Separation
+  *	Suffering
